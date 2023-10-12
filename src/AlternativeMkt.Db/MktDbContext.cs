@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Text.Json;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
@@ -9,6 +8,12 @@ public partial class MktDbContext : DbContext
 {
     IConfiguration _configuration;
 
+    public MktDbContext(
+        IConfiguration configuration)
+    {
+        _configuration = configuration;
+    }
+    
     public MktDbContext(
         DbContextOptions<MktDbContext> options,
         IConfiguration configuration): base(options) 
@@ -32,8 +37,12 @@ public partial class MktDbContext : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseNpgsql(_configuration.GetConnectionString("MainDb"));
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
+        string? connstring = _configuration.GetConnectionString("MainDb");
+        if (connstring is null)
+            throw new Exception($"Connection string MainDb is null \n {JsonSerializer.Serialize(_configuration)}");
+        optionsBuilder.UseNpgsql(connstring);
+    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
