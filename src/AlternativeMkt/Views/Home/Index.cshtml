@@ -1,0 +1,10 @@
+﻿@inject IViewLocalizer text
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@text["WelcomeMessage"]</h1>
+    <vc:search-bar></vc:search-bar>
+</div>

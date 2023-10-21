@@ -1,0 +1,11 @@
+@using AlternativeMkt.Db
+
+@model List<CraftItem>
+
+<p>Your search result page</p>
+@foreach (CraftItem item in Model)
+{
+    <article>
+        <h3>@item.Name</h3>
+    </article>
+}

@@ -1,0 +1,24 @@
+@using AlternativeMkt.Db
+@model List<CraftItemsPrice>
+
+<section>
+    <label>Manufacturers found for item @ViewData["CraftItemSearched"]</label>
+    @foreach (var itemPrice in Model)
+    {
+        <a
+            asp-action="Item" 
+            asp-controller="Request"
+            id="@itemPrice.ItemId"
+            manufacturerId="@itemPrice.ManufacturerId"
+        >
+            @string.Join(
+                ", ", 
+                itemPrice.Manufacturer.User.GameAccounts.Select(a => a.Name)
+            )
+            <br/>
+            <div>
+                <b>Price: </b> @itemPrice.Price
+            </div>
+        </a>
+    }
+</section>

@@ -1,0 +1,6 @@
+@inject IViewLocalizer text
+
+<form asp-controller="CraftItem" asp-action="Search" >
+    <label>@text["SearchBarPlaceholder"]</label>
+    <input name="searchTerm" type="text" />
+</form>
