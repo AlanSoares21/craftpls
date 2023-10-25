@@ -1,0 +1,105 @@
+
+using System.Reflection.Metadata;
+using System.Text.Json;
+using AlternativeMkt.Auth;
+using AlternativeMkt.Db;
+using AlternativeMkt.Models.Google;
+using Microsoft.AspNetCore.Components;
+using Microsoft.AspNetCore.Http.Extensions;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Net.Http.Headers;
+
+namespace AlternativeMkt.Controllers;
+
+public class AccountController: BaseController
+{
+    ILogger<AccountController> _logger;
+    readonly IConfiguration _config;
+    MktDbContext _db;
+    IAuthService _auth;
+    public AccountController(
+        ILogger<AccountController> logger,
+        IConfiguration config,
+        MktDbContext db,
+        IAuthService auth) {
+        _logger = logger;
+        _config = config;
+        _db = db;
+        _auth = auth;
+    }
+    public IActionResult OAuth() {
+        const string googleUrl = "https://accounts.google.com/o/oauth2/v2/auth";
+        string url = $"{googleUrl}{GetGoogleOAuthQuery()}";
+        _logger.LogInformation("Redirecting to {url}", url);
+        return Redirect(url);
+    }
+
+    string GetGoogleOAuthQuery() {
+        string? googleClientId = _config["Google:ClientId"];
+        if (googleClientId is null)
+            throw new Exception("Fail to get google client id");
+        string? clientOrigin = _config["ClientOrigin"];
+        if (clientOrigin is null)
+            throw new Exception("Fail to get client origin");
+        QueryBuilder builder = new();
+        builder.Add("client_id", googleClientId);
+        builder.Add("redirect_uri", $"{clientOrigin}{Url.Action("Login")}");
+        builder.Add("response_type", "token");
+        builder.Add("scope", "https://www.googleapis.com/auth/userinfo.email");
+        return builder.ToString();
+    }
+
+    public async Task<IActionResult> Login([FromQuery] string? access_token) {
+        if (access_token is null || access_token.Length == 0)
+            return View();
+        _logger.LogInformation("new login");
+        string? email = await GetUserMail(access_token);
+        if (email is null) {
+            ViewData["ErrorMessage"] = "Error on retrive user data";
+            return View("Error");
+        }
+        _logger.LogInformation("Success on get user email {email}", email);
+        await AuthenticateUserSession(email);
+        return Redirect("/");
+    }
+
+    async Task<string?> GetUserMail(string token) {
+        const string apiUrl = "https://www.googleapis.com/oauth2/v3/userinfo";
+        
+        using (HttpClient client = new HttpClient())
+        {
+            client.DefaultRequestHeaders
+                .Add("Authorization", $"Bearer {token}");
+            HttpResponseMessage response = await client.GetAsync(apiUrl);   
+            if (response.IsSuccessStatusCode)
+            {
+                string content = await response.Content.ReadAsStringAsync();
+                var userData = JsonSerializer.Deserialize<Userinfo>(content);
+                if (userData is not null)
+                    return userData.email;
+                _logger.LogError("Fail on deserialize response to get user data. status: {code}. response: {content}", response.StatusCode, content);
+            }
+            else
+                _logger.LogError("Error on validate access token. Code {code}", response.StatusCode);
+        }
+        return null;
+    }
+
+    async Task AuthenticateUserSession(string email) {
+        User? user = await _db.Users.SingleOrDefaultAsync(u => u.Email == email);
+        if (user is null) {
+            await CreateNewUser(email);
+            user = await _db.Users.SingleAsync(u => u.Email == email);
+        }
+        Response.Cookies.Append("Identifier", _auth.CreateAccessToken(user));
+    }
+
+    async Task CreateNewUser(string email) {
+        await _db.Users.AddAsync(new(){
+            Email = email
+        });
+        await _db.SaveChangesAsync();
+    }
+}

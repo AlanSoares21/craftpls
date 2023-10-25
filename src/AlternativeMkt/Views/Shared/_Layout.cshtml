@@ -34,13 +34,25 @@
                     <ul class="navbar-nav flex-grow-2">
                         <li class="nav-item">
                             <a
-                                type='submit' 
                                 class="nav-link text-dark" 
                                 asp-controller="ChangeCulture" 
                                 asp-action="Index"
                                 asp-route-culture=@changeToCulture > 
                                 @CultureInfo.CurrentCulture
                             </a>
+                        </li>
+                        <li class="nav-item">
+                            @if (User.Identity is not null&& User.Identity.IsAuthenticated) {
+                                <li>You is logged in as @User.Identity.Name</li>
+                            } else {
+                                <a
+                                    class="nav-link text-dark" 
+                                    asp-controller="Account" 
+                                    asp-action="OAuth"
+                                    asp-route-culture=@changeToCulture > 
+                                    Login with Google
+                                </a>
+                            }
                         </li>
                     </ul>
                 </div>

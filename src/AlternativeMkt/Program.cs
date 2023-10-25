@@ -1,4 +1,9 @@
+using System.Security.Claims;
+using AlternativeMkt;
+using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddLocalization(opt => {
@@ -8,7 +13,54 @@ builder.Services.AddLocalization(opt => {
 // Add services to the container.
 builder.Services.AddControllersWithViews()
     .AddViewLocalization();
+
 builder.Services.AddDbContext<MktDbContext>();
+
+builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<ServerConfig>();
+
+var config = new ServerConfig(builder.Configuration);
+
+builder.Services.AddAuthorization(options => {
+    options.AddPolicy(JwtBearerDefaults.AuthenticationScheme, policy =>
+    {
+        policy.AddAuthenticationSchemes(JwtBearerDefaults.AuthenticationScheme);
+        policy.RequireClaim(ClaimTypes.NameIdentifier);
+    });
+});
+
+
+builder.Services
+    .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
+    {
+        options.RequireHttpsMetadata = false;
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuerSigningKey = true,
+            ValidateLifetime = true,
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            IssuerSigningKey = new SymmetricSecurityKey(config.SecretKey),
+            LifetimeValidator = (before, expires, token, parameters) => expires > DateTime.UtcNow,
+            ValidIssuer = config.Issuer,
+            ValidAudience = config.Audience,
+            NameClaimType = ClaimTypes.NameIdentifier
+        };
+        options.Events = new JwtBearerEvents
+        {
+            OnMessageReceived = context =>
+            {
+                var accessToken = context.Request.Cookies["Identifier"];
+
+                if (!string.IsNullOrEmpty(accessToken))
+                {
+                    context.Token = context.Request.Cookies["Identifier"];
+                }
+                return Task.CompletedTask;
+            }
+        };
+    });
 
 var app = builder.Build();
 
@@ -20,7 +72,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-app.UseHttpsRedirection();
+// app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
