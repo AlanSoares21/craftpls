@@ -3,7 +3,9 @@ using System.Reflection.Metadata;
 using System.Text.Json;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
+using AlternativeMkt.Models;
 using AlternativeMkt.Models.Google;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Http.Extensions;
 using Microsoft.AspNetCore.Identity;
@@ -61,8 +63,7 @@ public class AccountController: BaseController
             return View("Error");
         }
         _logger.LogInformation("Success on get user email {email}", email);
-        await AuthenticateUserSession(email);
-        return Redirect("/");
+        return await AuthenticateUserSession(email);
     }
 
     async Task<string?> GetUserMail(string token) {
@@ -87,13 +88,16 @@ public class AccountController: BaseController
         return null;
     }
 
-    async Task AuthenticateUserSession(string email) {
+    async Task<IActionResult> AuthenticateUserSession(string email) {
+        string redirectTo = "/";
         User? user = await _db.Users.SingleOrDefaultAsync(u => u.Email == email);
         if (user is null) {
             await CreateNewUser(email);
             user = await _db.Users.SingleAsync(u => u.Email == email);
+            redirectTo = Url.Action("Profile") + "";
         }
         Response.Cookies.Append("Identifier", _auth.CreateAccessToken(user));
+        return Redirect(redirectTo);
     }
 
     async Task CreateNewUser(string email) {
@@ -101,5 +105,46 @@ public class AccountController: BaseController
             Email = email
         });
         await _db.SaveChangesAsync();
+    }
+
+    [Authorize]
+    public IActionResult Profile() {
+        return View(_auth.GetUser(User.Claims));
+    }
+
+    [Authorize]
+    public IActionResult EditProfile() {
+        _logger.LogInformation(
+            "Edit profile of {name}", 
+            User.Identity != null ? User.Identity.Name : "unknow"
+        );
+        User userData = _auth.GetUser(User.Claims);
+        _logger.LogInformation(
+            "Data of user {id} - {email}", 
+            userData.Id,
+            userData.Email
+        );
+        return View(userData);
+    }
+
+    [HttpPost]
+    [Authorize]
+    public async Task<IActionResult> Edit([Bind("name")] EditUser data) {
+        _logger.LogInformation(
+            "Editing profile data of {id}", 
+            User.Identity != null ? User.Identity.Name : "unknow"
+        );
+        var authData = _auth.GetUser(User.Claims);
+        var user = await _db.Users.SingleAsync(u => u.Id == authData.Id);
+        if (user.Email is null)
+            throw new Exception($"User {authData.Id} email is null");
+        user.Name = data.name;
+        user.UpdatedAt = new(DateTime.UtcNow.Ticks);
+        _logger.LogInformation("Updating user name: {name}", user.Name);
+        _db.Users.Update(user);
+        await _db.SaveChangesAsync();
+        _logger.LogInformation("User name updated - id: {id}", authData.Id);
+        await AuthenticateUserSession(user.Email);
+        return RedirectToAction(nameof(Profile));
     }
 }

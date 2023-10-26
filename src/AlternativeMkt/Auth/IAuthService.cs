@@ -1,3 +1,4 @@
+using System.Security.Claims;
 using AlternativeMkt.Db;
 
 namespace AlternativeMkt.Auth;
@@ -9,4 +10,5 @@ public interface IAuthService
     Task StoreRefreshToken(Guid userId, string refreshToken);
     Guid GetUsernameFromAccessToken(string accessToken);
     Task<UserAuthData> GetUserAuthenticated(Guid userId);
+    User GetUser(IEnumerable<Claim> claims);
 }

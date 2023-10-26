@@ -1,0 +1,8 @@
+@model User
+
+<form asp-action="Edit">
+    <p>@Model.Id</p>
+    <p>@Model.Email</p>
+    <input type="text" name="name" value="@Model.Name"/>
+    <input type="submit" value="Edit" />
+</form>

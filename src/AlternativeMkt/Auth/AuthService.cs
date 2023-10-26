@@ -69,7 +69,7 @@ public class AuthService: IAuthService
     public string CreateAccessToken(User user)
     {
         List<Claim> claims = new() { 
-            new(ClaimTypes.NameIdentifier, user.Id.ToString()),
+            new(ClaimTypes.Sid, user.Id.ToString()),
         };
         if (user.Email is not null)
             claims.Add(new(ClaimTypes.Email, user.Email));
@@ -122,4 +122,18 @@ public class AuthService: IAuthService
             ValidIssuer = _config.Issuer,
             IssuerSigningKey = GetSecurityKey()
         };
+
+    public User GetUser(IEnumerable<Claim> claims) {
+        User user = new();
+        foreach(var claim in claims)
+        {
+            if(claim.Type == ClaimTypes.Sid)
+                user.Id = Guid.Parse(claim.Value);
+            else if (claim.Type == ClaimTypes.Email)
+                user.Email = claim.Value;
+            else if (claim.Type == ClaimTypes.Name)
+                user.Name = claim.Value;
+        }
+        return user;
+    }
 }
