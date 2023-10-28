@@ -1,0 +1,1292 @@
+{
+    "list": [
+        {
+            "id": 2032,
+            "level": 12,
+            "icon": 992,
+            "name": "Trustworthy Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 2033,
+            "level": 12,
+            "icon": 992,
+            "name": "Trustworthy Girdle",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 2099,
+            "level": 13,
+            "icon": 995,
+            "name": "Wicker Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 2100,
+            "level": 13,
+            "icon": 995,
+            "name": "Wicker Girdle",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 2144,
+            "level": 14,
+            "icon": 992,
+            "name": "Glorious Girdle",
+            "itemType": 6,
+            "color": 0
+        },
+        {
+            "id": 2192,
+            "level": 15,
+            "icon": 992,
+            "name": "Well-tried Belt",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 2193,
+            "level": 13,
+            "icon": 992,
+            "name": "Well-tried Girdle",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 2270,
+            "level": 15,
+            "icon": 995,
+            "name": "Good shoulder-belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 2318,
+            "level": 15,
+            "icon": 1001,
+            "name": "Graceful Sword Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 2319,
+            "level": 15,
+            "icon": 1001,
+            "name": "Graceful Mail Girdle",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 2360,
+            "level": 15,
+            "icon": 1004,
+            "name": "Girdle of fighter",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 4483,
+            "level": 5,
+            "icon": 992,
+            "name": "Used Sword Belt",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 4484,
+            "level": 9,
+            "icon": 995,
+            "name": "Tempered Sword Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 5793,
+            "level": 4,
+            "icon": 995,
+            "name": "Girdle of Beginner Fighter",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 5809,
+            "level": 10,
+            "icon": 995,
+            "name": "Durable Belt of Beginner Fighter",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 6376,
+            "level": 17,
+            "icon": 992,
+            "name": "Star Pilgrim's Sword Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 11138,
+            "level": 17,
+            "icon": 992,
+            "name": "Champion Girdle",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 13787,
+            "level": 11,
+            "icon": 992,
+            "name": "Sword Belt of Aquilon",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 14090,
+            "level": 16,
+            "icon": 1001,
+            "name": "Loyal Guard's Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 14822,
+            "level": 10,
+            "icon": 989,
+            "name": "Copper Sword Belt",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 14827,
+            "level": 14,
+            "icon": 992,
+            "name": "Gloomy Sword Belt",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 14831,
+            "level": 16,
+            "icon": 983,
+            "name": "Steel Sword Belt",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 14836,
+            "level": 19,
+            "icon": 1001,
+            "name": "Berserker's Sword Belt",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 14842,
+            "level": 10,
+            "icon": 995,
+            "name": "Notched Girdle",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 14847,
+            "level": 14,
+            "icon": 992,
+            "name": "Mighty Girdle",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 14851,
+            "level": 16,
+            "icon": 998,
+            "name": "Mithril Girdle",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 14856,
+            "level": 19,
+            "icon": 980,
+            "name": "Inferno Girdle",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 15002,
+            "level": 19,
+            "icon": 998,
+            "name": "Girdle of Brave Warrior",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 15070,
+            "level": 18,
+            "icon": 1001,
+            "name": "Sword Belt of Harmony",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 15276,
+            "level": 18,
+            "icon": 989,
+            "name": "Crusher Asterius' Swordbelt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 15279,
+            "level": 19,
+            "icon": 995,
+            "name": "Swordbelt of Damned Pilgrims",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 15316,
+            "level": 20,
+            "icon": 980,
+            "name": "Cruel Lord's Swordbelt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 15606,
+            "level": 9,
+            "icon": 995,
+            "name": "Tempered Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16213,
+            "level": 5,
+            "icon": 3112,
+            "name": "Girdle of the Holiday Thief",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16216,
+            "level": 8,
+            "icon": 3112,
+            "name": "Girdle of Oath-breaker",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16219,
+            "level": 11,
+            "icon": 3112,
+            "name": "Girdle of Braincrasher",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16222,
+            "level": 14,
+            "icon": 3112,
+            "name": "Girdle of Toothy Hunter",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16225,
+            "level": 17,
+            "icon": 3112,
+            "name": "Girdle of Northern Whirl",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16228,
+            "level": 20,
+            "icon": 3112,
+            "name": "Girdle of the Snow Lady",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16231,
+            "level": 22,
+            "icon": 3112,
+            "name": "Girdle of Permafrost",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16930,
+            "level": 21,
+            "icon": 977,
+            "name": "Belt of the Bloody Jarl",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 16935,
+            "level": 21,
+            "icon": 983,
+            "name": "Belt of the Die-Hard Huskarl",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 17258,
+            "level": 21,
+            "icon": 983,
+            "name": "Girdle of the Indomitable One",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 17566,
+            "level": 21,
+            "icon": 1004,
+            "name": "Sword Belt of Forest Power",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 18264,
+            "level": 10,
+            "icon": 3112,
+            "name": "Girdle of the Tribe Leader",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 18265,
+            "level": 18,
+            "icon": 3112,
+            "name": "Girdle of the Immortal Wanderer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 19207,
+            "level": 23,
+            "icon": 983,
+            "name": "Belt of the Templar",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 19234,
+            "level": 22,
+            "icon": 1004,
+            "name": "Sword Belt of the Tree Defender",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 19237,
+            "level": 24,
+            "icon": 1004,
+            "name": "Sky Warrior's Sword Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 19264,
+            "level": 23,
+            "icon": 1001,
+            "name": "Outcast's Sword Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 19265,
+            "level": 25,
+            "icon": 1001,
+            "name": "Pariah's Sword Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 20375,
+            "level": 5,
+            "icon": 3112,
+            "name": "Sword Belt of the Holiday Thief",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20378,
+            "level": 10,
+            "icon": 3112,
+            "name": "Sword Belt of the Tribe Leader",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20383,
+            "level": 12,
+            "icon": 3112,
+            "name": "Girdle of the Frozen Master",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20384,
+            "level": 12,
+            "icon": 3112,
+            "name": "Sword belt of the Frozen Master",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20387,
+            "level": 14,
+            "icon": 3112,
+            "name": "Sword belt of the Toothy Hunter",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20392,
+            "level": 16,
+            "icon": 3112,
+            "name": "Girdle of the Rune Scald",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20393,
+            "level": 16,
+            "icon": 3112,
+            "name": "Sword belt of the Rune Scald",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20396,
+            "level": 18,
+            "icon": 3112,
+            "name": "Sword Belt of the Immortal Wanderer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20399,
+            "level": 20,
+            "icon": 3112,
+            "name": "Sword belt of the Snow Lady",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20402,
+            "level": 22,
+            "icon": 3112,
+            "name": "Sword Belt of Permafrost",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20407,
+            "level": 24,
+            "icon": 3112,
+            "name": "Girdle of the Ice Prince",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20408,
+            "level": 24,
+            "icon": 3112,
+            "name": "Sword Belt of the Ice Prince",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 21045,
+            "level": 25,
+            "icon": 983,
+            "name": "Girdle of Great Ironclad",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 21433,
+            "level": 3,
+            "icon": 992,
+            "name": "Plain Heavy Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 21438,
+            "level": 6,
+            "icon": 992,
+            "name": "Shabby Heavy Girdle",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 22442,
+            "level": 26,
+            "icon": 3112,
+            "name": "Girdle of the Descendant of the Titans",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 22443,
+            "level": 26,
+            "icon": 3112,
+            "name": "Sword Belt of the Descendant of the Titans",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23637,
+            "level": 27,
+            "icon": 983,
+            "name": "Girdle of the Gladiator Defender",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23712,
+            "level": 10,
+            "icon": 992,
+            "name": "Plate Sword Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23713,
+            "level": 12,
+            "icon": 992,
+            "name": "Notched Sword Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23714,
+            "level": 14,
+            "icon": 992,
+            "name": "Mighty Sword Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23715,
+            "level": 16,
+            "icon": 992,
+            "name": "Steel Sword Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23716,
+            "level": 18,
+            "icon": 992,
+            "name": "Mithril Sword Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23717,
+            "level": 20,
+            "icon": 992,
+            "name": "Inferno Sword Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23718,
+            "level": 22,
+            "icon": 992,
+            "name": "Consecrated Sword Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23719,
+            "level": 24,
+            "icon": 992,
+            "name": "Sword Belt of Cruelty",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23720,
+            "level": 26,
+            "icon": 992,
+            "name": "Spooky Sword Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23721,
+            "level": 10,
+            "icon": 995,
+            "name": "Sword Belt of Full Moon",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23722,
+            "level": 12,
+            "icon": 995,
+            "name": "Reinforced Sword Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23723,
+            "level": 14,
+            "icon": 995,
+            "name": "Sword Belt of Northern Chieftains",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23724,
+            "level": 16,
+            "icon": 995,
+            "name": "Durable Sword Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23725,
+            "level": 18,
+            "icon": 995,
+            "name": "Sword Belt of Frozen Fire",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23726,
+            "level": 20,
+            "icon": 995,
+            "name": "Sword Belt of Deep Lord",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23727,
+            "level": 22,
+            "icon": 995,
+            "name": "Divine Protection Sword Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23728,
+            "level": 24,
+            "icon": 995,
+            "name": "Sword Belt of Righteous Anger",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23729,
+            "level": 26,
+            "icon": 995,
+            "name": "Dark Flame Sword Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23730,
+            "level": 10,
+            "icon": 4531,
+            "name": "Eternal Life Sword Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23731,
+            "level": 12,
+            "icon": 4531,
+            "name": "Sword Belt of Immeasurable Stamina",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23732,
+            "level": 14,
+            "icon": 4531,
+            "name": "Iron Health Sword Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23733,
+            "level": 16,
+            "icon": 4531,
+            "name": "Sword Belt of Inexhaustible Strength",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23734,
+            "level": 18,
+            "icon": 4531,
+            "name": "Sword Belt of Endless Perseverance",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23735,
+            "level": 20,
+            "icon": 4531,
+            "name": "Sword Belt of Inexhaustible Perseverance",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23736,
+            "level": 22,
+            "icon": 4531,
+            "name": "Infinite Reliability Sword Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23737,
+            "level": 24,
+            "icon": 4531,
+            "name": "Sword Belt of Blind Fury",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23738,
+            "level": 26,
+            "icon": 4531,
+            "name": "Sword Belt of the Captive Souls",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 24444,
+            "level": 28,
+            "icon": 3112,
+            "name": "Girdle of the Winter King",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 24445,
+            "level": 28,
+            "icon": 3112,
+            "name": "Sword Belt of the Winter King",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 25263,
+            "level": 28,
+            "icon": 992,
+            "name": "Sword Belt of Insight",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 25268,
+            "level": 28,
+            "icon": 995,
+            "name": "Sword Belt of Sinister Visions",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 25273,
+            "level": 28,
+            "icon": 4531,
+            "name": "Sword Belt of Sheer Emptiness",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 26405,
+            "level": 29,
+            "icon": 998,
+            "name": "Girdle of the Archipelago Buccaneer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 26406,
+            "level": 29,
+            "icon": 998,
+            "name": "Sword Belt of the Archipelago Buccaneer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 26407,
+            "level": 29,
+            "icon": 998,
+            "name": "Girdle of the Archipelago Pirates",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 26408,
+            "level": 29,
+            "icon": 998,
+            "name": "Sword Belt of the Archipelago Pirates",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 26523,
+            "level": 29,
+            "icon": 983,
+            "name": "Girdle of the Legendary Templar",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 28099,
+            "level": 6,
+            "icon": 3112,
+            "name": "Leather Belt of Cold-Bearing Spirit",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 28100,
+            "level": 6,
+            "icon": 3112,
+            "name": "Sword Belt of Cold-Bearing Spirit",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 28105,
+            "level": 30,
+            "icon": 3112,
+            "name": "Girdle of the Lord of Cold",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 28106,
+            "level": 30,
+            "icon": 3112,
+            "name": "Sword Belt of the Lord of Cold",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 28935,
+            "level": 30,
+            "icon": 992,
+            "name": "Sword Belt of Restless Being",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 28940,
+            "level": 30,
+            "icon": 995,
+            "name": "Sword Belt of Rebellious Spirit",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 28952,
+            "level": 30,
+            "icon": 4531,
+            "name": "Sword Belt of Wild Heart",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 29772,
+            "level": 7,
+            "icon": 995,
+            "name": "Girdle of Recruit",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 29777,
+            "level": 7,
+            "icon": 995,
+            "name": "Sword Belt of Recruit",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 29782,
+            "level": 11,
+            "icon": 995,
+            "name": "Girdle of Mercenary",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 29787,
+            "level": 11,
+            "icon": 995,
+            "name": "Sword Belt of Mercenary",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31243,
+            "level": 14,
+            "icon": 3112,
+            "name": "Icy Girdle of Toothy Hunter",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31244,
+            "level": 14,
+            "icon": 3112,
+            "name": "Icy Sword Belt of Toothy Hunter",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31245,
+            "level": 16,
+            "icon": 3112,
+            "name": "Icy Girdle of the Rune Scald",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31246,
+            "level": 16,
+            "icon": 3112,
+            "name": "Icy Sword Belt of the Rune Scald",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31247,
+            "level": 18,
+            "icon": 3112,
+            "name": "Icy Girdle of the Immortal Wanderer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31248,
+            "level": 18,
+            "icon": 3112,
+            "name": "Icy Sword Belt of the Immortal Wanderer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31249,
+            "level": 20,
+            "icon": 3112,
+            "name": "Icy Girdle of the Snow Lady",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31250,
+            "level": 20,
+            "icon": 3112,
+            "name": "Icy Sword Belt of the Snow Lady",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31251,
+            "level": 22,
+            "icon": 3112,
+            "name": "Icy Girdle of Permafrost",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31252,
+            "level": 22,
+            "icon": 3112,
+            "name": "Icy Sword Belt of Permafrost",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31253,
+            "level": 24,
+            "icon": 3112,
+            "name": "Icy Girdle of the Ice Prince",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31254,
+            "level": 24,
+            "icon": 3112,
+            "name": "Icy Sword Belt of the Ice Prince",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31255,
+            "level": 26,
+            "icon": 3112,
+            "name": "Icy Girdle of the Descendant of the Titans",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31256,
+            "level": 26,
+            "icon": 3112,
+            "name": "Icy Sword Belt of the Descendant of the Titans",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31257,
+            "level": 28,
+            "icon": 3112,
+            "name": "Icy Girdle of the Winter King",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31258,
+            "level": 28,
+            "icon": 3112,
+            "name": "Icy Sword Belt of the Winter King",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31259,
+            "level": 30,
+            "icon": 3112,
+            "name": "Icy Girdle of the Lord of Cold",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31260,
+            "level": 30,
+            "icon": 3112,
+            "name": "Icy Sword Belt of the Lord of Cold",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33813,
+            "level": 32,
+            "icon": 3112,
+            "name": "Girdle of the Northern Lord",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33814,
+            "level": 32,
+            "icon": 3112,
+            "name": "Sword Belt of the Northern Lord",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33815,
+            "level": 32,
+            "icon": 3112,
+            "name": "Icy Girdle of the Northern Lord",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33816,
+            "level": 32,
+            "icon": 3112,
+            "name": "Icy Sword Belt of the Northern Lord",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33817,
+            "level": 32,
+            "icon": 3112,
+            "name": "Cold Girdle of the Northern Lord",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33836,
+            "level": 14,
+            "icon": 3112,
+            "name": "Toothed Hunter\u2019s Cold Girdle",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33837,
+            "level": 16,
+            "icon": 3112,
+            "name": "Cold Girdle of the Rune Scald",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33838,
+            "level": 18,
+            "icon": 3112,
+            "name": "Cold Girdle of the Immortal Wanderer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33839,
+            "level": 20,
+            "icon": 3112,
+            "name": "Cold Girdle of the Snow Lady",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33840,
+            "level": 22,
+            "icon": 3112,
+            "name": "Cold Girdle of Permafrost",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33841,
+            "level": 24,
+            "icon": 3112,
+            "name": "Ice Duke\u2019s Cold Girdle",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33842,
+            "level": 26,
+            "icon": 3112,
+            "name": "Titan Scion\u2019s Cold Girdle",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33843,
+            "level": 28,
+            "icon": 3112,
+            "name": "Winter King\u2019s Cold Girdle",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33844,
+            "level": 30,
+            "icon": 3112,
+            "name": "Cold Girdle of the Lord of Cold",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 34470,
+            "level": 32,
+            "icon": 992,
+            "name": "Sword Belt of the Sinful Light",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 34488,
+            "level": 32,
+            "icon": 995,
+            "name": "Sword Belt of the Otherworldly Call",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 34503,
+            "level": 32,
+            "icon": 4531,
+            "name": "Sword Belt of the Ominous Requiem",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 34941,
+            "level": 31,
+            "icon": 983,
+            "name": "Girdle of the Champion Templar",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35246,
+            "level": 31,
+            "icon": 998,
+            "name": "Girdle of the Buccaneers of the Code",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35247,
+            "level": 31,
+            "icon": 998,
+            "name": "Sword Belt of the Buccaneers of the Code",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35248,
+            "level": 31,
+            "icon": 998,
+            "name": "Girdle of the Pirates of the Code",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35249,
+            "level": 31,
+            "icon": 998,
+            "name": "Sword Belt of the Pirates of the Code",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35250,
+            "level": 31,
+            "icon": 998,
+            "name": "Girdle of the Victual Brothers of the Code",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35251,
+            "level": 31,
+            "icon": 998,
+            "name": "Sword Belt of the Victual Brothers of the Code",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35256,
+            "level": 29,
+            "icon": 998,
+            "name": "Girdle of the Victual Brothers of the Archipelago",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35257,
+            "level": 29,
+            "icon": 998,
+            "name": "Sword Belt of the Victual Brothers of the Archipelago",
+            "itemType": 6,
+            "color": 3
+        }
+    ]
+}

@@ -1,0 +1,7740 @@
+{
+    "list": [
+        {
+            "id": 865,
+            "level": 2,
+            "icon": 1175,
+            "name": "Cheap Ring of Resistance",
+            "itemType": 10,
+            "color": 0
+        },
+        {
+            "id": 866,
+            "level": 2,
+            "icon": 1175,
+            "name": "Cheap Ring of Strength",
+            "itemType": 10,
+            "color": 0
+        },
+        {
+            "id": 897,
+            "level": 5,
+            "icon": 1130,
+            "name": "Plain Ring of Resistance",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 898,
+            "level": 5,
+            "icon": 1130,
+            "name": "Plain Ring of Strength",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 933,
+            "level": 8,
+            "icon": 1148,
+            "name": "Ring of Resistance",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 934,
+            "level": 8,
+            "icon": 1148,
+            "name": "Ring of Strength",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 992,
+            "level": 9,
+            "icon": 1154,
+            "name": "Ring of Follower",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 1043,
+            "level": 9,
+            "icon": 1181,
+            "name": "Warrior-loner's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 1044,
+            "level": 9,
+            "icon": 1178,
+            "name": "Ring of Toughness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 1604,
+            "level": 9,
+            "icon": 1154,
+            "name": "Ring of Crushing Blow",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2044,
+            "level": 12,
+            "icon": 1154,
+            "name": "Mighty Signet-Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2045,
+            "level": 12,
+            "icon": 1148,
+            "name": "Mighty Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2046,
+            "level": 12,
+            "icon": 1187,
+            "name": "Mighty Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2047,
+            "level": 12,
+            "icon": 1154,
+            "name": "High-standard Signet-Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2048,
+            "level": 12,
+            "icon": 1157,
+            "name": "High-standard Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2049,
+            "level": 12,
+            "icon": 1136,
+            "name": "High-standard Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2050,
+            "level": 12,
+            "icon": 1154,
+            "name": "Graceful Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2113,
+            "level": 13,
+            "icon": 1145,
+            "name": "Expensive Signet-Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2114,
+            "level": 13,
+            "icon": 1148,
+            "name": "Expensive signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2115,
+            "level": 13,
+            "icon": 1142,
+            "name": "Expensive Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2116,
+            "level": 13,
+            "icon": 1145,
+            "name": "Qualitative signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2117,
+            "level": 13,
+            "icon": 1154,
+            "name": "Qualitative Signet-Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2118,
+            "level": 13,
+            "icon": 1157,
+            "name": "Qualitative ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2119,
+            "level": 13,
+            "icon": 1163,
+            "name": "Graceful Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2151,
+            "level": 15,
+            "icon": 1145,
+            "name": "Nifty Signet-Ring",
+            "itemType": 10,
+            "color": 0
+        },
+        {
+            "id": 2152,
+            "level": 14,
+            "icon": 1178,
+            "name": "Nifty Ring",
+            "itemType": 10,
+            "color": 0
+        },
+        {
+            "id": 2153,
+            "level": 13,
+            "icon": 1157,
+            "name": "Nifty Signet",
+            "itemType": 10,
+            "color": 0
+        },
+        {
+            "id": 2154,
+            "level": 13,
+            "icon": 1154,
+            "name": "Good-looking Signet-Ring",
+            "itemType": 10,
+            "color": 0
+        },
+        {
+            "id": 2155,
+            "level": 15,
+            "icon": 1166,
+            "name": "Good-looking Ring",
+            "itemType": 10,
+            "color": 0
+        },
+        {
+            "id": 2202,
+            "level": 13,
+            "icon": 1157,
+            "name": "Decorated Signet-Ring",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 2203,
+            "level": 15,
+            "icon": 1184,
+            "name": "Decorated Ring",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 2204,
+            "level": 15,
+            "icon": 1166,
+            "name": "Decorated Signet",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 2205,
+            "level": 13,
+            "icon": 1154,
+            "name": "Good-looking Signet",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 2278,
+            "level": 15,
+            "icon": 1154,
+            "name": "Good Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2279,
+            "level": 15,
+            "icon": 1169,
+            "name": "Elegant Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2280,
+            "level": 15,
+            "icon": 1157,
+            "name": "High-quality Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2281,
+            "level": 15,
+            "icon": 1160,
+            "name": "Daedal Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2328,
+            "level": 15,
+            "icon": 1154,
+            "name": "High-quality signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2329,
+            "level": 15,
+            "icon": 1157,
+            "name": "Daedal Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2330,
+            "level": 15,
+            "icon": 1169,
+            "name": "Glorious signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2331,
+            "level": 15,
+            "icon": 1142,
+            "name": "High-quality Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2332,
+            "level": 15,
+            "icon": 1142,
+            "name": "Glorious Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2333,
+            "level": 15,
+            "icon": 1145,
+            "name": "Elegant Signet-Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2334,
+            "level": 15,
+            "icon": 1157,
+            "name": "Daedal Signet-Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2335,
+            "level": 15,
+            "icon": 1160,
+            "name": "Elegant Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 2370,
+            "level": 14,
+            "icon": 1136,
+            "name": "Toreutic Signet",
+            "itemType": 10,
+            "color": 0
+        },
+        {
+            "id": 2742,
+            "level": 12,
+            "icon": 1142,
+            "name": "Excellent Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 2743,
+            "level": 13,
+            "icon": 1139,
+            "name": "Excellent Signet-ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 5800,
+            "level": 5,
+            "icon": 2204,
+            "name": "Ring of Gray Dusk",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 5801,
+            "level": 5,
+            "icon": 2204,
+            "name": "Ring of Dark Night",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 5802,
+            "level": 15,
+            "icon": 2204,
+            "name": "Great Ring of Gray Dusk",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 5803,
+            "level": 15,
+            "icon": 2204,
+            "name": "Great Ring of Dark Night",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 6379,
+            "level": 17,
+            "icon": 1184,
+            "name": "Chased Ring of Abyss Zealot",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 6380,
+            "level": 17,
+            "icon": 1178,
+            "name": "Delicate Ring of Abyss Zealot",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 6421,
+            "level": 17,
+            "icon": 2204,
+            "name": "Silvered Signet of Abyss Zealot",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 6422,
+            "level": 17,
+            "icon": 1187,
+            "name": "Garnet Signet of Abyss Zealot",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 6432,
+            "level": 17,
+            "icon": 1184,
+            "name": "Carved Signet of Abyss Zealot",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 8019,
+            "level": 5,
+            "icon": 1136,
+            "name": "Gold-filled Ring",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 8020,
+            "level": 5,
+            "icon": 1130,
+            "name": "Filigree Ring",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 8024,
+            "level": 8,
+            "icon": 1133,
+            "name": "Bright Ring",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 8036,
+            "level": 9,
+            "icon": 1136,
+            "name": "Magic Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 8037,
+            "level": 9,
+            "icon": 1139,
+            "name": "Shining Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 8038,
+            "level": 9,
+            "icon": 1142,
+            "name": "Patterned Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 8039,
+            "level": 9,
+            "icon": 1145,
+            "name": "Splendid Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 8040,
+            "level": 9,
+            "icon": 1148,
+            "name": "Shining Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 8065,
+            "level": 9,
+            "icon": 1151,
+            "name": "Necromantic Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 8071,
+            "level": 9,
+            "icon": 1145,
+            "name": "Miraculous Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 8075,
+            "level": 9,
+            "icon": 1160,
+            "name": "Peculiar Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 8076,
+            "level": 9,
+            "icon": 1157,
+            "name": "Iridescent Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 8077,
+            "level": 9,
+            "icon": 1148,
+            "name": "Matchless Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 8292,
+            "level": 14,
+            "icon": 1130,
+            "name": "Tarnished Fingerring",
+            "itemType": 10,
+            "color": 0
+        },
+        {
+            "id": 8293,
+            "level": 14,
+            "icon": 1175,
+            "name": "Faded Ring",
+            "itemType": 10,
+            "color": 0
+        },
+        {
+            "id": 8311,
+            "level": 15,
+            "icon": 1157,
+            "name": "Bright Fingerring",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 8312,
+            "level": 15,
+            "icon": 1157,
+            "name": "Engraved Fingerring",
+            "itemType": 10,
+            "color": 1
+        },
+        {
+            "id": 8340,
+            "level": 12,
+            "icon": 1169,
+            "name": "Excellent Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 8341,
+            "level": 12,
+            "icon": 1160,
+            "name": "Signet of Forsaken",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 8342,
+            "level": 12,
+            "icon": 1148,
+            "name": "Family Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 8345,
+            "level": 12,
+            "icon": 1148,
+            "name": "Family Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 8352,
+            "level": 15,
+            "icon": 1136,
+            "name": "Ring of Purification",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 8353,
+            "level": 15,
+            "icon": 1166,
+            "name": "Ring of Lost Soul",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 8387,
+            "level": 13,
+            "icon": 1163,
+            "name": "Imperishable Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 8388,
+            "level": 13,
+            "icon": 1136,
+            "name": "Imperishable Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 8389,
+            "level": 13,
+            "icon": 1157,
+            "name": "Imperishable Fingerring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 8390,
+            "level": 13,
+            "icon": 1166,
+            "name": "Elegant Fingerring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 8395,
+            "level": 15,
+            "icon": 1145,
+            "name": "Radiant Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 8396,
+            "level": 15,
+            "icon": 1157,
+            "name": "Impenetrable Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 9065,
+            "level": 17,
+            "icon": 1184,
+            "name": "Black Ring of Abyss Zealot",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 9066,
+            "level": 17,
+            "icon": 1184,
+            "name": "Bright Ring of Abyss Zealot",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 10425,
+            "level": 14,
+            "icon": 1136,
+            "name": "Plain Signet",
+            "itemType": 10,
+            "color": 0
+        },
+        {
+            "id": 10696,
+            "level": 5,
+            "icon": 2204,
+            "name": "Sam Hain's Small Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10697,
+            "level": 5,
+            "icon": 2204,
+            "name": "Boogeyman's Small Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10698,
+            "level": 5,
+            "icon": 2204,
+            "name": "Slender's Small Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10699,
+            "level": 5,
+            "icon": 2204,
+            "name": "Dead Bride's Small Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10700,
+            "level": 5,
+            "icon": 2204,
+            "name": "Wedgehead's Small Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10701,
+            "level": 5,
+            "icon": 2204,
+            "name": "Black Jack's Small Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10713,
+            "level": 10,
+            "icon": 2204,
+            "name": "Sam Hain's Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10714,
+            "level": 10,
+            "icon": 2204,
+            "name": "Boogeyman's Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10715,
+            "level": 10,
+            "icon": 2204,
+            "name": "Slender's Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10716,
+            "level": 10,
+            "icon": 2204,
+            "name": "Dead Bride's Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10717,
+            "level": 10,
+            "icon": 2204,
+            "name": "Wedgehead's Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10718,
+            "level": 10,
+            "icon": 2204,
+            "name": "Black Jack's Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10730,
+            "level": 15,
+            "icon": 2204,
+            "name": "Sam Hain's Greater Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10731,
+            "level": 15,
+            "icon": 2204,
+            "name": "Boogeyman's Greater Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10732,
+            "level": 15,
+            "icon": 2204,
+            "name": "Slender's Greater Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10733,
+            "level": 15,
+            "icon": 2204,
+            "name": "Dead Bride's Greater Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10734,
+            "level": 15,
+            "icon": 2204,
+            "name": "Wedgehead's Greater Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 10735,
+            "level": 15,
+            "icon": 2204,
+            "name": "Black Jack's Greater Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 11279,
+            "level": 5,
+            "icon": 2680,
+            "name": "Small Ring of Ice Queen",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 11280,
+            "level": 5,
+            "icon": 3141,
+            "name": "Small Ring of Aquilon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 11281,
+            "level": 5,
+            "icon": 1130,
+            "name": "Favoniy's Small Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 11282,
+            "level": 5,
+            "icon": 1136,
+            "name": "Wulturn's Small Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 11283,
+            "level": 5,
+            "icon": 1139,
+            "name": "Auster's Small Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 11284,
+            "level": 10,
+            "icon": 2681,
+            "name": "Ring of Ice Queen",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 11285,
+            "level": 10,
+            "icon": 3141,
+            "name": "Ring of Aquilon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 11286,
+            "level": 10,
+            "icon": 1136,
+            "name": "Favoniy's Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 11287,
+            "level": 10,
+            "icon": 1136,
+            "name": "Wulturn's Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 11288,
+            "level": 10,
+            "icon": 1136,
+            "name": "Auster's Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 11289,
+            "level": 15,
+            "icon": 2682,
+            "name": "Great Ring of Ice Queen",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 11290,
+            "level": 15,
+            "icon": 3141,
+            "name": "Great Ring of Aquilon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 11291,
+            "level": 15,
+            "icon": 1142,
+            "name": "Favoniy's Great Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 11292,
+            "level": 15,
+            "icon": 1142,
+            "name": "Wulturn's Great Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 11293,
+            "level": 15,
+            "icon": 1142,
+            "name": "Auster's Great Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 13214,
+            "level": 18,
+            "icon": 1187,
+            "name": "Impenetrable Darkness Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 13215,
+            "level": 18,
+            "icon": 1187,
+            "name": "Impenetrable Darkness Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 13216,
+            "level": 18,
+            "icon": 1187,
+            "name": "Great Darkness Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 13217,
+            "level": 18,
+            "icon": 1187,
+            "name": "Great Darkness Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 13218,
+            "level": 18,
+            "icon": 1187,
+            "name": "Great Darkness Band",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 13760,
+            "level": 4,
+            "icon": 1145,
+            "name": "Grinch's Ringlet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 13761,
+            "level": 4,
+            "icon": 1142,
+            "name": "Grinch's Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 13762,
+            "level": 4,
+            "icon": 1148,
+            "name": "Grinch's Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 13763,
+            "level": 4,
+            "icon": 1136,
+            "name": "Grinch's Circle",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 13764,
+            "level": 4,
+            "icon": 1151,
+            "name": "Grinch's Loop",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 14086,
+            "level": 16,
+            "icon": 1151,
+            "name": "Tower Keeper's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 14087,
+            "level": 16,
+            "icon": 1145,
+            "name": "Tower Gatekeeper's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 14088,
+            "level": 16,
+            "icon": 1154,
+            "name": "Tower Key Keeper's Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 14089,
+            "level": 16,
+            "icon": 1157,
+            "name": "Tower Cellarer's Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15072,
+            "level": 19,
+            "icon": 1166,
+            "name": "Ring of Heavenly Chaos",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15073,
+            "level": 19,
+            "icon": 1157,
+            "name": "Band of Heavenly Chaos",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15074,
+            "level": 19,
+            "icon": 1154,
+            "name": "Signet of Heavenly Chaos",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15139,
+            "level": 19,
+            "icon": 1151,
+            "name": "Ring of Redemption",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 15140,
+            "level": 19,
+            "icon": 1157,
+            "name": "Signet of Redemption",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 15141,
+            "level": 19,
+            "icon": 1166,
+            "name": "Band of Redemption",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 15153,
+            "level": 1,
+            "icon": 2985,
+            "name": "Novice's Ring",
+            "itemType": 10,
+            "color": 4
+        },
+        {
+            "id": 15260,
+            "level": 20,
+            "icon": 1181,
+            "name": "Ring of Unity",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 15261,
+            "level": 20,
+            "icon": 1145,
+            "name": "Signet of Unity",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 15288,
+            "level": 20,
+            "icon": 1148,
+            "name": "Apostate's Ring of Cruelty",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15289,
+            "level": 20,
+            "icon": 1145,
+            "name": "Apostate's Ring of Meditation",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15290,
+            "level": 20,
+            "icon": 1157,
+            "name": "Apostate's Signet of Precision",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15291,
+            "level": 20,
+            "icon": 1154,
+            "name": "Apostate's Signet of Foxery",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15512,
+            "level": 7,
+            "icon": 1133,
+            "name": "Ring of Wisdom Keeper",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 15513,
+            "level": 7,
+            "icon": 1139,
+            "name": "Ring of Legionary",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 15514,
+            "level": 7,
+            "icon": 1136,
+            "name": "Ring of Defender",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 15735,
+            "level": 5,
+            "icon": 3055,
+            "name": "Ring of Night",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15736,
+            "level": 5,
+            "icon": 3055,
+            "name": "Signet of Night",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15737,
+            "level": 5,
+            "icon": 3055,
+            "name": "Band of Night",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15738,
+            "level": 5,
+            "icon": 3055,
+            "name": "Circle of Night",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15747,
+            "level": 11,
+            "icon": 3055,
+            "name": "Ring of Horror",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15748,
+            "level": 11,
+            "icon": 3055,
+            "name": "Signet of Horror",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15749,
+            "level": 11,
+            "icon": 3055,
+            "name": "Band of Horror",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15750,
+            "level": 11,
+            "icon": 3055,
+            "name": "Circle of Horror",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15759,
+            "level": 17,
+            "icon": 3055,
+            "name": "Ring of Darkness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15760,
+            "level": 17,
+            "icon": 3055,
+            "name": "Signet of Darkness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15761,
+            "level": 17,
+            "icon": 3055,
+            "name": "Band of Darkness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15762,
+            "level": 17,
+            "icon": 3055,
+            "name": "Circle of Darkness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15772,
+            "level": 22,
+            "icon": 3055,
+            "name": "Ring of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15773,
+            "level": 22,
+            "icon": 3055,
+            "name": "Signet of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15774,
+            "level": 22,
+            "icon": 3055,
+            "name": "Band of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15775,
+            "level": 22,
+            "icon": 3055,
+            "name": "Circle of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15784,
+            "level": 8,
+            "icon": 3055,
+            "name": "Ring of Twilight",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15785,
+            "level": 8,
+            "icon": 3055,
+            "name": "Signet of Twilight",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15786,
+            "level": 8,
+            "icon": 3055,
+            "name": "Band of Twilight",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15787,
+            "level": 8,
+            "icon": 3055,
+            "name": "Circle of Twilight",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15796,
+            "level": 14,
+            "icon": 3055,
+            "name": "Ring of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15797,
+            "level": 14,
+            "icon": 3055,
+            "name": "Signet of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15798,
+            "level": 14,
+            "icon": 3055,
+            "name": "Band of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15799,
+            "level": 14,
+            "icon": 3055,
+            "name": "Circle of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15808,
+            "level": 20,
+            "icon": 3055,
+            "name": "Ring of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15809,
+            "level": 20,
+            "icon": 3055,
+            "name": "Signet of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15810,
+            "level": 20,
+            "icon": 3055,
+            "name": "Band of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 15811,
+            "level": 20,
+            "icon": 3055,
+            "name": "Circle of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16259,
+            "level": 20,
+            "icon": 2682,
+            "name": "Powerful Ring of Ice Queen",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16261,
+            "level": 20,
+            "icon": 3141,
+            "name": "Powerful Ring of Aquilon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16414,
+            "level": 6,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16415,
+            "level": 10,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16416,
+            "level": 14,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16417,
+            "level": 16,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16418,
+            "level": 18,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16419,
+            "level": 20,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16420,
+            "level": 22,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16421,
+            "level": 24,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16422,
+            "level": 6,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16423,
+            "level": 10,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16424,
+            "level": 14,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16425,
+            "level": 16,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16426,
+            "level": 18,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16427,
+            "level": 20,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16428,
+            "level": 22,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16429,
+            "level": 24,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16466,
+            "level": 10,
+            "icon": 1133,
+            "name": "Dull Jade Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16467,
+            "level": 10,
+            "icon": 1133,
+            "name": "Dull Jade Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16468,
+            "level": 10,
+            "icon": 1133,
+            "name": "Dull Jade Band",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16469,
+            "level": 10,
+            "icon": 1133,
+            "name": "Dim Jade Limb",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16470,
+            "level": 12,
+            "icon": 1142,
+            "name": "Dark Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16471,
+            "level": 12,
+            "icon": 1142,
+            "name": "Dark Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16472,
+            "level": 12,
+            "icon": 1142,
+            "name": "Dark Signet-Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16473,
+            "level": 12,
+            "icon": 1142,
+            "name": "Dark Limb",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16474,
+            "level": 14,
+            "icon": 1154,
+            "name": "Hazy Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16475,
+            "level": 14,
+            "icon": 1154,
+            "name": "Hazy Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16476,
+            "level": 14,
+            "icon": 1154,
+            "name": "Hazy Band",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16477,
+            "level": 14,
+            "icon": 1154,
+            "name": "Hazy Circle",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16478,
+            "level": 16,
+            "icon": 1157,
+            "name": "Plain Onyx Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16479,
+            "level": 16,
+            "icon": 1157,
+            "name": "Plain Onyx Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16480,
+            "level": 16,
+            "icon": 1157,
+            "name": "Plain Onyx Band",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16481,
+            "level": 16,
+            "icon": 1157,
+            "name": "Plain Onyx Circle",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16482,
+            "level": 18,
+            "icon": 1166,
+            "name": "Ring of the Elements",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16483,
+            "level": 18,
+            "icon": 1166,
+            "name": "Signet of the Elements",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16484,
+            "level": 18,
+            "icon": 1166,
+            "name": "Band of the Elements",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16485,
+            "level": 18,
+            "icon": 1166,
+            "name": "Circle of the Elements",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16486,
+            "level": 20,
+            "icon": 1181,
+            "name": "Ring of Azure Sky",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16487,
+            "level": 20,
+            "icon": 1181,
+            "name": "Signet of Azure Sky",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16488,
+            "level": 20,
+            "icon": 1181,
+            "name": "Band of Azure Sky",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16489,
+            "level": 20,
+            "icon": 1181,
+            "name": "Circle of Azure Sky",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 16490,
+            "level": 10,
+            "icon": 1130,
+            "name": "Polished Jade Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16491,
+            "level": 10,
+            "icon": 1130,
+            "name": "Polished Jade Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16492,
+            "level": 10,
+            "icon": 3206,
+            "name": "Graceful Jade Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16493,
+            "level": 10,
+            "icon": 3205,
+            "name": "Graceful Jade Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16494,
+            "level": 12,
+            "icon": 1136,
+            "name": "Ring of Pure Light",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16495,
+            "level": 12,
+            "icon": 1136,
+            "name": "Signet of Pure Light",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16496,
+            "level": 12,
+            "icon": 3206,
+            "name": "Radiant Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16497,
+            "level": 12,
+            "icon": 3205,
+            "name": "Radiant Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16498,
+            "level": 14,
+            "icon": 1145,
+            "name": "Tempest Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16499,
+            "level": 14,
+            "icon": 1145,
+            "name": "Tempest Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16500,
+            "level": 14,
+            "icon": 3206,
+            "name": "Storm Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16501,
+            "level": 14,
+            "icon": 3205,
+            "name": "Storm Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16502,
+            "level": 16,
+            "icon": 1151,
+            "name": "Daedal Onyx Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16503,
+            "level": 16,
+            "icon": 1151,
+            "name": "Daedal Onyx Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16504,
+            "level": 16,
+            "icon": 3206,
+            "name": "High-quality Onyx Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16505,
+            "level": 16,
+            "icon": 3205,
+            "name": "High-quality Onyx Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16506,
+            "level": 18,
+            "icon": 1157,
+            "name": "Ring of Absolute Strength",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16507,
+            "level": 18,
+            "icon": 1157,
+            "name": "Signet of Absolute Strength",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16508,
+            "level": 18,
+            "icon": 3206,
+            "name": "Ring of Invincibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16509,
+            "level": 18,
+            "icon": 3205,
+            "name": "Signet of Invincibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16510,
+            "level": 20,
+            "icon": 1166,
+            "name": "Ring of Heavenly Flame",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16511,
+            "level": 20,
+            "icon": 1166,
+            "name": "Signet of Heavenly Flame",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16512,
+            "level": 20,
+            "icon": 3206,
+            "name": "Ring of the Fiery Skies",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16513,
+            "level": 20,
+            "icon": 3205,
+            "name": "Signet of the Fiery Skies",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17430,
+            "level": 22,
+            "icon": 1157,
+            "name": "Ring of Captivating Illusions",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 17431,
+            "level": 22,
+            "icon": 1157,
+            "name": "Signet of Captivating Illusions",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 17432,
+            "level": 22,
+            "icon": 1157,
+            "name": "Signet of Captivating Illusions",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 17433,
+            "level": 22,
+            "icon": 1157,
+            "name": "Circle of Captivating Illusions",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 17434,
+            "level": 22,
+            "icon": 1187,
+            "name": "Bloody Fire Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17435,
+            "level": 22,
+            "icon": 1187,
+            "name": "Bloody Fire Signet Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17436,
+            "level": 22,
+            "icon": 3206,
+            "name": "Ring of the Pain Lord",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17437,
+            "level": 22,
+            "icon": 3205,
+            "name": "Signet of the Pain Lord",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17545,
+            "level": 21,
+            "icon": 1145,
+            "name": "Ring of Everlasting Pain",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17546,
+            "level": 21,
+            "icon": 1145,
+            "name": "Circle of Everlasting Pain",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17547,
+            "level": 21,
+            "icon": 1145,
+            "name": "Signet of Everlasting Pain",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17548,
+            "level": 22,
+            "icon": 1157,
+            "name": "Ring of Nature Strength",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17549,
+            "level": 22,
+            "icon": 1157,
+            "name": "Circle of Nature Strength",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17550,
+            "level": 22,
+            "icon": 1157,
+            "name": "Signet of Nature Strength",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17551,
+            "level": 22,
+            "icon": 1157,
+            "name": "Signet-ring of Nature Strength",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17713,
+            "level": 21,
+            "icon": 1145,
+            "name": "Signet-ring of Everlasting Pain",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17992,
+            "level": 10,
+            "icon": 3055,
+            "name": "Ring of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17993,
+            "level": 10,
+            "icon": 3055,
+            "name": "Signet of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17994,
+            "level": 10,
+            "icon": 3055,
+            "name": "Signet-Ring of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 17995,
+            "level": 10,
+            "icon": 3055,
+            "name": "Circle of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 18004,
+            "level": 18,
+            "icon": 3055,
+            "name": "Ring of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 18005,
+            "level": 18,
+            "icon": 3055,
+            "name": "Signet of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 18006,
+            "level": 18,
+            "icon": 3055,
+            "name": "Signet-Ring of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 18007,
+            "level": 18,
+            "icon": 3055,
+            "name": "Circle of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 18270,
+            "level": 25,
+            "icon": 3141,
+            "name": "Legendary Ring of Aquilon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 18271,
+            "level": 25,
+            "icon": 2682,
+            "name": "Legendary Ring of Ice Queen",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 18764,
+            "level": 4,
+            "icon": 1172,
+            "name": "Spring Fury Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 18765,
+            "level": 4,
+            "icon": 1172,
+            "name": "Spring Stamina Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 18771,
+            "level": 8,
+            "icon": 1172,
+            "name": "Spring Fury Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 18772,
+            "level": 12,
+            "icon": 1172,
+            "name": "Spring Fury Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 18773,
+            "level": 16,
+            "icon": 1172,
+            "name": "Spring Fury Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 18774,
+            "level": 20,
+            "icon": 1172,
+            "name": "Spring Fury Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 18775,
+            "level": 24,
+            "icon": 1172,
+            "name": "Spring Fury Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 18776,
+            "level": 8,
+            "icon": 1172,
+            "name": "Spring Stamina Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 18777,
+            "level": 12,
+            "icon": 1172,
+            "name": "Spring Stamina Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 18778,
+            "level": 14,
+            "icon": 1172,
+            "name": "Spring Stamina Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 18779,
+            "level": 16,
+            "icon": 1172,
+            "name": "Spring Stamina Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 18780,
+            "level": 24,
+            "icon": 1172,
+            "name": "Spring Stamina Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 18893,
+            "level": 26,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 18894,
+            "level": 26,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19173,
+            "level": 24,
+            "icon": 1157,
+            "name": "Ring of Power",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 19174,
+            "level": 24,
+            "icon": 1157,
+            "name": "Signet of Power",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 19175,
+            "level": 24,
+            "icon": 1157,
+            "name": "Signet-ring of Power",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 19176,
+            "level": 24,
+            "icon": 1157,
+            "name": "Circle of Power",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 19177,
+            "level": 24,
+            "icon": 1187,
+            "name": "Almighty Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19178,
+            "level": 24,
+            "icon": 1187,
+            "name": "Almighty Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19179,
+            "level": 24,
+            "icon": 3206,
+            "name": "Ring of Incredible Power",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19180,
+            "level": 24,
+            "icon": 3205,
+            "name": "Signet ring of Incredible Power",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19252,
+            "level": 23,
+            "icon": 1157,
+            "name": "Ring of the Sacred Tree",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19253,
+            "level": 23,
+            "icon": 1157,
+            "name": "Circle of the Sacred Tree",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19254,
+            "level": 23,
+            "icon": 1157,
+            "name": "Signet Ring of the Sacred Tree",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19255,
+            "level": 23,
+            "icon": 1157,
+            "name": "Signet of the Sacred Tree",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19256,
+            "level": 25,
+            "icon": 1157,
+            "name": "Ring of the Mechanical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19257,
+            "level": 25,
+            "icon": 1157,
+            "name": "Circle of the Mechanical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19258,
+            "level": 25,
+            "icon": 1157,
+            "name": "Signet ring of the Mechanical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19259,
+            "level": 25,
+            "icon": 1157,
+            "name": "Signet of the Mechanical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19539,
+            "level": 6,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19540,
+            "level": 10,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19541,
+            "level": 14,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19542,
+            "level": 16,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19543,
+            "level": 18,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19544,
+            "level": 20,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19545,
+            "level": 22,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19546,
+            "level": 24,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19547,
+            "level": 26,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19548,
+            "level": 6,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19549,
+            "level": 10,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19550,
+            "level": 14,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19551,
+            "level": 16,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19552,
+            "level": 18,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19553,
+            "level": 20,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19554,
+            "level": 22,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19555,
+            "level": 24,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19556,
+            "level": 26,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19976,
+            "level": 6,
+            "icon": 3055,
+            "name": "Ring of Nightfall",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19977,
+            "level": 6,
+            "icon": 3055,
+            "name": "Signet of Nightfall",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19978,
+            "level": 6,
+            "icon": 3055,
+            "name": "Signet-ring of Nightfall",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 19979,
+            "level": 6,
+            "icon": 3055,
+            "name": "Circle of Nightfall",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20001,
+            "level": 12,
+            "icon": 3055,
+            "name": "Ring of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20002,
+            "level": 12,
+            "icon": 3055,
+            "name": "Signet of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20003,
+            "level": 12,
+            "icon": 3055,
+            "name": "Signet-ring of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20004,
+            "level": 12,
+            "icon": 3055,
+            "name": "Circle of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20014,
+            "level": 16,
+            "icon": 3055,
+            "name": "Ring of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20015,
+            "level": 16,
+            "icon": 3055,
+            "name": "Signet of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20016,
+            "level": 16,
+            "icon": 3055,
+            "name": "Signet-ring of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20017,
+            "level": 16,
+            "icon": 3055,
+            "name": "Circle of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20065,
+            "level": 24,
+            "icon": 3055,
+            "name": "Ring of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20066,
+            "level": 24,
+            "icon": 3055,
+            "name": "Signet of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20067,
+            "level": 24,
+            "icon": 3055,
+            "name": "Signet-ring of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20068,
+            "level": 24,
+            "icon": 3055,
+            "name": "Circle of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20090,
+            "level": 26,
+            "icon": 3055,
+            "name": "Ring of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20091,
+            "level": 26,
+            "icon": 3055,
+            "name": "Signet of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20092,
+            "level": 26,
+            "icon": 3055,
+            "name": "Signet-ring of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 20093,
+            "level": 26,
+            "icon": 3055,
+            "name": "Circle of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 21121,
+            "level": 26,
+            "icon": 1157,
+            "name": "Ring of Togetherness",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 21122,
+            "level": 26,
+            "icon": 1157,
+            "name": "Signet of Togetherness",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 21123,
+            "level": 26,
+            "icon": 1157,
+            "name": "Signet-ring of Togetherness",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 21124,
+            "level": 26,
+            "icon": 1157,
+            "name": "Circle of Togetherness",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 21125,
+            "level": 26,
+            "icon": 1187,
+            "name": "Ring of Steadfastness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 21126,
+            "level": 26,
+            "icon": 1187,
+            "name": "Signet of Steadfastness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 21127,
+            "level": 26,
+            "icon": 3206,
+            "name": "True Tranquility Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 21128,
+            "level": 26,
+            "icon": 3205,
+            "name": "True Tranquility Signet",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 21444,
+            "level": 5,
+            "icon": 1136,
+            "name": "Light Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 21445,
+            "level": 5,
+            "icon": 1136,
+            "name": "Light Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 21446,
+            "level": 5,
+            "icon": 1136,
+            "name": "Light Signet-ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 21447,
+            "level": 8,
+            "icon": 1136,
+            "name": "Mighty Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 21448,
+            "level": 8,
+            "icon": 1136,
+            "name": "Mighty Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 21449,
+            "level": 8,
+            "icon": 1136,
+            "name": "Mighty Signet-Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 22022,
+            "level": 1,
+            "icon": 4179,
+            "name": "Novice Vampire's Ring",
+            "itemType": 10,
+            "color": 4
+        },
+        {
+            "id": 23417,
+            "level": 18,
+            "icon": 4466,
+            "name": "Ring of Beautiful Season",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23418,
+            "level": 18,
+            "icon": 4466,
+            "name": "Signet of Beautiful Season",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23419,
+            "level": 18,
+            "icon": 4466,
+            "name": "Precious Ring of Beautiful Season",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23420,
+            "level": 18,
+            "icon": 4466,
+            "name": "Circle of Beautiful Season",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23429,
+            "level": 20,
+            "icon": 4466,
+            "name": "Ring of Glorious Days",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23430,
+            "level": 20,
+            "icon": 4466,
+            "name": "Signet of Glorious Days",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23431,
+            "level": 20,
+            "icon": 4466,
+            "name": "Precious Ring of Glorious Days",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23432,
+            "level": 20,
+            "icon": 4466,
+            "name": "Circle of Glorious Days",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23441,
+            "level": 22,
+            "icon": 4466,
+            "name": "Ring of the Magical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23442,
+            "level": 22,
+            "icon": 4466,
+            "name": "Signet of the Magical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23443,
+            "level": 22,
+            "icon": 4466,
+            "name": "Precious Ring of the Magical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23444,
+            "level": 22,
+            "icon": 4466,
+            "name": "Circle of the Magical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23453,
+            "level": 24,
+            "icon": 4466,
+            "name": "Ring of Golden Age",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23454,
+            "level": 24,
+            "icon": 4466,
+            "name": "Signet of Golden Age",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23455,
+            "level": 24,
+            "icon": 4466,
+            "name": "Precious Ring of Golden Age",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23456,
+            "level": 24,
+            "icon": 4466,
+            "name": "Circle of Golden Age",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23465,
+            "level": 26,
+            "icon": 4466,
+            "name": "Ring of Greater Times",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23466,
+            "level": 26,
+            "icon": 4466,
+            "name": "Signet of Greater Times",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23467,
+            "level": 26,
+            "icon": 4466,
+            "name": "Precious Ring of Greater Times",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23468,
+            "level": 26,
+            "icon": 4466,
+            "name": "Circle of Greater Times",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23514,
+            "level": 25,
+            "icon": 1157,
+            "name": "Ring of the Tree of the Seasons",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23515,
+            "level": 25,
+            "icon": 1157,
+            "name": "Signet of the Tree of the Seasons",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23516,
+            "level": 25,
+            "icon": 1157,
+            "name": "Precious Ring of the Tree of the Seasons",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23517,
+            "level": 25,
+            "icon": 1157,
+            "name": "Circle of the Tree of the Seasons",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23537,
+            "level": 27,
+            "icon": 1157,
+            "name": "Ring of Technopolis",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23538,
+            "level": 27,
+            "icon": 1157,
+            "name": "Signet of Technopolis",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23539,
+            "level": 27,
+            "icon": 1157,
+            "name": "Precious Ring of Technopolis",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 23540,
+            "level": 27,
+            "icon": 1157,
+            "name": "Circle of Technopolis",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 24131,
+            "level": 28,
+            "icon": 3055,
+            "name": "Mighty Ring of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 24132,
+            "level": 28,
+            "icon": 3055,
+            "name": "Almighty Ring of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 24133,
+            "level": 28,
+            "icon": 3055,
+            "name": "Mighty Signet of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 24134,
+            "level": 28,
+            "icon": 3055,
+            "name": "Almighty Signet of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 24135,
+            "level": 28,
+            "icon": 3055,
+            "name": "Mighty Signet-Ring of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 24136,
+            "level": 28,
+            "icon": 3055,
+            "name": "Almighty Signet-Ring of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 24137,
+            "level": 28,
+            "icon": 3055,
+            "name": "Mighty Limb of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 24138,
+            "level": 28,
+            "icon": 3055,
+            "name": "Almighty Limb of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 25316,
+            "level": 28,
+            "icon": 1157,
+            "name": "Caprice Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 25317,
+            "level": 28,
+            "icon": 1157,
+            "name": "Caprice Signet",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 25318,
+            "level": 28,
+            "icon": 1157,
+            "name": "Caprice Signet-Ring",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 25319,
+            "level": 28,
+            "icon": 1157,
+            "name": "Caprice Limb",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 25320,
+            "level": 28,
+            "icon": 1187,
+            "name": "Ring of Rebelliousness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 25321,
+            "level": 28,
+            "icon": 1187,
+            "name": "Signet of Rebelliousness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 25322,
+            "level": 28,
+            "icon": 3206,
+            "name": "Ring of Stubbornness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 25323,
+            "level": 28,
+            "icon": 3205,
+            "name": "Signet-Ring of Stubbornness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 25436,
+            "level": 28,
+            "icon": 4466,
+            "name": "Ring of the Legendary Period",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 25437,
+            "level": 28,
+            "icon": 4466,
+            "name": "Signet of the Legendary Period",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 25438,
+            "level": 28,
+            "icon": 4466,
+            "name": "Signet-Ring of the Legendary Period",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 25440,
+            "level": 28,
+            "icon": 4466,
+            "name": "Limb of the Legendary Period",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26353,
+            "level": 29,
+            "icon": 1157,
+            "name": "Ring of Mages of Sea Tramps",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26354,
+            "level": 29,
+            "icon": 1157,
+            "name": "Ring of Charmers of Sea Tramps",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26355,
+            "level": 29,
+            "icon": 1157,
+            "name": "Signet of Warriors of Sea Tramps",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26356,
+            "level": 29,
+            "icon": 1157,
+            "name": "Signet of Assassins of Sea Tramps",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26357,
+            "level": 29,
+            "icon": 1157,
+            "name": "Circle of Defenders of Sea Tramps",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26358,
+            "level": 29,
+            "icon": 1157,
+            "name": "Circle of Templars of Sea Tramps",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26409,
+            "level": 31,
+            "icon": 4962,
+            "name": "Ring of Admiral",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26410,
+            "level": 31,
+            "icon": 4962,
+            "name": "Signet of Admiral",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26417,
+            "level": 28,
+            "icon": 3181,
+            "name": "RIng",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26418,
+            "level": 28,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26419,
+            "level": 28,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26424,
+            "level": 28,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26425,
+            "level": 28,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 27147,
+            "level": 30,
+            "icon": 3055,
+            "name": "Mighty Ring of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 27148,
+            "level": 30,
+            "icon": 3055,
+            "name": "Almighty Ring of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 27149,
+            "level": 30,
+            "icon": 3055,
+            "name": "Mighty Signet of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 27150,
+            "level": 30,
+            "icon": 3055,
+            "name": "Almighty Signet of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 27151,
+            "level": 30,
+            "icon": 3055,
+            "name": "Mighty Signet-Ring of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 27152,
+            "level": 30,
+            "icon": 3055,
+            "name": "Almighty Signet-Ring of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 27153,
+            "level": 30,
+            "icon": 3055,
+            "name": "Mighty Limb of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 27154,
+            "level": 30,
+            "icon": 3055,
+            "name": "Almighty Limb of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 27934,
+            "level": 30,
+            "icon": 2682,
+            "name": "All-Mighty Ring of Ice Queen",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 27935,
+            "level": 30,
+            "icon": 3141,
+            "name": "All-Mighty Ring of Aquilon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 28953,
+            "level": 30,
+            "icon": 1157,
+            "name": "Ring of Repentance",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 28954,
+            "level": 30,
+            "icon": 1157,
+            "name": "Signet of Repentance",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 28955,
+            "level": 30,
+            "icon": 1157,
+            "name": "Signet-Ring of Repentance",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 28956,
+            "level": 30,
+            "icon": 1157,
+            "name": "Circle of Repentance",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 28964,
+            "level": 30,
+            "icon": 1187,
+            "name": "Ring of Sacrament",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 28965,
+            "level": 30,
+            "icon": 1187,
+            "name": "Signet-Ring of Sacrament",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 28966,
+            "level": 30,
+            "icon": 3206,
+            "name": "Ring of Epiphany",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 28967,
+            "level": 30,
+            "icon": 3205,
+            "name": "Signet of Epiphany",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29553,
+            "level": 30,
+            "icon": 4466,
+            "name": "Ring of the Grand Millennium",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29554,
+            "level": 30,
+            "icon": 4466,
+            "name": "Signet-Ring of the Grand Millennium",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29555,
+            "level": 30,
+            "icon": 4466,
+            "name": "Signet of the Grand Millennium",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29556,
+            "level": 30,
+            "icon": 4466,
+            "name": "Circle of the Grand Millennium",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29630,
+            "level": 30,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29631,
+            "level": 30,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29640,
+            "level": 30,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29641,
+            "level": 30,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29788,
+            "level": 7,
+            "icon": 1151,
+            "name": "Ring of Recruit",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29789,
+            "level": 7,
+            "icon": 1148,
+            "name": "Signet-Ring of Recruit",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29790,
+            "level": 7,
+            "icon": 1178,
+            "name": "Signet of Recruit",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29791,
+            "level": 7,
+            "icon": 1145,
+            "name": "Circle of Recruit",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29792,
+            "level": 11,
+            "icon": 1151,
+            "name": "Ring of Mercenary",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29793,
+            "level": 11,
+            "icon": 1148,
+            "name": "Signet-Ring of Mercenary",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29794,
+            "level": 11,
+            "icon": 1178,
+            "name": "Signet of Mercenary",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 29795,
+            "level": 11,
+            "icon": 1145,
+            "name": "Circle of Mercenary",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30274,
+            "level": 6,
+            "icon": 3055,
+            "name": "Mysterious Ring of Nightfall",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30275,
+            "level": 6,
+            "icon": 3055,
+            "name": "Mysterious Signet-ring of Nightfall",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30276,
+            "level": 6,
+            "icon": 3055,
+            "name": "Mysterious Signet of Nightfall",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30277,
+            "level": 6,
+            "icon": 3055,
+            "name": "Mysterious Circle of Nightfall",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30278,
+            "level": 12,
+            "icon": 3055,
+            "name": "Mysterious Ring of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30279,
+            "level": 12,
+            "icon": 3055,
+            "name": "Mysterious Signet-ring of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30280,
+            "level": 12,
+            "icon": 3055,
+            "name": "Mysterious Signet of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30281,
+            "level": 12,
+            "icon": 3055,
+            "name": "Mysterious Circle of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30282,
+            "level": 14,
+            "icon": 3055,
+            "name": "Mysterious Ring of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30283,
+            "level": 14,
+            "icon": 3055,
+            "name": "Mysterious Signet-ring of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30284,
+            "level": 14,
+            "icon": 3055,
+            "name": "Mysterious Signet of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30285,
+            "level": 14,
+            "icon": 3055,
+            "name": "Mysterious Circle of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30286,
+            "level": 20,
+            "icon": 3055,
+            "name": "Mysterious Ring of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30287,
+            "level": 20,
+            "icon": 3055,
+            "name": "Mysterious Signet-ring of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30288,
+            "level": 20,
+            "icon": 3055,
+            "name": "Mysterious Signet of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30289,
+            "level": 20,
+            "icon": 3055,
+            "name": "Mysterious Circle of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30290,
+            "level": 24,
+            "icon": 3055,
+            "name": "Mysterious Ring of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30291,
+            "level": 24,
+            "icon": 3055,
+            "name": "Mysterious Signet-ring of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30292,
+            "level": 24,
+            "icon": 3055,
+            "name": "Mysterious Signet of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30293,
+            "level": 24,
+            "icon": 3055,
+            "name": "Mysterious Circle of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30334,
+            "level": 10,
+            "icon": 3055,
+            "name": "Mysterious Ring of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30335,
+            "level": 10,
+            "icon": 3055,
+            "name": "Mysterious Signet-ring of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30336,
+            "level": 10,
+            "icon": 3055,
+            "name": "Mysterious Signet of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30337,
+            "level": 10,
+            "icon": 3055,
+            "name": "Mysterious Circle of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30338,
+            "level": 16,
+            "icon": 3055,
+            "name": "Mysterious Ring of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30339,
+            "level": 16,
+            "icon": 3055,
+            "name": "Mysterious Signet-ring of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30340,
+            "level": 16,
+            "icon": 3055,
+            "name": "Mysterious Signet of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30341,
+            "level": 16,
+            "icon": 3055,
+            "name": "Mysterious Circle of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30342,
+            "level": 18,
+            "icon": 3055,
+            "name": "Mysterious Ring of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30343,
+            "level": 18,
+            "icon": 3055,
+            "name": "Mysterious Signet-ring of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30344,
+            "level": 18,
+            "icon": 3055,
+            "name": "Mysterious Signet of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30345,
+            "level": 18,
+            "icon": 3055,
+            "name": "Mysterious Circle of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30346,
+            "level": 22,
+            "icon": 3055,
+            "name": "Mysterious Ring of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30347,
+            "level": 22,
+            "icon": 3055,
+            "name": "Mysterious Signet-ring of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30348,
+            "level": 22,
+            "icon": 3055,
+            "name": "Mysterious Signet of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30349,
+            "level": 22,
+            "icon": 3055,
+            "name": "Mysterious Circle of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30350,
+            "level": 26,
+            "icon": 3055,
+            "name": "Mysterious Ring of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30351,
+            "level": 26,
+            "icon": 3055,
+            "name": "Mysterious Signet-ring of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30352,
+            "level": 26,
+            "icon": 3055,
+            "name": "Mysterious Signet of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30353,
+            "level": 26,
+            "icon": 3055,
+            "name": "Mysterious Circle of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30394,
+            "level": 10,
+            "icon": 5510,
+            "name": "Horrifying Ring of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30395,
+            "level": 10,
+            "icon": 5510,
+            "name": "Horrifying Signet-ring of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30396,
+            "level": 10,
+            "icon": 5510,
+            "name": "Horrifying Signet of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30397,
+            "level": 10,
+            "icon": 5510,
+            "name": "Horrifying Circle of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30398,
+            "level": 12,
+            "icon": 5510,
+            "name": "Horrifying Ring of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30399,
+            "level": 12,
+            "icon": 5510,
+            "name": "Horrifying Signet-ring of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30400,
+            "level": 12,
+            "icon": 5510,
+            "name": "Horrifying Circle of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30401,
+            "level": 12,
+            "icon": 5510,
+            "name": "Horrifying Signet of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30402,
+            "level": 14,
+            "icon": 5510,
+            "name": "Horrifying Ring of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30403,
+            "level": 14,
+            "icon": 5510,
+            "name": "Horrifying Signet-ring of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30404,
+            "level": 14,
+            "icon": 5510,
+            "name": "Horrifying Signet of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30405,
+            "level": 14,
+            "icon": 5510,
+            "name": "Horrifying Circle of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30406,
+            "level": 16,
+            "icon": 5510,
+            "name": "Horrifying Ring of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30407,
+            "level": 16,
+            "icon": 5510,
+            "name": "Horrifying Signet-ring of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30408,
+            "level": 16,
+            "icon": 5510,
+            "name": "Horrifying Signet of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30409,
+            "level": 16,
+            "icon": 5510,
+            "name": "Horrifying Circle of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30410,
+            "level": 18,
+            "icon": 5510,
+            "name": "Horrifying Ring of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30411,
+            "level": 18,
+            "icon": 5510,
+            "name": "Horrifying Signet-ring of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30412,
+            "level": 18,
+            "icon": 5510,
+            "name": "Horrifying Signet of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30413,
+            "level": 18,
+            "icon": 5510,
+            "name": "Horrifying Circle of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30414,
+            "level": 20,
+            "icon": 5510,
+            "name": "Horrifying Ring of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30415,
+            "level": 20,
+            "icon": 5510,
+            "name": "Horrifying Signet-ring of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30416,
+            "level": 20,
+            "icon": 5510,
+            "name": "Horrifying Signet of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30417,
+            "level": 20,
+            "icon": 5510,
+            "name": "Horrifying Circle of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30418,
+            "level": 22,
+            "icon": 5510,
+            "name": "Horrifying Ring of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30419,
+            "level": 22,
+            "icon": 5510,
+            "name": "Horrifying Signet-ring of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30420,
+            "level": 22,
+            "icon": 5510,
+            "name": "Horrifying Signet of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30421,
+            "level": 22,
+            "icon": 5510,
+            "name": "Horrifying Circle of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30422,
+            "level": 24,
+            "icon": 5510,
+            "name": "Horrifying Ring of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30423,
+            "level": 24,
+            "icon": 5510,
+            "name": "Horrifying Signet-ring of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30424,
+            "level": 24,
+            "icon": 5510,
+            "name": "Horrifying Signet of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30425,
+            "level": 24,
+            "icon": 5510,
+            "name": "Horrifying Circle of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30426,
+            "level": 26,
+            "icon": 5510,
+            "name": "Horrifying Ring of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30427,
+            "level": 26,
+            "icon": 5510,
+            "name": "Horrifying Signet-ring of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30428,
+            "level": 26,
+            "icon": 5510,
+            "name": "Horrifying Signet of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30429,
+            "level": 26,
+            "icon": 5510,
+            "name": "Horrifying Circle of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30430,
+            "level": 28,
+            "icon": 5510,
+            "name": "Horrifying Ring of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30431,
+            "level": 28,
+            "icon": 5510,
+            "name": "Horrifying Signet-ring of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30432,
+            "level": 28,
+            "icon": 5510,
+            "name": "Horrifying Signet of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30433,
+            "level": 28,
+            "icon": 5510,
+            "name": "Horrifying Circle of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30434,
+            "level": 30,
+            "icon": 5510,
+            "name": "Horrifying Ring of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30435,
+            "level": 30,
+            "icon": 5510,
+            "name": "Horrifying Signet-ring of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30436,
+            "level": 30,
+            "icon": 5510,
+            "name": "Horrifying Circle of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 30437,
+            "level": 30,
+            "icon": 5510,
+            "name": "Horrifying Signet of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31063,
+            "level": 6,
+            "icon": 5539,
+            "name": "Ferocious Ring of Iceman",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31064,
+            "level": 6,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of Iceman",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31065,
+            "level": 6,
+            "icon": 5539,
+            "name": "Ferocious Signet of Iceman",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31066,
+            "level": 6,
+            "icon": 5539,
+            "name": "Ferocious Circle of Iceman",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31067,
+            "level": 10,
+            "icon": 5539,
+            "name": "Ferocious Ring of Ragnar",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31068,
+            "level": 10,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of Ragnar",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31069,
+            "level": 10,
+            "icon": 5539,
+            "name": "Ferocious Signet of Ragnar",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31070,
+            "level": 10,
+            "icon": 5539,
+            "name": "Ferocious Circle of Ragnar",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31071,
+            "level": 12,
+            "icon": 5539,
+            "name": "Ferocious Ring of Frosty Fang",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31072,
+            "level": 12,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of Frosty Fang",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31073,
+            "level": 12,
+            "icon": 5539,
+            "name": "Ferocious Signet of Frosty Fang",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31074,
+            "level": 12,
+            "icon": 5539,
+            "name": "Ferocious Circle of Frosty Fang",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31075,
+            "level": 14,
+            "icon": 5539,
+            "name": "Ferocious Ring of Mastodon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31076,
+            "level": 14,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of Mastodon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31077,
+            "level": 14,
+            "icon": 5539,
+            "name": "Ferocious Signet of Mastodon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31078,
+            "level": 14,
+            "icon": 5539,
+            "name": "Ferocious Circle of Mastodon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31079,
+            "level": 16,
+            "icon": 5539,
+            "name": "Ferocious Ring of Taron",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31080,
+            "level": 16,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of Taron",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31081,
+            "level": 16,
+            "icon": 5539,
+            "name": "Ferocious Signet of Taron",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31082,
+            "level": 16,
+            "icon": 5539,
+            "name": "Ferocious Circle of Taron",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31083,
+            "level": 18,
+            "icon": 5539,
+            "name": "Ferocious Ring of Kerula",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31084,
+            "level": 18,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of Kerula",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31085,
+            "level": 18,
+            "icon": 5539,
+            "name": "Ferocious Signet of Kerula",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31086,
+            "level": 18,
+            "icon": 5539,
+            "name": "Ferocious Circle of Kerula",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31087,
+            "level": 20,
+            "icon": 5539,
+            "name": "Ferocious Ring of Gimir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31088,
+            "level": 20,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of Gimir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31089,
+            "level": 20,
+            "icon": 5539,
+            "name": "Ferocious Signet of Gimir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31090,
+            "level": 20,
+            "icon": 5539,
+            "name": "Ferocious Circle of Gimir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31091,
+            "level": 22,
+            "icon": 5539,
+            "name": "Ferocious Ring of Flavius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31092,
+            "level": 22,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of Flavius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31093,
+            "level": 22,
+            "icon": 5539,
+            "name": "Ferocious Signet of Flavius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31094,
+            "level": 22,
+            "icon": 5539,
+            "name": "Ferocious Circle of Flavius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31095,
+            "level": 24,
+            "icon": 5539,
+            "name": "Ferocious Ring of Ruberius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31096,
+            "level": 24,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of Ruberius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31097,
+            "level": 24,
+            "icon": 5539,
+            "name": "Ferocious Signet of Ruberius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31098,
+            "level": 24,
+            "icon": 5539,
+            "name": "Ferocious Circle of Ruberius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31099,
+            "level": 26,
+            "icon": 5539,
+            "name": "Ferocious Ring of Mortis",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31100,
+            "level": 26,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of Mortis",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31101,
+            "level": 26,
+            "icon": 5539,
+            "name": "Ferocious Signet of Mortis",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31102,
+            "level": 26,
+            "icon": 5539,
+            "name": "Ferocious Circle of Mortis",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31103,
+            "level": 28,
+            "icon": 5539,
+            "name": "Ferocious Ring of the Snow General",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31104,
+            "level": 28,
+            "icon": 5539,
+            "name": "Ferocious Signet of the Snow General",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31105,
+            "level": 28,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of the Snow General",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31106,
+            "level": 28,
+            "icon": 5539,
+            "name": "Ferocious Circle of the Snow General",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31107,
+            "level": 30,
+            "icon": 5539,
+            "name": "Ferocious Ring of Chernobog",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31108,
+            "level": 30,
+            "icon": 5539,
+            "name": "Ferocious Signet of Chernobog",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31109,
+            "level": 30,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of Chernobog",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31110,
+            "level": 30,
+            "icon": 5539,
+            "name": "Ferocious Circle of Chernobog",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31842,
+            "level": 6,
+            "icon": 5700,
+            "name": "Magic Ring of Daring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31843,
+            "level": 10,
+            "icon": 5700,
+            "name": "Magic Ring of Boldness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31844,
+            "level": 12,
+            "icon": 5700,
+            "name": "Magic Ring of Devotion",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31845,
+            "level": 14,
+            "icon": 5700,
+            "name": "Magic Ring of Bravery",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31846,
+            "level": 16,
+            "icon": 5700,
+            "name": "Magic Ring of Magnanimity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31847,
+            "level": 18,
+            "icon": 5700,
+            "name": "Magic Ring of Nobleness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31848,
+            "level": 20,
+            "icon": 5700,
+            "name": "Magic Ring of Justice",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31849,
+            "level": 22,
+            "icon": 5700,
+            "name": "Magic Ring of Honor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31850,
+            "level": 24,
+            "icon": 5700,
+            "name": "Magic Ring of Valor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31851,
+            "level": 26,
+            "icon": 5700,
+            "name": "Magic Ring of Fearlessness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31852,
+            "level": 28,
+            "icon": 5700,
+            "name": "Magic Ring of Courage",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31853,
+            "level": 30,
+            "icon": 5700,
+            "name": "Magic Ring of Fortitude",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31854,
+            "level": 6,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Daring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31855,
+            "level": 10,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Boldness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31856,
+            "level": 12,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Devotion",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31857,
+            "level": 14,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Bravery",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31858,
+            "level": 16,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Magnanimity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31859,
+            "level": 18,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Nobleness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31860,
+            "level": 20,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Justice",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31861,
+            "level": 22,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Honor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31862,
+            "level": 24,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Valor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31863,
+            "level": 26,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Fearlessness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31864,
+            "level": 28,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Courage",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31865,
+            "level": 30,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Fortitude",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31866,
+            "level": 6,
+            "icon": 5700,
+            "name": "Magic Signet of Daring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31867,
+            "level": 10,
+            "icon": 5700,
+            "name": "Magic Signet of Boldness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31868,
+            "level": 12,
+            "icon": 5700,
+            "name": "Magic Signet of Devotion",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31869,
+            "level": 14,
+            "icon": 5700,
+            "name": "Magic Signet of Bravery",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31870,
+            "level": 16,
+            "icon": 5700,
+            "name": "Magic Signet of Magnanimity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31871,
+            "level": 18,
+            "icon": 5700,
+            "name": "Magic Signet of Nobleness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31872,
+            "level": 20,
+            "icon": 5700,
+            "name": "Magic Signet of Justice",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31873,
+            "level": 22,
+            "icon": 5700,
+            "name": "Magic Signet of Honor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31874,
+            "level": 24,
+            "icon": 5700,
+            "name": "Magic Signet of Valor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31875,
+            "level": 26,
+            "icon": 5700,
+            "name": "Magic Signet of Fearlessness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31876,
+            "level": 28,
+            "icon": 5700,
+            "name": "Magic Signet of Courage",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31877,
+            "level": 30,
+            "icon": 5700,
+            "name": "Magic Signet of Fortitude",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31878,
+            "level": 6,
+            "icon": 5700,
+            "name": "Magic Circle of Daring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31879,
+            "level": 10,
+            "icon": 5700,
+            "name": "Magic Circle of Boldness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31880,
+            "level": 12,
+            "icon": 5700,
+            "name": "Magic Circle of Devotion",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31881,
+            "level": 14,
+            "icon": 5700,
+            "name": "Magic Circle of Bravery",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31882,
+            "level": 16,
+            "icon": 5700,
+            "name": "Magic Circle of Magnanimity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31883,
+            "level": 18,
+            "icon": 5700,
+            "name": "Magic Circle of Nobleness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31884,
+            "level": 20,
+            "icon": 5700,
+            "name": "Magic Circle of Justice",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31885,
+            "level": 22,
+            "icon": 5700,
+            "name": "Magic Circle of Honor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31886,
+            "level": 24,
+            "icon": 5700,
+            "name": "Magic Circle of Valor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31887,
+            "level": 26,
+            "icon": 5700,
+            "name": "Magic Circle of Fearlessness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31888,
+            "level": 28,
+            "icon": 5700,
+            "name": "Magic Circle of Courage",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31889,
+            "level": 30,
+            "icon": 5700,
+            "name": "Magic Circle of Fortitude",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32247,
+            "level": 18,
+            "icon": 4466,
+            "name": "Ancient Ring of Beautiful Season",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32248,
+            "level": 20,
+            "icon": 4466,
+            "name": "Ancient Ring of Glorious Days",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32249,
+            "level": 22,
+            "icon": 4466,
+            "name": "Ancient Ring of the Magical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32250,
+            "level": 24,
+            "icon": 4466,
+            "name": "Ancient Ring of Golden Age",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32251,
+            "level": 26,
+            "icon": 4466,
+            "name": "Ancient Ring of Greater Times",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32252,
+            "level": 28,
+            "icon": 4466,
+            "name": "Ancient Ring of the Legendary Period",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32253,
+            "level": 30,
+            "icon": 4466,
+            "name": "Ancient Ring of the Grand Millennium",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32254,
+            "level": 18,
+            "icon": 4466,
+            "name": "Ancient Signet of Beautiful Season",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32255,
+            "level": 20,
+            "icon": 4466,
+            "name": "Ancient Signet of Glorious Days",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32256,
+            "level": 22,
+            "icon": 4466,
+            "name": "Ancient Signet of the Magical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32257,
+            "level": 24,
+            "icon": 4466,
+            "name": "Ancient Signet of Golden Age",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32258,
+            "level": 26,
+            "icon": 4466,
+            "name": "Ancient Signet of Greater Times",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32259,
+            "level": 28,
+            "icon": 4466,
+            "name": "Ancient Signet of the Legendary Period",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32260,
+            "level": 30,
+            "icon": 4466,
+            "name": "Ancient Signet of the Grand Millennium",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32261,
+            "level": 18,
+            "icon": 4466,
+            "name": "Ancient Signet Ring of Beautiful Season",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32262,
+            "level": 20,
+            "icon": 4466,
+            "name": "Ancient Signet Ring of Glorious Days",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32263,
+            "level": 22,
+            "icon": 4466,
+            "name": "Ancient Signet Ring of the Magical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32264,
+            "level": 24,
+            "icon": 4466,
+            "name": "Ancient Signet Ring of Golden Age",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32265,
+            "level": 26,
+            "icon": 4466,
+            "name": "Ancient Signet Ring of Greater Times",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32266,
+            "level": 28,
+            "icon": 4466,
+            "name": "Ancient Signet Ring of the Legendary Period",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32267,
+            "level": 30,
+            "icon": 4466,
+            "name": "Ancient Signet Ring of the Grand Millennium",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32268,
+            "level": 18,
+            "icon": 4466,
+            "name": "Ancient Limb of Beautiful Season",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32269,
+            "level": 20,
+            "icon": 4466,
+            "name": "Ancient Limb of Glorious Days",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32270,
+            "level": 22,
+            "icon": 4466,
+            "name": "Ancient Limb of the Magical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32271,
+            "level": 24,
+            "icon": 4466,
+            "name": "Ancient Limb of Golden Age",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32272,
+            "level": 26,
+            "icon": 4466,
+            "name": "Ancient Limb of Greater Times",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32273,
+            "level": 28,
+            "icon": 4466,
+            "name": "Ancient Limb of the Legendary Period",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32274,
+            "level": 30,
+            "icon": 4466,
+            "name": "Ancient Limb of the Grand Millennium",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33148,
+            "level": 32,
+            "icon": 3055,
+            "name": "Mighty Ring of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33149,
+            "level": 32,
+            "icon": 3055,
+            "name": "Almighty Ring of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33150,
+            "level": 32,
+            "icon": 3055,
+            "name": "Otherworldly Ring of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33151,
+            "level": 32,
+            "icon": 3055,
+            "name": "Mighty Signet of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33152,
+            "level": 32,
+            "icon": 3055,
+            "name": "Almighty Signet of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33153,
+            "level": 32,
+            "icon": 3055,
+            "name": "Mighty Signet-Ring of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33154,
+            "level": 32,
+            "icon": 3055,
+            "name": "Almighty Signet-Ring of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33155,
+            "level": 32,
+            "icon": 3055,
+            "name": "Otherworldly Signet of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33156,
+            "level": 32,
+            "icon": 3055,
+            "name": "Mighty Limb of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33157,
+            "level": 32,
+            "icon": 3055,
+            "name": "Almighty Limb of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33178,
+            "level": 6,
+            "icon": 3055,
+            "name": "Otherworldly Ring of Nightfall",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33179,
+            "level": 6,
+            "icon": 3055,
+            "name": "Otherworldly Signet of Nightfall",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33180,
+            "level": 10,
+            "icon": 3055,
+            "name": "Otherworldly Ring of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33181,
+            "level": 10,
+            "icon": 3055,
+            "name": "Otherworldly Signet of the Eclipse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33182,
+            "level": 12,
+            "icon": 3055,
+            "name": "Otherworldly Ring of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33183,
+            "level": 12,
+            "icon": 3055,
+            "name": "Otherworldly Signet of the Curse",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33184,
+            "level": 14,
+            "icon": 3055,
+            "name": "Otherworldly Ring of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33185,
+            "level": 14,
+            "icon": 3055,
+            "name": "Otherworldly Signet of Shadow",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33186,
+            "level": 16,
+            "icon": 3055,
+            "name": "Otherworldly Ring of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33187,
+            "level": 16,
+            "icon": 3055,
+            "name": "Otherworldly Signet of Nightmare",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33188,
+            "level": 18,
+            "icon": 3055,
+            "name": "Otherworldly Ring of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33189,
+            "level": 18,
+            "icon": 3055,
+            "name": "Otherworldly Signet of the Full Moon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33190,
+            "level": 20,
+            "icon": 3055,
+            "name": "Otherworldly Ring of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33191,
+            "level": 20,
+            "icon": 3055,
+            "name": "Otherworldly Signet of Fear",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33192,
+            "level": 22,
+            "icon": 3055,
+            "name": "Otherworldly Ring of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33193,
+            "level": 22,
+            "icon": 3055,
+            "name": "Otherworldly Signet of Darkmist",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33194,
+            "level": 24,
+            "icon": 3055,
+            "name": "Otherworldly Ring of the Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33195,
+            "level": 24,
+            "icon": 3055,
+            "name": "Otherworldly Signet of Rebirth",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33196,
+            "level": 26,
+            "icon": 3055,
+            "name": "Otherworldly Ring of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33197,
+            "level": 26,
+            "icon": 3055,
+            "name": "Otherworldly Signet of Immortality",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33198,
+            "level": 28,
+            "icon": 3055,
+            "name": "Otherworldly Ring of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33199,
+            "level": 28,
+            "icon": 3055,
+            "name": "Otherworldly Signet of Resurrection",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33200,
+            "level": 30,
+            "icon": 3055,
+            "name": "Otherworldly Ring of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33201,
+            "level": 30,
+            "icon": 3055,
+            "name": "Otherworldly Signet of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33250,
+            "level": 32,
+            "icon": 5510,
+            "name": "Horrifying Ring of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33251,
+            "level": 32,
+            "icon": 5510,
+            "name": "Horrifying Signet of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33252,
+            "level": 32,
+            "icon": 5510,
+            "name": "Horrifying Signet of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33253,
+            "level": 32,
+            "icon": 5510,
+            "name": "Horrifying Circle of Integrity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33676,
+            "level": 32,
+            "icon": 5539,
+            "name": "Ferocious Ring of Titan",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33677,
+            "level": 32,
+            "icon": 5539,
+            "name": "Storm Ring of Titan",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33678,
+            "level": 32,
+            "icon": 5539,
+            "name": "Ferocious Signet-Ring of Titan",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33679,
+            "level": 32,
+            "icon": 5539,
+            "name": "Ferocious Signet of Titan",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33680,
+            "level": 32,
+            "icon": 5539,
+            "name": "Storm Signet Ring of Titan",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33681,
+            "level": 32,
+            "icon": 5539,
+            "name": "Ferocious Circle of Titan",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33694,
+            "level": 6,
+            "icon": 5539,
+            "name": "Storm Ring of Iceman",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33695,
+            "level": 10,
+            "icon": 5539,
+            "name": "Storm Ring of Ragnar",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33696,
+            "level": 12,
+            "icon": 5539,
+            "name": "Storm Ring of Frosty Fang",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33697,
+            "level": 14,
+            "icon": 5539,
+            "name": "Storm Ring of Mastodon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33698,
+            "level": 16,
+            "icon": 5539,
+            "name": "Storm Ring of Taron",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33699,
+            "level": 18,
+            "icon": 5539,
+            "name": "Storm Ring of Kerula",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33700,
+            "level": 20,
+            "icon": 5539,
+            "name": "Storm Ring of Gimir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33701,
+            "level": 22,
+            "icon": 5539,
+            "name": "Storm Ring of Flavius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33702,
+            "level": 24,
+            "icon": 5539,
+            "name": "Storm Ring of Ruberius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33703,
+            "level": 26,
+            "icon": 5539,
+            "name": "Storm Ring of Mortis",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33704,
+            "level": 28,
+            "icon": 5539,
+            "name": "Storm Ring of the Snow General",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33705,
+            "level": 30,
+            "icon": 5539,
+            "name": "Storm Ring of Chernobog",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33706,
+            "level": 6,
+            "icon": 5539,
+            "name": "Storm Signet Ring of Iceman",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33707,
+            "level": 10,
+            "icon": 5539,
+            "name": "Storm Signet Ring of Ragnar",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33708,
+            "level": 12,
+            "icon": 5539,
+            "name": "Storm Signet Ring of Frosty Fang",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33709,
+            "level": 14,
+            "icon": 5539,
+            "name": "Storm Signet Ring of Mastodon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33710,
+            "level": 16,
+            "icon": 5539,
+            "name": "Storm Signet Ring of Taron",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33711,
+            "level": 18,
+            "icon": 5539,
+            "name": "Storm Signet Ring of Kerula",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33712,
+            "level": 20,
+            "icon": 5539,
+            "name": "Storm Signet Ring of Gimir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33713,
+            "level": 22,
+            "icon": 5539,
+            "name": "Storm Signet Ring of Flavius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33714,
+            "level": 24,
+            "icon": 5539,
+            "name": "Storm Signet Ring of Ruberius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33715,
+            "level": 26,
+            "icon": 5539,
+            "name": "Storm Signet Ring of Mortis",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33716,
+            "level": 28,
+            "icon": 5539,
+            "name": "Storm Signet Ring of the Snow General",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33717,
+            "level": 30,
+            "icon": 5539,
+            "name": "Storm Signet Ring of Chernobog",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33767,
+            "level": 5,
+            "icon": 2680,
+            "name": "Small Signet Ring of Ice Queen",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33768,
+            "level": 10,
+            "icon": 2681,
+            "name": "Signet Ring of Ice Queen",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33769,
+            "level": 15,
+            "icon": 2682,
+            "name": "Great Signet Ring of Ice Queen",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33770,
+            "level": 20,
+            "icon": 2682,
+            "name": "Powerful Signet Ring of Ice Queen",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33771,
+            "level": 25,
+            "icon": 2682,
+            "name": "Legendary Signet Ring of Ice Queen",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33772,
+            "level": 30,
+            "icon": 2682,
+            "name": "All-Mighty Signet Ring of Ice Queen",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33773,
+            "level": 5,
+            "icon": 3141,
+            "name": "Small Signet Ring of Aquilon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33774,
+            "level": 10,
+            "icon": 3141,
+            "name": "Signet Ring of Aquilon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33775,
+            "level": 15,
+            "icon": 3141,
+            "name": "Great Signet Ring of Aquilon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33776,
+            "level": 20,
+            "icon": 3141,
+            "name": "Powerful Signet Ring of Aquilon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33777,
+            "level": 25,
+            "icon": 3141,
+            "name": "Legendary Signet Ring of Aquilon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33778,
+            "level": 30,
+            "icon": 3141,
+            "name": "All-Mighty Signet Ring of Aquilon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34504,
+            "level": 32,
+            "icon": 1157,
+            "name": "Ring of Inscrutability",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 34505,
+            "level": 32,
+            "icon": 1157,
+            "name": "Signet-Ring of Inscrutability",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 34506,
+            "level": 32,
+            "icon": 1157,
+            "name": "Signet of Inscrutability",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 34507,
+            "level": 32,
+            "icon": 1157,
+            "name": "Circle of Inscrutability",
+            "itemType": 10,
+            "color": 2
+        },
+        {
+            "id": 34512,
+            "level": 32,
+            "icon": 1187,
+            "name": "Ring of Inaccessibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34513,
+            "level": 32,
+            "icon": 1187,
+            "name": "Signet of Inaccessibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34518,
+            "level": 32,
+            "icon": 3206,
+            "name": "Ring of Transcendence",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34519,
+            "level": 32,
+            "icon": 3205,
+            "name": "Signet of Transcendence",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34589,
+            "level": 32,
+            "icon": 5700,
+            "name": "Magic Ring of Invincibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34590,
+            "level": 32,
+            "icon": 5700,
+            "name": "Bewitching Ring of Invincibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34591,
+            "level": 32,
+            "icon": 5700,
+            "name": "Magic Signet-Ring of Invincibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34592,
+            "level": 32,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Invincibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34593,
+            "level": 32,
+            "icon": 5700,
+            "name": "Magic Signet of Invincibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34594,
+            "level": 32,
+            "icon": 5700,
+            "name": "Bewitching Signet of Invincibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34595,
+            "level": 32,
+            "icon": 5700,
+            "name": "Magic Circle of Invincibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34596,
+            "level": 32,
+            "icon": 5700,
+            "name": "Bewitching Circle of Invincibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34613,
+            "level": 6,
+            "icon": 5700,
+            "name": "Bewitching Ring of Daring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34614,
+            "level": 6,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Daring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34615,
+            "level": 6,
+            "icon": 5700,
+            "name": "Bewitching Signet of Daring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34616,
+            "level": 6,
+            "icon": 5700,
+            "name": "Bewitching Circle of Daring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34625,
+            "level": 10,
+            "icon": 5700,
+            "name": "Bewitching Ring of Boldness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34626,
+            "level": 10,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Boldness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34627,
+            "level": 10,
+            "icon": 5700,
+            "name": "Bewitching Signet of Boldness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34628,
+            "level": 10,
+            "icon": 5700,
+            "name": "Bewitching Circle of Boldness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34637,
+            "level": 12,
+            "icon": 5700,
+            "name": "Bewitching Ring of Devotion",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34638,
+            "level": 12,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Devotion",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34639,
+            "level": 12,
+            "icon": 5700,
+            "name": "Bewitching Signet of Devotion",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34640,
+            "level": 12,
+            "icon": 5700,
+            "name": "Bewitching Circle of Devotion",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34649,
+            "level": 14,
+            "icon": 5700,
+            "name": "Bewitching Ring of Bravery",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34650,
+            "level": 14,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Bravery",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34651,
+            "level": 14,
+            "icon": 5700,
+            "name": "Bewitching Signet of Bravery",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34652,
+            "level": 14,
+            "icon": 5700,
+            "name": "Bewitching Circle of Bravery",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34661,
+            "level": 16,
+            "icon": 5700,
+            "name": "Bewitching Ring of Magnanimity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34662,
+            "level": 16,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Magnanimity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34663,
+            "level": 16,
+            "icon": 5700,
+            "name": "Bewitching Signet of Magnanimity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34664,
+            "level": 16,
+            "icon": 5700,
+            "name": "Bewitching Circle of Magnanimity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34673,
+            "level": 18,
+            "icon": 5700,
+            "name": "Bewitching Ring of Nobleness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34674,
+            "level": 18,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Nobleness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34675,
+            "level": 18,
+            "icon": 5700,
+            "name": "Bewitching Signet of Nobleness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34676,
+            "level": 18,
+            "icon": 5700,
+            "name": "Bewitching Circle of Nobleness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34685,
+            "level": 20,
+            "icon": 5700,
+            "name": "Bewitching Ring of Justice",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34686,
+            "level": 20,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Justice",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34687,
+            "level": 20,
+            "icon": 5700,
+            "name": "Bewitching Signet of Justice",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34688,
+            "level": 20,
+            "icon": 5700,
+            "name": "Bewitching Circle of Justice",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34697,
+            "level": 22,
+            "icon": 5700,
+            "name": "Bewitching Ring of Honor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34698,
+            "level": 22,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Honor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34699,
+            "level": 22,
+            "icon": 5700,
+            "name": "Bewitching Signet of Honor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34700,
+            "level": 22,
+            "icon": 5700,
+            "name": "Bewitching Circle of Honor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34709,
+            "level": 24,
+            "icon": 5700,
+            "name": "Bewitching Ring of Valor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34710,
+            "level": 24,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Valor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34711,
+            "level": 24,
+            "icon": 5700,
+            "name": "Bewitching Signet of Valor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34712,
+            "level": 24,
+            "icon": 5700,
+            "name": "Bewitching Circle of Valor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34721,
+            "level": 26,
+            "icon": 5700,
+            "name": "Bewitching Ring of Fearlessness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34722,
+            "level": 26,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Fearlessness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34723,
+            "level": 26,
+            "icon": 5700,
+            "name": "Bewitching Signet of Fearlessness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34724,
+            "level": 26,
+            "icon": 5700,
+            "name": "Bewitching Circle of Fearlessness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34733,
+            "level": 28,
+            "icon": 5700,
+            "name": "Bewitching Ring of Courage",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34734,
+            "level": 28,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Courage",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34735,
+            "level": 28,
+            "icon": 5700,
+            "name": "Bewitching Signet of Courage",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34736,
+            "level": 28,
+            "icon": 5700,
+            "name": "Bewitching Circle of Courage",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34745,
+            "level": 30,
+            "icon": 5700,
+            "name": "Bewitching Ring of Fortitude",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34746,
+            "level": 30,
+            "icon": 5700,
+            "name": "Bewitching Signet-Ring of Fortitude",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34747,
+            "level": 30,
+            "icon": 5700,
+            "name": "Bewitching Signet of Fortitude",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34748,
+            "level": 30,
+            "icon": 5700,
+            "name": "Bewitching Circle of Fortitude",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35162,
+            "level": 32,
+            "icon": 4466,
+            "name": "Ring of the Monumental Milestone",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35163,
+            "level": 32,
+            "icon": 4466,
+            "name": "Ancient Ring of the Monumental Milestone",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35164,
+            "level": 32,
+            "icon": 4466,
+            "name": "Sacred Ring of the Monumental Milestone",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35165,
+            "level": 32,
+            "icon": 4466,
+            "name": "Signet of the Monumental Milestone",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35166,
+            "level": 32,
+            "icon": 4466,
+            "name": "Ancient Signet of the Monumental Milestone",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35167,
+            "level": 32,
+            "icon": 4466,
+            "name": "Signet Ring of the Monumental Milestone",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35168,
+            "level": 32,
+            "icon": 4466,
+            "name": "Ancient Signet Ring of the Monumental Milestone",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35169,
+            "level": 32,
+            "icon": 4466,
+            "name": "Sacred Signet Ring of the Monumental Milestone",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35170,
+            "level": 32,
+            "icon": 4466,
+            "name": "Limb of the Monumental Milestone",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35171,
+            "level": 32,
+            "icon": 4466,
+            "name": "Ancient Limb of the Monumental Milestone",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35192,
+            "level": 18,
+            "icon": 4466,
+            "name": "Sacred Ring of Beautiful Season",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35193,
+            "level": 20,
+            "icon": 4466,
+            "name": "Sacred Ring of the Glorious Times",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35194,
+            "level": 22,
+            "icon": 4466,
+            "name": "Sacred Ring of the Magical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35195,
+            "level": 24,
+            "icon": 4466,
+            "name": "Sacred Ring of the Golden Age",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35196,
+            "level": 26,
+            "icon": 4466,
+            "name": "Sacred Ring of Greater Times",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35197,
+            "level": 28,
+            "icon": 4466,
+            "name": "Sacred Ring of the Legendary Period",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35198,
+            "level": 30,
+            "icon": 4466,
+            "name": "Sacred Ring of the Grand Millennium",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35199,
+            "level": 18,
+            "icon": 4466,
+            "name": "Sacred Signet Ring of Beautiful Season",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35200,
+            "level": 20,
+            "icon": 4466,
+            "name": "Sacred Signet Ring of the Glorious Times",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35201,
+            "level": 22,
+            "icon": 4466,
+            "name": "Sacred Signet Ring of the Magical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35202,
+            "level": 24,
+            "icon": 4466,
+            "name": "Sacred Signet Ring of the Golden Age",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35203,
+            "level": 26,
+            "icon": 4466,
+            "name": "Sacred Signet Ring of Greater Times",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35204,
+            "level": 28,
+            "icon": 4466,
+            "name": "Sacred Signet Ring of the Legendary Period",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35205,
+            "level": 30,
+            "icon": 4466,
+            "name": "Sacred Signet Ring of the Grand Millennium",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35300,
+            "level": 31,
+            "icon": 1157,
+            "name": "Ring of the Sorcerers of the Pirate Brotherhood",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35301,
+            "level": 31,
+            "icon": 1157,
+            "name": "Ring of the Spellweavers of the Pirate Brotherhood",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35302,
+            "level": 31,
+            "icon": 1157,
+            "name": "Signet Ring of the Warriors of the Pirate Brotherhood",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35303,
+            "level": 31,
+            "icon": 1157,
+            "name": "Signet Ring of the Assassins of the Pirate Brotherhood",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35304,
+            "level": 31,
+            "icon": 1157,
+            "name": "Limb of the Defenders of the Pirate Brotherhood",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35305,
+            "level": 31,
+            "icon": 1157,
+            "name": "Limb of the Templars of the Pirate Brotherhood",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35639,
+            "level": 19,
+            "icon": 1154,
+            "name": "Limb of Heavenly Chaos",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35643,
+            "level": 32,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35644,
+            "level": 32,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35649,
+            "level": 32,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35650,
+            "level": 32,
+            "icon": 3655,
+            "name": "Contender's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36156,
+            "level": 6,
+            "icon": 6554,
+            "name": "Mystic Ring of the Blind Outlaw",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36157,
+            "level": 10,
+            "icon": 6554,
+            "name": "Mystic Ring of Still Heart",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36158,
+            "level": 12,
+            "icon": 6554,
+            "name": "Mystic Ring of the Unsleeping Predator",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36159,
+            "level": 14,
+            "icon": 6554,
+            "name": "Mystic Ring of Fatal Mistake",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36160,
+            "level": 16,
+            "icon": 6554,
+            "name": "Mystic Ring of Sinful Call",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36161,
+            "level": 18,
+            "icon": 6554,
+            "name": "Mystic Ring of Deadly Game",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36162,
+            "level": 20,
+            "icon": 6554,
+            "name": "Mystic Ring of the Damned Heir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36163,
+            "level": 22,
+            "icon": 6554,
+            "name": "Mystic Ring of the Distracted Apostate",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36164,
+            "level": 24,
+            "icon": 6554,
+            "name": "Mystic Ring of the Night Visitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36165,
+            "level": 26,
+            "icon": 6554,
+            "name": "Mystic Ring of the Bloody Earl",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36166,
+            "level": 28,
+            "icon": 6554,
+            "name": "Mystic Ring of the Crazy King",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36167,
+            "level": 30,
+            "icon": 6554,
+            "name": "Mystic Ring of Merciless Torturer",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36168,
+            "level": 32,
+            "icon": 6554,
+            "name": "Mystic Ring of Bloodthirsty Inquisitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36170,
+            "level": 6,
+            "icon": 6554,
+            "name": "Demonic Ring of the Blind Outlaw",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36171,
+            "level": 10,
+            "icon": 6554,
+            "name": "Demonic Ring of Still Heart",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36172,
+            "level": 12,
+            "icon": 6554,
+            "name": "Demonic Ring of the Unsleeping Predator",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36173,
+            "level": 14,
+            "icon": 6554,
+            "name": "Demonic Ring of Fatal Mistake",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36174,
+            "level": 16,
+            "icon": 6554,
+            "name": "Demonic Ring of Sinful Call",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36175,
+            "level": 18,
+            "icon": 6554,
+            "name": "Demonic Ring of Deadly Game",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36176,
+            "level": 20,
+            "icon": 6554,
+            "name": "Demonic Ring of the Damned Heir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36177,
+            "level": 22,
+            "icon": 6554,
+            "name": "Demonic Ring of the Distracted Apostate",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36178,
+            "level": 24,
+            "icon": 6554,
+            "name": "Demonic Ring of the Night Visitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36179,
+            "level": 26,
+            "icon": 6554,
+            "name": "Demonic Ring of the Bloody Earl",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36180,
+            "level": 28,
+            "icon": 6554,
+            "name": "Demonic Ring of the Crazy King",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36181,
+            "level": 30,
+            "icon": 6554,
+            "name": "Demonic Ring of Merciless Torturer",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36182,
+            "level": 32,
+            "icon": 6554,
+            "name": "Demonic Ring of Bloodthirsty Inquisitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36183,
+            "level": 6,
+            "icon": 6554,
+            "name": "Mystic Signet of the Blind Outlaw",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36184,
+            "level": 10,
+            "icon": 6554,
+            "name": "Mystic Signet of Still Heart",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36185,
+            "level": 12,
+            "icon": 6554,
+            "name": "Mystic Signet of the Unsleeping Predator",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36186,
+            "level": 14,
+            "icon": 6554,
+            "name": "Mystic Signet of Fatal Mistake",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36187,
+            "level": 16,
+            "icon": 6554,
+            "name": "Mystic Signet of Sinful Call",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36188,
+            "level": 18,
+            "icon": 6554,
+            "name": "Mystic Signet of Deadly Game",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36189,
+            "level": 20,
+            "icon": 6554,
+            "name": "Mystic Signet of the Damned Heir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36190,
+            "level": 22,
+            "icon": 6554,
+            "name": "Mystic Signet of the Distracted Apostate",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36191,
+            "level": 24,
+            "icon": 6554,
+            "name": "Mystic Signet of the Night Visitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36192,
+            "level": 26,
+            "icon": 6554,
+            "name": "Mystic Signet of the Bloody Earl",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36193,
+            "level": 28,
+            "icon": 6554,
+            "name": "Mystic Signet of the Crazy King",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36194,
+            "level": 30,
+            "icon": 6554,
+            "name": "Mystic Signet of Merciless Torturer",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36195,
+            "level": 32,
+            "icon": 6554,
+            "name": "Mystic Signet of Bloodthirsty Inquisitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36196,
+            "level": 6,
+            "icon": 6554,
+            "name": "Demonic Signet of the Blind Outlaw",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36197,
+            "level": 10,
+            "icon": 6554,
+            "name": "Demonic Signet of Still Heart",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36198,
+            "level": 12,
+            "icon": 6554,
+            "name": "Demonic Signet of the Unsleeping Predator",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36199,
+            "level": 14,
+            "icon": 6554,
+            "name": "Demonic Signet of Fatal Mistake",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36200,
+            "level": 16,
+            "icon": 6554,
+            "name": "Demonic Signet of Sinful Call",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36201,
+            "level": 18,
+            "icon": 6554,
+            "name": "Demonic Signet of Deadly Game",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36202,
+            "level": 20,
+            "icon": 6554,
+            "name": "Demonic Signet of the Damned Heir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36203,
+            "level": 22,
+            "icon": 6554,
+            "name": "Demonic Signet of the Distracted Apostate",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36204,
+            "level": 24,
+            "icon": 6554,
+            "name": "Demonic Signet of the Night Visitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36205,
+            "level": 26,
+            "icon": 6554,
+            "name": "Demonic Signet of the Bloody Earl",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36206,
+            "level": 28,
+            "icon": 6554,
+            "name": "Demonic Signet of the Crazy King",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36207,
+            "level": 30,
+            "icon": 6554,
+            "name": "Demonic Signet of Merciless Torturer",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36208,
+            "level": 32,
+            "icon": 6554,
+            "name": "Demonic Signet of Bloodthirsty Inquisitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36209,
+            "level": 6,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of the Blind Outlaw",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36210,
+            "level": 10,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of Still Heart",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36211,
+            "level": 12,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of the Unsleeping Predator",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36212,
+            "level": 14,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of Fatal Mistake",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36213,
+            "level": 16,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of Sinful Call",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36214,
+            "level": 18,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of Deadly Game",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36215,
+            "level": 20,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of the Damned Heir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36216,
+            "level": 22,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of the Distracted Apostate",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36217,
+            "level": 24,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of the Night Visitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36218,
+            "level": 26,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of the Bloody Earl",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36219,
+            "level": 28,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of the Crazy King",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36220,
+            "level": 30,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of Merciless Torturer",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36221,
+            "level": 32,
+            "icon": 6554,
+            "name": "Mystic Signet-Ring of Bloodthirsty Inquisitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36222,
+            "level": 6,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of the Blind Outlaw",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36223,
+            "level": 10,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of Still Heart",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36224,
+            "level": 12,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of the Unsleeping Predator",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36225,
+            "level": 14,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of Fatal Mistake",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36226,
+            "level": 16,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of Sinful Call",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36227,
+            "level": 18,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of Deadly Game",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36228,
+            "level": 20,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of the Damned Heir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36229,
+            "level": 22,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of the Distracted Apostate",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36230,
+            "level": 24,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of the Night Visitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36231,
+            "level": 26,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of the Bloody Earl",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36232,
+            "level": 28,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of the Crazy King",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36233,
+            "level": 30,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of Merciless Torturer",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36234,
+            "level": 32,
+            "icon": 6554,
+            "name": "Demonic Signet-Ring of Bloodthirsty Inquisitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36235,
+            "level": 6,
+            "icon": 6554,
+            "name": "Mystic Circle of the Blind Outlaw",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36236,
+            "level": 10,
+            "icon": 6554,
+            "name": "Mystic Circle of Still Heart",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36237,
+            "level": 12,
+            "icon": 6554,
+            "name": "Mystic Circle of the Unsleeping Predator",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36238,
+            "level": 14,
+            "icon": 6554,
+            "name": "Mystic Circle of Fatal Mistake",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36239,
+            "level": 16,
+            "icon": 6554,
+            "name": "Mystic Circle of Sinful Call",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36240,
+            "level": 18,
+            "icon": 6554,
+            "name": "Mystic Circle of Deadly Game",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36241,
+            "level": 20,
+            "icon": 6554,
+            "name": "Mystic Circle of the Damned Heir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36242,
+            "level": 22,
+            "icon": 6554,
+            "name": "Mystic Circle of the Distracted Apostate",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36243,
+            "level": 24,
+            "icon": 6554,
+            "name": "Mystic Circle of the Night Visitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36244,
+            "level": 26,
+            "icon": 6554,
+            "name": "Mystic Circle of the Bloody Earl",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36245,
+            "level": 28,
+            "icon": 6554,
+            "name": "Mystic Circle of the Crazy King",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36246,
+            "level": 30,
+            "icon": 6554,
+            "name": "Mystic Circle of Merciless Torturer",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36247,
+            "level": 32,
+            "icon": 6554,
+            "name": "Mystic Circle of Bloodthirsty Inquisitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36248,
+            "level": 6,
+            "icon": 6554,
+            "name": "Demonic Circle of the Blind Outlaw",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36249,
+            "level": 10,
+            "icon": 6554,
+            "name": "Demonic Circle of Still Heart",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36250,
+            "level": 12,
+            "icon": 6554,
+            "name": "Demonic Circle of the Unsleeping Predator",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36251,
+            "level": 14,
+            "icon": 6554,
+            "name": "Demonic Circle of Fatal Mistake",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36252,
+            "level": 16,
+            "icon": 6554,
+            "name": "Demonic Circle of Sinful Call",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36253,
+            "level": 18,
+            "icon": 6554,
+            "name": "Demonic Circle of Deadly Game",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36254,
+            "level": 20,
+            "icon": 6554,
+            "name": "Demonic Circle of the Damned Heir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36255,
+            "level": 22,
+            "icon": 6554,
+            "name": "Demonic Circle of the Distracted Apostate",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36256,
+            "level": 24,
+            "icon": 6554,
+            "name": "Demonic Circle of the Night Visitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36257,
+            "level": 26,
+            "icon": 6554,
+            "name": "Demonic Circle of the Bloody Earl",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36258,
+            "level": 28,
+            "icon": 6554,
+            "name": "Demonic Circle of the Crazy King",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36259,
+            "level": 30,
+            "icon": 6554,
+            "name": "Demonic Circle of Merciless Torturer",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36260,
+            "level": 32,
+            "icon": 6554,
+            "name": "Demonic Circle of Bloodthirsty Inquisitor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36716,
+            "level": 6,
+            "icon": 5539,
+            "name": "Storm Signet of Iceman",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36717,
+            "level": 10,
+            "icon": 5539,
+            "name": "Storm Signet of Ragnar",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36718,
+            "level": 12,
+            "icon": 5539,
+            "name": "Storm Signet of Frosty Fang",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36719,
+            "level": 14,
+            "icon": 5539,
+            "name": "Storm Signet of Mastodon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36720,
+            "level": 16,
+            "icon": 5539,
+            "name": "Storm Signet of Taron",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36721,
+            "level": 18,
+            "icon": 5539,
+            "name": "Storm Signet of Kerula",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36722,
+            "level": 20,
+            "icon": 5539,
+            "name": "Storm Signet of Gimir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36723,
+            "level": 22,
+            "icon": 5539,
+            "name": "Storm Signet of Flavius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36724,
+            "level": 24,
+            "icon": 5539,
+            "name": "Storm Signet of Ruberius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36725,
+            "level": 26,
+            "icon": 5539,
+            "name": "Storm Signet of Mortis",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36726,
+            "level": 28,
+            "icon": 5539,
+            "name": "Storm Signet of the Snow General",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36727,
+            "level": 30,
+            "icon": 5539,
+            "name": "Storm Signet of Chernobog",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36728,
+            "level": 32,
+            "icon": 5539,
+            "name": "Storm Signet of Titan",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36729,
+            "level": 6,
+            "icon": 5539,
+            "name": "Storm Limb of Iceman",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36730,
+            "level": 10,
+            "icon": 5539,
+            "name": "Storm Limb of Ragnar",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36731,
+            "level": 12,
+            "icon": 5539,
+            "name": "Storm Limb of Frosty Fang",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36732,
+            "level": 14,
+            "icon": 5539,
+            "name": "Storm Limb of Mastodon",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36733,
+            "level": 16,
+            "icon": 5539,
+            "name": "Storm Limb of Taron",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36734,
+            "level": 18,
+            "icon": 5539,
+            "name": "Storm Limb of Kerula",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36735,
+            "level": 20,
+            "icon": 5539,
+            "name": "Storm Limb of Gimir",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36736,
+            "level": 22,
+            "icon": 5539,
+            "name": "Storm Limb of Flavius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36737,
+            "level": 24,
+            "icon": 5539,
+            "name": "Storm Limb of Ruberius",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36738,
+            "level": 26,
+            "icon": 5539,
+            "name": "Storm Limb of Mortis",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36739,
+            "level": 28,
+            "icon": 5539,
+            "name": "Storm Limb of the Snow General",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36740,
+            "level": 30,
+            "icon": 5539,
+            "name": "Storm Limb of Chernobog",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36741,
+            "level": 32,
+            "icon": 5539,
+            "name": "Storm Limb of Titan",
+            "itemType": 10,
+            "color": 3
+        }
+    ]
+}

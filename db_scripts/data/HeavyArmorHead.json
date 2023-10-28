@@ -1,0 +1,2340 @@
+{
+    "list": [
+        {
+            "id": 2008,
+            "level": 12,
+            "icon": 1286,
+            "name": "Trustworthy Aventail",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 2009,
+            "level": 12,
+            "icon": 1283,
+            "name": "Trustworthy Heaume",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 2065,
+            "level": 13,
+            "icon": 1289,
+            "name": "Firm Aventail",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 2066,
+            "level": 13,
+            "icon": 1286,
+            "name": "Firm Heaume",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 2132,
+            "level": 14,
+            "icon": 1289,
+            "name": "Glorious Aventail",
+            "itemType": 5,
+            "color": 0
+        },
+        {
+            "id": 2168,
+            "level": 12,
+            "icon": 1286,
+            "name": "Glorious \u0421apeline",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 2169,
+            "level": 15,
+            "icon": 1289,
+            "name": "Glorious Heaume",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 2212,
+            "level": 15,
+            "icon": 1289,
+            "name": "Fine Heaume",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 2294,
+            "level": 15,
+            "icon": 1304,
+            "name": "Helm of Berengar's guard",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 2295,
+            "level": 15,
+            "icon": 1295,
+            "name": "Aventail of Berengar's Endurance",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 2348,
+            "level": 15,
+            "icon": 1880,
+            "name": "Heaume of Fighter",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4259,
+            "level": 16,
+            "icon": 1286,
+            "name": "Blue Aventail of Bodyguard",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4260,
+            "level": 16,
+            "icon": 1286,
+            "name": "Green Aventail of Bodyguard",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4261,
+            "level": 16,
+            "icon": 1286,
+            "name": "Violet Aventail of Bodyguard",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4262,
+            "level": 16,
+            "icon": 1286,
+            "name": "Red Aventail of Bodyguard",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4263,
+            "level": 16,
+            "icon": 1286,
+            "name": "Orange Aventail of Bodyguard",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4264,
+            "level": 16,
+            "icon": 1843,
+            "name": "Blue Aventail of Sergeant",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4265,
+            "level": 16,
+            "icon": 1843,
+            "name": "Green Aventail of Sergeant",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4266,
+            "level": 16,
+            "icon": 1843,
+            "name": "Violet Aventail of Sergeant",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4267,
+            "level": 16,
+            "icon": 1843,
+            "name": "Red Aventail of Sergeant",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4268,
+            "level": 16,
+            "icon": 1843,
+            "name": "Orange Aventail of Sergeant",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4418,
+            "level": 16,
+            "icon": 1307,
+            "name": "Blue Helm of Berserker",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4419,
+            "level": 16,
+            "icon": 1307,
+            "name": "Green Helm of Berserker",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4420,
+            "level": 16,
+            "icon": 1307,
+            "name": "Violet Helmet of Berserker",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4421,
+            "level": 16,
+            "icon": 1307,
+            "name": "Red Helm of Berserker",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4422,
+            "level": 16,
+            "icon": 1307,
+            "name": "Orange Helm of Berserker",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4423,
+            "level": 16,
+            "icon": 1307,
+            "name": "Blue Helm of Foreman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4424,
+            "level": 16,
+            "icon": 1307,
+            "name": "Green Helm of Foreman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4425,
+            "level": 16,
+            "icon": 1307,
+            "name": "Violet Helmet of Foreman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4426,
+            "level": 16,
+            "icon": 1307,
+            "name": "Red Helm of Foreman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4427,
+            "level": 16,
+            "icon": 1307,
+            "name": "Orange Helm of Foreman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4479,
+            "level": 5,
+            "icon": 1280,
+            "name": "Used Heaume",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 4480,
+            "level": 9,
+            "icon": 1283,
+            "name": "Tempered Heaume",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 5196,
+            "level": 1,
+            "icon": 1286,
+            "name": "Novice's Mail Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 5789,
+            "level": 7,
+            "icon": 1307,
+            "name": "Helmet of Beginner Fighter",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 5824,
+            "level": 13,
+            "icon": 1843,
+            "name": "Headgear of Young Fighter",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 6372,
+            "level": 17,
+            "icon": 1301,
+            "name": "Desert Wanderer's Helm",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 6472,
+            "level": 18,
+            "icon": 1304,
+            "name": "Aventail of Heroic Endurance",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 6477,
+            "level": 18,
+            "icon": 1304,
+            "name": "Heaume of Divine Defence",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 11001,
+            "level": 17,
+            "icon": 1307,
+            "name": "Champion Heaume",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 11240,
+            "level": 17,
+            "icon": 1283,
+            "name": "Everlasting Winter Heaume",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13589,
+            "level": 3,
+            "icon": 2745,
+            "name": "Crusader's Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13590,
+            "level": 7,
+            "icon": 2745,
+            "name": "Crusader's Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13591,
+            "level": 10,
+            "icon": 2745,
+            "name": "Crusader's Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13782,
+            "level": 10,
+            "icon": 1880,
+            "name": "Heaume of Aquilon",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13857,
+            "level": 18,
+            "icon": 2596,
+            "name": "Garaan's Heaume",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 14821,
+            "level": 10,
+            "icon": 1289,
+            "name": "Copper Helm",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 14826,
+            "level": 14,
+            "icon": 1283,
+            "name": "Gloomy Helm",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 14832,
+            "level": 16,
+            "icon": 2805,
+            "name": "Steel Helm",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 14837,
+            "level": 19,
+            "icon": 1307,
+            "name": "Berserker's Helm",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 14841,
+            "level": 10,
+            "icon": 1283,
+            "name": "Notched Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 14846,
+            "level": 14,
+            "icon": 2596,
+            "name": "Mighty Heaume",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 14852,
+            "level": 16,
+            "icon": 2596,
+            "name": "Mithril Heaume",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 14857,
+            "level": 19,
+            "icon": 1307,
+            "name": "Inferno Heaume",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 14874,
+            "level": 20,
+            "icon": 1304,
+            "name": "Crusher Asterius' Heaume",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 14926,
+            "level": 20,
+            "icon": 1286,
+            "name": "Aventail of the Golden Dawn",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 14930,
+            "level": 20,
+            "icon": 1307,
+            "name": "Tophelm of the Dark Skies",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 14998,
+            "level": 19,
+            "icon": 2596,
+            "name": "Heaume of Brave Warrior",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15042,
+            "level": 10,
+            "icon": 1283,
+            "name": "Heaume of Full Moon",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15044,
+            "level": 14,
+            "icon": 1286,
+            "name": "Heaume of Northern Chieftains",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15048,
+            "level": 16,
+            "icon": 1289,
+            "name": "Aventail of Frozen Fire",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15050,
+            "level": 19,
+            "icon": 2596,
+            "name": "Aventail of Deep Lord",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15089,
+            "level": 20,
+            "icon": 1307,
+            "name": "Heaume of Fierce Filth",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15300,
+            "level": 21,
+            "icon": 2596,
+            "name": "Dark Guard Heaume",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15604,
+            "level": 9,
+            "icon": 1283,
+            "name": "Tempered Helm",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 16926,
+            "level": 22,
+            "icon": 1307,
+            "name": "Horned Helm of the Bloody Jarl",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 16931,
+            "level": 22,
+            "icon": 1307,
+            "name": "Horned Helm of the Die-Hard Huskarl",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 16956,
+            "level": 21,
+            "icon": 3262,
+            "name": "Heaume of Kronus the Champion",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17254,
+            "level": 21,
+            "icon": 1307,
+            "name": "Heaume of the Indomitable One",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 17560,
+            "level": 22,
+            "icon": 1304,
+            "name": "Heaume of Forest Power",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 17600,
+            "level": 6,
+            "icon": 3369,
+            "name": "Heaume of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17604,
+            "level": 10,
+            "icon": 3369,
+            "name": "Heaume of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17608,
+            "level": 14,
+            "icon": 3369,
+            "name": "Heaume of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17612,
+            "level": 16,
+            "icon": 3369,
+            "name": "Heaume of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17616,
+            "level": 18,
+            "icon": 3369,
+            "name": "Heaume of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17620,
+            "level": 20,
+            "icon": 3369,
+            "name": "Heaume of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17624,
+            "level": 22,
+            "icon": 3369,
+            "name": "Heaume of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17628,
+            "level": 24,
+            "icon": 3369,
+            "name": "Heaume of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17632,
+            "level": 26,
+            "icon": 3369,
+            "name": "Heaume of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 18038,
+            "level": 14,
+            "icon": 4582,
+            "name": "Mask of Raider Hans",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18039,
+            "level": 18,
+            "icon": 4582,
+            "name": "Mask of Raider Hans",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18040,
+            "level": 22,
+            "icon": 4582,
+            "name": "Mask of Raider Hans",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18041,
+            "level": 24,
+            "icon": 4582,
+            "name": "Mask of Raider Hans",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18042,
+            "level": 14,
+            "icon": 4583,
+            "name": "Mask of Patched Sammy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18043,
+            "level": 18,
+            "icon": 4583,
+            "name": "Mask of Patched Sammy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18044,
+            "level": 22,
+            "icon": 4583,
+            "name": "Mask of Patched Sammy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18045,
+            "level": 24,
+            "icon": 4583,
+            "name": "Mask of Patched Sammy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18521,
+            "level": 10,
+            "icon": 3507,
+            "name": "Eternal Life Heaume",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18525,
+            "level": 12,
+            "icon": 3507,
+            "name": "Heaume of Immeasurable Stamina",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18529,
+            "level": 14,
+            "icon": 3507,
+            "name": "Iron Health Heaume",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18533,
+            "level": 16,
+            "icon": 3507,
+            "name": "Heaume of Inexhaustible Strength",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18537,
+            "level": 18,
+            "icon": 3507,
+            "name": "Heaume of Endless Perseverance",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18541,
+            "level": 20,
+            "icon": 3507,
+            "name": "Heaume of Inexhaustible Perseverance",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18545,
+            "level": 22,
+            "icon": 3507,
+            "name": "Infinite Reliability Heaume",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18549,
+            "level": 10,
+            "icon": 1280,
+            "name": "Plate Heaume",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18553,
+            "level": 12,
+            "icon": 1280,
+            "name": "Notched Heaume",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18559,
+            "level": 16,
+            "icon": 1283,
+            "name": "Steel Heaume",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18563,
+            "level": 18,
+            "icon": 1289,
+            "name": "Mithril Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18567,
+            "level": 20,
+            "icon": 1307,
+            "name": "Inferno Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18571,
+            "level": 22,
+            "icon": 1307,
+            "name": "Consecrated Heaume",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18575,
+            "level": 10,
+            "icon": 1289,
+            "name": "Aventail of Full Moon",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18579,
+            "level": 12,
+            "icon": 1304,
+            "name": "Reinforced Heaume",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18585,
+            "level": 16,
+            "icon": 1304,
+            "name": "Durable Heaume",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18589,
+            "level": 18,
+            "icon": 1283,
+            "name": "Heaume of Frozen Fire",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18592,
+            "level": 20,
+            "icon": 1307,
+            "name": "Heaume of Deep Lord",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18594,
+            "level": 22,
+            "icon": 1307,
+            "name": "Divine Protection Heaume",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 19161,
+            "level": 24,
+            "icon": 1307,
+            "name": "Helm of Cruelty",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 19165,
+            "level": 24,
+            "icon": 1307,
+            "name": "Heaume of Righteous Anger",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 19169,
+            "level": 24,
+            "icon": 3507,
+            "name": "Heaume of Blind Fury",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 19203,
+            "level": 23,
+            "icon": 1307,
+            "name": "Heaume of the Templar",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 19216,
+            "level": 23,
+            "icon": 1304,
+            "name": "Heaume of the Tree Defender",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 19227,
+            "level": 25,
+            "icon": 1304,
+            "name": "Heaume of the Warrior Mechanic",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20110,
+            "level": 26,
+            "icon": 4582,
+            "name": "Mask of Raider Hans",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20111,
+            "level": 26,
+            "icon": 4583,
+            "name": "Mask of Patched Sammy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20414,
+            "level": 6,
+            "icon": 3779,
+            "name": "Fur hat of the Borean Warlock",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20420,
+            "level": 10,
+            "icon": 3779,
+            "name": "Veil Guard's Fur hat",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20432,
+            "level": 12,
+            "icon": 3779,
+            "name": "Fur hat of the Snow Prisoner",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20438,
+            "level": 14,
+            "icon": 3779,
+            "name": "Fur hat of the Northern Oracle",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20450,
+            "level": 16,
+            "icon": 3779,
+            "name": "Fur hat of the Polar Hierophant",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20456,
+            "level": 18,
+            "icon": 3779,
+            "name": "Fur Hat of the Vortex Spellweaver",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20462,
+            "level": 20,
+            "icon": 3779,
+            "name": "Fur Hat of the Ice Recluse",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20468,
+            "level": 22,
+            "icon": 3779,
+            "name": "Fur hat of the Faceless Heir",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20480,
+            "level": 24,
+            "icon": 3779,
+            "name": "Fur Hat of the Storm Tamer",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20492,
+            "level": 26,
+            "icon": 3779,
+            "name": "Fur Hat of the Whitefaced Demiurge",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 21041,
+            "level": 25,
+            "icon": 1307,
+            "name": "Heaume of Great Ironclad",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 21109,
+            "level": 26,
+            "icon": 1307,
+            "name": "Spooky Heaume",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 21113,
+            "level": 26,
+            "icon": 1307,
+            "name": "Dark Flame Heaume",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 21117,
+            "level": 26,
+            "icon": 3507,
+            "name": "Heaume of the Captive Souls",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 21429,
+            "level": 3,
+            "icon": 1280,
+            "name": "Plain Heavy Greathelm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 21434,
+            "level": 6,
+            "icon": 1280,
+            "name": "Shabby Heavy Greathelm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 22202,
+            "level": 6,
+            "icon": 4230,
+            "name": "Winter Heaume of Iceman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22203,
+            "level": 6,
+            "icon": 4230,
+            "name": "Winter Aventail of Iceman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22226,
+            "level": 10,
+            "icon": 4230,
+            "name": "Winter Heaume of Ragnar",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22227,
+            "level": 10,
+            "icon": 4230,
+            "name": "Winter Aventail of Ragnar",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22250,
+            "level": 12,
+            "icon": 4230,
+            "name": "Winter Heaume of Frosty Fang",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22251,
+            "level": 12,
+            "icon": 4230,
+            "name": "Winter Aventail of Frosty Fang",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22274,
+            "level": 14,
+            "icon": 4230,
+            "name": "Winter Heaume of Mastodon",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22275,
+            "level": 14,
+            "icon": 4230,
+            "name": "Winter Aventail of Mastodon",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22298,
+            "level": 16,
+            "icon": 4230,
+            "name": "Winter Heaume of Taron",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22299,
+            "level": 16,
+            "icon": 4230,
+            "name": "Winter Aventail of Taron",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22316,
+            "level": 18,
+            "icon": 4230,
+            "name": "Winter Heaume of Kerula",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22317,
+            "level": 18,
+            "icon": 4230,
+            "name": "Winter Aventail of Kerula",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22346,
+            "level": 20,
+            "icon": 4230,
+            "name": "Winter Heaume of Gimir",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22347,
+            "level": 20,
+            "icon": 4230,
+            "name": "Winter Aventail of Gimir",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22370,
+            "level": 22,
+            "icon": 4230,
+            "name": "Winter Heaume of Flavius",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22371,
+            "level": 22,
+            "icon": 4230,
+            "name": "Winter Aventail of Flavius",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22394,
+            "level": 24,
+            "icon": 4230,
+            "name": "Winter Heaume of Ruberius",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22395,
+            "level": 24,
+            "icon": 4230,
+            "name": "Winter Aventail of Ruberius",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22418,
+            "level": 26,
+            "icon": 4230,
+            "name": "Winter Heaume of Mortis",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22419,
+            "level": 26,
+            "icon": 4230,
+            "name": "Winter Aventail of Mortis",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 23381,
+            "level": 20,
+            "icon": 4473,
+            "name": "Aventail of Defenders of the Sacred Forest",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23385,
+            "level": 20,
+            "icon": 4474,
+            "name": "Heaume of Defenders of the Dominant Coalition",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23389,
+            "level": 22,
+            "icon": 4473,
+            "name": "Aventail of Defenders of the Pyramid Valley",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23393,
+            "level": 22,
+            "icon": 4474,
+            "name": "Heaume of Defenders of the Mighty Alliance",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23397,
+            "level": 24,
+            "icon": 4473,
+            "name": "Aventail of Defenders of the Black Oak Forest",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23401,
+            "level": 24,
+            "icon": 4474,
+            "name": "Heaume of Defenders of the Legendary Brotherhood",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23405,
+            "level": 26,
+            "icon": 4473,
+            "name": "Aventail of Defenders of the Flying Islands",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23409,
+            "level": 26,
+            "icon": 4474,
+            "name": "Heaume of Defenders of the Immortal Order",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23504,
+            "level": 25,
+            "icon": 1304,
+            "name": "Aventail of the Forest Defenders",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 23533,
+            "level": 27,
+            "icon": 1307,
+            "name": "Camail of the Engineer Defender",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 23629,
+            "level": 27,
+            "icon": 1307,
+            "name": "Heaume of the Gladiator Defender",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 23630,
+            "level": 27,
+            "icon": 1307,
+            "name": "Camail of the Gladiator Defender",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 23873,
+            "level": 6,
+            "icon": 3369,
+            "name": "Aventail of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23877,
+            "level": 10,
+            "icon": 3369,
+            "name": "Aventail of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23881,
+            "level": 14,
+            "icon": 3369,
+            "name": "Aventail of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23885,
+            "level": 16,
+            "icon": 3369,
+            "name": "Aventail of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23889,
+            "level": 18,
+            "icon": 3369,
+            "name": "Aventail of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23893,
+            "level": 20,
+            "icon": 3369,
+            "name": "Aventail of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23897,
+            "level": 22,
+            "icon": 3369,
+            "name": "Aventail of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23901,
+            "level": 24,
+            "icon": 3369,
+            "name": "Aventail of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23905,
+            "level": 26,
+            "icon": 3369,
+            "name": "Aventail of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23909,
+            "level": 28,
+            "icon": 3369,
+            "name": "Aventail of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23913,
+            "level": 28,
+            "icon": 3369,
+            "name": "Heaume of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24179,
+            "level": 16,
+            "icon": 4582,
+            "name": "Mask of Raider Hans",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24181,
+            "level": 20,
+            "icon": 4582,
+            "name": "Mask of Raider Hans",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24183,
+            "level": 28,
+            "icon": 4582,
+            "name": "Mask of Raider Hans",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24185,
+            "level": 16,
+            "icon": 4583,
+            "name": "Mask of Patched Sammy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24187,
+            "level": 20,
+            "icon": 4583,
+            "name": "Mask of Patched Sammy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24189,
+            "level": 28,
+            "icon": 4583,
+            "name": "Mask of Patched Sammy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24420,
+            "level": 28,
+            "icon": 4230,
+            "name": "Winter Heaume of the Snow General",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24424,
+            "level": 28,
+            "icon": 4230,
+            "name": "Winter Aventail of the Snow General",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24436,
+            "level": 28,
+            "icon": 3779,
+            "name": "Fur Hat of the Arctic Ruler",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24462,
+            "level": 10,
+            "icon": 4633,
+            "name": "Omnipotent Heaume of Ragnar",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24466,
+            "level": 10,
+            "icon": 4633,
+            "name": "Majestic Aventail of Ragnar",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24614,
+            "level": 12,
+            "icon": 4633,
+            "name": "Omnipotent Heaume of Frosty Fang",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24615,
+            "level": 14,
+            "icon": 4633,
+            "name": "Omnipotent Heaume of Mastodon",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24616,
+            "level": 16,
+            "icon": 4633,
+            "name": "Omnipotent Heaume of Taron",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24617,
+            "level": 18,
+            "icon": 4633,
+            "name": "Omnipotent Heaume of Kerula",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24618,
+            "level": 20,
+            "icon": 4633,
+            "name": "Omnipotent Heaume of Gimir",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24619,
+            "level": 22,
+            "icon": 4633,
+            "name": "Omnipotent Heaume of Flavius",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24620,
+            "level": 24,
+            "icon": 4633,
+            "name": "Omnipotent Heaume of Ruberius",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24621,
+            "level": 26,
+            "icon": 4633,
+            "name": "Omnipotent Heaume of Mortis",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24622,
+            "level": 28,
+            "icon": 4633,
+            "name": "Omnipotent Heaume of the Snow General",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24650,
+            "level": 12,
+            "icon": 4633,
+            "name": "Majestic Aventail of Frosty Fang",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24651,
+            "level": 14,
+            "icon": 4633,
+            "name": "Majestic Aventail of the Mastodon",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24652,
+            "level": 16,
+            "icon": 4633,
+            "name": "Majestic Aventail of Taron",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24653,
+            "level": 18,
+            "icon": 4633,
+            "name": "Majestic Aventail of Kerula",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24654,
+            "level": 20,
+            "icon": 4633,
+            "name": "Majestic Aventail of Gimir",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24655,
+            "level": 22,
+            "icon": 4633,
+            "name": "Majestic Aventail of Flavius",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24656,
+            "level": 24,
+            "icon": 4633,
+            "name": "Majestic Aventail of Ruberius",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24657,
+            "level": 26,
+            "icon": 4633,
+            "name": "Majestic Aventail of Mortis",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24658,
+            "level": 28,
+            "icon": 4633,
+            "name": "Majestic Aventail of the Snow General",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 25259,
+            "level": 28,
+            "icon": 1307,
+            "name": "Heaume of Illumination",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 25264,
+            "level": 28,
+            "icon": 1307,
+            "name": "Heaume of Sinister Visions",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 25269,
+            "level": 28,
+            "icon": 3507,
+            "name": "Heaume of Sheer Emptiness",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 25940,
+            "level": 20,
+            "icon": 4474,
+            "name": "Heaume of Templars of the Dominant Coalition",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 25943,
+            "level": 22,
+            "icon": 4474,
+            "name": "Heaume of Templars of the Mighty Alliance",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 25948,
+            "level": 24,
+            "icon": 4474,
+            "name": "Heaume of Templars of the Legendary Brotherhood",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 25952,
+            "level": 26,
+            "icon": 4474,
+            "name": "Heaume of Templars of the Immortal Order",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 26302,
+            "level": 30,
+            "icon": 4965,
+            "name": "Helmet of the Diver Defender",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 26304,
+            "level": 30,
+            "icon": 4965,
+            "name": "Helmet of the Diver Templar",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 26345,
+            "level": 29,
+            "icon": 1307,
+            "name": "Aventail of the Corsair Defender",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 26349,
+            "level": 29,
+            "icon": 1307,
+            "name": "Heaume of the Corsair Templar",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 26515,
+            "level": 29,
+            "icon": 1307,
+            "name": "Heaume of the Legendary Templar",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 26516,
+            "level": 29,
+            "icon": 1307,
+            "name": "Aventail of the Legendary Templar",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27179,
+            "level": 30,
+            "icon": 4582,
+            "name": "Mask of Raider Hans",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27181,
+            "level": 30,
+            "icon": 4583,
+            "name": "Mask of Patched Sammy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27966,
+            "level": 30,
+            "icon": 4230,
+            "name": "Winter Heaume of Chernobog",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27970,
+            "level": 30,
+            "icon": 4230,
+            "name": "Winter Aventail of Chernobog",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27991,
+            "level": 30,
+            "icon": 3779,
+            "name": "Fur Hat of the Patron of Frost",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27995,
+            "level": 30,
+            "icon": 3779,
+            "name": "Fur Hood of the Patron of Frost",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28063,
+            "level": 14,
+            "icon": 3779,
+            "name": "Fur Hood of the Northern Oracle",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28067,
+            "level": 16,
+            "icon": 3779,
+            "name": "Fur Hood of the Polar Hierophant",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28071,
+            "level": 18,
+            "icon": 3779,
+            "name": "Fur Hood of the Vortex Spellweaver",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28075,
+            "level": 20,
+            "icon": 3779,
+            "name": "Fur Hood of the Ice Recluse",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28079,
+            "level": 22,
+            "icon": 3779,
+            "name": "Fur Hood of the Faceless Heir",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28083,
+            "level": 24,
+            "icon": 3779,
+            "name": "Fur Hood of the Storm Tamer",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28087,
+            "level": 26,
+            "icon": 3779,
+            "name": "Fur Hood of the Whitefaced Demiurge",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28091,
+            "level": 28,
+            "icon": 3779,
+            "name": "Fur Hood of the Arctic Ruler",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28123,
+            "level": 30,
+            "icon": 4633,
+            "name": "Omnipotent Heaume of Chernobog",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 28127,
+            "level": 30,
+            "icon": 4633,
+            "name": "Majestic Aventail of Chernobog",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 28342,
+            "level": 30,
+            "icon": 3369,
+            "name": "Heaume of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 28346,
+            "level": 30,
+            "icon": 3369,
+            "name": "Aventail of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 28931,
+            "level": 30,
+            "icon": 1307,
+            "name": "Heaume of Restless Being",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 28936,
+            "level": 30,
+            "icon": 1307,
+            "name": "Heaume of Rebellious Spirit",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28948,
+            "level": 30,
+            "icon": 3507,
+            "name": "Heaume of Wild Heart",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 29417,
+            "level": 32,
+            "icon": 5343,
+            "name": "Heaume of Power Incarnation",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29421,
+            "level": 32,
+            "icon": 5343,
+            "name": "Heaume of Doom's Command",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29521,
+            "level": 20,
+            "icon": 4473,
+            "name": "Aventail of Templars of the Sacred Forest",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29525,
+            "level": 22,
+            "icon": 4473,
+            "name": "Aventail of Templars of the Pyramid Valley",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29529,
+            "level": 24,
+            "icon": 4473,
+            "name": "Aventail of Templars of the Black Oak Forest",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29533,
+            "level": 26,
+            "icon": 4473,
+            "name": "Aventail of Templars of the Flying Islands",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29537,
+            "level": 28,
+            "icon": 4473,
+            "name": "Aventail of Templars of the Ship Graveyard",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29541,
+            "level": 28,
+            "icon": 4473,
+            "name": "Aventail of Defenders of the Ship Graveyard",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29545,
+            "level": 28,
+            "icon": 4474,
+            "name": "Heaume of Defenders of the Imperious Clan",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29549,
+            "level": 28,
+            "icon": 4474,
+            "name": "Heaume of Templars of the Imperious Clan",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29768,
+            "level": 7,
+            "icon": 1283,
+            "name": "Aventail of Recruit",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 29773,
+            "level": 7,
+            "icon": 1283,
+            "name": "Heaume of Recruit",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 29778,
+            "level": 11,
+            "icon": 1283,
+            "name": "Aventail of Mercenary",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 29783,
+            "level": 11,
+            "icon": 1283,
+            "name": "Heaume of Mercenary",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 32063,
+            "level": 30,
+            "icon": 4473,
+            "name": "Aventail of the Defenders of the Pirate Archipelago",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32067,
+            "level": 30,
+            "icon": 4473,
+            "name": "Aventail of the Templars of the Pirate Archipelago",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32071,
+            "level": 30,
+            "icon": 4474,
+            "name": "Heaume of the Defenders of the Unbreakable Alliance",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32075,
+            "level": 30,
+            "icon": 4474,
+            "name": "Heaume of the Templars of the Unbreakable Alliance",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32191,
+            "level": 18,
+            "icon": 5817,
+            "name": "Sorcerer's Heaume of Youth",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32195,
+            "level": 20,
+            "icon": 5817,
+            "name": "Sorcerer's Heaume of Longevity",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32199,
+            "level": 22,
+            "icon": 5817,
+            "name": "Sorcerer's Heaume of Unfading",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32203,
+            "level": 24,
+            "icon": 5817,
+            "name": "Sorcerer's Heaume of Unquenchability",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32207,
+            "level": 26,
+            "icon": 5817,
+            "name": "Sorcerer's Heaume of Eternity",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32211,
+            "level": 28,
+            "icon": 5817,
+            "name": "Sorcerer's Heaume of Immortality",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32215,
+            "level": 30,
+            "icon": 5817,
+            "name": "Sorcerer's Heaume of Integrity",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32219,
+            "level": 18,
+            "icon": 5818,
+            "name": "Arctic Heaume of Zeal",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32223,
+            "level": 20,
+            "icon": 5818,
+            "name": "Arctic Heaume of Mutiny",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32227,
+            "level": 22,
+            "icon": 5818,
+            "name": "Arctic Heaume of Vehemence",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32231,
+            "level": 24,
+            "icon": 5818,
+            "name": "Arctic Heaume of Ardency",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32235,
+            "level": 26,
+            "icon": 5818,
+            "name": "Arctic Heaume of Bitterness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32239,
+            "level": 28,
+            "icon": 5818,
+            "name": "Arctic Heaume of Frenzy",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32243,
+            "level": 30,
+            "icon": 5818,
+            "name": "Arctic Heaume of Rampage",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 33278,
+            "level": 32,
+            "icon": 4582,
+            "name": "Mask of Raider Hans",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 33282,
+            "level": 32,
+            "icon": 4583,
+            "name": "Mask of Patched Sammy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 33861,
+            "level": 32,
+            "icon": 4230,
+            "name": "Winter Heaume of Titan",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 33865,
+            "level": 32,
+            "icon": 4230,
+            "name": "Winter Aventail of Titan",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 33885,
+            "level": 32,
+            "icon": 3779,
+            "name": "Storm Lord\u2019s Fur Hat",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 33889,
+            "level": 32,
+            "icon": 3779,
+            "name": "Storm Lord\u2019s Fur Hood",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 33909,
+            "level": 32,
+            "icon": 4633,
+            "name": "Omnipotent Heaume of Titan",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 33913,
+            "level": 32,
+            "icon": 4633,
+            "name": "Majestic Aventail of Titan",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 34467,
+            "level": 32,
+            "icon": 1307,
+            "name": "Heaume of the Sinful Light",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 34484,
+            "level": 32,
+            "icon": 1307,
+            "name": "Heaume of the Otherworldly Call",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 34499,
+            "level": 32,
+            "icon": 3507,
+            "name": "Heaume of the Ominous Requiem",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 34933,
+            "level": 31,
+            "icon": 1307,
+            "name": "Heaume of the Champion Templar",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 34934,
+            "level": 31,
+            "icon": 1307,
+            "name": "Aventail of the Champion Templar",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 34958,
+            "level": 32,
+            "icon": 3369,
+            "name": "Heaume of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 34962,
+            "level": 32,
+            "icon": 3369,
+            "name": "Aventail of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35117,
+            "level": 22,
+            "icon": 6189,
+            "name": "Heaume of the Knights of the Forest\u2019s Heart",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35121,
+            "level": 24,
+            "icon": 6189,
+            "name": "Heaume of the Knights of the Jaguar\u2019s Den",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35125,
+            "level": 26,
+            "icon": 6189,
+            "name": "Heaume of the Knights of the Dragon Ness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35129,
+            "level": 28,
+            "icon": 6189,
+            "name": "Heaume of the Knights of the Sky Sanctuary",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35133,
+            "level": 30,
+            "icon": 6189,
+            "name": "Heaume of the Knights of the Sea Turtle",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35154,
+            "level": 32,
+            "icon": 5817,
+            "name": "Sorcerer's Heaume of Eternity",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35158,
+            "level": 32,
+            "icon": 5818,
+            "name": "Arctic Heaume of Fierceness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35292,
+            "level": 31,
+            "icon": 1307,
+            "name": "Aventail of the Defender Pirate",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 35296,
+            "level": 31,
+            "icon": 1307,
+            "name": "Heaume of the Templar Pirate",
+            "itemType": 5,
+            "color": 3
+        }
+    ]
+}

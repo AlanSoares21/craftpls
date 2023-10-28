@@ -1,0 +1,1604 @@
+{
+    "list": [
+        {
+            "id": 669,
+            "level": 1,
+            "icon": 1010,
+            "name": "Copper Axe",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 868,
+            "level": 2,
+            "icon": 1007,
+            "name": "Rusty Axe",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 900,
+            "level": 3,
+            "icon": 1007,
+            "name": "Cheap Axe",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 936,
+            "level": 7,
+            "icon": 1010,
+            "name": "Axe of Militiaman",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 994,
+            "level": 10,
+            "icon": 1013,
+            "name": "High-quality Axe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 1046,
+            "level": 9,
+            "icon": 1016,
+            "name": "Axe of Guardian",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2054,
+            "level": 12,
+            "icon": 1007,
+            "name": "Honed Backsword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 2123,
+            "level": 13,
+            "icon": 1007,
+            "name": "Honed Hatchet",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2158,
+            "level": 13,
+            "icon": 1013,
+            "name": "Tested Chopper",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 2208,
+            "level": 14,
+            "icon": 1019,
+            "name": "Tested Bill",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 2284,
+            "level": 15,
+            "icon": 1013,
+            "name": "Tested Broadaxe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 2338,
+            "level": 15,
+            "icon": 1025,
+            "name": "Tested Cleaver",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2364,
+            "level": 15,
+            "icon": 1013,
+            "name": "Honed Cleaver",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 5184,
+            "level": 1,
+            "icon": 1013,
+            "name": "Novice's Axe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 5812,
+            "level": 9,
+            "icon": 1010,
+            "name": "Broad Battle Axe",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 6435,
+            "level": 17,
+            "icon": 1016,
+            "name": "Chopper of Abyss Zealot",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 6501,
+            "level": 18,
+            "icon": 1013,
+            "name": "Hatchet of Sudden Doom",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 11141,
+            "level": 17,
+            "icon": 1010,
+            "name": "Champion Hatchet",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 11222,
+            "level": 16,
+            "icon": 1028,
+            "name": "Icy Cleaver",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13153,
+            "level": 4,
+            "icon": 1010,
+            "name": "Vampire's Bill",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13161,
+            "level": 8,
+            "icon": 1010,
+            "name": "Werewolf's Tomahawk",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13170,
+            "level": 11,
+            "icon": 1010,
+            "name": "Witch's Cleaver",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13178,
+            "level": 14,
+            "icon": 1010,
+            "name": "Headsman's Chopper",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13198,
+            "level": 18,
+            "icon": 1013,
+            "name": "Night Prince's Battleaxe",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 13870,
+            "level": 19,
+            "icon": 1022,
+            "name": "Ruberius' Axe",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14103,
+            "level": 19,
+            "icon": 1013,
+            "name": "Battleaxe of Endless War",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 14395,
+            "level": 12,
+            "icon": 1010,
+            "name": "Granite Battleaxe",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14403,
+            "level": 17,
+            "icon": 1013,
+            "name": "Phantom Bill",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14409,
+            "level": 20,
+            "icon": 1016,
+            "name": "Crushing Chopper",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14414,
+            "level": 13,
+            "icon": 1016,
+            "name": "Serrated Battleaxe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14441,
+            "level": 20,
+            "icon": 1022,
+            "name": "Ashen Axe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14449,
+            "level": 12,
+            "icon": 1016,
+            "name": "Battleaxe of Full Moon",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 14453,
+            "level": 16,
+            "icon": 1007,
+            "name": "Hatchet of Frozen Fire",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 14456,
+            "level": 20,
+            "icon": 1028,
+            "name": "Waraxe of Deep Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 14863,
+            "level": 19,
+            "icon": 1022,
+            "name": "Berengar's Battleaxe",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15005,
+            "level": 19,
+            "icon": 1028,
+            "name": "Hatchet of Brave Warrior",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15096,
+            "level": 20,
+            "icon": 1016,
+            "name": "Hatchet of Damned Pilgrims",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15126,
+            "level": 21,
+            "icon": 1013,
+            "name": "Desecrate Chopper",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 15323,
+            "level": 21,
+            "icon": 1028,
+            "name": "Enchanted Battleaxe of the Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15336,
+            "level": 22,
+            "icon": 1028,
+            "name": "Pontifices' Chopper",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 15348,
+            "level": 23,
+            "icon": 1013,
+            "name": "Soulless Saint's Battleaxe",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 15840,
+            "level": 4,
+            "icon": 3072,
+            "name": "Midnight Hunter's Battleaxe",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15852,
+            "level": 7,
+            "icon": 3072,
+            "name": "Silent Maniac's Battleaxe",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15864,
+            "level": 10,
+            "icon": 3072,
+            "name": "Battleaxe of Still Heart",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15876,
+            "level": 13,
+            "icon": 3072,
+            "name": "Battleaxe of Faceless Nightmare",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15888,
+            "level": 16,
+            "icon": 3072,
+            "name": "Battleaxe of Sinful Call",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15900,
+            "level": 19,
+            "icon": 3072,
+            "name": "Battleaxe Immortal Recluse",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15912,
+            "level": 21,
+            "icon": 3072,
+            "name": "Battleaxe of Overwhelming Fury",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16086,
+            "level": 14,
+            "icon": 1016,
+            "name": "Battleaxe of Northern Chieftains",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16121,
+            "level": 5,
+            "icon": 3118,
+            "name": "Battleaxe of the Holiday Thief",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16134,
+            "level": 8,
+            "icon": 3118,
+            "name": "Battleaxe of Oath-breaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16149,
+            "level": 11,
+            "icon": 3118,
+            "name": "Battleaxe of Braincrasher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16162,
+            "level": 14,
+            "icon": 3118,
+            "name": "Battleaxe of Toothy Hunter",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16175,
+            "level": 17,
+            "icon": 3118,
+            "name": "Battleaxe of Northern Whirl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16188,
+            "level": 20,
+            "icon": 3118,
+            "name": "Battleaxe of the Snow Lady",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16201,
+            "level": 22,
+            "icon": 3118,
+            "name": "Battleaxe of Permafrost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16905,
+            "level": 21,
+            "icon": 3244,
+            "name": "Gladiator's Mint",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16970,
+            "level": 22,
+            "icon": 1016,
+            "name": "Hatchet of Northern Courage",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17119,
+            "level": 10,
+            "icon": 1010,
+            "name": "Sharpened Axe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17120,
+            "level": 12,
+            "icon": 1010,
+            "name": "Well-tried Bill",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17121,
+            "level": 14,
+            "icon": 1010,
+            "name": "Notched Axe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17133,
+            "level": 18,
+            "icon": 1025,
+            "name": "Hewing Bill",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17134,
+            "level": 16,
+            "icon": 1022,
+            "name": "Sparkling Cleaver",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17152,
+            "level": 10,
+            "icon": 1010,
+            "name": "Enchanted Axe of the Ent",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17171,
+            "level": 10,
+            "icon": 3395,
+            "name": "Amplified Axe of the Ent",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17179,
+            "level": 12,
+            "icon": 3395,
+            "name": "Axe of Lunar Sickle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17187,
+            "level": 14,
+            "icon": 3395,
+            "name": "Axe of Northern Lords",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17195,
+            "level": 16,
+            "icon": 3395,
+            "name": "Hatchet of Chilled Flame",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17203,
+            "level": 18,
+            "icon": 3395,
+            "name": "Hatchet of Dead Silence",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17211,
+            "level": 20,
+            "icon": 3395,
+            "name": "Poleaxe of the Depth Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17295,
+            "level": 22,
+            "icon": 1019,
+            "name": "Horrifying Axe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17306,
+            "level": 22,
+            "icon": 1025,
+            "name": "All-Destroying Poleaxe",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17314,
+            "level": 22,
+            "icon": 3395,
+            "name": "Poleaxe of Death Herald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17570,
+            "level": 23,
+            "icon": 3407,
+            "name": "Battle Chopper of Devastation",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17942,
+            "level": 5,
+            "icon": 3072,
+            "name": "Night Puppeteer's Battleaxe",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17954,
+            "level": 14,
+            "icon": 3072,
+            "name": "Battleaxe of Fatal Mistake",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17966,
+            "level": 18,
+            "icon": 3072,
+            "name": "Battleaxe of Deadly Game",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17978,
+            "level": 23,
+            "icon": 3072,
+            "name": "Killer Puppet's battleaxe",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18277,
+            "level": 10,
+            "icon": 3118,
+            "name": "Battleaxe of the Tribe Leader",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18291,
+            "level": 18,
+            "icon": 3118,
+            "name": "Battleaxe of the Immortal Wanderer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18304,
+            "level": 23,
+            "icon": 3118,
+            "name": "Bound Conqueror's Battleaxe",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18881,
+            "level": 23,
+            "icon": 3244,
+            "name": "Hatchet of the Templar",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18903,
+            "level": 13,
+            "icon": 1010,
+            "name": "Young Fighter's Hatchet",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19021,
+            "level": 24,
+            "icon": 1019,
+            "name": "Rune axe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 19029,
+            "level": 24,
+            "icon": 1025,
+            "name": "Axe of Liberator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19038,
+            "level": 24,
+            "icon": 3395,
+            "name": "Axe of Legendary Defender",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19269,
+            "level": 25,
+            "icon": 3615,
+            "name": "Technocrat's Hatchet",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19282,
+            "level": 25,
+            "icon": 1028,
+            "name": "Hatchet of Revival",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 19961,
+            "level": 6,
+            "icon": 3072,
+            "name": "Battleaxe of the Blind Outlaw",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19986,
+            "level": 12,
+            "icon": 3072,
+            "name": "Battleaxe of the Unsleeping Predator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20024,
+            "level": 20,
+            "icon": 3072,
+            "name": "Battleaxe of the Damned Heir",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20037,
+            "level": 22,
+            "icon": 3072,
+            "name": "Battleaxe of the Distracted Apostate",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20050,
+            "level": 24,
+            "icon": 3072,
+            "name": "Battleaxe of the Night Visitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20075,
+            "level": 26,
+            "icon": 3072,
+            "name": "Battleaxe of the Bloody Earl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20270,
+            "level": 6,
+            "icon": 3118,
+            "name": "Axe of Cold-Bearing Spirit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20291,
+            "level": 12,
+            "icon": 3118,
+            "name": "Axe of the Frozen Master",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20312,
+            "level": 16,
+            "icon": 3118,
+            "name": "Axe of the Rune Scald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20345,
+            "level": 24,
+            "icon": 3118,
+            "name": "Axe of the Ice Prince",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20360,
+            "level": 26,
+            "icon": 3118,
+            "name": "Axe of the Descendant of the Titans",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20785,
+            "level": 6,
+            "icon": 3871,
+            "name": "Axe of the Green Hill",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20800,
+            "level": 10,
+            "icon": 3871,
+            "name": "Axe of the Heath Meadow",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20815,
+            "level": 12,
+            "icon": 3871,
+            "name": "Axe of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20830,
+            "level": 14,
+            "icon": 3871,
+            "name": "Axe of the Spring Symphony",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20850,
+            "level": 16,
+            "icon": 3871,
+            "name": "Axe of the Happy Month",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20865,
+            "level": 18,
+            "icon": 3871,
+            "name": "Axe of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20880,
+            "level": 20,
+            "icon": 3871,
+            "name": "Axe of the Arcane Valley",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20895,
+            "level": 22,
+            "icon": 3871,
+            "name": "Battleaxe of the Forest Mystery",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20910,
+            "level": 24,
+            "icon": 3871,
+            "name": "Battleaxe of the Blooming Island",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20925,
+            "level": 26,
+            "icon": 3871,
+            "name": "Battleaxe of the Emerald Tower",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21020,
+            "level": 25,
+            "icon": 3244,
+            "name": "Hatchet of Great Ironclad",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21052,
+            "level": 26,
+            "icon": 1019,
+            "name": "Filth Battleaxe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21060,
+            "level": 26,
+            "icon": 1025,
+            "name": "Battleaxe of Soulbreaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21068,
+            "level": 26,
+            "icon": 3395,
+            "name": "Battleaxe of Cruel Demolisher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21235,
+            "level": 1,
+            "icon": 1013,
+            "name": "Novice's Hatchet",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21346,
+            "level": 3,
+            "icon": 1013,
+            "name": "Plain Battleaxe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21359,
+            "level": 5,
+            "icon": 1013,
+            "name": "Light Battleaxe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21372,
+            "level": 7,
+            "icon": 1013,
+            "name": "Coarse Battleaxe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21385,
+            "level": 9,
+            "icon": 1013,
+            "name": "Smooth Battleaxe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21398,
+            "level": 11,
+            "icon": 1013,
+            "name": "Useful Battleaxe",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21721,
+            "level": 6,
+            "icon": 4097,
+            "name": "Axe of Deep Slumber",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21736,
+            "level": 10,
+            "icon": 4097,
+            "name": "Axe of Somnolent Whispers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21751,
+            "level": 12,
+            "icon": 4097,
+            "name": "Axe of Restless Dreaming",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21766,
+            "level": 14,
+            "icon": 4097,
+            "name": "Axe of Black Oblivion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21781,
+            "level": 16,
+            "icon": 4097,
+            "name": "Axe of Sinister Phantasms",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21796,
+            "level": 18,
+            "icon": 4097,
+            "name": "Axe of Dreadful Delusion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21811,
+            "level": 20,
+            "icon": 4097,
+            "name": "Axe of Nocturnal Terror",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21826,
+            "level": 22,
+            "icon": 4097,
+            "name": "Axe of Incarnated Nightmares",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21841,
+            "level": 24,
+            "icon": 4097,
+            "name": "Axe of Midnight Howl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21856,
+            "level": 26,
+            "icon": 4097,
+            "name": "Axe of Suffocating Fear",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22808,
+            "level": 6,
+            "icon": 4343,
+            "name": "Axe of the Kingdom of Daring",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22823,
+            "level": 10,
+            "icon": 4343,
+            "name": "Axe of the Kingdom of Boldness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22838,
+            "level": 12,
+            "icon": 4343,
+            "name": "Axe of the Kingdom of Devotion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22853,
+            "level": 14,
+            "icon": 4343,
+            "name": "Axe of the Kingdom of Bravery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22868,
+            "level": 16,
+            "icon": 4343,
+            "name": "Axe of the Kingdom of Magnanimity",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22883,
+            "level": 18,
+            "icon": 4343,
+            "name": "Axe of the Kingdom of Nobleness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22898,
+            "level": 20,
+            "icon": 4343,
+            "name": "Axe of the Kingdom of Justice",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22913,
+            "level": 22,
+            "icon": 4343,
+            "name": "Axe of the Kingdom of Honor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22928,
+            "level": 24,
+            "icon": 4343,
+            "name": "Axe of the Kingdom of Valor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22943,
+            "level": 26,
+            "icon": 4343,
+            "name": "Axe of the Kingdom of Fearlessness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23481,
+            "level": 25,
+            "icon": 3407,
+            "name": "Axe of Tree of the Seasons\u2019 Keepers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23550,
+            "level": 27,
+            "icon": 3615,
+            "name": "Axe of Technopolis Guards",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23599,
+            "level": 27,
+            "icon": 3244,
+            "name": "Hatchet of the Arena Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24073,
+            "level": 28,
+            "icon": 4097,
+            "name": "Axe of Impending Madness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24088,
+            "level": 28,
+            "icon": 3072,
+            "name": "Axe of the Crazy King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24390,
+            "level": 28,
+            "icon": 3118,
+            "name": "Axe of the Winter King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25020,
+            "level": 10,
+            "icon": 4744,
+            "name": "Royal Axe of the Heath Meadow",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25036,
+            "level": 12,
+            "icon": 4744,
+            "name": "Royal Axe of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25052,
+            "level": 14,
+            "icon": 4744,
+            "name": "Royal Axe of the Spring Symphony",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25068,
+            "level": 16,
+            "icon": 4744,
+            "name": "Royal Axe of the Happy Month",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25084,
+            "level": 18,
+            "icon": 4744,
+            "name": "Royal Axe of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25100,
+            "level": 20,
+            "icon": 4744,
+            "name": "Royal Axe of the Arcane Valley",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25116,
+            "level": 22,
+            "icon": 4744,
+            "name": "Royal Axe of the Forest Mystery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25132,
+            "level": 24,
+            "icon": 4744,
+            "name": "Royal Axe of the Blooming Island",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25148,
+            "level": 26,
+            "icon": 4744,
+            "name": "Royal Axe of the Emerald Tower",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25164,
+            "level": 28,
+            "icon": 4744,
+            "name": "Royal Axe of the Sun Fortress",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25180,
+            "level": 28,
+            "icon": 4343,
+            "name": "Axe of the Kingdom of Courage",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25195,
+            "level": 28,
+            "icon": 3871,
+            "name": "Axe of the Sun Fortress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 25276,
+            "level": 28,
+            "icon": 1019,
+            "name": "Axe of Scarlet Dawn",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 25286,
+            "level": 28,
+            "icon": 1025,
+            "name": "Axe of Purple Sky",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25296,
+            "level": 28,
+            "icon": 3395,
+            "name": "Axe of the Bloody Radiance",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26281,
+            "level": 30,
+            "icon": 4885,
+            "name": "Axe of Lord of the Seas",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26315,
+            "level": 29,
+            "icon": 4884,
+            "name": "Axe of Sea Tramps",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26432,
+            "level": 30,
+            "icon": 1016,
+            "name": "Hatchet of Gentlemen of Fortune",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 26472,
+            "level": 29,
+            "icon": 1028,
+            "name": "Axe of Sea Wolf",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 26485,
+            "level": 29,
+            "icon": 3244,
+            "name": "Hatchet of the Outstanding Gladiator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27107,
+            "level": 30,
+            "icon": 4097,
+            "name": "Axe of Monster Curse",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27134,
+            "level": 30,
+            "icon": 3072,
+            "name": "Axe of Merciless Torturer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27727,
+            "level": 6,
+            "icon": 5155,
+            "name": "Axe of Piercing Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27742,
+            "level": 10,
+            "icon": 5155,
+            "name": "Axe of Heavy Wind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27757,
+            "level": 12,
+            "icon": 5155,
+            "name": "Axe of Frosty Darkness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27772,
+            "level": 14,
+            "icon": 5155,
+            "name": "Axe of Freezing Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27787,
+            "level": 16,
+            "icon": 5155,
+            "name": "Axe of Arctic Frost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27802,
+            "level": 18,
+            "icon": 5155,
+            "name": "Axe of Fierce Blizzard",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27817,
+            "level": 20,
+            "icon": 5155,
+            "name": "Axe of Northern Tornado",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27832,
+            "level": 22,
+            "icon": 5155,
+            "name": "Axe of Furious Northern Wind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27847,
+            "level": 24,
+            "icon": 5155,
+            "name": "Axe of Sweeping Whirlwind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27862,
+            "level": 26,
+            "icon": 5155,
+            "name": "Axe of Violent Blizzard",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27877,
+            "level": 28,
+            "icon": 5155,
+            "name": "Axe of Snow Storm",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27892,
+            "level": 30,
+            "icon": 5155,
+            "name": "Axe of Ice Storm",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27909,
+            "level": 30,
+            "icon": 3118,
+            "name": "Axe of the Lord of Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28849,
+            "level": 30,
+            "icon": 1019,
+            "name": "Axe of Purification",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 28859,
+            "level": 30,
+            "icon": 1025,
+            "name": "Axe of Enlightenment",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28869,
+            "level": 30,
+            "icon": 3395,
+            "name": "Axe of Catharsis",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28983,
+            "level": 30,
+            "icon": 4744,
+            "name": "Royal Axe of Enchanted Castle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29000,
+            "level": 30,
+            "icon": 4343,
+            "name": "Axe of Kingdom of Fortitude",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29015,
+            "level": 30,
+            "icon": 3871,
+            "name": "Axe of Enchanted Castle",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29690,
+            "level": 7,
+            "icon": 1016,
+            "name": "Axe of Recruit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29711,
+            "level": 11,
+            "icon": 1016,
+            "name": "Axe of Mercenary",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33117,
+            "level": 32,
+            "icon": 4097,
+            "name": "Axe of Emanating Madness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33133,
+            "level": 32,
+            "icon": 3072,
+            "name": "Axe of Bloodthirsty Inquisitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33630,
+            "level": 32,
+            "icon": 5155,
+            "name": "Axe of the Unbridled Hurricane",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33659,
+            "level": 32,
+            "icon": 3118,
+            "name": "Axe of the Northern Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34419,
+            "level": 32,
+            "icon": 1019,
+            "name": "Axe of Progress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34433,
+            "level": 32,
+            "icon": 1025,
+            "name": "Axe of Development",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34447,
+            "level": 32,
+            "icon": 3395,
+            "name": "Axe of Metamorphosis",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34526,
+            "level": 32,
+            "icon": 4343,
+            "name": "Axe of the Kingdom of Indestructibility",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34555,
+            "level": 32,
+            "icon": 4744,
+            "name": "Royal Axe of the Magic Bastion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34573,
+            "level": 32,
+            "icon": 3871,
+            "name": "Axe of the Magic Bastion",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34902,
+            "level": 31,
+            "icon": 3244,
+            "name": "Hatchet of the Greatest Secutor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 35260,
+            "level": 31,
+            "icon": 4884,
+            "name": "Axe of the Pirate Brotherhood",
+            "itemType": 0,
+            "color": 3
+        }
+    ]
+}

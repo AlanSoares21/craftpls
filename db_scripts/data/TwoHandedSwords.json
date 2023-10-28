@@ -1,0 +1,1556 @@
+{
+    "list": [
+        {
+            "id": 2053,
+            "level": 12,
+            "icon": 1382,
+            "name": "Acute Longsword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 2122,
+            "level": 13,
+            "icon": 1385,
+            "name": "Acute Claymore",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2157,
+            "level": 13,
+            "icon": 1388,
+            "name": "Tested Two-hander",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 2207,
+            "level": 14,
+            "icon": 1391,
+            "name": "Tested Longsword",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 2283,
+            "level": 15,
+            "icon": 1385,
+            "name": "Tested Estoc",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 2337,
+            "level": 15,
+            "icon": 1395,
+            "name": "Tested Spadon",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2363,
+            "level": 15,
+            "icon": 1388,
+            "name": "Acute Spadone",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 3348,
+            "level": 1,
+            "icon": 1382,
+            "name": "Two-handed Sword",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 4489,
+            "level": 7,
+            "icon": 1382,
+            "name": "Battered Claymore",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 4490,
+            "level": 9,
+            "icon": 1385,
+            "name": "Balanced Claymore",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 5813,
+            "level": 9,
+            "icon": 1385,
+            "name": "Long Battle Sword",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 6436,
+            "level": 17,
+            "icon": 1388,
+            "name": "Flamberge of Abyss Zealot",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 6502,
+            "level": 18,
+            "icon": 1398,
+            "name": "Spadone of Sudden Doom",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 10657,
+            "level": 5,
+            "icon": 2659,
+            "name": "Steel Widow",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 10672,
+            "level": 10,
+            "icon": 2659,
+            "name": "Steel Widow",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 10673,
+            "level": 15,
+            "icon": 2659,
+            "name": "Steel Widow",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 11143,
+            "level": 17,
+            "icon": 1388,
+            "name": "Champion Estoc",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 13200,
+            "level": 18,
+            "icon": 1395,
+            "name": "Night Prince's Longsword",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 13871,
+            "level": 19,
+            "icon": 1385,
+            "name": "Ruberius' Labris",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14392,
+            "level": 10,
+            "icon": 1385,
+            "name": "Granite Falchion",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14400,
+            "level": 15,
+            "icon": 1398,
+            "name": "Phantom Sword",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14406,
+            "level": 18,
+            "icon": 1388,
+            "name": "Crushing Flamberge",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14420,
+            "level": 16,
+            "icon": 1395,
+            "name": "Flickering Claymore",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14439,
+            "level": 19,
+            "icon": 1398,
+            "name": "Hewing Flamberge",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14452,
+            "level": 14,
+            "icon": 1385,
+            "name": "Spadone of Northern Chieftains",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15007,
+            "level": 19,
+            "icon": 1395,
+            "name": "Estoc of Brave Warrior",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15095,
+            "level": 20,
+            "icon": 1395,
+            "name": "Estoc of Damned Pilgrims",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15125,
+            "level": 21,
+            "icon": 1395,
+            "name": "Desecrate Two-hander",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 15322,
+            "level": 21,
+            "icon": 1388,
+            "name": "Enchanted Sword of the Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15335,
+            "level": 22,
+            "icon": 1385,
+            "name": "Pontifices' Spadone",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 15347,
+            "level": 23,
+            "icon": 1385,
+            "name": "Soulless Saint's Sword",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 15842,
+            "level": 4,
+            "icon": 3083,
+            "name": "Midnight Hunter's Longsword",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15854,
+            "level": 7,
+            "icon": 3083,
+            "name": "Silent Maniac's Longsword",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15866,
+            "level": 10,
+            "icon": 3083,
+            "name": "Longsword of Still Heart",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15878,
+            "level": 13,
+            "icon": 3083,
+            "name": "Longsword of Faceless Nightmare",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15890,
+            "level": 16,
+            "icon": 3083,
+            "name": "Longsword of Sinful Call",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15902,
+            "level": 19,
+            "icon": 3083,
+            "name": "Longsword of Immortal Recluse",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15914,
+            "level": 21,
+            "icon": 3083,
+            "name": "Longsword of Overwhelming Fury",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16123,
+            "level": 5,
+            "icon": 3131,
+            "name": "Spadone of the Holiday Thief",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16136,
+            "level": 8,
+            "icon": 3131,
+            "name": "Spadone of Oath-breaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16151,
+            "level": 11,
+            "icon": 3131,
+            "name": "Spadone of Braincrasher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16164,
+            "level": 14,
+            "icon": 3131,
+            "name": "Spadone of Toothy Hunter",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16177,
+            "level": 17,
+            "icon": 3131,
+            "name": "Spadone of Northern Whirl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16190,
+            "level": 20,
+            "icon": 3131,
+            "name": "Spadone of the Snow Lady",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16203,
+            "level": 22,
+            "icon": 3131,
+            "name": "Spadone of Permafrost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16907,
+            "level": 21,
+            "icon": 3250,
+            "name": "Gladiator's Tuck",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16971,
+            "level": 22,
+            "icon": 1391,
+            "name": "Flamberge of Northern Courage",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17116,
+            "level": 10,
+            "icon": 1385,
+            "name": "Serrated Estoc",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17117,
+            "level": 12,
+            "icon": 1385,
+            "name": "Well-tried Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17118,
+            "level": 14,
+            "icon": 1385,
+            "name": "Notched Estoc",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17125,
+            "level": 18,
+            "icon": 1395,
+            "name": "Hewing Estoc",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17126,
+            "level": 20,
+            "icon": 1395,
+            "name": "Ashen Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17148,
+            "level": 10,
+            "icon": 1385,
+            "name": "Enchanted Estoc of the Ent",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17149,
+            "level": 12,
+            "icon": 1385,
+            "name": "Longsword of Full Moon",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17150,
+            "level": 16,
+            "icon": 1385,
+            "name": "Estoc of Frozen Fire",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17151,
+            "level": 20,
+            "icon": 1398,
+            "name": "Longsword of Deep Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17170,
+            "level": 10,
+            "icon": 3406,
+            "name": "Amplified Estoc of the Ent",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17178,
+            "level": 12,
+            "icon": 3406,
+            "name": "Longsword of Lunar Sickle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17186,
+            "level": 14,
+            "icon": 3406,
+            "name": "Spadone of Northern Lords",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17194,
+            "level": 16,
+            "icon": 3406,
+            "name": "Estoc of Chilled Flame",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17202,
+            "level": 18,
+            "icon": 3406,
+            "name": "Spadone of Dead Silence",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17210,
+            "level": 20,
+            "icon": 3406,
+            "name": "Longsword of the Depth Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17301,
+            "level": 22,
+            "icon": 1398,
+            "name": "Horrifying Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17305,
+            "level": 22,
+            "icon": 1398,
+            "name": "All-Destroying Estoc",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17313,
+            "level": 22,
+            "icon": 3406,
+            "name": "Longsword of Death Herald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17569,
+            "level": 23,
+            "icon": 3385,
+            "name": "Battle Estoc of Devastation",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17944,
+            "level": 5,
+            "icon": 3083,
+            "name": "Night Puppeteer's Longsword",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17956,
+            "level": 14,
+            "icon": 3083,
+            "name": "Longsword of Fatal Mistake",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17968,
+            "level": 18,
+            "icon": 3083,
+            "name": "Longsword of Deadly Game",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17980,
+            "level": 23,
+            "icon": 3083,
+            "name": "Killer Puppet's Longsword",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18280,
+            "level": 10,
+            "icon": 3131,
+            "name": "Spadone of the Tribe Leader",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18293,
+            "level": 18,
+            "icon": 3131,
+            "name": "Spadone of the Immortal Wanderer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18306,
+            "level": 23,
+            "icon": 3131,
+            "name": "Bound Conqueror's Spadone",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18883,
+            "level": 23,
+            "icon": 3250,
+            "name": "Estoc of the Templar",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18905,
+            "level": 13,
+            "icon": 1385,
+            "name": "Young Fighter's Estoc",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19027,
+            "level": 24,
+            "icon": 1398,
+            "name": "Rune Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 19035,
+            "level": 24,
+            "icon": 1398,
+            "name": "Sword of Liberator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19043,
+            "level": 24,
+            "icon": 3406,
+            "name": "Sword of Legendary Defender",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19268,
+            "level": 25,
+            "icon": 3627,
+            "name": "Technocrat's Estoc",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19281,
+            "level": 25,
+            "icon": 1385,
+            "name": "Estoc of Revival",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 19963,
+            "level": 6,
+            "icon": 3083,
+            "name": "Longsword of the Blind Outlaw",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19988,
+            "level": 12,
+            "icon": 3083,
+            "name": "Longsword of the Unsleeping Predator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20026,
+            "level": 20,
+            "icon": 3083,
+            "name": "Longsword of the Damned Heir",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20039,
+            "level": 22,
+            "icon": 3083,
+            "name": "Longsword of the Distracted Apostate",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20052,
+            "level": 24,
+            "icon": 3083,
+            "name": "Longsword of the Night Visitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20077,
+            "level": 26,
+            "icon": 3083,
+            "name": "Longsword of the Bloody Earl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20272,
+            "level": 6,
+            "icon": 3131,
+            "name": "Spadone of Cold-Bearing Spirit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20293,
+            "level": 12,
+            "icon": 3131,
+            "name": "Spadone of the Frozen Master",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20314,
+            "level": 16,
+            "icon": 3131,
+            "name": "Spadone of the Rune Scald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20347,
+            "level": 24,
+            "icon": 3131,
+            "name": "Spadone of the Ice Prince",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20362,
+            "level": 26,
+            "icon": 3131,
+            "name": "Spadone of the Descendant of the Titans",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20787,
+            "level": 6,
+            "icon": 3863,
+            "name": "Sword of the Green Hill",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20802,
+            "level": 10,
+            "icon": 3863,
+            "name": "Sword of the Heath Meadow",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20817,
+            "level": 12,
+            "icon": 3863,
+            "name": "Sword of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20832,
+            "level": 14,
+            "icon": 3863,
+            "name": "Sword of the Spring Symphony",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20852,
+            "level": 16,
+            "icon": 3863,
+            "name": "Sword of the Happy Month",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20867,
+            "level": 18,
+            "icon": 3863,
+            "name": "Sword of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20882,
+            "level": 20,
+            "icon": 3863,
+            "name": "Sword of the Arcane Valley",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20897,
+            "level": 22,
+            "icon": 3863,
+            "name": "Sword of the Forest Mystery",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20912,
+            "level": 24,
+            "icon": 3863,
+            "name": "Sword of the Blooming Island",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20927,
+            "level": 26,
+            "icon": 3863,
+            "name": "Sword of the Emerald Tower",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21022,
+            "level": 25,
+            "icon": 3250,
+            "name": "Estoc of Great Ironclad",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21058,
+            "level": 26,
+            "icon": 1398,
+            "name": "Filth Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21066,
+            "level": 26,
+            "icon": 1398,
+            "name": "Sword of Soulbreaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21074,
+            "level": 26,
+            "icon": 3406,
+            "name": "Sword of Cruel Demolisher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21349,
+            "level": 3,
+            "icon": 1382,
+            "name": "Plain Two-handed Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21362,
+            "level": 5,
+            "icon": 1382,
+            "name": "Light Two-handed Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21375,
+            "level": 7,
+            "icon": 1382,
+            "name": "Coarse Two-handed Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21388,
+            "level": 9,
+            "icon": 1382,
+            "name": "Smooth Two-handed Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21401,
+            "level": 11,
+            "icon": 1382,
+            "name": "Useful Two-handed Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21439,
+            "level": 1,
+            "icon": 1385,
+            "name": "Novice's Claymore",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21724,
+            "level": 6,
+            "icon": 4089,
+            "name": "Sword of Deep Slumber",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21739,
+            "level": 10,
+            "icon": 4089,
+            "name": "Sword of Somnolent Whispers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21754,
+            "level": 12,
+            "icon": 4089,
+            "name": "Sword of Restless Dreaming",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21769,
+            "level": 14,
+            "icon": 4089,
+            "name": "Sword of Black Oblivion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21784,
+            "level": 16,
+            "icon": 4089,
+            "name": "Sword of Sinister Phantasms",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21799,
+            "level": 18,
+            "icon": 4089,
+            "name": "Sword of Dreadful Delusion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21814,
+            "level": 20,
+            "icon": 4089,
+            "name": "Sword of Nocturnal Terror",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21829,
+            "level": 22,
+            "icon": 4089,
+            "name": "Sword of Incarnated Nightmares",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21844,
+            "level": 24,
+            "icon": 4089,
+            "name": "Sword of Midnight Howl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21859,
+            "level": 26,
+            "icon": 4089,
+            "name": "Sword of Suffocating Fear",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22811,
+            "level": 6,
+            "icon": 4336,
+            "name": "Sword of the Kingdom of Daring",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22826,
+            "level": 10,
+            "icon": 4336,
+            "name": "Sword of the Kingdom of Boldness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22841,
+            "level": 12,
+            "icon": 4336,
+            "name": "Sword of the Kingdom of Devotion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22856,
+            "level": 14,
+            "icon": 4336,
+            "name": "Sword of the Kingdom of Bravery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22871,
+            "level": 16,
+            "icon": 4336,
+            "name": "Sword of the Kingdom of Magnanimity",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22886,
+            "level": 18,
+            "icon": 4336,
+            "name": "Sword of the Kingdom of Nobleness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22901,
+            "level": 20,
+            "icon": 4336,
+            "name": "Sword of the Kingdom of Justice",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22916,
+            "level": 22,
+            "icon": 4336,
+            "name": "Sword of the Kingdom of Honor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22931,
+            "level": 24,
+            "icon": 4336,
+            "name": "Sword of the Kingdom of Valor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22946,
+            "level": 26,
+            "icon": 4336,
+            "name": "Sword of the Kingdom of Fearlessness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23484,
+            "level": 25,
+            "icon": 3385,
+            "name": "Sword of Tree of the Seasons\u2019 Keepers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23553,
+            "level": 27,
+            "icon": 3627,
+            "name": "Sword of Technopolis Guards",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23602,
+            "level": 27,
+            "icon": 3250,
+            "name": "Estoc of the Arena Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24076,
+            "level": 28,
+            "icon": 4089,
+            "name": "Sword of Impending Madness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24091,
+            "level": 28,
+            "icon": 3083,
+            "name": "Bastard of the Crazy King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24393,
+            "level": 28,
+            "icon": 3131,
+            "name": "Spadone of the Winter King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25023,
+            "level": 10,
+            "icon": 4753,
+            "name": "Royal Sword of the Heath Meadow",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25039,
+            "level": 12,
+            "icon": 4753,
+            "name": "Royal Sword of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25055,
+            "level": 14,
+            "icon": 4753,
+            "name": "Royal Sword of the Spring Symphony",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25071,
+            "level": 16,
+            "icon": 4753,
+            "name": "Royal Sword of the Happy Month",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25087,
+            "level": 18,
+            "icon": 4753,
+            "name": "Royal Sword of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25103,
+            "level": 20,
+            "icon": 4753,
+            "name": "Royal Sword of the Arcane Valley",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25119,
+            "level": 22,
+            "icon": 4753,
+            "name": "Royal Sword of the Forest Mystery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25135,
+            "level": 24,
+            "icon": 4753,
+            "name": "Royal Sword of the Blooming Island",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25151,
+            "level": 26,
+            "icon": 4753,
+            "name": "Royal Sword of the Emerald Tower",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25167,
+            "level": 28,
+            "icon": 4753,
+            "name": "Royal Sword of the Sun Fortress",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25183,
+            "level": 28,
+            "icon": 4336,
+            "name": "Sword of the Kingdom of Courage",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25197,
+            "level": 28,
+            "icon": 3863,
+            "name": "Sword of the Sun Fortress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 25279,
+            "level": 28,
+            "icon": 1398,
+            "name": "Sword of Scarlet Dawn",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 25289,
+            "level": 28,
+            "icon": 1398,
+            "name": "Sword of Purple Sky",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25299,
+            "level": 28,
+            "icon": 3406,
+            "name": "Sword of the Bloody Radiance",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26284,
+            "level": 30,
+            "icon": 4903,
+            "name": "Sword of Lord of the Seas",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26318,
+            "level": 29,
+            "icon": 4902,
+            "name": "Sword of Sea Tramps",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26435,
+            "level": 30,
+            "icon": 1391,
+            "name": "Estoc of Gentlemen of Fortune",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 26475,
+            "level": 29,
+            "icon": 1385,
+            "name": "Sword of Sea Wolf",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 26488,
+            "level": 29,
+            "icon": 3250,
+            "name": "Estoc of the Outstanding Gladiator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27110,
+            "level": 30,
+            "icon": 4089,
+            "name": "Sword of Monster Curse",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27137,
+            "level": 30,
+            "icon": 3083,
+            "name": "Longsword of Merciless Torturer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27730,
+            "level": 6,
+            "icon": 5162,
+            "name": "Sword of Piercing Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27745,
+            "level": 10,
+            "icon": 5162,
+            "name": "Sword of Heavy Wind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27760,
+            "level": 12,
+            "icon": 5162,
+            "name": "Sword of Frosty Darkness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27775,
+            "level": 14,
+            "icon": 5162,
+            "name": "Sword of Freezing Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27790,
+            "level": 16,
+            "icon": 5162,
+            "name": "Sword of Arctic Frost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27805,
+            "level": 18,
+            "icon": 5162,
+            "name": "Sword of Fierce Blizzard",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27820,
+            "level": 20,
+            "icon": 5162,
+            "name": "Sword of Northern Tornado",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27835,
+            "level": 22,
+            "icon": 5162,
+            "name": "Sword of Furious Northern Wind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27850,
+            "level": 24,
+            "icon": 5162,
+            "name": "Sword of Sweeping Whirlwind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27865,
+            "level": 26,
+            "icon": 5162,
+            "name": "Sword of Violent Blizzard",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27880,
+            "level": 28,
+            "icon": 5162,
+            "name": "Sword of Snow Storm",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27895,
+            "level": 30,
+            "icon": 5162,
+            "name": "Sword of Ice Storm",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27912,
+            "level": 30,
+            "icon": 3131,
+            "name": "Spadone of the Lord of Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28852,
+            "level": 30,
+            "icon": 1398,
+            "name": "Sword of Purification",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 28862,
+            "level": 30,
+            "icon": 1398,
+            "name": "Sword of Enlightenment",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28872,
+            "level": 30,
+            "icon": 3406,
+            "name": "Sword of Catharsis",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28987,
+            "level": 30,
+            "icon": 4753,
+            "name": "Royal Sword of Enchanted Castle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29003,
+            "level": 30,
+            "icon": 4336,
+            "name": "Sword of Kingdom of Fortitude",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29018,
+            "level": 30,
+            "icon": 3863,
+            "name": "Sword of Enchanted Castle",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29693,
+            "level": 7,
+            "icon": 1385,
+            "name": "Sword of Recruit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29714,
+            "level": 11,
+            "icon": 1385,
+            "name": "Sword of Mercenary",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33120,
+            "level": 32,
+            "icon": 4089,
+            "name": "Sword of Emanating Madness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33137,
+            "level": 32,
+            "icon": 3083,
+            "name": "Longsword of Bloodthirsty Inquisitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33634,
+            "level": 32,
+            "icon": 5162,
+            "name": "Sword of the Unbridled Hurricane",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33663,
+            "level": 32,
+            "icon": 3131,
+            "name": "Spadone of the Northern Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34422,
+            "level": 32,
+            "icon": 1398,
+            "name": "Sword of Progress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34436,
+            "level": 32,
+            "icon": 1398,
+            "name": "Sword of Development",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34450,
+            "level": 32,
+            "icon": 3406,
+            "name": "Sword of Metamorphosis",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34530,
+            "level": 32,
+            "icon": 4336,
+            "name": "Sword of the Kingdom of Indestructibility",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34559,
+            "level": 32,
+            "icon": 4753,
+            "name": "Royal Sword of the Magic Bastion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34577,
+            "level": 32,
+            "icon": 3863,
+            "name": "Sword of the Magic Bastion",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34905,
+            "level": 31,
+            "icon": 3250,
+            "name": "Estoc of the Greatest Secutor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 35263,
+            "level": 31,
+            "icon": 4902,
+            "name": "Sword of the Pirate Brotherhood",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 35631,
+            "level": 19,
+            "icon": 1385,
+            "name": "Berengar's Sword",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 35633,
+            "level": 15,
+            "icon": 1385,
+            "name": "Tested Sword",
+            "itemType": 0,
+            "color": 3
+        }
+    ]
+}

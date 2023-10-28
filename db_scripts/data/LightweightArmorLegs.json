@@ -1,0 +1,2380 @@
+{
+    "list": [
+        {
+            "id": 660,
+            "level": 1,
+            "icon": 1713,
+            "name": "Worn High Shoes",
+            "itemType": 8,
+            "color": 0
+        },
+        {
+            "id": 666,
+            "level": 1,
+            "icon": 1676,
+            "name": "Beginner High Shoes",
+            "itemType": 8,
+            "color": 0
+        },
+        {
+            "id": 679,
+            "level": 1,
+            "icon": 1692,
+            "name": "Beginner High Shoes",
+            "itemType": 8,
+            "color": 0
+        },
+        {
+            "id": 681,
+            "level": 1,
+            "icon": 1673,
+            "name": "Torn High Shoes",
+            "itemType": 8,
+            "color": 0
+        },
+        {
+            "id": 860,
+            "level": 2,
+            "icon": 1692,
+            "name": "Cheap High Shoes",
+            "itemType": 8,
+            "color": 0
+        },
+        {
+            "id": 861,
+            "level": 2,
+            "icon": 1692,
+            "name": "Old High Shoes",
+            "itemType": 8,
+            "color": 0
+        },
+        {
+            "id": 892,
+            "level": 5,
+            "icon": 1713,
+            "name": "Plain Boots",
+            "itemType": 8,
+            "color": 1
+        },
+        {
+            "id": 893,
+            "level": 5,
+            "icon": 1728,
+            "name": "Coarse Boots",
+            "itemType": 8,
+            "color": 1
+        },
+        {
+            "id": 928,
+            "level": 8,
+            "icon": 1710,
+            "name": "Trustworthy High Boots",
+            "itemType": 8,
+            "color": 1
+        },
+        {
+            "id": 929,
+            "level": 8,
+            "icon": 1716,
+            "name": "Durable Moccasins",
+            "itemType": 8,
+            "color": 1
+        },
+        {
+            "id": 987,
+            "level": 10,
+            "icon": 1713,
+            "name": "Coarse Moccasins",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 988,
+            "level": 10,
+            "icon": 1716,
+            "name": "Boots of Fighter",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 1038,
+            "level": 9,
+            "icon": 1719,
+            "name": "Leather Shoes of Hunter",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 1039,
+            "level": 9,
+            "icon": 1713,
+            "name": "Leather Shoes of Guardian",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 2024,
+            "level": 12,
+            "icon": 1725,
+            "name": "Light High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 2025,
+            "level": 12,
+            "icon": 1719,
+            "name": "Light Moccasins",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 2081,
+            "level": 13,
+            "icon": 1716,
+            "name": "Trustworthy Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 2082,
+            "level": 13,
+            "icon": 1719,
+            "name": "Trustworthy Moccasins",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 2140,
+            "level": 14,
+            "icon": 1676,
+            "name": "Good-looking High Boots",
+            "itemType": 8,
+            "color": 0
+        },
+        {
+            "id": 2184,
+            "level": 14,
+            "icon": 1701,
+            "name": "Expensive High Boots",
+            "itemType": 8,
+            "color": 1
+        },
+        {
+            "id": 2185,
+            "level": 13,
+            "icon": 1676,
+            "name": "Expensive Moccasins",
+            "itemType": 8,
+            "color": 1
+        },
+        {
+            "id": 2266,
+            "level": 15,
+            "icon": 1704,
+            "name": "Polished boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 2310,
+            "level": 15,
+            "icon": 1713,
+            "name": "High Boots of Berengar's shadow",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 2311,
+            "level": 15,
+            "icon": 1722,
+            "name": "High Boots of Berengar's Revenge",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 2356,
+            "level": 15,
+            "icon": 1704,
+            "name": "Gladiator's High Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 4015,
+            "level": 16,
+            "icon": 1722,
+            "name": "Blue High Boots of Guard",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 4016,
+            "level": 16,
+            "icon": 1731,
+            "name": "Green High Boots of Guard",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 4017,
+            "level": 16,
+            "icon": 1710,
+            "name": "Violet High Boots of Guard",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 4018,
+            "level": 16,
+            "icon": 1704,
+            "name": "Red High Boots of Guard",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 4019,
+            "level": 16,
+            "icon": 1719,
+            "name": "Orange High Boots of Guard",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 4353,
+            "level": 16,
+            "icon": 1722,
+            "name": "Blue High Boots of Inquisitor",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 4354,
+            "level": 16,
+            "icon": 1731,
+            "name": "Green High Boots of Inquisitor",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 4355,
+            "level": 16,
+            "icon": 1710,
+            "name": "Violet High Boots of Inquisitor",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 4356,
+            "level": 16,
+            "icon": 1704,
+            "name": "Red High Boots of Inquisitor",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 4357,
+            "level": 16,
+            "icon": 1719,
+            "name": "Orange High Boots of Inquisitor",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 5209,
+            "level": 1,
+            "icon": 1676,
+            "name": "Novice's Leather High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 5787,
+            "level": 6,
+            "icon": 1725,
+            "name": "High Boots of Beginner Gladiator",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 5820,
+            "level": 12,
+            "icon": 1704,
+            "name": "Boots of Young Gladiator",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 5840,
+            "level": 1,
+            "icon": 1665,
+            "name": "",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 6067,
+            "level": 2,
+            "icon": 2226,
+            "name": "Mate's Snowshoes",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 6098,
+            "level": 9,
+            "icon": 2226,
+            "name": "White Elder's Snowshoes",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 6426,
+            "level": 17,
+            "icon": 1684,
+            "name": "Star Pilgrim's High Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 6430,
+            "level": 17,
+            "icon": 1684,
+            "name": "Star Pilgrim's Mocassins",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 6484,
+            "level": 18,
+            "icon": 1704,
+            "name": "Killing Whisper Mocassins",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 8121,
+            "level": 1,
+            "icon": 1719,
+            "name": "Worn High Shoes",
+            "itemType": 8,
+            "color": 0
+        },
+        {
+            "id": 8130,
+            "level": 1,
+            "icon": 1668,
+            "name": "Worn High Shoes",
+            "itemType": 8,
+            "color": 0
+        },
+        {
+            "id": 11008,
+            "level": 17,
+            "icon": 1684,
+            "name": "Scout High Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 11247,
+            "level": 17,
+            "icon": 1722,
+            "name": "Severe Cold High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 13195,
+            "level": 16,
+            "icon": 1728,
+            "name": "Deadborn's High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 13772,
+            "level": 7,
+            "icon": 1722,
+            "name": "Temptress's Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 13773,
+            "level": 7,
+            "icon": 1722,
+            "name": "Temptress's High Shoes",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 13864,
+            "level": 18,
+            "icon": 1713,
+            "name": "Harad's Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 14674,
+            "level": 13,
+            "icon": 1692,
+            "name": "Tough Leather Mocassins",
+            "itemType": 8,
+            "color": 1
+        },
+        {
+            "id": 14679,
+            "level": 15,
+            "icon": 1701,
+            "name": "Seeker's Moccasins",
+            "itemType": 8,
+            "color": 1
+        },
+        {
+            "id": 14684,
+            "level": 18,
+            "icon": 1704,
+            "name": "Tested Moccasins",
+            "itemType": 8,
+            "color": 1
+        },
+        {
+            "id": 14689,
+            "level": 20,
+            "icon": 1676,
+            "name": "Flaming Moccasins",
+            "itemType": 8,
+            "color": 1
+        },
+        {
+            "id": 14694,
+            "level": 13,
+            "icon": 1671,
+            "name": "Tanned Leather High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 14699,
+            "level": 15,
+            "icon": 1684,
+            "name": "Adventurer's High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 14704,
+            "level": 18,
+            "icon": 1679,
+            "name": "Scaled High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 14709,
+            "level": 20,
+            "icon": 1704,
+            "name": "Elemental Mocassins",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 14886,
+            "level": 20,
+            "icon": 1716,
+            "name": "Conqueror Asterius' High Shoes",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 14937,
+            "level": 20,
+            "icon": 1716,
+            "name": "Burning Rage Moccasins",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 14941,
+            "level": 20,
+            "icon": 1719,
+            "name": "Moccasins of the Dark Outlaw",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 14996,
+            "level": 19,
+            "icon": 1728,
+            "name": "Provocator's High Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 15035,
+            "level": 15,
+            "icon": 1719,
+            "name": "High Boots of Northern Chieftains",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 15037,
+            "level": 18,
+            "icon": 1728,
+            "name": "High Boots of Frozen Fire",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 15041,
+            "level": 20,
+            "icon": 1722,
+            "name": "High Boots of Deep Lord",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 15088,
+            "level": 21,
+            "icon": 1731,
+            "name": "High Shoes of Fierce Filth",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 15299,
+            "level": 21,
+            "icon": 1719,
+            "name": "High Shoes of Horror Guard",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 16939,
+            "level": 22,
+            "icon": 1716,
+            "name": "Moccasins of the Deadly Mystic",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 16944,
+            "level": 22,
+            "icon": 1716,
+            "name": "Moccasins of the Fanatic Dream Walker",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 16963,
+            "level": 21,
+            "icon": 3270,
+            "name": "Boots of the Lord of Borea",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 17252,
+            "level": 21,
+            "icon": 1716,
+            "name": "Boots of the Elusive One",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 17559,
+            "level": 22,
+            "icon": 1725,
+            "name": "High Shoes of Wildlife Hunting",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 17639,
+            "level": 6,
+            "icon": 3360,
+            "name": "Boots of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 17643,
+            "level": 10,
+            "icon": 3360,
+            "name": "Boots of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 17647,
+            "level": 14,
+            "icon": 3360,
+            "name": "Boots of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 17651,
+            "level": 16,
+            "icon": 3360,
+            "name": "Boots of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 17655,
+            "level": 18,
+            "icon": 3360,
+            "name": "Boots of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 17659,
+            "level": 20,
+            "icon": 3360,
+            "name": "Boots of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 17663,
+            "level": 22,
+            "icon": 3360,
+            "name": "Boots of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 17667,
+            "level": 24,
+            "icon": 3360,
+            "name": "Boots of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 17671,
+            "level": 26,
+            "icon": 3360,
+            "name": "Boots of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 18318,
+            "level": 6,
+            "icon": 3493,
+            "name": "Borean Warlock's Fur Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18326,
+            "level": 10,
+            "icon": 3493,
+            "name": "Veil Guard's Fur Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18332,
+            "level": 14,
+            "icon": 3493,
+            "name": "Fur Boots of the Northern Oracle",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18338,
+            "level": 18,
+            "icon": 3493,
+            "name": "Fur Boots of the Vortex Spellweaver",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18346,
+            "level": 20,
+            "icon": 3493,
+            "name": "Fur Boots of the Ice Recluse",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18352,
+            "level": 22,
+            "icon": 3493,
+            "name": "Fur Boots of the Faceless Heir",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18445,
+            "level": 10,
+            "icon": 3512,
+            "name": "Eternal Life Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18449,
+            "level": 12,
+            "icon": 3512,
+            "name": "High Boots of Immeasurable Stamina",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18453,
+            "level": 14,
+            "icon": 3512,
+            "name": "Iron Health Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18457,
+            "level": 16,
+            "icon": 3512,
+            "name": "High Boots of Inexhaustible Strength",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18461,
+            "level": 18,
+            "icon": 3512,
+            "name": "High Boots of Endless Perseverance",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18465,
+            "level": 20,
+            "icon": 3512,
+            "name": "High Boots of Inexhaustible Perseverance",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18469,
+            "level": 22,
+            "icon": 3512,
+            "name": "Infinite Reliability High Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18473,
+            "level": 10,
+            "icon": 1710,
+            "name": "Leather High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 18477,
+            "level": 12,
+            "icon": 1713,
+            "name": "Tanned Leather Moccasins",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 18481,
+            "level": 14,
+            "icon": 1716,
+            "name": "Adventurer's High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 18485,
+            "level": 16,
+            "icon": 1728,
+            "name": "Thick Leather High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 18489,
+            "level": 18,
+            "icon": 1722,
+            "name": "Scaled High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 18492,
+            "level": 20,
+            "icon": 1731,
+            "name": "Elemental High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 18497,
+            "level": 22,
+            "icon": 1725,
+            "name": "Sacred High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 18500,
+            "level": 10,
+            "icon": 1716,
+            "name": "High Boots of Full Moon",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18504,
+            "level": 12,
+            "icon": 1713,
+            "name": "Excellent Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18507,
+            "level": 14,
+            "icon": 1716,
+            "name": "Moccasins of Northern Chieftains",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18511,
+            "level": 16,
+            "icon": 1719,
+            "name": "Durable Leather High Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 18520,
+            "level": 22,
+            "icon": 1716,
+            "name": "Divine Protection High Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 19069,
+            "level": 24,
+            "icon": 1725,
+            "name": "High Boots of Cruelty",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 19073,
+            "level": 24,
+            "icon": 1716,
+            "name": "High Boots of Righteous Anger",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 19076,
+            "level": 24,
+            "icon": 3512,
+            "name": "High Boots of Blind Fury",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 19201,
+            "level": 23,
+            "icon": 1716,
+            "name": "Assassin's High Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 19215,
+            "level": 23,
+            "icon": 1725,
+            "name": "Boots of the Tree Guard",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 19231,
+            "level": 25,
+            "icon": 1725,
+            "name": "Shoes of the Soldier Mechanic",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 20422,
+            "level": 12,
+            "icon": 3493,
+            "name": "Fur boots of the Snow Prisoner",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 20440,
+            "level": 16,
+            "icon": 3493,
+            "name": "Fur boots of the Polar Hierophant",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 20470,
+            "level": 24,
+            "icon": 3493,
+            "name": "Fur Boots of the Storm Tamer",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 20482,
+            "level": 26,
+            "icon": 3493,
+            "name": "Fur Boots of the Whitefaced Demiurge",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 21039,
+            "level": 25,
+            "icon": 1716,
+            "name": "Elusive Killer's High Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 21099,
+            "level": 26,
+            "icon": 1725,
+            "name": "Spooky High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 21103,
+            "level": 26,
+            "icon": 1716,
+            "name": "Dark Flame High Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 21107,
+            "level": 26,
+            "icon": 3512,
+            "name": "High Boots of the Captive Souls",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 21422,
+            "level": 3,
+            "icon": 1713,
+            "name": "Plain Light High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 21427,
+            "level": 6,
+            "icon": 1713,
+            "name": "Shabby Light High Boots",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 22218,
+            "level": 6,
+            "icon": 4219,
+            "name": "Winter High Shoes of Iceman",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22219,
+            "level": 6,
+            "icon": 4219,
+            "name": "Winter High Boots of Iceman",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22242,
+            "level": 10,
+            "icon": 4219,
+            "name": "Winter High Shoes of Ragnar",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22243,
+            "level": 10,
+            "icon": 4219,
+            "name": "Winter High Boots of Ragnar",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22266,
+            "level": 12,
+            "icon": 4219,
+            "name": "Winter High Shoes of Frosty Fang",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22267,
+            "level": 12,
+            "icon": 4219,
+            "name": "Winter High Boots of Frosty Fang",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22290,
+            "level": 14,
+            "icon": 4219,
+            "name": "Winter High Shoes of Mastodon",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22291,
+            "level": 14,
+            "icon": 4219,
+            "name": "Winter High Boots of Mastodon",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22332,
+            "level": 18,
+            "icon": 4219,
+            "name": "Winter High Shoes of Kerula",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22333,
+            "level": 18,
+            "icon": 4219,
+            "name": "Winter High Boots of Kerula",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22338,
+            "level": 16,
+            "icon": 4219,
+            "name": "Winter High Shoes of Taron",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22339,
+            "level": 16,
+            "icon": 4219,
+            "name": "Winter High Boots of Taron",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22362,
+            "level": 20,
+            "icon": 4219,
+            "name": "Winter High Shoes of Gimir",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22363,
+            "level": 20,
+            "icon": 4219,
+            "name": "Winter High Boots of Gimir",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22386,
+            "level": 22,
+            "icon": 4219,
+            "name": "Winter High Shoes of Flavius",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22387,
+            "level": 22,
+            "icon": 4219,
+            "name": "Winter High Boots of Flavius",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22410,
+            "level": 24,
+            "icon": 4219,
+            "name": "Winter High Shoes of Ruberius",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22411,
+            "level": 24,
+            "icon": 4219,
+            "name": "Winter High Boots of Ruberius",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22434,
+            "level": 26,
+            "icon": 4219,
+            "name": "Winter High Shoes of Mortis",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 22435,
+            "level": 26,
+            "icon": 4219,
+            "name": "Winter High Boots of Mortis",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 23320,
+            "level": 20,
+            "icon": 4453,
+            "name": "Boots of Warriors of the Sacred Forest",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23324,
+            "level": 20,
+            "icon": 4452,
+            "name": "High Shoes of Warriors of the Dominant Coalition",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23328,
+            "level": 22,
+            "icon": 4453,
+            "name": "Boots of Warriors of the Pyramid Valley",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23332,
+            "level": 22,
+            "icon": 4452,
+            "name": "High Shoes of Warriors of the Mighty Alliance",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23336,
+            "level": 24,
+            "icon": 4453,
+            "name": "Boots of Warriors of the Black Oak Forest",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23340,
+            "level": 24,
+            "icon": 4452,
+            "name": "High Shoes of Warriors of the Legendary Brotherhood",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23344,
+            "level": 26,
+            "icon": 4453,
+            "name": "Boots of Warriors of the Flying Islands",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23348,
+            "level": 26,
+            "icon": 4452,
+            "name": "High Shoes of Warriors of the Immortal Order",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23503,
+            "level": 25,
+            "icon": 1719,
+            "name": "Boots of the Forest Warriors",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 23532,
+            "level": 27,
+            "icon": 1725,
+            "name": "Boots of the Engineer Warrior",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 23626,
+            "level": 27,
+            "icon": 1716,
+            "name": "High Boots of the Gladiator Warrior",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 23627,
+            "level": 27,
+            "icon": 1716,
+            "name": "High Shoes of the Gladiator Warrior",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 23832,
+            "level": 6,
+            "icon": 3360,
+            "name": "High Shoes of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23836,
+            "level": 10,
+            "icon": 3360,
+            "name": "High Shoes of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23840,
+            "level": 14,
+            "icon": 3360,
+            "name": "High Shoes of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23844,
+            "level": 16,
+            "icon": 3360,
+            "name": "High Shoes of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23848,
+            "level": 18,
+            "icon": 3360,
+            "name": "High Shoes of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23852,
+            "level": 20,
+            "icon": 3360,
+            "name": "High Shoes of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23856,
+            "level": 22,
+            "icon": 3360,
+            "name": "High Shoes of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23860,
+            "level": 24,
+            "icon": 3360,
+            "name": "High Shoes of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23864,
+            "level": 26,
+            "icon": 3360,
+            "name": "High Shoes of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23868,
+            "level": 28,
+            "icon": 3360,
+            "name": "High Shoes of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 23872,
+            "level": 28,
+            "icon": 3360,
+            "name": "Boots of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24168,
+            "level": 16,
+            "icon": 4578,
+            "name": "Tricks of Flint the Bell",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24170,
+            "level": 20,
+            "icon": 4578,
+            "name": "Tricks of Flint the Bell",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24172,
+            "level": 28,
+            "icon": 4578,
+            "name": "Tricks of Flint the Bell",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24174,
+            "level": 16,
+            "icon": 4579,
+            "name": "Tricks of Red-haired Chuck",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24176,
+            "level": 20,
+            "icon": 4579,
+            "name": "Tricks of Red-haired Chuck",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24178,
+            "level": 28,
+            "icon": 4579,
+            "name": "Tricks of Red-haired Chuck",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24234,
+            "level": 14,
+            "icon": 4578,
+            "name": "Tricks of Flint the Bell",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24235,
+            "level": 18,
+            "icon": 4578,
+            "name": "Tricks of Flint the Bell",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24236,
+            "level": 22,
+            "icon": 4578,
+            "name": "Tricks of Flint the Bell",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24237,
+            "level": 24,
+            "icon": 4578,
+            "name": "Tricks of Flint the Bell",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24238,
+            "level": 26,
+            "icon": 4578,
+            "name": "Tricks of Flint the Bell",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24239,
+            "level": 14,
+            "icon": 4579,
+            "name": "Tricks of Red-haired Chuck",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24240,
+            "level": 18,
+            "icon": 4579,
+            "name": "Tricks of Red-haired Chuck",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24241,
+            "level": 22,
+            "icon": 4579,
+            "name": "Tricks of Red-haired Chuck",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24242,
+            "level": 24,
+            "icon": 4579,
+            "name": "Tricks of Red-haired Chuck",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24243,
+            "level": 26,
+            "icon": 4579,
+            "name": "Tricks of Red-haired Chuck",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24415,
+            "level": 28,
+            "icon": 4219,
+            "name": "Winter Boots of the Snow General",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24419,
+            "level": 28,
+            "icon": 4219,
+            "name": "Winter High Boots of the Snow General",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24435,
+            "level": 28,
+            "icon": 3493,
+            "name": "Fur Boots of the Arctic Ruler",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 24457,
+            "level": 10,
+            "icon": 4624,
+            "name": "All-Destroying Boots of Ragnar",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24461,
+            "level": 10,
+            "icon": 4624,
+            "name": "Unmatched High Boots of Ragnar",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24569,
+            "level": 12,
+            "icon": 4624,
+            "name": "All-Destroying Boots of Frosty Fang",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24570,
+            "level": 14,
+            "icon": 4624,
+            "name": "All-Destroying Boots of Mastodon",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24571,
+            "level": 16,
+            "icon": 4624,
+            "name": "All-Destroying Boots of Taron",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24572,
+            "level": 18,
+            "icon": 4624,
+            "name": "All-Destroying Boots of Kerula",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24573,
+            "level": 20,
+            "icon": 4624,
+            "name": "All-Destroying Boots of Gimir",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24574,
+            "level": 22,
+            "icon": 4624,
+            "name": "All-Destroying Boots of Flavius",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24575,
+            "level": 24,
+            "icon": 4624,
+            "name": "All-Destroying Boots of Ruberius",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24576,
+            "level": 26,
+            "icon": 4624,
+            "name": "All-Destroying Boots of Mortis",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24577,
+            "level": 28,
+            "icon": 4624,
+            "name": "All-Destroying Boots of the Snow General",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24605,
+            "level": 12,
+            "icon": 4624,
+            "name": "Unsurpassed High Boots of Frosty Fang",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24606,
+            "level": 14,
+            "icon": 4624,
+            "name": "Unsurpassed High Boots of Mastodon",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24607,
+            "level": 16,
+            "icon": 4624,
+            "name": "Unsurpassed High Boots of Taron",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24608,
+            "level": 18,
+            "icon": 4624,
+            "name": "Unsurpassed High Boots of Kerula",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24609,
+            "level": 20,
+            "icon": 4624,
+            "name": "Unsurpassed High Boots of Gimir",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24610,
+            "level": 22,
+            "icon": 4624,
+            "name": "Unsurpassed High Boots of Flavius",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24611,
+            "level": 24,
+            "icon": 4624,
+            "name": "Unsurpassed High Boots of Ruberius",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24612,
+            "level": 26,
+            "icon": 4624,
+            "name": "Unsurpassed High Boots of Mortis",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 24613,
+            "level": 28,
+            "icon": 4624,
+            "name": "Unsurpassed High Boots of the Snow General",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 25247,
+            "level": 28,
+            "icon": 1725,
+            "name": "High Boots of Insight",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 25252,
+            "level": 28,
+            "icon": 1716,
+            "name": "High Boots of Sinister Visions",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 25257,
+            "level": 28,
+            "icon": 3512,
+            "name": "High Boots of Sheer Emptiness",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 25926,
+            "level": 20,
+            "icon": 4452,
+            "name": "High Shoes of Assassins of the Dominant Coalition",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 25930,
+            "level": 22,
+            "icon": 4452,
+            "name": "High Shoes of Assassins of the Mighty Alliance",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 25934,
+            "level": 24,
+            "icon": 4452,
+            "name": "High Shoes of Assassins of the Legendary Brotherhood",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 25938,
+            "level": 26,
+            "icon": 4452,
+            "name": "High Shoes of Assassins of the Immortal Order",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 26299,
+            "level": 30,
+            "icon": 4960,
+            "name": "Flippers of the Diver Warrior",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 26301,
+            "level": 30,
+            "icon": 4960,
+            "name": "Flippers of the Diver Assassin",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 26340,
+            "level": 29,
+            "icon": 1719,
+            "name": "High Boots of the Corsair Warrior",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 26344,
+            "level": 29,
+            "icon": 1719,
+            "name": "High Shoes of the Corsair Assassin",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 26512,
+            "level": 29,
+            "icon": 1716,
+            "name": "High Boots of the Legendary Assassin",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 26513,
+            "level": 29,
+            "icon": 1716,
+            "name": "High Shoes of the Legendary Assassin",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 27176,
+            "level": 30,
+            "icon": 4578,
+            "name": "Tricks of Flint the Bell",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 27178,
+            "level": 30,
+            "icon": 4579,
+            "name": "Tricks of Red-haired Chuck",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 27961,
+            "level": 30,
+            "icon": 4219,
+            "name": "Winter High Shoes of Chernobog",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 27965,
+            "level": 30,
+            "icon": 4219,
+            "name": "Winter High Boots of Chernobog",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 27986,
+            "level": 30,
+            "icon": 3493,
+            "name": "Fur Boots of the Patron of Frost",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 27990,
+            "level": 30,
+            "icon": 3493,
+            "name": "Nutukas of the Patron of Frost",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 28034,
+            "level": 14,
+            "icon": 3493,
+            "name": "Nutukas of the Northern Oracle",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 28038,
+            "level": 16,
+            "icon": 3493,
+            "name": "Nutukas of the Polar Hierophant",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 28042,
+            "level": 18,
+            "icon": 3493,
+            "name": "Nutukas of the Vortex Spellweaver",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 28046,
+            "level": 20,
+            "icon": 3493,
+            "name": "Nutukas of the Ice Recluse",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 28050,
+            "level": 22,
+            "icon": 3493,
+            "name": "Nutukas of the Faceless Heir",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 28054,
+            "level": 24,
+            "icon": 3493,
+            "name": "Nutukas of the Storm Tamer",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 28058,
+            "level": 26,
+            "icon": 3493,
+            "name": "Nutukas of the Whitefaced Demiurge",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 28062,
+            "level": 28,
+            "icon": 3493,
+            "name": "Nutukas of the Arctic Ruler",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 28118,
+            "level": 30,
+            "icon": 4624,
+            "name": "All-Destroying Boots of Chernobog",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 28122,
+            "level": 30,
+            "icon": 4624,
+            "name": "Unsurpassed High Boots of Chernobog",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 28337,
+            "level": 30,
+            "icon": 3360,
+            "name": "Boots of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 28341,
+            "level": 30,
+            "icon": 3360,
+            "name": "High Shoes of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 28919,
+            "level": 30,
+            "icon": 1725,
+            "name": "High Boots of Restless Being",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 28924,
+            "level": 30,
+            "icon": 1716,
+            "name": "High Boots of Rebellious Spirit",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 28929,
+            "level": 30,
+            "icon": 3512,
+            "name": "High Boots of Wild Heart",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 29412,
+            "level": 32,
+            "icon": 5334,
+            "name": "High Boots of Time Distortion",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 29416,
+            "level": 32,
+            "icon": 5334,
+            "name": "High Boots of Fatal Retribution",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 29492,
+            "level": 20,
+            "icon": 4453,
+            "name": "Boots of Assassins of the Sacred Forest",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 29496,
+            "level": 22,
+            "icon": 4453,
+            "name": "Boots of Assassins of the Pyramid Valley",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 29500,
+            "level": 24,
+            "icon": 4453,
+            "name": "Boots of Assassins of the Black Oak Forest",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 29504,
+            "level": 26,
+            "icon": 4453,
+            "name": "Boots of Assassins of the Flying Islands",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 29508,
+            "level": 28,
+            "icon": 4453,
+            "name": "Boots of Assassins of the Ship Graveyard",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 29512,
+            "level": 28,
+            "icon": 4453,
+            "name": "Boots of Warriors of the Ship Graveyard",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 29516,
+            "level": 28,
+            "icon": 4452,
+            "name": "High Shoes of Warriors of the Imperious Clan",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 29520,
+            "level": 28,
+            "icon": 4452,
+            "name": "High Shoes of Assassins of the Imperious Clan",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 29746,
+            "level": 7,
+            "icon": 1719,
+            "name": "High Boots of Recruit",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 29751,
+            "level": 7,
+            "icon": 1713,
+            "name": "High Shoes of Recruit",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 29756,
+            "level": 11,
+            "icon": 1719,
+            "name": "High Boots of Mercenary",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 29761,
+            "level": 11,
+            "icon": 1713,
+            "name": "High Shoes of Mercenary",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 32050,
+            "level": 30,
+            "icon": 4453,
+            "name": "High Boots of the Warriors of the Pirate Archipelago",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32054,
+            "level": 30,
+            "icon": 4453,
+            "name": "High Boots of the Assassins of the Pirate Archipelago",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32058,
+            "level": 30,
+            "icon": 4452,
+            "name": "Boots of the Warriors of the Unbreakable Alliance",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32062,
+            "level": 30,
+            "icon": 4452,
+            "name": "Boots of the Assassins of the Unbreakable Alliance",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32138,
+            "level": 18,
+            "icon": 5799,
+            "name": "Enchanted High Boots of Youth",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32142,
+            "level": 20,
+            "icon": 5799,
+            "name": "Enchanted High Boots of Longevity",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32146,
+            "level": 22,
+            "icon": 5799,
+            "name": "Enchanted High Boots of Unfading",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32150,
+            "level": 24,
+            "icon": 5799,
+            "name": "Enchanted High Boots of Unquenchability",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32154,
+            "level": 26,
+            "icon": 5799,
+            "name": "Enchanted High Boots of Eternity",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32158,
+            "level": 28,
+            "icon": 5799,
+            "name": "Enchanted High Boots of Immortality",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32162,
+            "level": 30,
+            "icon": 5799,
+            "name": "Enchanted High Boots of Integrity",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32166,
+            "level": 18,
+            "icon": 5800,
+            "name": "Polar High Boots of Zeal",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32170,
+            "level": 20,
+            "icon": 5800,
+            "name": "Polar High Boots of Mutiny",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32174,
+            "level": 22,
+            "icon": 5800,
+            "name": "Polar High Boots of Vehemence",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32178,
+            "level": 24,
+            "icon": 5800,
+            "name": "Polar High Boots of Ardency",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32182,
+            "level": 26,
+            "icon": 5800,
+            "name": "Polar High Boots of Bitterness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32186,
+            "level": 28,
+            "icon": 5800,
+            "name": "Polar High Boots of Frenzy",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 32190,
+            "level": 30,
+            "icon": 5800,
+            "name": "Polar High Boots of Rampage",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 33273,
+            "level": 32,
+            "icon": 4578,
+            "name": "Tricks of Flint the Bell",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 33277,
+            "level": 32,
+            "icon": 4579,
+            "name": "Tricks of Red-haired Chuck",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 33856,
+            "level": 32,
+            "icon": 4219,
+            "name": "Winter High Shoes of Titan",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 33860,
+            "level": 32,
+            "icon": 4219,
+            "name": "Winter High Boots of Titan",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 33880,
+            "level": 32,
+            "icon": 3493,
+            "name": "Storm Lord\u2019s Fur Boots",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 33884,
+            "level": 32,
+            "icon": 3493,
+            "name": "Storm Lord\u2019s Nutukas",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 33904,
+            "level": 32,
+            "icon": 4624,
+            "name": "All-Destroying Boots of Titan",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 33908,
+            "level": 32,
+            "icon": 4624,
+            "name": "Unmatched High Boots of Titan",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 34472,
+            "level": 32,
+            "icon": 1725,
+            "name": "High Boots of the Sinful Light",
+            "itemType": 8,
+            "color": 2
+        },
+        {
+            "id": 34482,
+            "level": 32,
+            "icon": 1716,
+            "name": "High Boots of the Otherworldly Call",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 34497,
+            "level": 32,
+            "icon": 3512,
+            "name": "High Boots of the Ominous Requiem",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 34930,
+            "level": 31,
+            "icon": 1716,
+            "name": "High Boots of the Champion Assassin",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 34931,
+            "level": 31,
+            "icon": 1716,
+            "name": "High Shoes of the Champion Assassin",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 34953,
+            "level": 32,
+            "icon": 3360,
+            "name": "Boots of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 34957,
+            "level": 32,
+            "icon": 3360,
+            "name": "High Shoes of Greatness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 35100,
+            "level": 22,
+            "icon": 6180,
+            "name": "Boots of the Guards of the Forest\u2019s Heart",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 35104,
+            "level": 24,
+            "icon": 6180,
+            "name": "Boots of the Guards of the Jaguar\u2019s Den",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 35108,
+            "level": 26,
+            "icon": 6180,
+            "name": "Boots of the Guards of the Dragon Ness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 35112,
+            "level": 28,
+            "icon": 6180,
+            "name": "Boots of the Guards of the Sky Sanctuary",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 35116,
+            "level": 30,
+            "icon": 6180,
+            "name": "Boots of the Guards of the Sea Turtle",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 35149,
+            "level": 32,
+            "icon": 5799,
+            "name": "Enchanted Boots of Eternity",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 35153,
+            "level": 32,
+            "icon": 5800,
+            "name": "Polar Boots of Fierceness",
+            "itemType": 8,
+            "color": 4
+        },
+        {
+            "id": 35286,
+            "level": 31,
+            "icon": 1719,
+            "name": "Boots of the Pirate Warrior",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 35290,
+            "level": 31,
+            "icon": 1719,
+            "name": "Boots of the Pirate Assassin",
+            "itemType": 8,
+            "color": 3
+        },
+        {
+            "id": 35638,
+            "level": 18,
+            "icon": 1704,
+            "name": "Death Grip Boots",
+            "itemType": 8,
+            "color": 4
+        }
+    ]
+}

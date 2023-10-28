@@ -1,0 +1,2260 @@
+{
+    "list": [
+        {
+            "id": 2020,
+            "level": 12,
+            "icon": 1479,
+            "name": "Trustworthy Mail Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 2021,
+            "level": 12,
+            "icon": 1485,
+            "name": "Trustworthy Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 2077,
+            "level": 13,
+            "icon": 1485,
+            "name": "Firm Mail Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 2078,
+            "level": 13,
+            "icon": 1494,
+            "name": "Firm Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 2138,
+            "level": 14,
+            "icon": 1491,
+            "name": "Glorious Vambraces",
+            "itemType": 7,
+            "color": 0
+        },
+        {
+            "id": 2180,
+            "level": 12,
+            "icon": 1441,
+            "name": "Fine Mail Gloves",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 2181,
+            "level": 15,
+            "icon": 1488,
+            "name": "Fine Vambraces",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 2264,
+            "level": 15,
+            "icon": 1506,
+            "name": "Well-tried Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 2306,
+            "level": 15,
+            "icon": 1472,
+            "name": "Vambraces of Berengar's Guard",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 2307,
+            "level": 15,
+            "icon": 1497,
+            "name": "Gloves of Berengar's Endurance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 2354,
+            "level": 15,
+            "icon": 1503,
+            "name": "Gloves of fighter",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4239,
+            "level": 16,
+            "icon": 1497,
+            "name": "Blue Vambraces of Bodyguard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4240,
+            "level": 16,
+            "icon": 1465,
+            "name": "Green Vambraces of Bodyguard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4241,
+            "level": 16,
+            "icon": 1503,
+            "name": "Violet Vambraces of Bodyguard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4242,
+            "level": 16,
+            "icon": 1509,
+            "name": "Red Vambraces of Bodyguard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4243,
+            "level": 16,
+            "icon": 1485,
+            "name": "Red Vambraces of Bodyguard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4398,
+            "level": 16,
+            "icon": 1497,
+            "name": "Blue Vambraces of Berserker",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4399,
+            "level": 16,
+            "icon": 1465,
+            "name": "Green Vambraces of Berserker",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4400,
+            "level": 16,
+            "icon": 1503,
+            "name": "Violet Vambraces of Berserker",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4401,
+            "level": 16,
+            "icon": 1509,
+            "name": "Red Vambraces of Berserker",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4402,
+            "level": 16,
+            "icon": 1485,
+            "name": "Orange Vambraces of Berserker",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4485,
+            "level": 5,
+            "icon": 1506,
+            "name": "Used Vambraces",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 4486,
+            "level": 9,
+            "icon": 1506,
+            "name": "Tempered Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 5201,
+            "level": 1,
+            "icon": 1497,
+            "name": "Novice's Mail Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 5791,
+            "level": 11,
+            "icon": 1506,
+            "name": "Gloves of Beginner Fighter",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 5808,
+            "level": 5,
+            "icon": 1506,
+            "name": "Gauntlets of Beginner Fighter",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 6074,
+            "level": 5,
+            "icon": 2231,
+            "name": "Mate's Fur Mittens",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 6102,
+            "level": 13,
+            "icon": 2231,
+            "name": "Scrooge Family's Fur Mittens",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 6374,
+            "level": 17,
+            "icon": 1497,
+            "name": "Desert Wanderer's Plate Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 6474,
+            "level": 18,
+            "icon": 1432,
+            "name": "Plate Gloves of Heroic Endurance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 6479,
+            "level": 18,
+            "icon": 1453,
+            "name": "Plate Gauntlets of Divine Defence",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 11003,
+            "level": 17,
+            "icon": 1429,
+            "name": "Champion Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 11242,
+            "level": 17,
+            "icon": 1497,
+            "name": "Everlasting Winter Gauntlets",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13776,
+            "level": 8,
+            "icon": 1476,
+            "name": "Temptress's Chain Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13777,
+            "level": 8,
+            "icon": 1476,
+            "name": "Temptress's Leather Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13806,
+            "level": 16,
+            "icon": 1441,
+            "name": "Abaris's Chain Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13859,
+            "level": 18,
+            "icon": 1503,
+            "name": "Garaan's Gauntlets",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14824,
+            "level": 12,
+            "icon": 1485,
+            "name": "Copper Vambraces",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 14828,
+            "level": 14,
+            "icon": 1491,
+            "name": "Gloomy Vambraces",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 14833,
+            "level": 17,
+            "icon": 1497,
+            "name": "Steel Gauntlets",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 14838,
+            "level": 19,
+            "icon": 1500,
+            "name": "Berserker's Vambraces",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 14844,
+            "level": 12,
+            "icon": 1485,
+            "name": "Notched Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14848,
+            "level": 14,
+            "icon": 1500,
+            "name": "Mighty Wrists",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14853,
+            "level": 17,
+            "icon": 1497,
+            "name": "Mithril Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14858,
+            "level": 19,
+            "icon": 1503,
+            "name": "Inferno Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14887,
+            "level": 20,
+            "icon": 1500,
+            "name": "Crusher Asterius' Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 14928,
+            "level": 20,
+            "icon": 1500,
+            "name": "Fingered Gloves of the Golden Dawn",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 14932,
+            "level": 20,
+            "icon": 1497,
+            "name": "Plate Gauntlets of the Dark Skies",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 15000,
+            "level": 19,
+            "icon": 1500,
+            "name": "Gauntlets of Brave Warrior",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15043,
+            "level": 12,
+            "icon": 1500,
+            "name": "Gauntlets of Full Moon",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15045,
+            "level": 14,
+            "icon": 1500,
+            "name": "Gauntlets of Northern Chieftains",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15051,
+            "level": 19,
+            "icon": 1497,
+            "name": "Gauntlets of Deep Lord",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15091,
+            "level": 20,
+            "icon": 1509,
+            "name": "Gloves of Fierce Filth",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15302,
+            "level": 21,
+            "icon": 1497,
+            "name": "Dark Guard Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15608,
+            "level": 9,
+            "icon": 1506,
+            "name": "Tempered Wristguards",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 16928,
+            "level": 22,
+            "icon": 1509,
+            "name": "Plated Gloves of the Bloody Jarl",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 16933,
+            "level": 22,
+            "icon": 1500,
+            "name": "Plated Gloves of the Die-Hard Huskarl",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 16958,
+            "level": 21,
+            "icon": 3268,
+            "name": "Gauntlets of Kronus the Champion",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17256,
+            "level": 21,
+            "icon": 1500,
+            "name": "Gauntlets of the Indomitable One",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 17563,
+            "level": 22,
+            "icon": 1500,
+            "name": "Gloves of Forest Power",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 17602,
+            "level": 6,
+            "icon": 3365,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17606,
+            "level": 10,
+            "icon": 3365,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17610,
+            "level": 14,
+            "icon": 3365,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17614,
+            "level": 16,
+            "icon": 3365,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17618,
+            "level": 18,
+            "icon": 3365,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17622,
+            "level": 20,
+            "icon": 3365,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17626,
+            "level": 22,
+            "icon": 3365,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17630,
+            "level": 24,
+            "icon": 3365,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17634,
+            "level": 26,
+            "icon": 3365,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 18317,
+            "level": 6,
+            "icon": 3496,
+            "name": "Borean Warlock's Mittens",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18325,
+            "level": 10,
+            "icon": 3496,
+            "name": "Veil Guard's Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18331,
+            "level": 14,
+            "icon": 3496,
+            "name": "Mittens of the Northern Oracle",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18337,
+            "level": 18,
+            "icon": 3496,
+            "name": "Mittens of the Vortex Spellweaver",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18344,
+            "level": 20,
+            "icon": 3496,
+            "name": "Mittens of the Ice Recluse",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18351,
+            "level": 22,
+            "icon": 3496,
+            "name": "Mittens of the Faceless Heir",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18523,
+            "level": 10,
+            "icon": 3515,
+            "name": "Eternal Life Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18527,
+            "level": 12,
+            "icon": 3515,
+            "name": "Vambraces of Immeasurable Stamina",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18531,
+            "level": 14,
+            "icon": 3515,
+            "name": "Iron Health Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18535,
+            "level": 16,
+            "icon": 3515,
+            "name": "Vambraces of Inexhaustible Strength",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18539,
+            "level": 18,
+            "icon": 3515,
+            "name": "Vambraces of Endless Perseverance",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18543,
+            "level": 20,
+            "icon": 3515,
+            "name": "Vambraces of Inexhaustible Perseverance",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18547,
+            "level": 22,
+            "icon": 3515,
+            "name": "Infinite Reliability Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18551,
+            "level": 10,
+            "icon": 1500,
+            "name": "Plate Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18557,
+            "level": 14,
+            "icon": 1500,
+            "name": "Mighty Mittens",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18561,
+            "level": 16,
+            "icon": 1500,
+            "name": "Steel Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18565,
+            "level": 18,
+            "icon": 1500,
+            "name": "Mithril Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18569,
+            "level": 20,
+            "icon": 1497,
+            "name": "Inferno Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18573,
+            "level": 22,
+            "icon": 1503,
+            "name": "Consecrated Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18577,
+            "level": 10,
+            "icon": 1497,
+            "name": "Vambraces of Full Moon",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18581,
+            "level": 12,
+            "icon": 1497,
+            "name": "Reinforced Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18587,
+            "level": 16,
+            "icon": 1497,
+            "name": "Durable Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18591,
+            "level": 18,
+            "icon": 1497,
+            "name": "Vambraces of Frozen Fire",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18593,
+            "level": 20,
+            "icon": 1497,
+            "name": "Vambraces of Deep Lord",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18597,
+            "level": 22,
+            "icon": 1503,
+            "name": "Divine Protection Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19163,
+            "level": 24,
+            "icon": 1503,
+            "name": "Vambraces of Cruelty",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 19167,
+            "level": 24,
+            "icon": 1503,
+            "name": "Vambraces of Righteous Anger",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19171,
+            "level": 24,
+            "icon": 3515,
+            "name": "Vambraces of Blind Fury",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19205,
+            "level": 23,
+            "icon": 1500,
+            "name": "Gauntlets of the Templar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19218,
+            "level": 23,
+            "icon": 1500,
+            "name": "Gloves of the Tree Defender",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19229,
+            "level": 25,
+            "icon": 1500,
+            "name": "Gloves of the Warrior Mechanic",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 20426,
+            "level": 12,
+            "icon": 3496,
+            "name": "Mittens of the Snow Prisoner",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 20444,
+            "level": 16,
+            "icon": 3496,
+            "name": "Mittens of the Polar Hierophant",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 20474,
+            "level": 24,
+            "icon": 3496,
+            "name": "Mittens of the Storm Tamer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 20486,
+            "level": 26,
+            "icon": 3496,
+            "name": "Mittens of the Whitefaced Demiurge",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 21043,
+            "level": 25,
+            "icon": 1500,
+            "name": "Gauntlets of Great Ironclad",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 21110,
+            "level": 26,
+            "icon": 1503,
+            "name": "Spooky Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 21114,
+            "level": 26,
+            "icon": 1503,
+            "name": "Dark Flame Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 21118,
+            "level": 26,
+            "icon": 3515,
+            "name": "Vambraces of the Captive Souls",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 21431,
+            "level": 3,
+            "icon": 1497,
+            "name": "Plain Heavy Gauntlets",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 21436,
+            "level": 6,
+            "icon": 1497,
+            "name": "Shabby Heavy Gauntlets",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 22214,
+            "level": 6,
+            "icon": 4223,
+            "name": "Winter Vambraces of Iceman",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22215,
+            "level": 6,
+            "icon": 4223,
+            "name": "Winter Gauntlets of Iceman",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22238,
+            "level": 10,
+            "icon": 4223,
+            "name": "Winter Vambraces of Ragnar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22239,
+            "level": 10,
+            "icon": 4223,
+            "name": "Winter Gauntlets of Ragnar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22262,
+            "level": 12,
+            "icon": 4223,
+            "name": "Winter Vambraces of Frosty Fang",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22263,
+            "level": 12,
+            "icon": 4223,
+            "name": "Winter Gauntlets of Frosty Fang",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22286,
+            "level": 14,
+            "icon": 4223,
+            "name": "Winter Vambraces of Mastodon",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22287,
+            "level": 14,
+            "icon": 4223,
+            "name": "Winter Gauntlets of Mastodon",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22310,
+            "level": 16,
+            "icon": 4223,
+            "name": "Winter Vambraces of Taron",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22311,
+            "level": 16,
+            "icon": 4223,
+            "name": "Winter Gauntlets of Taron",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22328,
+            "level": 18,
+            "icon": 4223,
+            "name": "Winter Vambraces of Kerula",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22329,
+            "level": 18,
+            "icon": 4223,
+            "name": "Winter Gauntlets of Kerula",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22358,
+            "level": 20,
+            "icon": 4223,
+            "name": "Winter Vambraces of Gimir",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22359,
+            "level": 20,
+            "icon": 4223,
+            "name": "Winter Gauntlets of Gimir",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22382,
+            "level": 22,
+            "icon": 4223,
+            "name": "Winter Vambraces of Flavius",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22383,
+            "level": 22,
+            "icon": 4223,
+            "name": "Winter Gauntlets of Flavius",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22406,
+            "level": 24,
+            "icon": 4223,
+            "name": "Winter Vambraces of Ruberius",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22407,
+            "level": 24,
+            "icon": 4223,
+            "name": "Winter Gauntlets of Ruberius",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22430,
+            "level": 26,
+            "icon": 4223,
+            "name": "Winter Vambraces of Mortis",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22431,
+            "level": 26,
+            "icon": 4223,
+            "name": "Winter Gauntlets of Mortis",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23383,
+            "level": 20,
+            "icon": 4458,
+            "name": "Vambraces of Defenders of the Sacred Forest",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23387,
+            "level": 20,
+            "icon": 4459,
+            "name": "Gauntlets of Defenders of the Dominant Coalition",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23391,
+            "level": 22,
+            "icon": 4458,
+            "name": "Vambraces of Defenders of the Pyramid Valley",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23395,
+            "level": 22,
+            "icon": 4459,
+            "name": "Gauntlets of Defenders of the Mighty Alliance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23399,
+            "level": 24,
+            "icon": 4458,
+            "name": "Vambraces of Defenders of the Black Oak Forest",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23403,
+            "level": 24,
+            "icon": 4459,
+            "name": "Gauntlets of Defenders of the Legendary Brotherhood",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23407,
+            "level": 26,
+            "icon": 4458,
+            "name": "Vambraces of Defenders of the Flying Islands",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23411,
+            "level": 26,
+            "icon": 4459,
+            "name": "Gauntlets of Defenders of the Immortal Order",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23506,
+            "level": 25,
+            "icon": 1500,
+            "name": "Gauntlets of the Forest Defenders",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23535,
+            "level": 27,
+            "icon": 1500,
+            "name": "Gauntlets of the Engineer Defender",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23633,
+            "level": 27,
+            "icon": 1500,
+            "name": "Gauntlets of the Gladiator Defender",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23634,
+            "level": 27,
+            "icon": 1500,
+            "name": "Vambraces of the Gladiator Defender",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23875,
+            "level": 6,
+            "icon": 3365,
+            "name": "Vambraces of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23879,
+            "level": 10,
+            "icon": 3365,
+            "name": "Vambraces of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23883,
+            "level": 14,
+            "icon": 3365,
+            "name": "Vambraces of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23887,
+            "level": 16,
+            "icon": 3365,
+            "name": "Vambraces of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23891,
+            "level": 18,
+            "icon": 3365,
+            "name": "Vambraces of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23895,
+            "level": 20,
+            "icon": 3365,
+            "name": "Vambraces of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23899,
+            "level": 22,
+            "icon": 3365,
+            "name": "Vambraces of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23903,
+            "level": 24,
+            "icon": 3365,
+            "name": "Vambraces of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23907,
+            "level": 26,
+            "icon": 3365,
+            "name": "Vambraces of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23911,
+            "level": 28,
+            "icon": 3365,
+            "name": "Vambraces of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23915,
+            "level": 28,
+            "icon": 3365,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24422,
+            "level": 28,
+            "icon": 4223,
+            "name": "Winter Bracers of the Snow General",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 24426,
+            "level": 28,
+            "icon": 4223,
+            "name": "Winter Gauntlets of the Snow General",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 24438,
+            "level": 28,
+            "icon": 3496,
+            "name": "Mittens of the Arctic Ruler",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 24464,
+            "level": 10,
+            "icon": 4627,
+            "name": "Omnipotent Bracers of Ragnar",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24468,
+            "level": 10,
+            "icon": 4627,
+            "name": "Majestic Gauntlets of Ragnar",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24632,
+            "level": 12,
+            "icon": 4627,
+            "name": "Omnipotent Bracers of Frosty Fang",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24633,
+            "level": 14,
+            "icon": 4627,
+            "name": "Omnipotent Bracers of Mastodon",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24634,
+            "level": 16,
+            "icon": 4627,
+            "name": "Omnipotent Bracers of Taron",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24635,
+            "level": 18,
+            "icon": 4627,
+            "name": "Omnipotent Bracers of Kerula",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24636,
+            "level": 20,
+            "icon": 4627,
+            "name": "Omnipotent Bracers of Gimir",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24637,
+            "level": 22,
+            "icon": 4627,
+            "name": "Omnipotent Bracers of Flavius",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24638,
+            "level": 24,
+            "icon": 4627,
+            "name": "Omnipotent Bracers of Ruberius",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24639,
+            "level": 26,
+            "icon": 4627,
+            "name": "Omnipotent Bracers of Mortis",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24640,
+            "level": 28,
+            "icon": 4627,
+            "name": "Omnipotent Bracers of the Snow General",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24668,
+            "level": 12,
+            "icon": 4627,
+            "name": "Majestic Gauntlets of Frosty Fang",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24669,
+            "level": 14,
+            "icon": 4627,
+            "name": "Majestic Gauntlets of Mastodon",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24670,
+            "level": 16,
+            "icon": 4627,
+            "name": "Majestic Gauntlets of Taron",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24671,
+            "level": 18,
+            "icon": 4627,
+            "name": "Majestic Gauntlets of Kerula",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24672,
+            "level": 20,
+            "icon": 4627,
+            "name": "Majestic Gauntlets of Gimir",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24673,
+            "level": 22,
+            "icon": 4627,
+            "name": "Majestic Gauntlets of Flavius",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24674,
+            "level": 24,
+            "icon": 4627,
+            "name": "Majestic Gauntlets of Ruberius",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24675,
+            "level": 26,
+            "icon": 4627,
+            "name": "Majestic Gauntlets of Mortis",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24676,
+            "level": 28,
+            "icon": 4627,
+            "name": "Majestic Gauntlets of the Snow General",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 25261,
+            "level": 28,
+            "icon": 1503,
+            "name": "Bracers of Insight",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 25266,
+            "level": 28,
+            "icon": 1503,
+            "name": "Bracers of Sinister Visions",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 25271,
+            "level": 28,
+            "icon": 3515,
+            "name": "Bracers of Sheer Emptiness",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 25941,
+            "level": 20,
+            "icon": 4459,
+            "name": "Gauntlets of Templars of the Dominant Coalition",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 25945,
+            "level": 22,
+            "icon": 4459,
+            "name": "Gauntlets of Templars of the Mighty Alliance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 25949,
+            "level": 24,
+            "icon": 4459,
+            "name": "Gauntlets of Templars of the Legendary Brotherhood",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 25953,
+            "level": 26,
+            "icon": 4459,
+            "name": "Gauntlets of Templars of the Immortal Order",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 26347,
+            "level": 29,
+            "icon": 1500,
+            "name": "Gauntlets of the Corsair Defender",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 26351,
+            "level": 29,
+            "icon": 1500,
+            "name": "Vambraces of the Corsair Templar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 26519,
+            "level": 29,
+            "icon": 1500,
+            "name": "Gauntlets of the Legendary Templar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 26520,
+            "level": 29,
+            "icon": 1500,
+            "name": "Vambraces of the Legendary Templar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27288,
+            "level": 14,
+            "icon": 5078,
+            "name": "Gloves of Raider Hans",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27290,
+            "level": 16,
+            "icon": 5078,
+            "name": "Gloves of Raider Hans",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27292,
+            "level": 18,
+            "icon": 5078,
+            "name": "Gloves of Raider Hans",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27294,
+            "level": 20,
+            "icon": 5078,
+            "name": "Gloves of Raider Hans",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27296,
+            "level": 22,
+            "icon": 5078,
+            "name": "Gloves of Raider Hans",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27298,
+            "level": 24,
+            "icon": 5078,
+            "name": "Gloves of Raider Hans",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27300,
+            "level": 26,
+            "icon": 5078,
+            "name": "Gloves of Raider Hans",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27302,
+            "level": 28,
+            "icon": 5078,
+            "name": "Gloves of Raider Hans",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27304,
+            "level": 30,
+            "icon": 5078,
+            "name": "Gloves of Raider Hans",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27306,
+            "level": 14,
+            "icon": 5079,
+            "name": "Gloves of Patched Sammy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27308,
+            "level": 16,
+            "icon": 5079,
+            "name": "Gloves of Patched Sammy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27310,
+            "level": 18,
+            "icon": 5079,
+            "name": "Gloves of Patched Sammy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27312,
+            "level": 20,
+            "icon": 5079,
+            "name": "Gloves of Patched Sammy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27314,
+            "level": 22,
+            "icon": 5079,
+            "name": "Gloves of Patched Sammy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27316,
+            "level": 24,
+            "icon": 5079,
+            "name": "Gloves of Patched Sammy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27318,
+            "level": 26,
+            "icon": 5079,
+            "name": "Gloves of Patched Sammy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27320,
+            "level": 28,
+            "icon": 5079,
+            "name": "Gloves of Patched Sammy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27322,
+            "level": 30,
+            "icon": 5079,
+            "name": "Gloves of Patched Sammy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27968,
+            "level": 30,
+            "icon": 4223,
+            "name": "Winter Vambraces of Chernobog",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27972,
+            "level": 30,
+            "icon": 4223,
+            "name": "Winter Gauntlets of Chernobog",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27993,
+            "level": 30,
+            "icon": 3496,
+            "name": "Mittens of the Patron of Frost",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27997,
+            "level": 30,
+            "icon": 3496,
+            "name": "Warm Gauntlets of the Patron of Frost",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28065,
+            "level": 14,
+            "icon": 3496,
+            "name": "Warm Gauntlets of the Northern Oracle",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28069,
+            "level": 16,
+            "icon": 3496,
+            "name": "Warm Gauntlets of the Polar Hierophant",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28073,
+            "level": 18,
+            "icon": 3496,
+            "name": "Warm Gauntlets of the Vortex Spellweaver",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28077,
+            "level": 20,
+            "icon": 3496,
+            "name": "Warm Gauntlets of the Ice Recluse",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28081,
+            "level": 22,
+            "icon": 3496,
+            "name": "Warm Gauntlets of the Faceless Heir",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28085,
+            "level": 24,
+            "icon": 3496,
+            "name": "Warm Gauntlets of the Storm Tamer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28089,
+            "level": 26,
+            "icon": 3496,
+            "name": "Warm Gauntlets of the Whitefaced Demiurge",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28093,
+            "level": 28,
+            "icon": 3496,
+            "name": "Warm Gauntlets of the Arctic Ruler",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28125,
+            "level": 30,
+            "icon": 4627,
+            "name": "Omnipotent Bracers of Chernobog",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 28129,
+            "level": 30,
+            "icon": 4627,
+            "name": "Majestic Gauntlets of Chernobog",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 28344,
+            "level": 30,
+            "icon": 3365,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 28348,
+            "level": 30,
+            "icon": 3365,
+            "name": "Vambraces of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 28933,
+            "level": 30,
+            "icon": 1503,
+            "name": "Vambraces of Restless Being",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 28938,
+            "level": 30,
+            "icon": 1503,
+            "name": "Vambraces of Rebellious Spirit",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28950,
+            "level": 30,
+            "icon": 3515,
+            "name": "Vambraces of Wild Heart",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 29419,
+            "level": 32,
+            "icon": 5337,
+            "name": "Gauntlets of Power Incarnation",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29423,
+            "level": 32,
+            "icon": 5337,
+            "name": "Gauntlets of Doom's Command",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29523,
+            "level": 20,
+            "icon": 4458,
+            "name": "Vambraces of Templars of the Sacred Forest",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29527,
+            "level": 22,
+            "icon": 4458,
+            "name": "Vambraces of Templars of the Pyramid Valley",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29531,
+            "level": 24,
+            "icon": 4458,
+            "name": "Vambraces of Templars of the Black Oak Forest",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29535,
+            "level": 26,
+            "icon": 4458,
+            "name": "Vambraces of Templars of the Flying Islands",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29539,
+            "level": 28,
+            "icon": 4458,
+            "name": "Vambraces of Templars of the Ship Graveyard",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29543,
+            "level": 28,
+            "icon": 4458,
+            "name": "Vambraces of Defenders of the Ship Graveyard",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29547,
+            "level": 28,
+            "icon": 4459,
+            "name": "Gauntlets of Defenders of the Imperious Clan",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29551,
+            "level": 28,
+            "icon": 4459,
+            "name": "Gauntlets of Templars of the Imperious Clan",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29770,
+            "level": 7,
+            "icon": 1506,
+            "name": "Gauntlets of Recruit",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 29775,
+            "level": 7,
+            "icon": 1506,
+            "name": "Vambraces of Recruit",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 29780,
+            "level": 11,
+            "icon": 1506,
+            "name": "Gauntlets of Mercenary",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 29785,
+            "level": 11,
+            "icon": 1506,
+            "name": "Vambraces of Mercenary",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 32065,
+            "level": 30,
+            "icon": 4458,
+            "name": "Vambracers of the Defenders of the Pirate Archipelago",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32069,
+            "level": 30,
+            "icon": 4458,
+            "name": "Vambracers of the Templars of the Pirate Archipelago",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32073,
+            "level": 30,
+            "icon": 4459,
+            "name": "Gauntlets of the Defenders of the Unbreakable Alliance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32077,
+            "level": 30,
+            "icon": 4459,
+            "name": "Gauntlets of the Templars of the Unbreakable Alliance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32193,
+            "level": 18,
+            "icon": 5805,
+            "name": "Sorcerer's Gauntlets of Youth",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32197,
+            "level": 20,
+            "icon": 5805,
+            "name": "Sorcerer's Gauntlets of Longevity",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32201,
+            "level": 22,
+            "icon": 5805,
+            "name": "Sorcerer's Gauntlets of Unfading",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32205,
+            "level": 24,
+            "icon": 5805,
+            "name": "Sorcerer's Gauntlets of Unquenchability",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32209,
+            "level": 26,
+            "icon": 5805,
+            "name": "Sorcerer's Gauntlets of Eternity",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32213,
+            "level": 28,
+            "icon": 5805,
+            "name": "Sorcerer's Gauntlets of Immortality",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32217,
+            "level": 30,
+            "icon": 5805,
+            "name": "Sorcerer's Gauntlets of Integrity",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32221,
+            "level": 18,
+            "icon": 5806,
+            "name": "Arctic Gauntlets of Zeal",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32225,
+            "level": 20,
+            "icon": 5806,
+            "name": "Arctic Gauntlets of Mutiny",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32229,
+            "level": 22,
+            "icon": 5806,
+            "name": "Arctic Gauntlets of Vehemence",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32233,
+            "level": 24,
+            "icon": 5806,
+            "name": "Arctic Gauntlets of Ardency",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32237,
+            "level": 26,
+            "icon": 5806,
+            "name": "Arctic Gauntlets of Bitterness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32241,
+            "level": 28,
+            "icon": 5806,
+            "name": "Arctic Gauntlets of Frenzy",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32245,
+            "level": 30,
+            "icon": 5806,
+            "name": "Arctic Gauntlets of Rampage",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32340,
+            "level": 30,
+            "icon": 5821,
+            "name": "Gloves of the Diver Defender",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 32342,
+            "level": 30,
+            "icon": 5821,
+            "name": "Gloves of the Diver Templar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33280,
+            "level": 32,
+            "icon": 5078,
+            "name": "Gloves of Raider Hans",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33284,
+            "level": 32,
+            "icon": 5079,
+            "name": "Gloves of Patched Sammy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33863,
+            "level": 32,
+            "icon": 4223,
+            "name": "Winter Vambraces of Titan",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33867,
+            "level": 32,
+            "icon": 4223,
+            "name": "Winter Gauntlets of Titan",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33887,
+            "level": 32,
+            "icon": 3496,
+            "name": "Storm Lord\u2019s Mittens",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33891,
+            "level": 32,
+            "icon": 3496,
+            "name": "Storm Lord\u2019s Warm Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33911,
+            "level": 32,
+            "icon": 4627,
+            "name": "Omnipotent Bracers of Titan",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 33915,
+            "level": 32,
+            "icon": 4627,
+            "name": "Majestic Gauntlets of Titan",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 34469,
+            "level": 32,
+            "icon": 1503,
+            "name": "Vambraces of the Sinful Light",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 34486,
+            "level": 32,
+            "icon": 1503,
+            "name": "Vambraces of the Otherworldly Call",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 34501,
+            "level": 32,
+            "icon": 3515,
+            "name": "Vambraces of the Ominous Requiem",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 34937,
+            "level": 31,
+            "icon": 1500,
+            "name": "Gauntlets of the Champion Templar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 34938,
+            "level": 31,
+            "icon": 1500,
+            "name": "Vambraces of the Champion Templar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 34960,
+            "level": 32,
+            "icon": 3365,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 34964,
+            "level": 32,
+            "icon": 3365,
+            "name": "Vambraces of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35119,
+            "level": 22,
+            "icon": 6183,
+            "name": "Gauntlets of the Knights of the Forest\u2019s Heart",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35123,
+            "level": 24,
+            "icon": 6183,
+            "name": "Gauntlets of the Knights of the Jaguar\u2019s Den",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35127,
+            "level": 26,
+            "icon": 6183,
+            "name": "Gauntlets of the Knights of the Dragon Ness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35131,
+            "level": 28,
+            "icon": 6183,
+            "name": "Gauntlets of the Knights of the Sky Sanctuary",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35135,
+            "level": 30,
+            "icon": 6183,
+            "name": "Gauntlets of the Knights of the Sea Turtle",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35156,
+            "level": 32,
+            "icon": 5805,
+            "name": "The Witchcraft Gloves of Eternity",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35160,
+            "level": 32,
+            "icon": 5806,
+            "name": "Arctic Gloves of Fierceness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35294,
+            "level": 31,
+            "icon": 1500,
+            "name": "Gauntlets of the Defender Pirate",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 35298,
+            "level": 31,
+            "icon": 1500,
+            "name": "Vambraces of the Templar Pirate",
+            "itemType": 7,
+            "color": 3
+        }
+    ]
+}

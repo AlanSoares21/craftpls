@@ -1,0 +1,1700 @@
+{
+    "list": [
+        {
+            "id": 7962,
+            "level": 3,
+            "icon": 1211,
+            "name": "Long Spear",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 7990,
+            "level": 7,
+            "icon": 1211,
+            "name": "Tested Spear",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 8026,
+            "level": 10,
+            "icon": 1220,
+            "name": "Deadly Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 8051,
+            "level": 9,
+            "icon": 1211,
+            "name": "Ancient Spear",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 8147,
+            "level": 9,
+            "icon": 1211,
+            "name": "Enchanted Spear",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 8173,
+            "level": 15,
+            "icon": 1211,
+            "name": "Deadly Glaive",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 8289,
+            "level": 13,
+            "icon": 1211,
+            "name": "Tested Pike",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 8295,
+            "level": 14,
+            "icon": 1211,
+            "name": "Tested Guisarme",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 8315,
+            "level": 12,
+            "icon": 1211,
+            "name": "Pungent Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 8323,
+            "level": 15,
+            "icon": 1220,
+            "name": "Tested Glaive",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 8360,
+            "level": 13,
+            "icon": 1211,
+            "name": "Smoking Spear",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 8368,
+            "level": 15,
+            "icon": 1220,
+            "name": "Black Glaive",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 9069,
+            "level": 17,
+            "icon": 1211,
+            "name": "Spear of Abyss Zealot",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 9130,
+            "level": 18,
+            "icon": 2626,
+            "name": "Glaive of Sudden Doom",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 11146,
+            "level": 17,
+            "icon": 1217,
+            "name": "Champion Guisarme",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 11227,
+            "level": 16,
+            "icon": 2617,
+            "name": "Frosty Partisan",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13156,
+            "level": 4,
+            "icon": 2626,
+            "name": "Vampire's Partisan",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13172,
+            "level": 11,
+            "icon": 2626,
+            "name": "Witch's Pike",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13203,
+            "level": 18,
+            "icon": 2626,
+            "name": "Night Prince's Glaive",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 13796,
+            "level": 13,
+            "icon": 2626,
+            "name": "Stormbreaker's Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14106,
+            "level": 19,
+            "icon": 2626,
+            "name": "Partisan of Endless War",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 14393,
+            "level": 11,
+            "icon": 1211,
+            "name": "Granite Spear",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14407,
+            "level": 19,
+            "icon": 1211,
+            "name": "Crushing Glaive",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14416,
+            "level": 13,
+            "icon": 1211,
+            "name": "Serrated Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14440,
+            "level": 19,
+            "icon": 2626,
+            "name": "Ash Glaive",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14450,
+            "level": 12,
+            "icon": 1217,
+            "name": "Spear of Full Moon",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 14866,
+            "level": 19,
+            "icon": 1211,
+            "name": "Berengar's Spear",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15010,
+            "level": 19,
+            "icon": 2620,
+            "name": "Guisarme of Brave Warrior",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15099,
+            "level": 20,
+            "icon": 1211,
+            "name": "Spear of Damned Pilgrims",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15131,
+            "level": 21,
+            "icon": 1217,
+            "name": "Desecrate Pike",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 15326,
+            "level": 21,
+            "icon": 1217,
+            "name": "Enchanted Spear of the Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15339,
+            "level": 22,
+            "icon": 2620,
+            "name": "Pontifices' Pike",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 15351,
+            "level": 23,
+            "icon": 2620,
+            "name": "Soulless Saint's Spear",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 15845,
+            "level": 4,
+            "icon": 3080,
+            "name": "Midnight Hunter's Glaive",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15857,
+            "level": 7,
+            "icon": 3080,
+            "name": "Silent Maniac's Glaive",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15869,
+            "level": 10,
+            "icon": 3080,
+            "name": "Spear of Still Heart",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15881,
+            "level": 13,
+            "icon": 3080,
+            "name": "Glaive of Faceless Nightmare",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15893,
+            "level": 16,
+            "icon": 3080,
+            "name": "Spear of Sinful Call",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15905,
+            "level": 19,
+            "icon": 3080,
+            "name": "Glaive of Immortal Recluse",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15917,
+            "level": 21,
+            "icon": 3080,
+            "name": "Glaive of Overwhelming Fury",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16126,
+            "level": 5,
+            "icon": 3127,
+            "name": "Spear of the Holiday Thief",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16139,
+            "level": 8,
+            "icon": 3127,
+            "name": "Spear of Oath-breaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16154,
+            "level": 11,
+            "icon": 3127,
+            "name": "Spear of Braincrasher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16167,
+            "level": 14,
+            "icon": 3127,
+            "name": "Spear of Toothy Hunter",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16180,
+            "level": 17,
+            "icon": 3127,
+            "name": "Spear of Northern Whirl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16193,
+            "level": 20,
+            "icon": 3127,
+            "name": "Spear of the Snow Lady",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16206,
+            "level": 22,
+            "icon": 3127,
+            "name": "Spear of Permafrost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16910,
+            "level": 21,
+            "icon": 3255,
+            "name": "Gladiator's Gisarme",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16975,
+            "level": 22,
+            "icon": 2620,
+            "name": "Guisarme of Northern Courage",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17122,
+            "level": 10,
+            "icon": 1211,
+            "name": "Serrated Glaive",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17123,
+            "level": 12,
+            "icon": 1211,
+            "name": "Well-tried Glaive",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17124,
+            "level": 14,
+            "icon": 1211,
+            "name": "Notched Glaive",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17137,
+            "level": 16,
+            "icon": 1211,
+            "name": "Sparkling Glaive",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17138,
+            "level": 18,
+            "icon": 1211,
+            "name": "Hewing Glaive",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17139,
+            "level": 20,
+            "icon": 1211,
+            "name": "Ashen Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17164,
+            "level": 10,
+            "icon": 1211,
+            "name": "Enchanted Glaive of the Ent",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17165,
+            "level": 14,
+            "icon": 1211,
+            "name": "Spear of Northern Chieftains",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17166,
+            "level": 16,
+            "icon": 1211,
+            "name": "Glaive of Frozen Fire",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17167,
+            "level": 20,
+            "icon": 1211,
+            "name": "Spear of Deep Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17175,
+            "level": 10,
+            "icon": 3403,
+            "name": "Ent's Amplified Glaive",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17183,
+            "level": 12,
+            "icon": 3403,
+            "name": "Spear of Lunar Sickle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17191,
+            "level": 14,
+            "icon": 3403,
+            "name": "Spear of Northern Lords",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17199,
+            "level": 16,
+            "icon": 3403,
+            "name": "Glaive of Chilled Flame",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17207,
+            "level": 18,
+            "icon": 3403,
+            "name": "Glaive of Dead Silence",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17215,
+            "level": 20,
+            "icon": 3403,
+            "name": "Spear of the Depth Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17302,
+            "level": 22,
+            "icon": 2620,
+            "name": "Horrifying Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17310,
+            "level": 22,
+            "icon": 2620,
+            "name": "All-Destroying Glaive",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17318,
+            "level": 22,
+            "icon": 3403,
+            "name": "Spear of Death Herald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17573,
+            "level": 23,
+            "icon": 3410,
+            "name": "Battle Glaive of Devastation",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17947,
+            "level": 5,
+            "icon": 3080,
+            "name": "Night Puppeteer's Glaive",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17959,
+            "level": 14,
+            "icon": 3080,
+            "name": "Spear of Fatal Mistake",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17971,
+            "level": 18,
+            "icon": 3080,
+            "name": "Spear of Deadly Game",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17983,
+            "level": 23,
+            "icon": 3080,
+            "name": "Killer Puppet's glaive",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18283,
+            "level": 10,
+            "icon": 3127,
+            "name": "Spear of the Tribe Leader",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18296,
+            "level": 18,
+            "icon": 3127,
+            "name": "Spear of the Immortal Wanderer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18309,
+            "level": 23,
+            "icon": 3127,
+            "name": "Bound Conqueror's Spear",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18886,
+            "level": 23,
+            "icon": 3255,
+            "name": "Guisarme of the Templar",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18908,
+            "level": 13,
+            "icon": 1211,
+            "name": "Young Fighter's Guisarme",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19028,
+            "level": 24,
+            "icon": 2620,
+            "name": "Rune spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 19036,
+            "level": 24,
+            "icon": 2620,
+            "name": "Spear of Liberator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19044,
+            "level": 24,
+            "icon": 3403,
+            "name": "Spear of Legendary Defender",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19273,
+            "level": 25,
+            "icon": 3624,
+            "name": "Technocrat's Guisarme",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19285,
+            "level": 25,
+            "icon": 2620,
+            "name": "Guisarme of Revival",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 19966,
+            "level": 6,
+            "icon": 3080,
+            "name": "Spear of the Blind Outlaw",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19991,
+            "level": 12,
+            "icon": 3080,
+            "name": "Spear of the Unsleeping Predator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20029,
+            "level": 20,
+            "icon": 3080,
+            "name": "Spear of the Damned Heir",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20042,
+            "level": 22,
+            "icon": 3080,
+            "name": "Glaive of the Distracted Apostate",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20055,
+            "level": 24,
+            "icon": 3080,
+            "name": "Glaive of the Night Visitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20080,
+            "level": 26,
+            "icon": 3080,
+            "name": "Glaive of the Bloody Earl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20275,
+            "level": 6,
+            "icon": 3127,
+            "name": "Guisarme of Cold-Bearing Spirit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20284,
+            "level": 10,
+            "icon": 3127,
+            "name": "Guisarme of the Tribe Leader",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20296,
+            "level": 12,
+            "icon": 3127,
+            "name": "Guisarme of the Frozen Master",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20305,
+            "level": 14,
+            "icon": 3127,
+            "name": "Guisarme of the Toothy Hunter",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20317,
+            "level": 16,
+            "icon": 3127,
+            "name": "Guisarme of the Rune Scald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20326,
+            "level": 18,
+            "icon": 3127,
+            "name": "Guisarme of the Immortal Wanderer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20332,
+            "level": 20,
+            "icon": 3127,
+            "name": "Guisarme of the Snow Lady",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20338,
+            "level": 22,
+            "icon": 3127,
+            "name": "Guisarme of Permafrost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20350,
+            "level": 24,
+            "icon": 3127,
+            "name": "Guisarme of the Ice Prince",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20365,
+            "level": 26,
+            "icon": 3127,
+            "name": "Guisarme of the Descendant of the Titans",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20790,
+            "level": 6,
+            "icon": 3868,
+            "name": "Spear of the Green Hill",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20805,
+            "level": 10,
+            "icon": 3868,
+            "name": "Spear of the Heath Meadow",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20820,
+            "level": 12,
+            "icon": 3868,
+            "name": "Spear of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20835,
+            "level": 14,
+            "icon": 3868,
+            "name": "Spear of the Spring Symphony",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20855,
+            "level": 16,
+            "icon": 3868,
+            "name": "Spear of the Happy Month",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20870,
+            "level": 18,
+            "icon": 3868,
+            "name": "Spear of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20885,
+            "level": 20,
+            "icon": 3868,
+            "name": "Spear of the Arcane Valley",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20900,
+            "level": 22,
+            "icon": 3868,
+            "name": "Spear of the Forest Mystery",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20915,
+            "level": 24,
+            "icon": 3868,
+            "name": "Spear of the Blooming Island",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20930,
+            "level": 26,
+            "icon": 3868,
+            "name": "Spear of the Emerald Tower",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21025,
+            "level": 25,
+            "icon": 3255,
+            "name": "Guisarme of Great Ironclad",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21059,
+            "level": 26,
+            "icon": 2620,
+            "name": "Filth Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21067,
+            "level": 26,
+            "icon": 2620,
+            "name": "Spear of Soulbreaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21075,
+            "level": 26,
+            "icon": 3403,
+            "name": "Spear of Cruel Demolisher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21352,
+            "level": 3,
+            "icon": 1220,
+            "name": "Plain Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21365,
+            "level": 5,
+            "icon": 1220,
+            "name": "Light Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21378,
+            "level": 7,
+            "icon": 1220,
+            "name": "Coarse Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21391,
+            "level": 9,
+            "icon": 1220,
+            "name": "Smooth Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21404,
+            "level": 11,
+            "icon": 1220,
+            "name": "Useful Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21441,
+            "level": 1,
+            "icon": 1211,
+            "name": "Novice's Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21727,
+            "level": 6,
+            "icon": 4094,
+            "name": "Spear of Deep Slumber",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21742,
+            "level": 10,
+            "icon": 4094,
+            "name": "Spear of Somnolent Whispers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21757,
+            "level": 12,
+            "icon": 4094,
+            "name": "Spear of Restless Dreaming",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21772,
+            "level": 14,
+            "icon": 4094,
+            "name": "Spear of Black Oblivion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21787,
+            "level": 16,
+            "icon": 4094,
+            "name": "Spear of Sinister Phantasms",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21802,
+            "level": 18,
+            "icon": 4094,
+            "name": "Spear of Dreadful Delusion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21817,
+            "level": 20,
+            "icon": 4094,
+            "name": "Spear of Nocturnal Terror",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21832,
+            "level": 22,
+            "icon": 4094,
+            "name": "Spear of Incarnated Nightmares",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21847,
+            "level": 24,
+            "icon": 4094,
+            "name": "Spear of Midnight Howl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21862,
+            "level": 26,
+            "icon": 4094,
+            "name": "Spear of Suffocating Fear",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22814,
+            "level": 6,
+            "icon": 4341,
+            "name": "Spear of the Kingdom of Daring",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22829,
+            "level": 10,
+            "icon": 4341,
+            "name": "Spear of the Kingdom of Boldness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22844,
+            "level": 12,
+            "icon": 4341,
+            "name": "Spear of the Kingdom of Devotion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22859,
+            "level": 14,
+            "icon": 4341,
+            "name": "Spear of the Kingdom of Bravery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22874,
+            "level": 16,
+            "icon": 4341,
+            "name": "Spear of the Kingdom of Magnanimity",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22889,
+            "level": 18,
+            "icon": 4341,
+            "name": "Spear of the Kingdom of Nobleness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22904,
+            "level": 20,
+            "icon": 4341,
+            "name": "Spear of the Kingdom of Justice",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22919,
+            "level": 22,
+            "icon": 4341,
+            "name": "Spear of the Kingdom of Honor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22934,
+            "level": 24,
+            "icon": 4341,
+            "name": "Spear of the Kingdom of Valor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22949,
+            "level": 26,
+            "icon": 4341,
+            "name": "Spear of the Kingdom of Fearlessness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23487,
+            "level": 25,
+            "icon": 3410,
+            "name": "Spear of Tree of the Seasons\u2019 Keepers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23556,
+            "level": 27,
+            "icon": 3624,
+            "name": "Spear of Technopolis Guards",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23605,
+            "level": 27,
+            "icon": 3255,
+            "name": "Guisarme of the Arena Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24079,
+            "level": 28,
+            "icon": 4094,
+            "name": "Spear of Impending Madness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24094,
+            "level": 28,
+            "icon": 3080,
+            "name": "Glaive of the Crazy King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24396,
+            "level": 28,
+            "icon": 3127,
+            "name": "Guisarme of the Winter King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25026,
+            "level": 10,
+            "icon": 4751,
+            "name": "Royal Spear of the Heath Meadow",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25042,
+            "level": 12,
+            "icon": 4751,
+            "name": "Royal Spear of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25058,
+            "level": 14,
+            "icon": 4751,
+            "name": "Royal Spear of the Spring Symphony",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25074,
+            "level": 16,
+            "icon": 4751,
+            "name": "Royal Spear of the Happy Month",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25090,
+            "level": 18,
+            "icon": 4751,
+            "name": "Royal Spear of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25106,
+            "level": 20,
+            "icon": 4751,
+            "name": "Royal Spear of the Arcane Valley",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25122,
+            "level": 22,
+            "icon": 4751,
+            "name": "Royal Spear of the Forest Mystery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25138,
+            "level": 24,
+            "icon": 4751,
+            "name": "Royal Spear of the Blooming Island",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25154,
+            "level": 26,
+            "icon": 4751,
+            "name": "Royal Spear of the Emerald Tower",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25170,
+            "level": 28,
+            "icon": 4751,
+            "name": "Royal Spear of the Sun Fortress",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25186,
+            "level": 28,
+            "icon": 4341,
+            "name": "Spear of the Kingdom of Courage",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25200,
+            "level": 28,
+            "icon": 3868,
+            "name": "Spear of the Sun Fortress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 25282,
+            "level": 28,
+            "icon": 2620,
+            "name": "Spear of Scarlet Dawn",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 25292,
+            "level": 28,
+            "icon": 2620,
+            "name": "Spear of Purple Sky",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25302,
+            "level": 28,
+            "icon": 3403,
+            "name": "Spear of the Bloody Radiance",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26287,
+            "level": 30,
+            "icon": 4899,
+            "name": "Spear of Lord of the Seas",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26321,
+            "level": 29,
+            "icon": 4898,
+            "name": "Spear of Sea Tramps",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26438,
+            "level": 30,
+            "icon": 2620,
+            "name": "Guisarme of Gentlemen of Fortune",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 26478,
+            "level": 29,
+            "icon": 2620,
+            "name": "Spear of Sea Wolf",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 26491,
+            "level": 29,
+            "icon": 3255,
+            "name": "Guisarme of the Outstanding Gladiator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27113,
+            "level": 30,
+            "icon": 4094,
+            "name": "Spear of Monster Curse",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27140,
+            "level": 30,
+            "icon": 3080,
+            "name": "Glaive of Merciless Torturer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27733,
+            "level": 6,
+            "icon": 5161,
+            "name": "Spear of Piercing Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27748,
+            "level": 10,
+            "icon": 5161,
+            "name": "Spear of Heavy Wind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27763,
+            "level": 12,
+            "icon": 5161,
+            "name": "Spear of Frosty Darkness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27778,
+            "level": 14,
+            "icon": 5161,
+            "name": "Spear of Freezing Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27793,
+            "level": 16,
+            "icon": 5161,
+            "name": "Spear of Arctic Frost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27808,
+            "level": 18,
+            "icon": 5161,
+            "name": "Spear of Fierce Blizzard",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27823,
+            "level": 20,
+            "icon": 5161,
+            "name": "Spear of Northern Tornado",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27838,
+            "level": 22,
+            "icon": 5161,
+            "name": "Spear of Furious Northern Wind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27853,
+            "level": 24,
+            "icon": 5161,
+            "name": "Spear of Sweeping Whirlwind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27868,
+            "level": 26,
+            "icon": 5161,
+            "name": "Spear of Violent Blizzard",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27883,
+            "level": 28,
+            "icon": 5161,
+            "name": "Spear of Snow Storm",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27898,
+            "level": 30,
+            "icon": 5161,
+            "name": "Spear of Ice Storm",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27916,
+            "level": 30,
+            "icon": 3127,
+            "name": "Guisarme of the Lord of Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28855,
+            "level": 30,
+            "icon": 2620,
+            "name": "Spear of Purification",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 28865,
+            "level": 30,
+            "icon": 2620,
+            "name": "Spear of Enlightenment",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28875,
+            "level": 30,
+            "icon": 3403,
+            "name": "Spear of Catharsis",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28990,
+            "level": 30,
+            "icon": 4751,
+            "name": "Royal Spear of Enchanted Castle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29006,
+            "level": 30,
+            "icon": 4341,
+            "name": "Spear of Kingdom of Fortitude",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29021,
+            "level": 30,
+            "icon": 3868,
+            "name": "Spear of Enchanted Castle",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29702,
+            "level": 7,
+            "icon": 1211,
+            "name": "Spear of Recruit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29717,
+            "level": 11,
+            "icon": 1211,
+            "name": "Spear of Mercenary",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29907,
+            "level": 19,
+            "icon": 1211,
+            "name": "Berengar's Guisarme",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29909,
+            "level": 20,
+            "icon": 1211,
+            "name": "Guisarme of Damned Pilgrims",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29912,
+            "level": 23,
+            "icon": 3410,
+            "name": "Battle Spear of Devastation",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29917,
+            "level": 12,
+            "icon": 1211,
+            "name": "Excellent Spear",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 30245,
+            "level": 6,
+            "icon": 3080,
+            "name": "Glaive of the Blind Outlaw",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30248,
+            "level": 10,
+            "icon": 3080,
+            "name": "Glaive of Still Heart",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30251,
+            "level": 12,
+            "icon": 3080,
+            "name": "Glaive of the Unsleeping Predator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30254,
+            "level": 14,
+            "icon": 3080,
+            "name": "Glaive of Fatal Mistake",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30257,
+            "level": 16,
+            "icon": 3080,
+            "name": "Glaive of Sinful Call",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30260,
+            "level": 18,
+            "icon": 3080,
+            "name": "Glaive of Deadly Game",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30263,
+            "level": 20,
+            "icon": 3080,
+            "name": "Glaive of the Damned Heir",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33123,
+            "level": 32,
+            "icon": 4094,
+            "name": "Spear of Emanating Madness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33141,
+            "level": 32,
+            "icon": 3080,
+            "name": "Glaive of Bloodthirsty Inquisitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33637,
+            "level": 32,
+            "icon": 5161,
+            "name": "Spear of the Unbridled Hurricane",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33667,
+            "level": 32,
+            "icon": 3127,
+            "name": "Guisarme of the Northern Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34425,
+            "level": 32,
+            "icon": 2620,
+            "name": "Spear of Progress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34439,
+            "level": 32,
+            "icon": 2620,
+            "name": "Spear of Development",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34453,
+            "level": 32,
+            "icon": 3403,
+            "name": "Spear of Metamorphosis",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34534,
+            "level": 32,
+            "icon": 4341,
+            "name": "Spear of the Kingdom of Indestructibility",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34563,
+            "level": 32,
+            "icon": 4751,
+            "name": "Royal Spear of the Magic Bastion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34581,
+            "level": 32,
+            "icon": 3868,
+            "name": "Spear of the Magic Bastion",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34908,
+            "level": 31,
+            "icon": 3255,
+            "name": "Guisarme of the Greatest Secutor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 35267,
+            "level": 31,
+            "icon": 4898,
+            "name": "Spear of the Pirate Brotherhood",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 35630,
+            "level": 1,
+            "icon": 1211,
+            "name": "Rusty Spear",
+            "itemType": 0,
+            "color": 0
+        }
+    ]
+}

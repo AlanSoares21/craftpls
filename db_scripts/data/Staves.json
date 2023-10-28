@@ -1,0 +1,4668 @@
+{
+    "list": [
+        {
+            "id": 670,
+            "level": 1,
+            "icon": 1223,
+            "name": "Old Staff",
+            "itemType": 1,
+            "color": 0
+        },
+        {
+            "id": 671,
+            "level": 1,
+            "icon": 1223,
+            "name": "Plain Staff",
+            "itemType": 1,
+            "color": 0
+        },
+        {
+            "id": 870,
+            "level": 2,
+            "icon": 1229,
+            "name": "Old Staff",
+            "itemType": 1,
+            "color": 0
+        },
+        {
+            "id": 902,
+            "level": 3,
+            "icon": 1223,
+            "name": "Cheap Staff",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 938,
+            "level": 7,
+            "icon": 1229,
+            "name": "Staff of Adept",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 996,
+            "level": 10,
+            "icon": 1229,
+            "name": "Staff of Young Sorcerer",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 1048,
+            "level": 9,
+            "icon": 1229,
+            "name": "Master's Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 2057,
+            "level": 12,
+            "icon": 1223,
+            "name": "Twisted Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 2058,
+            "level": 12,
+            "icon": 1232,
+            "name": "Twisted Baton",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 2126,
+            "level": 13,
+            "icon": 1226,
+            "name": "Twisted Charge",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 2127,
+            "level": 13,
+            "icon": 1232,
+            "name": "Twisted Stave",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 2161,
+            "level": 13,
+            "icon": 1235,
+            "name": "Tested Staff",
+            "itemType": 1,
+            "color": 0
+        },
+        {
+            "id": 2287,
+            "level": 15,
+            "icon": 1238,
+            "name": "Tested Scepter",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 2341,
+            "level": 15,
+            "icon": 2635,
+            "name": "Tested Baton",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 2367,
+            "level": 15,
+            "icon": 1238,
+            "name": "Twisted Scepter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 2371,
+            "level": 14,
+            "icon": 1241,
+            "name": "Carved Staff",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 5187,
+            "level": 1,
+            "icon": 1226,
+            "name": "Novice's Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 5816,
+            "level": 9,
+            "icon": 1229,
+            "name": "Battle Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 6439,
+            "level": 17,
+            "icon": 1238,
+            "name": "Baton of Abyss Zealot",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 6505,
+            "level": 18,
+            "icon": 2635,
+            "name": "Scepter of Sudden Doom",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 7959,
+            "level": 1,
+            "icon": 1223,
+            "name": "Mouldering Staff",
+            "itemType": 1,
+            "color": 0
+        },
+        {
+            "id": 7960,
+            "level": 1,
+            "icon": 1223,
+            "name": "Mouldering Stave",
+            "itemType": 1,
+            "color": 0
+        },
+        {
+            "id": 7963,
+            "level": 3,
+            "icon": 1232,
+            "name": "Long Staff",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 7964,
+            "level": 3,
+            "icon": 1229,
+            "name": "Long Stave",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 7974,
+            "level": 7,
+            "icon": 1229,
+            "name": "Carved Stick",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 7975,
+            "level": 7,
+            "icon": 1226,
+            "name": "Long Stick",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 7982,
+            "level": 7,
+            "icon": 1226,
+            "name": "Carved Stave",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 7987,
+            "level": 7,
+            "icon": 1223,
+            "name": "Tested Stave",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 8027,
+            "level": 10,
+            "icon": 1223,
+            "name": "Luxurious Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8028,
+            "level": 10,
+            "icon": 1229,
+            "name": "Excellent Stave",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8045,
+            "level": 9,
+            "icon": 1241,
+            "name": "Ancient Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8046,
+            "level": 9,
+            "icon": 1229,
+            "name": "Enchanted Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8047,
+            "level": 9,
+            "icon": 1241,
+            "name": "Enchanted Stave",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8048,
+            "level": 9,
+            "icon": 1241,
+            "name": "Ancient Charge",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8149,
+            "level": 9,
+            "icon": 1235,
+            "name": "Marvelous Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8150,
+            "level": 9,
+            "icon": 1232,
+            "name": "Flaming Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8153,
+            "level": 9,
+            "icon": 1229,
+            "name": "Ancient Baton",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8154,
+            "level": 9,
+            "icon": 1241,
+            "name": "Sparkling Crutch",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8174,
+            "level": 15,
+            "icon": 1235,
+            "name": "Luxurious Baton",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8175,
+            "level": 15,
+            "icon": 1229,
+            "name": "Luxurious Walking Stick",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8176,
+            "level": 15,
+            "icon": 1235,
+            "name": "Deadly Baton",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8177,
+            "level": 15,
+            "icon": 1241,
+            "name": "Deadly Scepter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8290,
+            "level": 13,
+            "icon": 1235,
+            "name": "Solid Walking Stick",
+            "itemType": 1,
+            "color": 0
+        },
+        {
+            "id": 8291,
+            "level": 13,
+            "icon": 1226,
+            "name": "Tested Charge",
+            "itemType": 1,
+            "color": 0
+        },
+        {
+            "id": 8296,
+            "level": 14,
+            "icon": 1235,
+            "name": "Long Scepter",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 8297,
+            "level": 14,
+            "icon": 1229,
+            "name": "Long Baton",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 8298,
+            "level": 14,
+            "icon": 1226,
+            "name": "Reinforced Walking Stick",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 8299,
+            "level": 14,
+            "icon": 1241,
+            "name": "Solid Stave",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 8316,
+            "level": 12,
+            "icon": 1241,
+            "name": "Sparkling Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8317,
+            "level": 12,
+            "icon": 1235,
+            "name": "Sparkling Baton",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8318,
+            "level": 12,
+            "icon": 1229,
+            "name": "Gloomy Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8319,
+            "level": 12,
+            "icon": 1229,
+            "name": "Enchanted Baton",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8324,
+            "level": 15,
+            "icon": 1232,
+            "name": "Sparkling Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8325,
+            "level": 15,
+            "icon": 1241,
+            "name": "Sparkling Scepter",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8326,
+            "level": 15,
+            "icon": 1241,
+            "name": "Stave of Forsaken Spirits",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8327,
+            "level": 15,
+            "icon": 1226,
+            "name": "Excellent Scepter",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8361,
+            "level": 13,
+            "icon": 1226,
+            "name": "Dazzling Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8362,
+            "level": 13,
+            "icon": 1241,
+            "name": "Dazzling Baton",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8363,
+            "level": 13,
+            "icon": 1241,
+            "name": "Runic Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8364,
+            "level": 13,
+            "icon": 1235,
+            "name": "Runic Scepter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8369,
+            "level": 15,
+            "icon": 1232,
+            "name": "Forgotten Scepter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8370,
+            "level": 15,
+            "icon": 1229,
+            "name": "Forgotten Walking Stick",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8371,
+            "level": 15,
+            "icon": 1229,
+            "name": "Forgotten Baton",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8372,
+            "level": 15,
+            "icon": 1235,
+            "name": "Forgotten Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 8465,
+            "level": 1,
+            "icon": 2635,
+            "name": "Novice's Baton",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8468,
+            "level": 1,
+            "icon": 2638,
+            "name": "Novice's Stick",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8471,
+            "level": 1,
+            "icon": 1238,
+            "name": "Novice's Scepter",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 8474,
+            "level": 1,
+            "icon": 2635,
+            "name": "Novice's Stave",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 9071,
+            "level": 17,
+            "icon": 1226,
+            "name": "Staff of Abyss Zealot",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 9072,
+            "level": 17,
+            "icon": 1235,
+            "name": "Stick of Abyss Zealot",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 9073,
+            "level": 17,
+            "icon": 1241,
+            "name": "Scepter of Abyss Zealot",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 9074,
+            "level": 17,
+            "icon": 1226,
+            "name": "Stave of Abyss Zealot",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 9087,
+            "level": 18,
+            "icon": 1235,
+            "name": "Baton of Sudden Doom",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 9088,
+            "level": 18,
+            "icon": 1238,
+            "name": "Stick of Sudden Doom",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 9089,
+            "level": 18,
+            "icon": 1238,
+            "name": "Staff of Sudden Doom",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 9090,
+            "level": 18,
+            "icon": 1235,
+            "name": "Stave of Sudden Doom",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 10665,
+            "level": 5,
+            "icon": 2658,
+            "name": "Breakmoon",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10666,
+            "level": 5,
+            "icon": 2658,
+            "name": "Firestorm",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10667,
+            "level": 5,
+            "icon": 2658,
+            "name": "Nimbus 32",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10668,
+            "level": 5,
+            "icon": 2658,
+            "name": "Tracksweeper",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10669,
+            "level": 5,
+            "icon": 2658,
+            "name": "Black Comet",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10680,
+            "level": 10,
+            "icon": 2658,
+            "name": "Breakmoon",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10681,
+            "level": 15,
+            "icon": 2658,
+            "name": "Breakmoon",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10682,
+            "level": 10,
+            "icon": 2658,
+            "name": "Firestorm",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10683,
+            "level": 15,
+            "icon": 2658,
+            "name": "Firestorm",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10684,
+            "level": 10,
+            "icon": 2658,
+            "name": "Nimbus 32",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10685,
+            "level": 15,
+            "icon": 2658,
+            "name": "Nimbus 32",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10686,
+            "level": 10,
+            "icon": 2658,
+            "name": "Tracksweeper",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10687,
+            "level": 15,
+            "icon": 2658,
+            "name": "Tracksweeper",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10688,
+            "level": 10,
+            "icon": 2658,
+            "name": "Black Comet",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 10689,
+            "level": 15,
+            "icon": 2658,
+            "name": "Black Comet",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 11149,
+            "level": 17,
+            "icon": 1235,
+            "name": "Astromancer Stave",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 11150,
+            "level": 17,
+            "icon": 2632,
+            "name": "Astromancer Charge",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 11151,
+            "level": 17,
+            "icon": 1226,
+            "name": "Astromancer Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 11152,
+            "level": 17,
+            "icon": 2629,
+            "name": "Astromancer Baton",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 11153,
+            "level": 17,
+            "icon": 2635,
+            "name": "Astromancer Scepter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 11229,
+            "level": 16,
+            "icon": 2629,
+            "name": "Snowstorm Baton",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 11230,
+            "level": 16,
+            "icon": 2635,
+            "name": "Whirlwind Stick",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 11231,
+            "level": 16,
+            "icon": 2635,
+            "name": "Whirlwind Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 11232,
+            "level": 16,
+            "icon": 2638,
+            "name": "Whiteout Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 11233,
+            "level": 16,
+            "icon": 2635,
+            "name": "Whiteout Stick",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13157,
+            "level": 4,
+            "icon": 1241,
+            "name": "Vampire's Stick",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13158,
+            "level": 4,
+            "icon": 1241,
+            "name": "Vampire's Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13159,
+            "level": 4,
+            "icon": 1241,
+            "name": "Vampire's Charge",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13163,
+            "level": 8,
+            "icon": 1241,
+            "name": "Werewolf's Stave",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13164,
+            "level": 8,
+            "icon": 1241,
+            "name": "Werewolf's Charge",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13165,
+            "level": 8,
+            "icon": 1241,
+            "name": "Werewolf's Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13166,
+            "level": 8,
+            "icon": 1241,
+            "name": "Werewolf's Baton",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13167,
+            "level": 8,
+            "icon": 1241,
+            "name": "Werewolf's Scepter",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13174,
+            "level": 11,
+            "icon": 1241,
+            "name": "Witch's Stick",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13175,
+            "level": 11,
+            "icon": 1241,
+            "name": "Witch's Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13176,
+            "level": 11,
+            "icon": 1241,
+            "name": "Witch's Baton",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13180,
+            "level": 14,
+            "icon": 1241,
+            "name": "Headsman's Stick",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13181,
+            "level": 14,
+            "icon": 1241,
+            "name": "Headsman's Charge",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13182,
+            "level": 14,
+            "icon": 1241,
+            "name": "Headsman's Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13183,
+            "level": 14,
+            "icon": 1241,
+            "name": "Headsman's Baton",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13184,
+            "level": 14,
+            "icon": 1241,
+            "name": "Headsman's Scepter",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13206,
+            "level": 18,
+            "icon": 1241,
+            "name": "Night Prince's Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 13207,
+            "level": 18,
+            "icon": 1241,
+            "name": "Night Prince's Rod",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 13208,
+            "level": 18,
+            "icon": 1241,
+            "name": "Night Prince's Scepter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 13798,
+            "level": 13,
+            "icon": 1235,
+            "name": "Stormbreaker's Stave",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13799,
+            "level": 13,
+            "icon": 1235,
+            "name": "Stormbreaker's Baton",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13800,
+            "level": 13,
+            "icon": 1235,
+            "name": "Stormbreaker's Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 13873,
+            "level": 19,
+            "icon": 2629,
+            "name": "Ruberius' Recade",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 13874,
+            "level": 19,
+            "icon": 2629,
+            "name": "Ruberius' Stave",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 13875,
+            "level": 19,
+            "icon": 2629,
+            "name": "Ruberius' Stick",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 13876,
+            "level": 19,
+            "icon": 2629,
+            "name": "Ruberius' Staff",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 13877,
+            "level": 19,
+            "icon": 2629,
+            "name": "Ruberius' Baton",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 13878,
+            "level": 19,
+            "icon": 2629,
+            "name": "Reberius' Scepter",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 14108,
+            "level": 19,
+            "icon": 2632,
+            "name": "Baton of Endless War",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 14109,
+            "level": 19,
+            "icon": 1235,
+            "name": "Staff of Endless War",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 14323,
+            "level": 10,
+            "icon": 1235,
+            "name": "Arcane Staff of Power",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 14324,
+            "level": 11,
+            "icon": 1235,
+            "name": "Arcane Staff of Dexterity",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 14325,
+            "level": 12,
+            "icon": 1235,
+            "name": "Arcane Staff of Retribution",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 14326,
+            "level": 13,
+            "icon": 2629,
+            "name": "Arcane Staff of Meditation",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 14327,
+            "level": 15,
+            "icon": 2629,
+            "name": "Arcane Baton of Dexterity",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 14328,
+            "level": 16,
+            "icon": 1238,
+            "name": "Arcane Baton of Meditation",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 14329,
+            "level": 17,
+            "icon": 1238,
+            "name": "Arcane Baton of Retribution",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 14330,
+            "level": 18,
+            "icon": 1238,
+            "name": "Arcane Baton of Power",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 14331,
+            "level": 19,
+            "icon": 2632,
+            "name": "Arcane Charge of Dexterity",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 14332,
+            "level": 20,
+            "icon": 2632,
+            "name": "Arcane Charge of Meditation",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 14333,
+            "level": 10,
+            "icon": 1235,
+            "name": "Spellstaff of Meditation",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14334,
+            "level": 11,
+            "icon": 1235,
+            "name": "Spellstaff of Dexterity",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14335,
+            "level": 11,
+            "icon": 1235,
+            "name": "Spellstaff of Life",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14336,
+            "level": 13,
+            "icon": 1235,
+            "name": "Spellcharge of Retribution",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14337,
+            "level": 13,
+            "icon": 1235,
+            "name": "Spellcharge of Power",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14338,
+            "level": 14,
+            "icon": 1235,
+            "name": "Spellcharge of Dexterity",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14339,
+            "level": 14,
+            "icon": 1235,
+            "name": "Spellcharge of Life",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14340,
+            "level": 16,
+            "icon": 2629,
+            "name": "Spellbaton of Dexterity",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14342,
+            "level": 16,
+            "icon": 2629,
+            "name": "Spellbaton of Meditation",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14345,
+            "level": 18,
+            "icon": 2629,
+            "name": "Spellbaton of Life",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14346,
+            "level": 18,
+            "icon": 2629,
+            "name": "Spellbaton of Power",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14347,
+            "level": 20,
+            "icon": 2635,
+            "name": "Spellstick of Meditation",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14348,
+            "level": 20,
+            "icon": 2635,
+            "name": "Spellstick of Retribution",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14349,
+            "level": 14,
+            "icon": 2638,
+            "name": "Scepter of Northern Chieftains",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 14351,
+            "level": 10,
+            "icon": 1226,
+            "name": "Enchanted Staff of the Ent",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 14352,
+            "level": 12,
+            "icon": 1241,
+            "name": "Baton of Full Moon",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 14353,
+            "level": 16,
+            "icon": 2632,
+            "name": "Staff of Frozen Fire",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 14354,
+            "level": 20,
+            "icon": 2629,
+            "name": "Charge of Deep Lord",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 14501,
+            "level": 19,
+            "icon": 2632,
+            "name": "Spellstick of Dexterity",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14502,
+            "level": 19,
+            "icon": 2632,
+            "name": "Spellstick of Power",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 14868,
+            "level": 19,
+            "icon": 2632,
+            "name": "Berengar's Baton",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 14869,
+            "level": 19,
+            "icon": 1235,
+            "name": "Berengar's Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15013,
+            "level": 19,
+            "icon": 2635,
+            "name": "Archmage's Baton",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15014,
+            "level": 19,
+            "icon": 2632,
+            "name": "Archmage's Scepter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15102,
+            "level": 20,
+            "icon": 2632,
+            "name": "Charge of Damned Pilgrims",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15103,
+            "level": 20,
+            "icon": 1235,
+            "name": "Stick of Damned Pilgrims",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15132,
+            "level": 21,
+            "icon": 1241,
+            "name": "Desecrate Staff",
+            "itemType": 1,
+            "color": 0
+        },
+        {
+            "id": 15329,
+            "level": 21,
+            "icon": 2632,
+            "name": "Enchanted Baton of the Lord",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15330,
+            "level": 21,
+            "icon": 2632,
+            "name": "Enchanted Staff of the Lord",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15342,
+            "level": 22,
+            "icon": 2632,
+            "name": "Pontifices' Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 15343,
+            "level": 22,
+            "icon": 2632,
+            "name": "Pontifices' Baton",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 15354,
+            "level": 23,
+            "icon": 2635,
+            "name": "Soulless Saint's Staff",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 15355,
+            "level": 23,
+            "icon": 1241,
+            "name": "Soulless Saint's Baton",
+            "itemType": 1,
+            "color": 1
+        },
+        {
+            "id": 15361,
+            "level": 10,
+            "icon": 1235,
+            "name": "Spellstaff of Retribution",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 15848,
+            "level": 4,
+            "icon": 3081,
+            "name": "Midnight Hunter's Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15860,
+            "level": 7,
+            "icon": 3081,
+            "name": "Silent Maniac's Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15872,
+            "level": 10,
+            "icon": 3081,
+            "name": "Staff of Still Heart",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15884,
+            "level": 13,
+            "icon": 3081,
+            "name": "Staff of Faceless Nightmare",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15896,
+            "level": 16,
+            "icon": 3081,
+            "name": "Staff of Sinful Call",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15908,
+            "level": 19,
+            "icon": 3081,
+            "name": "Staff Immortal Recluse",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 15920,
+            "level": 21,
+            "icon": 3081,
+            "name": "Staff of Overwhelming Fury",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16129,
+            "level": 5,
+            "icon": 3128,
+            "name": "Staff of the Holiday Thief",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16130,
+            "level": 5,
+            "icon": 3129,
+            "name": "Stick of the Holiday Thief",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16142,
+            "level": 8,
+            "icon": 3128,
+            "name": "Staff of Oathbreaker",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16143,
+            "level": 8,
+            "icon": 3129,
+            "name": "Stick of Oath-breaker",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16157,
+            "level": 11,
+            "icon": 3128,
+            "name": "Staff of Braincrasher",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16158,
+            "level": 11,
+            "icon": 3129,
+            "name": "Stick of Braincrasher",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16170,
+            "level": 14,
+            "icon": 3128,
+            "name": "Staff of Toothy Hunter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16171,
+            "level": 14,
+            "icon": 3129,
+            "name": "Stick of Toothy Hunter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16183,
+            "level": 17,
+            "icon": 3128,
+            "name": "Staff of Northern Whirl",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16184,
+            "level": 17,
+            "icon": 3129,
+            "name": "Stick of Northern Whirl",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16196,
+            "level": 20,
+            "icon": 3128,
+            "name": "Staff of the Snow Lady",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16197,
+            "level": 20,
+            "icon": 3129,
+            "name": "Stick of the Snow Lady",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16209,
+            "level": 22,
+            "icon": 3128,
+            "name": "Staff of Permafrost",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16210,
+            "level": 22,
+            "icon": 3129,
+            "name": "Stick of Permafrost",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16913,
+            "level": 21,
+            "icon": 3251,
+            "name": "Baton of the Superior Mage",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16914,
+            "level": 21,
+            "icon": 3252,
+            "name": "Scepter of the Superior Mage",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 16978,
+            "level": 22,
+            "icon": 1229,
+            "name": "Baton of Northern Courage",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 16979,
+            "level": 22,
+            "icon": 1235,
+            "name": "Recade of Northern Courage",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 17263,
+            "level": 10,
+            "icon": 1235,
+            "name": "Spellstaff of Accuracy",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 17264,
+            "level": 12,
+            "icon": 2629,
+            "name": "Spellstaff of Concentration",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 17265,
+            "level": 12,
+            "icon": 2629,
+            "name": "Spellbaton of Retribution",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 17266,
+            "level": 10,
+            "icon": 1226,
+            "name": "Enchanted Baton of the Ent",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17267,
+            "level": 12,
+            "icon": 1241,
+            "name": "Scepter of Full Moon",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17268,
+            "level": 14,
+            "icon": 1241,
+            "name": "Staff of Northern Chieftains",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17269,
+            "level": 16,
+            "icon": 2632,
+            "name": "Baton of Frozen Fire",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17270,
+            "level": 20,
+            "icon": 2629,
+            "name": "Staff of Deep Lord",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17271,
+            "level": 22,
+            "icon": 2632,
+            "name": "All-Destroying Scepter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17272,
+            "level": 22,
+            "icon": 2632,
+            "name": "All-Destroying Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17273,
+            "level": 22,
+            "icon": 2632,
+            "name": "Horrifying staff of Concentration",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 17274,
+            "level": 22,
+            "icon": 2632,
+            "name": "Horrifying staff of Revenge",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 17275,
+            "level": 10,
+            "icon": 3404,
+            "name": "Amplified Staff of the Ent",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17276,
+            "level": 10,
+            "icon": 3404,
+            "name": "Amplified Baton of the Ent",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17277,
+            "level": 12,
+            "icon": 3404,
+            "name": "Baton of Lunar Sickle",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17278,
+            "level": 12,
+            "icon": 3404,
+            "name": "Scepter of Lunar Sickle",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17279,
+            "level": 14,
+            "icon": 3404,
+            "name": "Scepter of Northern Lords",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17280,
+            "level": 14,
+            "icon": 3404,
+            "name": "Staff of Northern Lords",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17281,
+            "level": 16,
+            "icon": 3404,
+            "name": "Staff of Chilled Flame",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17282,
+            "level": 16,
+            "icon": 3404,
+            "name": "Baton of Chilled Flame",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17283,
+            "level": 18,
+            "icon": 3404,
+            "name": "Scepter of Dead Silence",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17284,
+            "level": 18,
+            "icon": 3404,
+            "name": "Baton of Dead Silence",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17285,
+            "level": 20,
+            "icon": 3404,
+            "name": "Charge of the Depth Lord",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17286,
+            "level": 20,
+            "icon": 3404,
+            "name": "Staff of the Depth Lord",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17287,
+            "level": 22,
+            "icon": 3404,
+            "name": "Staff of Death Herald",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17288,
+            "level": 22,
+            "icon": 3404,
+            "name": "Charge of Death Herald",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17576,
+            "level": 23,
+            "icon": 3386,
+            "name": "Battle Baton of Devastation",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17577,
+            "level": 23,
+            "icon": 3386,
+            "name": "Battle Scepter of Devastation",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17950,
+            "level": 5,
+            "icon": 3081,
+            "name": "Night Puppeteer's Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17962,
+            "level": 14,
+            "icon": 3081,
+            "name": "Staff of Fatal Mistake",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17974,
+            "level": 18,
+            "icon": 3081,
+            "name": "Staff of Deadly Game",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 17986,
+            "level": 23,
+            "icon": 3081,
+            "name": "Killer Puppet's staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 18286,
+            "level": 10,
+            "icon": 3128,
+            "name": "Staff of the Tribe Leader",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 18287,
+            "level": 10,
+            "icon": 3129,
+            "name": "Stave of the Tribe Leader",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 18299,
+            "level": 18,
+            "icon": 3128,
+            "name": "Staff of the Immortal Wanderer",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 18300,
+            "level": 18,
+            "icon": 3129,
+            "name": "Stave of the Immortal Wanderer",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 18312,
+            "level": 23,
+            "icon": 3128,
+            "name": "Bound Conqueror's Staff",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 18313,
+            "level": 23,
+            "icon": 3129,
+            "name": "Bound Conqueror's Stave",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 18889,
+            "level": 23,
+            "icon": 3251,
+            "name": "Baton of the Lord of Enchantment",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 18890,
+            "level": 23,
+            "icon": 3252,
+            "name": "Scepter of the Lord of Enchantment",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 18911,
+            "level": 13,
+            "icon": 2635,
+            "name": "Baton of Young Sorcerer",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 18912,
+            "level": 13,
+            "icon": 2635,
+            "name": "Scepter of Young Sorcerer",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 19015,
+            "level": 24,
+            "icon": 2632,
+            "name": "Rune staff of concentration",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 19016,
+            "level": 24,
+            "icon": 2632,
+            "name": "Rune staff of Revenge",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 19017,
+            "level": 24,
+            "icon": 2632,
+            "name": "Scepter of Liberator",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 19018,
+            "level": 24,
+            "icon": 2632,
+            "name": "Staff of Liberator",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 19019,
+            "level": 24,
+            "icon": 3404,
+            "name": "Scepter of Legendary Defender",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 19020,
+            "level": 24,
+            "icon": 3404,
+            "name": "Staff of Legendary Defender",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 19276,
+            "level": 25,
+            "icon": 3625,
+            "name": "Technocrat's Baton",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 19277,
+            "level": 25,
+            "icon": 3625,
+            "name": "Technocrat's Scepter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 19288,
+            "level": 25,
+            "icon": 2632,
+            "name": "Baton of Revival",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 19289,
+            "level": 25,
+            "icon": 2632,
+            "name": "Scepter of Revival",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 19969,
+            "level": 6,
+            "icon": 3081,
+            "name": "Staff of the Blind Outlaw",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 19970,
+            "level": 6,
+            "icon": 3081,
+            "name": "Scepter of the Blind Outlaw",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 19994,
+            "level": 12,
+            "icon": 3081,
+            "name": "Staff of the Unsleeping Predator",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 19995,
+            "level": 12,
+            "icon": 3081,
+            "name": "Scepter of the Unsleeping Predator",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20009,
+            "level": 16,
+            "icon": 3081,
+            "name": "Scepter of Sinful Call",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20032,
+            "level": 20,
+            "icon": 3081,
+            "name": "Staff of the Damned Heir",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20033,
+            "level": 20,
+            "icon": 3081,
+            "name": "Scepter of the Damned Heir",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20045,
+            "level": 22,
+            "icon": 3081,
+            "name": "Staff of the Distracted Apostate",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20046,
+            "level": 22,
+            "icon": 3081,
+            "name": "Scepter of the Distracted Apostate",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20058,
+            "level": 24,
+            "icon": 3081,
+            "name": "Staff of the Night Visitor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20059,
+            "level": 24,
+            "icon": 3081,
+            "name": "Scepter of the Night Visitor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20083,
+            "level": 26,
+            "icon": 3081,
+            "name": "Staff of the Bloody Earl",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20084,
+            "level": 26,
+            "icon": 3081,
+            "name": "Scepter of the Bloody Earl",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20099,
+            "level": 10,
+            "icon": 3081,
+            "name": "Scepter of Still Heart",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20100,
+            "level": 14,
+            "icon": 3081,
+            "name": "Scepter of Fatal Mistake",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20101,
+            "level": 18,
+            "icon": 3081,
+            "name": "Scepter of Deadly Game",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20278,
+            "level": 6,
+            "icon": 3128,
+            "name": "Staff of Cold-Bearing Spirit",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20279,
+            "level": 6,
+            "icon": 3129,
+            "name": "Stick of Cold-Bearing Spirit",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20280,
+            "level": 6,
+            "icon": 3129,
+            "name": "Baton of Cold-Bearing Spirit",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20287,
+            "level": 10,
+            "icon": 3129,
+            "name": "Baton of the Tribe Leader",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20299,
+            "level": 12,
+            "icon": 3128,
+            "name": "Staff of the Frozen Master",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20300,
+            "level": 12,
+            "icon": 3129,
+            "name": "Stick of the Frozen Master",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20301,
+            "level": 12,
+            "icon": 3129,
+            "name": "Baton of the Frozen Master",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20308,
+            "level": 14,
+            "icon": 3129,
+            "name": "Baton of the Toothy Hunter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20320,
+            "level": 16,
+            "icon": 3128,
+            "name": "Staff of the Rune Scald",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20321,
+            "level": 16,
+            "icon": 3129,
+            "name": "Stick of the Rune Scald",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20322,
+            "level": 16,
+            "icon": 3129,
+            "name": "Baton of the Rune Scald",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20329,
+            "level": 18,
+            "icon": 3129,
+            "name": "Baton of the Immortal Wanderer",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20335,
+            "level": 20,
+            "icon": 3129,
+            "name": "Baton of the Snow Lady",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20341,
+            "level": 22,
+            "icon": 3129,
+            "name": "Baton of Permafrost",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20353,
+            "level": 24,
+            "icon": 3128,
+            "name": "Staff of the Ice Prince",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20354,
+            "level": 24,
+            "icon": 3129,
+            "name": "Stick of the Ice Prince",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20355,
+            "level": 24,
+            "icon": 3129,
+            "name": "Baton of the Ice Prince",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20368,
+            "level": 26,
+            "icon": 3128,
+            "name": "Staff of the Descendant of the Titans",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20369,
+            "level": 26,
+            "icon": 3129,
+            "name": "Stick of the Descendant of the Titans",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20370,
+            "level": 26,
+            "icon": 3129,
+            "name": "Baton of the Descendant of the Titans",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 20794,
+            "level": 6,
+            "icon": 3865,
+            "name": "Staff of the Green Hill",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20795,
+            "level": 6,
+            "icon": 3865,
+            "name": "Stick of the Green Hill",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20796,
+            "level": 6,
+            "icon": 3865,
+            "name": "Baton of the Green Hill",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20809,
+            "level": 10,
+            "icon": 3865,
+            "name": "Staff of the Heath Meadow",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20810,
+            "level": 10,
+            "icon": 3865,
+            "name": "Walking Stick of the Heath Meadow",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20811,
+            "level": 10,
+            "icon": 3865,
+            "name": "Baton of the Heath Meadow",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20824,
+            "level": 12,
+            "icon": 3865,
+            "name": "Staff of the Four-Leaf Clover",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20825,
+            "level": 12,
+            "icon": 3865,
+            "name": "Walking Stick of the Four-Leaf Clover",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20826,
+            "level": 12,
+            "icon": 3865,
+            "name": "Baton of the Four-Leaf Clover",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20839,
+            "level": 14,
+            "icon": 3865,
+            "name": "Staff of the Spring Symphony",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20840,
+            "level": 14,
+            "icon": 3865,
+            "name": "Walking Stick of the Spring Symphony",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20841,
+            "level": 14,
+            "icon": 3865,
+            "name": "Baton of the Spring Symphony",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20859,
+            "level": 16,
+            "icon": 3865,
+            "name": "Staff of the Happy Month",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20860,
+            "level": 16,
+            "icon": 3865,
+            "name": "Walking Stick of the Happy Month",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20861,
+            "level": 16,
+            "icon": 3865,
+            "name": "Baton of the Happy Month",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20874,
+            "level": 18,
+            "icon": 3865,
+            "name": "Staff of the Singing Oak Forest",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20875,
+            "level": 18,
+            "icon": 3865,
+            "name": "Walking Stick of the Singing Oak Forest",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20876,
+            "level": 18,
+            "icon": 3865,
+            "name": "Baton of the Singing Oak Forest",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20889,
+            "level": 20,
+            "icon": 3865,
+            "name": "Staff of the Arcane Valley",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20890,
+            "level": 20,
+            "icon": 3865,
+            "name": "Charge of the Arcane Valley",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20891,
+            "level": 20,
+            "icon": 3865,
+            "name": "Baton of the Arcane Valley",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20904,
+            "level": 22,
+            "icon": 3865,
+            "name": "Staff of the Forest Mystery",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20905,
+            "level": 22,
+            "icon": 3865,
+            "name": "Charge of the Forest Mystery",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20906,
+            "level": 22,
+            "icon": 3865,
+            "name": "Baton of the Forest Mystery",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20919,
+            "level": 24,
+            "icon": 3865,
+            "name": "Staff of the Blooming Island",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20920,
+            "level": 24,
+            "icon": 3865,
+            "name": "Charge of the Blooming Island",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20921,
+            "level": 24,
+            "icon": 3865,
+            "name": "Baton of the Blooming Island",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20934,
+            "level": 26,
+            "icon": 3865,
+            "name": "Staff of the Emerald Tower",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20935,
+            "level": 26,
+            "icon": 3865,
+            "name": "Charge of the Emerald Tower",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 20936,
+            "level": 26,
+            "icon": 3865,
+            "name": "Baton of the Emerald Tower",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 21028,
+            "level": 25,
+            "icon": 3251,
+            "name": "Magic Virtuoso's Baton",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21029,
+            "level": 25,
+            "icon": 3252,
+            "name": "Magic Virtuoso's Scepter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21046,
+            "level": 26,
+            "icon": 2632,
+            "name": "Staff of the Filth Concentration",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 21047,
+            "level": 26,
+            "icon": 2632,
+            "name": "Staff of the Filth's Power",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 21048,
+            "level": 26,
+            "icon": 2632,
+            "name": "Scepter of Soulbreaker",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21049,
+            "level": 26,
+            "icon": 2632,
+            "name": "Staff of Soulbreaker",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21050,
+            "level": 26,
+            "icon": 3404,
+            "name": "Charge of Cruel Demolisher",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21051,
+            "level": 26,
+            "icon": 3404,
+            "name": "Staff of Cruel Demolisher",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21234,
+            "level": 1,
+            "icon": 1226,
+            "name": "Novice's Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 21355,
+            "level": 3,
+            "icon": 1229,
+            "name": "Plain Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 21368,
+            "level": 5,
+            "icon": 1229,
+            "name": "Light Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 21381,
+            "level": 7,
+            "icon": 1229,
+            "name": "Coarse Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 21394,
+            "level": 9,
+            "icon": 1229,
+            "name": "Smooth Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 21407,
+            "level": 11,
+            "icon": 1229,
+            "name": "Useful Staff",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 21442,
+            "level": 1,
+            "icon": 2638,
+            "name": "Novice's Stick",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 21730,
+            "level": 6,
+            "icon": 4091,
+            "name": "Staff of Deep Slumber",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21731,
+            "level": 6,
+            "icon": 4091,
+            "name": "Scepter of Deep Slumber",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21732,
+            "level": 6,
+            "icon": 4091,
+            "name": "Baton of Deep Slumber",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21745,
+            "level": 10,
+            "icon": 4091,
+            "name": "Staff of Somnolent Whispers",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21746,
+            "level": 10,
+            "icon": 4091,
+            "name": "Scepter of Somnolent Whispers",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21747,
+            "level": 10,
+            "icon": 4091,
+            "name": "Baton of Somnolent Whispers",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21760,
+            "level": 12,
+            "icon": 4091,
+            "name": "Staff of Restless Dreaming",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21761,
+            "level": 12,
+            "icon": 4091,
+            "name": "Scepter of Restless Dreaming",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21762,
+            "level": 12,
+            "icon": 4091,
+            "name": "Baton of Restless Dreaming",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21775,
+            "level": 14,
+            "icon": 4091,
+            "name": "Staff of Black Oblivion",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21776,
+            "level": 14,
+            "icon": 4091,
+            "name": "Scepter of Black Oblivion",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21777,
+            "level": 14,
+            "icon": 4091,
+            "name": "Baton of Black Oblivion",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21790,
+            "level": 16,
+            "icon": 4091,
+            "name": "Staff of Sinister Phantasms",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21791,
+            "level": 16,
+            "icon": 4091,
+            "name": "Scepter of Sinister Phantasms",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21792,
+            "level": 16,
+            "icon": 4091,
+            "name": "Baton of Sinister Phantasms",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21805,
+            "level": 18,
+            "icon": 4091,
+            "name": "Staff of Dreadful Delusion",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21806,
+            "level": 18,
+            "icon": 4091,
+            "name": "Scepter of Dreadful Delusion",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21807,
+            "level": 18,
+            "icon": 4091,
+            "name": "Baton of Dreadful Delusion",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21820,
+            "level": 20,
+            "icon": 4091,
+            "name": "Staff of Nocturnal Terror",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21821,
+            "level": 20,
+            "icon": 4091,
+            "name": "Scepter of Nocturnal Terror",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21822,
+            "level": 20,
+            "icon": 4091,
+            "name": "Baton of Nocturnal Terror",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21835,
+            "level": 22,
+            "icon": 4091,
+            "name": "Staff of Incarnated Nightmares",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21836,
+            "level": 22,
+            "icon": 4091,
+            "name": "Scepter of Incarnated Nightmares",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21837,
+            "level": 22,
+            "icon": 4091,
+            "name": "Baton of Incarnated Nightmares",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21850,
+            "level": 24,
+            "icon": 4091,
+            "name": "Staff of Midnight Howl",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21851,
+            "level": 24,
+            "icon": 4091,
+            "name": "Scepter of Midnight Howl",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21852,
+            "level": 24,
+            "icon": 4091,
+            "name": "Baton of Midnight Howl",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21865,
+            "level": 26,
+            "icon": 4091,
+            "name": "Staff of Suffocating Fear",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21866,
+            "level": 26,
+            "icon": 4091,
+            "name": "Scepter of Suffocating Fear",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 21867,
+            "level": 26,
+            "icon": 4091,
+            "name": "Baton of Suffocating Fear",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22817,
+            "level": 6,
+            "icon": 4338,
+            "name": "Staff of the Kingdom of Daring",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22818,
+            "level": 6,
+            "icon": 4338,
+            "name": "Scepter of the Kingdom of Daring",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22819,
+            "level": 6,
+            "icon": 4338,
+            "name": "Baton of the Kingdom of Daring",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22832,
+            "level": 10,
+            "icon": 4338,
+            "name": "Staff of the Kingdom of Boldness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22833,
+            "level": 10,
+            "icon": 4338,
+            "name": "Scepter of the Kingdom of Boldness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22834,
+            "level": 10,
+            "icon": 4338,
+            "name": "Baton of the Kingdom of Boldness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22847,
+            "level": 12,
+            "icon": 4338,
+            "name": "Staff of the Kingdom of Devotion",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22848,
+            "level": 12,
+            "icon": 4338,
+            "name": "Scepter of the Kingdom of Devotion",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22849,
+            "level": 12,
+            "icon": 4338,
+            "name": "Baton of the Kingdom of Devotion",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22862,
+            "level": 14,
+            "icon": 4338,
+            "name": "Staff of the Kingdom of Bravery",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22863,
+            "level": 14,
+            "icon": 4338,
+            "name": "Scepter of the Kingdom of Bravery",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22864,
+            "level": 14,
+            "icon": 4338,
+            "name": "Baton of the Kingdom of Bravery",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22877,
+            "level": 16,
+            "icon": 4338,
+            "name": "Staff of the Kingdom of Magnanimity",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22878,
+            "level": 16,
+            "icon": 4338,
+            "name": "Scepter of the Kingdom of Magnanimity",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22879,
+            "level": 16,
+            "icon": 4338,
+            "name": "Baton of the Kingdom of Magnanimity",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22892,
+            "level": 18,
+            "icon": 4338,
+            "name": "Staff of the Kingdom of Nobleness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22893,
+            "level": 18,
+            "icon": 4338,
+            "name": "Scepter of the Kingdom of Nobleness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22894,
+            "level": 18,
+            "icon": 4338,
+            "name": "Baton of the Kingdom of Nobleness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22907,
+            "level": 20,
+            "icon": 4338,
+            "name": "Staff of the Kingdom of Justice",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22908,
+            "level": 20,
+            "icon": 4338,
+            "name": "Scepter of the Kingdom of Justice",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22909,
+            "level": 20,
+            "icon": 4338,
+            "name": "Baton of the Kingdom of Justice",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22922,
+            "level": 22,
+            "icon": 4338,
+            "name": "Staff of the Kingdom of Honor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22923,
+            "level": 22,
+            "icon": 4338,
+            "name": "Scepter of the Kingdom of Honor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22924,
+            "level": 22,
+            "icon": 4338,
+            "name": "Baton of the Kingdom of Honor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22937,
+            "level": 24,
+            "icon": 4338,
+            "name": "Staff of the Kingdom of Valor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22938,
+            "level": 24,
+            "icon": 4338,
+            "name": "Scepter of the Kingdom of Valor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22939,
+            "level": 24,
+            "icon": 4338,
+            "name": "Baton of the Kingdom of Valor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22952,
+            "level": 26,
+            "icon": 4338,
+            "name": "Staff of the Kingdom of Fearlessness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22953,
+            "level": 26,
+            "icon": 4338,
+            "name": "Scepter of the Kingdom of Fearlessness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 22954,
+            "level": 26,
+            "icon": 4338,
+            "name": "Baton of the Kingdom of Fearlessness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 23490,
+            "level": 25,
+            "icon": 3386,
+            "name": "Staff of Tree of the Seasons\u2019 Keepers",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 23491,
+            "level": 25,
+            "icon": 3386,
+            "name": "Scepter of Tree of the Seasons\u2019 Keepers",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 23492,
+            "level": 25,
+            "icon": 3386,
+            "name": "Baton of Tree of the Seasons\u2019 Keepers",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 23559,
+            "level": 27,
+            "icon": 3625,
+            "name": "Staff of Technopolis Guards",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 23560,
+            "level": 27,
+            "icon": 3625,
+            "name": "Scepter of Technopolis Guards",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 23561,
+            "level": 27,
+            "icon": 3625,
+            "name": "Baton of Technopolis Guards",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 23608,
+            "level": 27,
+            "icon": 3251,
+            "name": "Baton of the Arena Lord",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 23609,
+            "level": 27,
+            "icon": 3252,
+            "name": "Scepter of the Arena Lord",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24082,
+            "level": 28,
+            "icon": 4091,
+            "name": "Staff of Impending Madness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24083,
+            "level": 28,
+            "icon": 4091,
+            "name": "Scepter of Impending Madness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24084,
+            "level": 28,
+            "icon": 4091,
+            "name": "Baton of Impending Madness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24097,
+            "level": 28,
+            "icon": 3081,
+            "name": "Staff of the Crazy King",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24098,
+            "level": 28,
+            "icon": 3081,
+            "name": "Scepter of the Crazy King",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24099,
+            "level": 28,
+            "icon": 3081,
+            "name": "Baton of the Crazy King",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24103,
+            "level": 6,
+            "icon": 3081,
+            "name": "Baton of the Blind Outlaw",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24106,
+            "level": 10,
+            "icon": 3081,
+            "name": "Baton of Still Heart",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24109,
+            "level": 12,
+            "icon": 3081,
+            "name": "Baton of the Unsleeping Predator",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24112,
+            "level": 14,
+            "icon": 3081,
+            "name": "Baton of Fatal Mistake",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24115,
+            "level": 16,
+            "icon": 3081,
+            "name": "Baton of Sinful Call",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24118,
+            "level": 18,
+            "icon": 3081,
+            "name": "Baton of Deadly Game",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24121,
+            "level": 20,
+            "icon": 3081,
+            "name": "Baton of the Damned Heir",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24124,
+            "level": 22,
+            "icon": 3081,
+            "name": "Baton of the Distracted Apostate",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24127,
+            "level": 24,
+            "icon": 3081,
+            "name": "Baton of the Night Visitor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24130,
+            "level": 26,
+            "icon": 3081,
+            "name": "Baton of the Bloody Earl",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24399,
+            "level": 28,
+            "icon": 3128,
+            "name": "Staff of the Winter King",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24400,
+            "level": 28,
+            "icon": 3129,
+            "name": "Stave of the Winter King",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 24401,
+            "level": 28,
+            "icon": 3129,
+            "name": "Baton of the Winter King",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25030,
+            "level": 10,
+            "icon": 4752,
+            "name": "Royal Staff of the Heath Meadow",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25031,
+            "level": 10,
+            "icon": 4752,
+            "name": "Royal Cane of the Heath Meadow",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25032,
+            "level": 10,
+            "icon": 4752,
+            "name": "Royal Baton of the Heath Meadow",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25046,
+            "level": 12,
+            "icon": 4752,
+            "name": "Royal Staff of the Four-Leaf Clover",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25047,
+            "level": 12,
+            "icon": 4752,
+            "name": "Royal Cane of the Four-Leaf Clover",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25048,
+            "level": 12,
+            "icon": 4752,
+            "name": "Royal Baton of the Four-Leaf Clover",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25062,
+            "level": 14,
+            "icon": 4752,
+            "name": "Royal Staff of the Spring Symphony",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25063,
+            "level": 14,
+            "icon": 4752,
+            "name": "Royal Cane of the Spring Symphony",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25064,
+            "level": 14,
+            "icon": 4752,
+            "name": "Royal Baton of the Spring Symphony",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25078,
+            "level": 16,
+            "icon": 4752,
+            "name": "Royal Staff of the Happy Month",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25079,
+            "level": 16,
+            "icon": 4752,
+            "name": "Royal Cane of the Happy Month",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25080,
+            "level": 16,
+            "icon": 4752,
+            "name": "Royal Baton of the Happy Month",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25094,
+            "level": 18,
+            "icon": 4752,
+            "name": "Royal Staff of the Singing Oak Forest",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25095,
+            "level": 18,
+            "icon": 4752,
+            "name": "Royal Cane of the Singing Oak Forest",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25096,
+            "level": 18,
+            "icon": 4752,
+            "name": "Royal Baton of the Singing Oak Forest",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25110,
+            "level": 20,
+            "icon": 4752,
+            "name": "Royal Staff of the Arcane Valley",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25111,
+            "level": 20,
+            "icon": 4752,
+            "name": "Royal Cane of the Arcane Valley",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25112,
+            "level": 20,
+            "icon": 4752,
+            "name": "Royal Baton of the Arcane Valley",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25126,
+            "level": 22,
+            "icon": 4752,
+            "name": "Royal Staff of the Forest Mystery",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25127,
+            "level": 22,
+            "icon": 4752,
+            "name": "Royal Cane of the Forest Mystery",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25128,
+            "level": 22,
+            "icon": 4752,
+            "name": "Royal Baton of the Forest Mystery",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25142,
+            "level": 24,
+            "icon": 4752,
+            "name": "Royal Staff of the Blooming Island",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25143,
+            "level": 24,
+            "icon": 4752,
+            "name": "Royal Cane of the Blooming Island",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25144,
+            "level": 24,
+            "icon": 4752,
+            "name": "Royal Baton of the Blooming Island",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25158,
+            "level": 26,
+            "icon": 4752,
+            "name": "Royal Staff of the Emerald Tower",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25159,
+            "level": 26,
+            "icon": 4752,
+            "name": "Royal Cane of the Emerald Tower",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25160,
+            "level": 26,
+            "icon": 4752,
+            "name": "Royal Baton of the Emerald Tower",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25174,
+            "level": 28,
+            "icon": 4752,
+            "name": "Royal Staff of the Sun Fortress",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25175,
+            "level": 28,
+            "icon": 4752,
+            "name": "Royal Cane of the Sun Fortress",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25176,
+            "level": 28,
+            "icon": 4752,
+            "name": "Royal Baton of the Sun Fortress",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25189,
+            "level": 28,
+            "icon": 4338,
+            "name": "Staff of the Kingdom of Courage",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25190,
+            "level": 28,
+            "icon": 4338,
+            "name": "Scepter of the Kingdom of Courage",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25191,
+            "level": 28,
+            "icon": 4338,
+            "name": "Baton of the Kingdom of Courage",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25204,
+            "level": 28,
+            "icon": 3865,
+            "name": "Staff of the Sun Fortress",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 25205,
+            "level": 28,
+            "icon": 3865,
+            "name": "Cane of the Sun Fortress",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 25206,
+            "level": 28,
+            "icon": 3865,
+            "name": "Baton of the Sun Fortress",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 25306,
+            "level": 28,
+            "icon": 2632,
+            "name": "Cane of Scarlet Dawn",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 25307,
+            "level": 28,
+            "icon": 2632,
+            "name": "Staff of Scarlet Dawn",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 25310,
+            "level": 28,
+            "icon": 2632,
+            "name": "Cane of Purple Sky",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25311,
+            "level": 28,
+            "icon": 2632,
+            "name": "Staff of Purple Sky",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25314,
+            "level": 28,
+            "icon": 3404,
+            "name": "Cane of the Bloody Radiance",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 25315,
+            "level": 28,
+            "icon": 3404,
+            "name": "Staff of the Bloody Radiance",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 26290,
+            "level": 30,
+            "icon": 4901,
+            "name": "Staff of Lord of the Seas",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 26291,
+            "level": 30,
+            "icon": 4901,
+            "name": "Baton of Lord of the Seas",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 26292,
+            "level": 30,
+            "icon": 4901,
+            "name": "Scepter of Lord of the Seas",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 26324,
+            "level": 29,
+            "icon": 4900,
+            "name": "Staff of Sea Tramps",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 26325,
+            "level": 29,
+            "icon": 4900,
+            "name": "Scepter of Sea Tramps",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 26326,
+            "level": 29,
+            "icon": 4900,
+            "name": "Baton of Sea Tramps",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 26441,
+            "level": 30,
+            "icon": 1232,
+            "name": "Staff of the Gentlemen of Fortune",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 26442,
+            "level": 30,
+            "icon": 1232,
+            "name": "Cane of Gentlemen of Fortune",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 26481,
+            "level": 29,
+            "icon": 2632,
+            "name": "Staff of Sea Wolf",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 26482,
+            "level": 29,
+            "icon": 2632,
+            "name": "Baton of Sea Wolf",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 26494,
+            "level": 29,
+            "icon": 3251,
+            "name": "Baton of the Outstanding Gladiator",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 26495,
+            "level": 29,
+            "icon": 3252,
+            "name": "Scepter of the Outstanding Gladiator",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 26535,
+            "level": 29,
+            "icon": 3252,
+            "name": "Staff of the Outstanding Gladiator",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27117,
+            "level": 30,
+            "icon": 4091,
+            "name": "Staff of Monster Curse",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27118,
+            "level": 30,
+            "icon": 4091,
+            "name": "Scepter of Monster Curse",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27119,
+            "level": 30,
+            "icon": 4091,
+            "name": "Baton of Monster Curse",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27143,
+            "level": 30,
+            "icon": 3081,
+            "name": "Staff of Merciless Torturer",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27144,
+            "level": 30,
+            "icon": 3081,
+            "name": "Scepter of Merciless Torturer",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27145,
+            "level": 30,
+            "icon": 3081,
+            "name": "Baton of Merciless Torturer",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27736,
+            "level": 6,
+            "icon": 5165,
+            "name": "Staff of Piercing Cold",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27737,
+            "level": 6,
+            "icon": 5165,
+            "name": "Scepter of Piercing Cold",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27738,
+            "level": 6,
+            "icon": 5165,
+            "name": "Baton of Piercing Cold",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27751,
+            "level": 10,
+            "icon": 5165,
+            "name": "Staff of Heavy Wind",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27752,
+            "level": 10,
+            "icon": 5165,
+            "name": "Scepter of Heavy Wind",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27753,
+            "level": 10,
+            "icon": 5165,
+            "name": "Baton of Heavy Wind",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27766,
+            "level": 12,
+            "icon": 5165,
+            "name": "Staff of Frosty Darkness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27767,
+            "level": 12,
+            "icon": 5165,
+            "name": "Scepter of Frosty Darkness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27768,
+            "level": 12,
+            "icon": 5165,
+            "name": "Baton of Frosty Darkness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27781,
+            "level": 14,
+            "icon": 5165,
+            "name": "Staff of Freezing Cold",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27782,
+            "level": 14,
+            "icon": 5165,
+            "name": "Scepter of Freezing Cold",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27783,
+            "level": 14,
+            "icon": 5165,
+            "name": "Baton of Freezing Cold",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27796,
+            "level": 16,
+            "icon": 5165,
+            "name": "Staff of Arctic Frost",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27797,
+            "level": 16,
+            "icon": 5165,
+            "name": "Scepter of Arctic Frost",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27798,
+            "level": 16,
+            "icon": 5165,
+            "name": "Baton of Arctic Frost",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27811,
+            "level": 18,
+            "icon": 5165,
+            "name": "Staff of Fierce Blizzard",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27812,
+            "level": 18,
+            "icon": 5165,
+            "name": "Scepter of Fierce Blizzard",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27813,
+            "level": 18,
+            "icon": 5165,
+            "name": "Baton of Fierce Blizzard",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27826,
+            "level": 20,
+            "icon": 5165,
+            "name": "Staff of Northern Tornado",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27827,
+            "level": 20,
+            "icon": 5165,
+            "name": "Scepter of Northern Tornado",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27828,
+            "level": 20,
+            "icon": 5165,
+            "name": "Baton of Northern Tornado",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27841,
+            "level": 22,
+            "icon": 5165,
+            "name": "Staff of Furious Northern Wind",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27842,
+            "level": 22,
+            "icon": 5165,
+            "name": "Scepter of Furious Northern Wind",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27843,
+            "level": 22,
+            "icon": 5165,
+            "name": "Baton of Furious Northern Wind",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27856,
+            "level": 24,
+            "icon": 5165,
+            "name": "Staff of Sweeping Whirlwind",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27857,
+            "level": 24,
+            "icon": 5165,
+            "name": "Scepter of Sweeping Whirlwind",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27858,
+            "level": 24,
+            "icon": 5165,
+            "name": "Baton of Sweeping Whirlwind",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27871,
+            "level": 26,
+            "icon": 5165,
+            "name": "Staff of Violent Blizzard",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27872,
+            "level": 26,
+            "icon": 5165,
+            "name": "Scepter of Violent Blizzard",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27873,
+            "level": 26,
+            "icon": 5165,
+            "name": "Baton of Violent Blizzard",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27886,
+            "level": 28,
+            "icon": 5165,
+            "name": "Staff of Snow Storm",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27887,
+            "level": 28,
+            "icon": 5165,
+            "name": "Scepter of Snow Storm",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27888,
+            "level": 28,
+            "icon": 5165,
+            "name": "Baton of Snow Storm",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27901,
+            "level": 30,
+            "icon": 5165,
+            "name": "Staff of Ice Storm",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27902,
+            "level": 30,
+            "icon": 5165,
+            "name": "Scepter of Ice Storm",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27903,
+            "level": 30,
+            "icon": 5165,
+            "name": "Baton of Ice Storm",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27918,
+            "level": 30,
+            "icon": 3128,
+            "name": "Staff of the Lord of Cold",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27919,
+            "level": 30,
+            "icon": 3129,
+            "name": "Stick of the Lord of Cold",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27920,
+            "level": 30,
+            "icon": 3129,
+            "name": "Scepter of the Lord of Cold",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27923,
+            "level": 6,
+            "icon": 3129,
+            "name": "Scepter of the Cold-Bearing Spirit",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27924,
+            "level": 10,
+            "icon": 3129,
+            "name": "Scepter of the Tribe Leader",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27925,
+            "level": 14,
+            "icon": 3129,
+            "name": "Scepter of the Toothy Hunter",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27926,
+            "level": 12,
+            "icon": 3129,
+            "name": "Scepter of the Frozen Master",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27927,
+            "level": 16,
+            "icon": 3129,
+            "name": "Scepter of the Rune Scald",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27928,
+            "level": 18,
+            "icon": 3129,
+            "name": "Scepter of the Immortal Wanderer",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27929,
+            "level": 20,
+            "icon": 3129,
+            "name": "Scepter of the Snow Lady",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27930,
+            "level": 22,
+            "icon": 3129,
+            "name": "Scepter of Permafrost",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27931,
+            "level": 24,
+            "icon": 3129,
+            "name": "Scepter of the Ice Prince",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27932,
+            "level": 26,
+            "icon": 3129,
+            "name": "Scepter of the Descendant of the Titans",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 27933,
+            "level": 28,
+            "icon": 3129,
+            "name": "Scepter of the Winter King",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 28879,
+            "level": 30,
+            "icon": 2632,
+            "name": "Cane of Purification",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 28880,
+            "level": 30,
+            "icon": 2632,
+            "name": "Staff of Purification",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 28883,
+            "level": 30,
+            "icon": 2632,
+            "name": "Cane of Enlightenment",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 28884,
+            "level": 30,
+            "icon": 2632,
+            "name": "Staff of Enlightenment",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 28887,
+            "level": 30,
+            "icon": 3404,
+            "name": "Cane of Catharsis",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 28888,
+            "level": 30,
+            "icon": 3404,
+            "name": "Staff of Catharsis",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 28994,
+            "level": 30,
+            "icon": 4752,
+            "name": "Royal Staff of Enchanted Castle",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 28995,
+            "level": 30,
+            "icon": 4752,
+            "name": "Royal Cane of Enchanted Castle",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 28996,
+            "level": 30,
+            "icon": 4752,
+            "name": "Royal Baton of Enchanted Castle",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 29009,
+            "level": 30,
+            "icon": 4338,
+            "name": "Staff of Kingdom of Fortitude",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 29010,
+            "level": 30,
+            "icon": 4338,
+            "name": "Scepter of Kingdom of Fortitude",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 29011,
+            "level": 30,
+            "icon": 4338,
+            "name": "Baton of Kingdom of Fortitude",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 29025,
+            "level": 30,
+            "icon": 3865,
+            "name": "Staff of Enchanted Castle",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 29026,
+            "level": 30,
+            "icon": 3865,
+            "name": "Cane of Enchanted Castle",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 29027,
+            "level": 30,
+            "icon": 3865,
+            "name": "Baton of Enchanted Castle",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 29705,
+            "level": 7,
+            "icon": 1229,
+            "name": "Staff of Recruit",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 29706,
+            "level": 7,
+            "icon": 1229,
+            "name": "Scepter of Recruit",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 29720,
+            "level": 11,
+            "icon": 1229,
+            "name": "Staff of Mercenary",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 29721,
+            "level": 11,
+            "icon": 1229,
+            "name": "Scepter of Mercenary",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 33127,
+            "level": 32,
+            "icon": 4091,
+            "name": "Staff of Emanating Madness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 33128,
+            "level": 32,
+            "icon": 4091,
+            "name": "Scepter of Emanating Madness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 33129,
+            "level": 32,
+            "icon": 4091,
+            "name": "Baton of Emanating Madness",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 33144,
+            "level": 32,
+            "icon": 3081,
+            "name": "Staff of Bloodthirsty Inquisitor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 33145,
+            "level": 32,
+            "icon": 3081,
+            "name": "Scepter of Bloodthirsty Inquisitor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 33146,
+            "level": 32,
+            "icon": 3081,
+            "name": "Baton of Bloodthirsty Inquisitor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 33640,
+            "level": 32,
+            "icon": 5165,
+            "name": "Staff of the Unbridled Hurricane",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 33641,
+            "level": 32,
+            "icon": 5165,
+            "name": "Scepter of the Unbridled Hurricane",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 33642,
+            "level": 32,
+            "icon": 5165,
+            "name": "Baton of the Unbridled Hurricane",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 33671,
+            "level": 32,
+            "icon": 3128,
+            "name": "Staff of the Northern Lord",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 33672,
+            "level": 32,
+            "icon": 3129,
+            "name": "Stave of the Northern Lord",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 33673,
+            "level": 32,
+            "icon": 3129,
+            "name": "Scepter of the Northern Lord",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34429,
+            "level": 32,
+            "icon": 2632,
+            "name": "Cane of Progress",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 34430,
+            "level": 32,
+            "icon": 2632,
+            "name": "Staff of Progress",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 34443,
+            "level": 32,
+            "icon": 2632,
+            "name": "Cane of Development",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34444,
+            "level": 32,
+            "icon": 2632,
+            "name": "Staff of Development",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34457,
+            "level": 32,
+            "icon": 3404,
+            "name": "Cane of Metamorphosis",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34458,
+            "level": 32,
+            "icon": 3404,
+            "name": "Staff of Metamorphosis",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34537,
+            "level": 32,
+            "icon": 4338,
+            "name": "Staff of the Kingdom of Indestructibility",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34538,
+            "level": 32,
+            "icon": 4338,
+            "name": "Scepter of the Kingdom of Indestructibility",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34539,
+            "level": 32,
+            "icon": 4338,
+            "name": "Baton of the Kingdom of Indestructibility",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34567,
+            "level": 32,
+            "icon": 4752,
+            "name": "Royal Staff of the Magic Bastion",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34568,
+            "level": 32,
+            "icon": 4752,
+            "name": "Royal Cane of the Magic Bastion",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34569,
+            "level": 32,
+            "icon": 4752,
+            "name": "Royal Baton of the Magic Bastion",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34585,
+            "level": 32,
+            "icon": 3865,
+            "name": "Staff of the Magic Bastion",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 34586,
+            "level": 32,
+            "icon": 3865,
+            "name": "Cane of the Magic Bastion",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 34587,
+            "level": 32,
+            "icon": 3865,
+            "name": "Baton of the Magic Bastion",
+            "itemType": 1,
+            "color": 2
+        },
+        {
+            "id": 34911,
+            "level": 31,
+            "icon": 3251,
+            "name": "Baton of the Greatest Secutor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34912,
+            "level": 31,
+            "icon": 3252,
+            "name": "Scepter of the Greatest Secutor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 34913,
+            "level": 31,
+            "icon": 3252,
+            "name": "Staff of the Greatest Secutor",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 35270,
+            "level": 31,
+            "icon": 4900,
+            "name": "Staff of the Pirate Brotherhood",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 35271,
+            "level": 31,
+            "icon": 4900,
+            "name": "Scepter of the Pirate Brotherhood",
+            "itemType": 1,
+            "color": 3
+        },
+        {
+            "id": 35272,
+            "level": 31,
+            "icon": 4900,
+            "name": "Baton of the Pirate Brotherhood",
+            "itemType": 1,
+            "color": 3
+        }
+    ]
+}

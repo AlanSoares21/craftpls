@@ -1,0 +1,37 @@
+{
+    "cloathArmorHead": 7,
+    "cloathArmorBody": 7,
+    "cloathArmorHands": 7,
+    "cloathArmorBelt": 7,
+    "cloathArmorLegs": 7,
+
+    "HeavyArmorHead": 9,
+    "HeavyArmorBody": 9,
+    "HeavyArmorHands": 9,
+    "HeavyArmorBelt": 9,
+    "HeavyArmorLegs": 9,
+
+    "LightweightArmorHead": 8,
+    "LightweightArmorBody": 8,
+    "LightweightArmorHands": 8,
+    "LightweightArmorBelt": 8,
+    "LightweightArmorLegs": 8,
+
+    "Cloaks":1,
+    "Rings": 2,
+    "Amulets": 3,
+    "Bracelets": 4,
+
+    "Dagger": 5,
+    "OneHandedSwords": 5,
+    "TwoHandedSwords": 5,
+    "OneHandedAxe": 5,
+    "TwoHandedAxe": 5,
+    "OneHandedMaces": 5,
+    "TwoHandedMaces": 5,
+    "Spears": 5,
+    "Shields": 5,
+    "Staves": 6,
+    "Bows": 6,
+    "Crossbows": 6
+}

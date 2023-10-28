@@ -1,0 +1,2668 @@
+{
+    "list": [
+        {
+            "id": 662,
+            "level": 1,
+            "icon": 1596,
+            "name": "Torn Breastplate",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 664,
+            "level": 1,
+            "icon": 1271,
+            "name": "Beginner Clothing",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 678,
+            "level": 1,
+            "icon": 1596,
+            "name": "Beginner Clothing",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 680,
+            "level": 1,
+            "icon": 1244,
+            "name": "Torn Breastplate",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 851,
+            "level": 2,
+            "icon": 1599,
+            "name": "Cheap Coat",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 852,
+            "level": 2,
+            "icon": 1596,
+            "name": "Old Armor",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 883,
+            "level": 3,
+            "icon": 1623,
+            "name": "Plain Armor",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 884,
+            "level": 3,
+            "icon": 1623,
+            "name": "Worn Armor",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 919,
+            "level": 7,
+            "icon": 1596,
+            "name": "Durable Armor",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 920,
+            "level": 7,
+            "icon": 1623,
+            "name": "Trustworthy Armor",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 977,
+            "level": 9,
+            "icon": 1602,
+            "name": "Coarse Breastplate",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 978,
+            "level": 9,
+            "icon": 1605,
+            "name": "Breastplate of Fighter",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 1029,
+            "level": 9,
+            "icon": 1599,
+            "name": "Leather Armor of Hunter",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 1030,
+            "level": 9,
+            "icon": 1605,
+            "name": "Leather Armor of Guardian",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 2012,
+            "level": 12,
+            "icon": 1605,
+            "name": "Light Quilted Jacket",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 2013,
+            "level": 12,
+            "icon": 1602,
+            "name": "Light Brigandine",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 2069,
+            "level": 13,
+            "icon": 1605,
+            "name": "Trustworthy Quilted Jacket",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 2070,
+            "level": 13,
+            "icon": 1617,
+            "name": "Trustworthy Doublet",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 2134,
+            "level": 14,
+            "icon": 1620,
+            "name": "Good-looking Quilted Jacket",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 2172,
+            "level": 12,
+            "icon": 1608,
+            "name": "Expensive Quilted Jacket",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 2173,
+            "level": 14,
+            "icon": 1602,
+            "name": "Good-looking Doublet",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 2214,
+            "level": 15,
+            "icon": 1605,
+            "name": "Polished Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 2298,
+            "level": 15,
+            "icon": 1620,
+            "name": "Doublet of Berengar's Shadow",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 2299,
+            "level": 15,
+            "icon": 1256,
+            "name": "Brigandine of Berengar's Revenge",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 2350,
+            "level": 15,
+            "icon": 1877,
+            "name": "Gladiator's Doublet",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4218,
+            "level": 16,
+            "icon": 1602,
+            "name": "Blue Jacket of Guard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4219,
+            "level": 16,
+            "icon": 1602,
+            "name": "Green Jacket of Guard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4220,
+            "level": 16,
+            "icon": 1602,
+            "name": "Orange Jacket of Guard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4221,
+            "level": 16,
+            "icon": 1602,
+            "name": "Red Jacket of Guard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4222,
+            "level": 16,
+            "icon": 1602,
+            "name": "Violet Jacket of Guard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4223,
+            "level": 16,
+            "icon": 1596,
+            "name": "Blue Jacket of Envoy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4224,
+            "level": 16,
+            "icon": 1596,
+            "name": "Green Jacket of Envoy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4225,
+            "level": 16,
+            "icon": 1596,
+            "name": "Orange Jacket of Envoy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4226,
+            "level": 16,
+            "icon": 1596,
+            "name": "Red Jacket of Envoy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4227,
+            "level": 16,
+            "icon": 1596,
+            "name": "Violet Jacket of Envoy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4228,
+            "level": 16,
+            "icon": 1617,
+            "name": "Blue Jacket of Engineer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4229,
+            "level": 16,
+            "icon": 1617,
+            "name": "Green Jacket of Engineer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4230,
+            "level": 16,
+            "icon": 1617,
+            "name": "Orange Jacket of Engineer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4231,
+            "level": 16,
+            "icon": 1617,
+            "name": "Red Jacket of Engineer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4232,
+            "level": 16,
+            "icon": 1617,
+            "name": "Violet Jacket of Engineer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4233,
+            "level": 16,
+            "icon": 1623,
+            "name": "Blue Jacket of Forester",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4234,
+            "level": 16,
+            "icon": 1623,
+            "name": "Green Jacket of Forester",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4235,
+            "level": 16,
+            "icon": 1623,
+            "name": "Orange Jacket of Forester",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4236,
+            "level": 16,
+            "icon": 1623,
+            "name": "Red Jacket of Forester",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4237,
+            "level": 16,
+            "icon": 1623,
+            "name": "Violet Jacket of Forester",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4358,
+            "level": 16,
+            "icon": 1596,
+            "name": "Blue Breastplate of Wolf Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4359,
+            "level": 16,
+            "icon": 1596,
+            "name": "Green Breastplate of Wolf Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4360,
+            "level": 16,
+            "icon": 1596,
+            "name": "Orange Breastplate of Wolf Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4361,
+            "level": 16,
+            "icon": 1596,
+            "name": "Red Breastplate of Wolf Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4362,
+            "level": 16,
+            "icon": 1596,
+            "name": "Violet Breastplate of Wolf Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4363,
+            "level": 16,
+            "icon": 1596,
+            "name": "Blue Breastplate of Inquisitor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4364,
+            "level": 16,
+            "icon": 1596,
+            "name": "Green Breastplate of Inquisitor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4365,
+            "level": 16,
+            "icon": 1596,
+            "name": "Orange Breastplate of Inquisitor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4366,
+            "level": 16,
+            "icon": 1596,
+            "name": "Red Breastplate of Inquisitor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4367,
+            "level": 16,
+            "icon": 1596,
+            "name": "Violet Breastplate of Inquisitor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4368,
+            "level": 16,
+            "icon": 1596,
+            "name": "Blue Breastplate of Puma Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4369,
+            "level": 16,
+            "icon": 1596,
+            "name": "Green Breastplate of Puma Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4370,
+            "level": 16,
+            "icon": 1596,
+            "name": "Orange Breastplate of Puma Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4371,
+            "level": 16,
+            "icon": 1596,
+            "name": "Red Breastplate of Puma Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4372,
+            "level": 16,
+            "icon": 1596,
+            "name": "Violet Breastplate of Puma Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4373,
+            "level": 16,
+            "icon": 1620,
+            "name": "Blue Breastplate of Bear Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4374,
+            "level": 16,
+            "icon": 1620,
+            "name": "Green Breastplate of Bear Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4375,
+            "level": 16,
+            "icon": 1620,
+            "name": "Orange Breastplate of Bear Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4376,
+            "level": 16,
+            "icon": 1620,
+            "name": "Red Breastplate of Bear Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4377,
+            "level": 16,
+            "icon": 1620,
+            "name": "Violet Breastplate of Bear Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4452,
+            "level": 16,
+            "icon": 1521,
+            "name": "Blue Costume",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4453,
+            "level": 16,
+            "icon": 1524,
+            "name": "Red Costume",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4454,
+            "level": 16,
+            "icon": 1515,
+            "name": "Green Costume",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4455,
+            "level": 16,
+            "icon": 1542,
+            "name": "Orange Costume",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4456,
+            "level": 16,
+            "icon": 1512,
+            "name": "Violet Costume",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4463,
+            "level": 16,
+            "icon": 1596,
+            "name": "Blue Breastplate of Assassin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4464,
+            "level": 16,
+            "icon": 1596,
+            "name": "Red Breastplate of Assassin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4465,
+            "level": 16,
+            "icon": 1596,
+            "name": "Green Breastplate of Assassin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4466,
+            "level": 16,
+            "icon": 1596,
+            "name": "Orange Breastplate of Assassin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4467,
+            "level": 16,
+            "icon": 1596,
+            "name": "Violet Breastplate of Assassin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 5207,
+            "level": 1,
+            "icon": 1602,
+            "name": "Novice's Leather Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 5785,
+            "level": 8,
+            "icon": 1611,
+            "name": "Jacket of Beginner Gladiator",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 5822,
+            "level": 14,
+            "icon": 1877,
+            "name": "Durable Jacket of Young Gladiator",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 6424,
+            "level": 17,
+            "icon": 1244,
+            "name": "Desert Wanderer's Doublet",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 6428,
+            "level": 17,
+            "icon": 1256,
+            "name": "Desert Wanderer's Jacket",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 6482,
+            "level": 18,
+            "icon": 1617,
+            "name": "Killing Whisper Brigandine",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 8119,
+            "level": 1,
+            "icon": 1620,
+            "name": "Torn Breastplate",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 8129,
+            "level": 1,
+            "icon": 1244,
+            "name": "Torn Breastplate",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 11006,
+            "level": 17,
+            "icon": 2569,
+            "name": "Scout Brigandine",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 11245,
+            "level": 17,
+            "icon": 2569,
+            "name": "Severe Cold Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13194,
+            "level": 16,
+            "icon": 1608,
+            "name": "Deadborn's Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13819,
+            "level": 17,
+            "icon": 2572,
+            "name": "Abaris' Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13862,
+            "level": 18,
+            "icon": 2563,
+            "name": "Harad's Brigandine",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14672,
+            "level": 11,
+            "icon": 1608,
+            "name": "Tough Leather Breastplate",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 14678,
+            "level": 15,
+            "icon": 2563,
+            "name": "Seeker's Breastplate",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 14683,
+            "level": 17,
+            "icon": 2566,
+            "name": "Tested Breastplate",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 14688,
+            "level": 20,
+            "icon": 1605,
+            "name": "Flaming Breastplate",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 14692,
+            "level": 11,
+            "icon": 1599,
+            "name": "Tanned Leather Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14698,
+            "level": 15,
+            "icon": 1611,
+            "name": "Adventurer's Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14703,
+            "level": 17,
+            "icon": 1877,
+            "name": "Scaled Jacket",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14708,
+            "level": 20,
+            "icon": 2563,
+            "name": "Elemental Jacket",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14884,
+            "level": 20,
+            "icon": 1611,
+            "name": "Conqueror Asterius' Brigandine",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 14935,
+            "level": 20,
+            "icon": 1620,
+            "name": "Burning Rage Brigandine",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 14939,
+            "level": 20,
+            "icon": 2566,
+            "name": "Brigandine of the Dark Outlaw",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 14994,
+            "level": 19,
+            "icon": 2569,
+            "name": "Provocator's Brigandine",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15034,
+            "level": 15,
+            "icon": 1611,
+            "name": "Doublet of Northern Chieftains",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15040,
+            "level": 20,
+            "icon": 2569,
+            "name": "Doublet of Deep Lord",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15086,
+            "level": 21,
+            "icon": 2569,
+            "name": "Brigandine of Fierce Filth",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15297,
+            "level": 21,
+            "icon": 2563,
+            "name": "Brigandine of Horror Guard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 16937,
+            "level": 22,
+            "icon": 2563,
+            "name": "Dubal of the Deadly Mystic",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 16942,
+            "level": 22,
+            "icon": 2563,
+            "name": "Dubal of the Fanatic Dream Walker",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 16961,
+            "level": 21,
+            "icon": 3269,
+            "name": "Scales of the Lord of Borea",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17250,
+            "level": 21,
+            "icon": 2563,
+            "name": "Brigandine of the Elusive One",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 17557,
+            "level": 22,
+            "icon": 1617,
+            "name": "Brigandine of Wildlife Hunting",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 17637,
+            "level": 6,
+            "icon": 3372,
+            "name": "Brigandine of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17641,
+            "level": 10,
+            "icon": 3372,
+            "name": "Brigandine of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17645,
+            "level": 14,
+            "icon": 3372,
+            "name": "Brigandine of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17649,
+            "level": 16,
+            "icon": 3372,
+            "name": "Brigandine of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17653,
+            "level": 18,
+            "icon": 3372,
+            "name": "Brigandine of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17657,
+            "level": 20,
+            "icon": 3372,
+            "name": "Brigandine of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17661,
+            "level": 22,
+            "icon": 3372,
+            "name": "Brigandine of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17665,
+            "level": 24,
+            "icon": 3372,
+            "name": "Brigandine of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17669,
+            "level": 26,
+            "icon": 3372,
+            "name": "Brigandine of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 18443,
+            "level": 10,
+            "icon": 3508,
+            "name": "Eternal Life Doublet",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18447,
+            "level": 12,
+            "icon": 3508,
+            "name": "Doublet of Immeasurable Stamina",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18451,
+            "level": 14,
+            "icon": 3508,
+            "name": "Iron Health Doublet",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18455,
+            "level": 16,
+            "icon": 3508,
+            "name": "Doublet of Inexhaustible Strength",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18459,
+            "level": 18,
+            "icon": 3508,
+            "name": "Doublet of Endless Perseverance",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18463,
+            "level": 20,
+            "icon": 3508,
+            "name": "Doublet of Inexhaustible Perseverance",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18467,
+            "level": 22,
+            "icon": 3508,
+            "name": "Infinite Reliability Doublet",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18471,
+            "level": 10,
+            "icon": 1602,
+            "name": "Leather Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18475,
+            "level": 12,
+            "icon": 1599,
+            "name": "Tanned Leather Jacket",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18479,
+            "level": 14,
+            "icon": 1605,
+            "name": "Adventurer's Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18483,
+            "level": 16,
+            "icon": 1599,
+            "name": "Thick Leather Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18487,
+            "level": 18,
+            "icon": 1617,
+            "name": "Scaled Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18491,
+            "level": 20,
+            "icon": 1614,
+            "name": "Elemental Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18495,
+            "level": 22,
+            "icon": 1620,
+            "name": "Sacred Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18498,
+            "level": 10,
+            "icon": 1620,
+            "name": "Doublet of Full Moon",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18502,
+            "level": 12,
+            "icon": 1605,
+            "name": "Excellent Doublet",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18505,
+            "level": 14,
+            "icon": 1611,
+            "name": "Jacket of Northern Chieftains",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18509,
+            "level": 16,
+            "icon": 2569,
+            "name": "Durable leather Doublet",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18513,
+            "level": 18,
+            "icon": 1620,
+            "name": "Doublet of Frozen Fire",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18518,
+            "level": 22,
+            "icon": 2563,
+            "name": "Divine Protection Doublet",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19067,
+            "level": 24,
+            "icon": 1620,
+            "name": "Doublet of Cruelty",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 19071,
+            "level": 24,
+            "icon": 2563,
+            "name": "Doublet of Righteous Anger",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19077,
+            "level": 24,
+            "icon": 3508,
+            "name": "Doublet of Blind Fury",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19199,
+            "level": 23,
+            "icon": 2563,
+            "name": "Assassin's Brigandine",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19213,
+            "level": 23,
+            "icon": 1617,
+            "name": "Brigandine of the Tree Guard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19225,
+            "level": 25,
+            "icon": 1617,
+            "name": "Brigandine of the Soldier Mechanic",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20410,
+            "level": 6,
+            "icon": 3780,
+            "name": "Caftan of the Borean Warlock",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20416,
+            "level": 10,
+            "icon": 3780,
+            "name": "Veil Guard's Caftan",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20428,
+            "level": 12,
+            "icon": 3780,
+            "name": "Caftan of the Snow Prisoner",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20434,
+            "level": 14,
+            "icon": 3780,
+            "name": "Caftan of the Northern Oracle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20446,
+            "level": 16,
+            "icon": 3780,
+            "name": "Caftan of the Polar Hierophant",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20452,
+            "level": 18,
+            "icon": 3780,
+            "name": "Caftan of the Vortex Spellweaver",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20458,
+            "level": 20,
+            "icon": 3780,
+            "name": "Caftan of the Ice Recluse",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20464,
+            "level": 22,
+            "icon": 3780,
+            "name": "Caftan of the Faceless Heir",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20476,
+            "level": 24,
+            "icon": 3780,
+            "name": "Caftan of the Storm Tamer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20488,
+            "level": 26,
+            "icon": 3780,
+            "name": "Caftan of the Whitefaced Demiurge",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 21037,
+            "level": 25,
+            "icon": 2563,
+            "name": "Elusive Killer's Brigandine",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 21100,
+            "level": 26,
+            "icon": 1620,
+            "name": "Spooky Doublet",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 21104,
+            "level": 26,
+            "icon": 2563,
+            "name": "Dark Flame Doublet",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 21108,
+            "level": 26,
+            "icon": 3508,
+            "name": "Doublet of the Captive Souls",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 21420,
+            "level": 3,
+            "icon": 1602,
+            "name": "Plain Light Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 21425,
+            "level": 6,
+            "icon": 1602,
+            "name": "Shabby Light Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 22206,
+            "level": 6,
+            "icon": 4231,
+            "name": "Winter Brigandine of Iceman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22207,
+            "level": 6,
+            "icon": 4231,
+            "name": "Winter Doublet of Iceman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22230,
+            "level": 10,
+            "icon": 4231,
+            "name": "Winter Brigandine of Ragnar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22231,
+            "level": 10,
+            "icon": 4231,
+            "name": "Winter Doublet of Ragnar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22254,
+            "level": 12,
+            "icon": 4231,
+            "name": "Winter Brigandine of Frosty Fang",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22255,
+            "level": 12,
+            "icon": 4231,
+            "name": "Winter Doublet of Frosty Fang",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22278,
+            "level": 14,
+            "icon": 4231,
+            "name": "Winter Brigandine of Mastodon",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22279,
+            "level": 14,
+            "icon": 4231,
+            "name": "Winter Doublet of Mastodon",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22302,
+            "level": 16,
+            "icon": 4231,
+            "name": "Winter Brigandine of Taron",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22303,
+            "level": 16,
+            "icon": 4231,
+            "name": "Winter Doublet of Taron",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22320,
+            "level": 18,
+            "icon": 4231,
+            "name": "Winter Brigandine of Kerula",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22321,
+            "level": 18,
+            "icon": 4231,
+            "name": "Winter Doublet of Kerula",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22350,
+            "level": 20,
+            "icon": 4231,
+            "name": "Winter Brigandine of Gimir",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22351,
+            "level": 20,
+            "icon": 4231,
+            "name": "Winter Doublet of Gimir",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22374,
+            "level": 22,
+            "icon": 4231,
+            "name": "Winter Brigandine of Flavius",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22375,
+            "level": 22,
+            "icon": 4231,
+            "name": "Winter Doublet of Flavius",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22398,
+            "level": 24,
+            "icon": 4231,
+            "name": "Winter Brigandine of Ruberius",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22399,
+            "level": 24,
+            "icon": 4231,
+            "name": "Winter Doublet of Ruberius",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22422,
+            "level": 26,
+            "icon": 4231,
+            "name": "Winter Brigandine of Mortis",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22423,
+            "level": 26,
+            "icon": 4231,
+            "name": "Winter Doublet of Mortis",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23318,
+            "level": 20,
+            "icon": 4468,
+            "name": "Brigandine of Warriors of the Sacred Forest",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23322,
+            "level": 20,
+            "icon": 4467,
+            "name": "Doublet of Warriors of the Dominant Coalition",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23326,
+            "level": 22,
+            "icon": 4468,
+            "name": "Brigandine of Warriors of the Pyramid Valley",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23330,
+            "level": 22,
+            "icon": 4467,
+            "name": "Doublet of Warriors of the Mighty Alliance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23334,
+            "level": 24,
+            "icon": 4468,
+            "name": "Brigandine of Warriors of the Black Oak Forest",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23338,
+            "level": 24,
+            "icon": 4467,
+            "name": "Doublet of Warriors of the Legendary Brotherhood",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23342,
+            "level": 26,
+            "icon": 4468,
+            "name": "Brigandine of Warriors of the Flying Islands",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23346,
+            "level": 26,
+            "icon": 4467,
+            "name": "Doublet of Warriors of the Immortal Order",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23501,
+            "level": 25,
+            "icon": 1617,
+            "name": "Doublet of the Forest Warriors",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23530,
+            "level": 27,
+            "icon": 1617,
+            "name": "Doublet of the Engineer Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23622,
+            "level": 27,
+            "icon": 2563,
+            "name": "Brigandine of the Gladiator Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23623,
+            "level": 27,
+            "icon": 2563,
+            "name": "Doublet of the Gladiator Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23830,
+            "level": 6,
+            "icon": 3372,
+            "name": "Doublet of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23834,
+            "level": 10,
+            "icon": 3372,
+            "name": "Doublet of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23838,
+            "level": 14,
+            "icon": 3372,
+            "name": "Doublet of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23842,
+            "level": 16,
+            "icon": 3372,
+            "name": "Doublet of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23846,
+            "level": 18,
+            "icon": 3372,
+            "name": "Doublet of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23850,
+            "level": 20,
+            "icon": 3372,
+            "name": "Doublet of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23854,
+            "level": 22,
+            "icon": 3372,
+            "name": "Doublet of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23858,
+            "level": 24,
+            "icon": 3372,
+            "name": "Doublet of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23862,
+            "level": 26,
+            "icon": 3372,
+            "name": "Doublet of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23866,
+            "level": 28,
+            "icon": 3372,
+            "name": "Doublet of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23870,
+            "level": 28,
+            "icon": 3372,
+            "name": "Brigandine of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24413,
+            "level": 28,
+            "icon": 4231,
+            "name": "Winter Brigandine of the Snow General",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 24417,
+            "level": 28,
+            "icon": 4231,
+            "name": "Winter Doublet of the Snow General",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 24433,
+            "level": 28,
+            "icon": 3780,
+            "name": "Caftan of the Arctic Ruler",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 24455,
+            "level": 10,
+            "icon": 4630,
+            "name": "All-Destroying Brigandine of Ragnar",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24459,
+            "level": 10,
+            "icon": 4630,
+            "name": "Unmatched Doublet of Ragnar",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24551,
+            "level": 12,
+            "icon": 4630,
+            "name": "All-Destroying Brigandine of Frosty Fang",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24552,
+            "level": 14,
+            "icon": 4630,
+            "name": "All-Destroying Brigandine of Mastodon",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24553,
+            "level": 16,
+            "icon": 4630,
+            "name": "All-Destroying Brigandine of Taron",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24554,
+            "level": 18,
+            "icon": 4630,
+            "name": "All-Destroying Brigandine of Kerula",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24555,
+            "level": 20,
+            "icon": 4630,
+            "name": "All-Destroying Brigandine of Gimir",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24556,
+            "level": 22,
+            "icon": 4630,
+            "name": "All-Destroying Brigandine of Flavius",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24557,
+            "level": 24,
+            "icon": 4630,
+            "name": "All-Destroying Brigandine of Ruberius",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24558,
+            "level": 26,
+            "icon": 4630,
+            "name": "All-Destroying Brigandine of Mortis",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24559,
+            "level": 28,
+            "icon": 4630,
+            "name": "All-Destroying Brigandine of the Snow General",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24587,
+            "level": 12,
+            "icon": 4630,
+            "name": "Unsurpassed Doublet of Frosty Fang",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24588,
+            "level": 14,
+            "icon": 4630,
+            "name": "Unsurpassed Doublet of Mastodon",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24589,
+            "level": 16,
+            "icon": 4630,
+            "name": "Unsurpassed Doublet of Taron",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24590,
+            "level": 18,
+            "icon": 4630,
+            "name": "Unsurpassed Doublet of Kerula",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24591,
+            "level": 20,
+            "icon": 4630,
+            "name": "Unsurpassed Doublet of Gimir",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24592,
+            "level": 22,
+            "icon": 4630,
+            "name": "Unsurpassed Doublet of Flavius",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24593,
+            "level": 24,
+            "icon": 4630,
+            "name": "Unsurpassed Doublet of Ruberius",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24594,
+            "level": 26,
+            "icon": 4630,
+            "name": "Unsurpassed Doublet of Mortis",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24595,
+            "level": 28,
+            "icon": 4630,
+            "name": "Unsurpassed Doublet of the Snow General",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 25245,
+            "level": 28,
+            "icon": 1620,
+            "name": "Doublet of Insight",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 25250,
+            "level": 28,
+            "icon": 2563,
+            "name": "Doublet of Sinister Visions",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 25255,
+            "level": 28,
+            "icon": 3508,
+            "name": "Doublet of Sheer Emptiness",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 25924,
+            "level": 20,
+            "icon": 4467,
+            "name": "Doublet of Assassins of the Dominant Coalition",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 25928,
+            "level": 22,
+            "icon": 4467,
+            "name": "Doublet of Assassins of the Mighty Alliance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 25932,
+            "level": 24,
+            "icon": 4467,
+            "name": "Doublet of Assassins of the Legendary Brotherhood",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 25935,
+            "level": 26,
+            "icon": 4467,
+            "name": "Doublet of Assassins of the Immortal Order",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 26338,
+            "level": 29,
+            "icon": 1617,
+            "name": "Doublet of the Corsair Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 26342,
+            "level": 29,
+            "icon": 1617,
+            "name": "Brigandine of the Corsair Assassin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 26508,
+            "level": 29,
+            "icon": 2563,
+            "name": "Brigandine of the Legendary Assassin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 26509,
+            "level": 29,
+            "icon": 2563,
+            "name": "Doublet of the Legendary Assassin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27251,
+            "level": 14,
+            "icon": 5083,
+            "name": "Shirt of Flint the Bell",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27253,
+            "level": 16,
+            "icon": 5083,
+            "name": "Shirt of Flint the Bell",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27255,
+            "level": 18,
+            "icon": 5083,
+            "name": "Shirt of Flint the Bell",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27257,
+            "level": 20,
+            "icon": 5083,
+            "name": "Shirt of Flint the Bell",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27259,
+            "level": 22,
+            "icon": 5083,
+            "name": "Shirt of Flint the Bell",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27261,
+            "level": 24,
+            "icon": 5083,
+            "name": "Shirt of Flint the Bell",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27263,
+            "level": 26,
+            "icon": 5083,
+            "name": "Shirt of Flint the Bell",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27265,
+            "level": 28,
+            "icon": 5083,
+            "name": "Shirt of Flint the Bell",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27267,
+            "level": 30,
+            "icon": 5083,
+            "name": "Shirt of Flint the Bell",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27269,
+            "level": 14,
+            "icon": 5084,
+            "name": "Shirt of Red-haired Chuck",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27271,
+            "level": 16,
+            "icon": 5084,
+            "name": "Shirt of Red-haired Chuck",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27273,
+            "level": 18,
+            "icon": 5084,
+            "name": "Shirt of Red-haired Chuck",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27275,
+            "level": 20,
+            "icon": 5084,
+            "name": "Shirt of Red-haired Chuck",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27277,
+            "level": 22,
+            "icon": 5084,
+            "name": "Shirt of Red-haired Chuck",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27279,
+            "level": 24,
+            "icon": 5084,
+            "name": "Shirt of Red-haired Chuck",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27281,
+            "level": 26,
+            "icon": 5084,
+            "name": "Shirt of Red-haired Chuck",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27283,
+            "level": 28,
+            "icon": 5084,
+            "name": "Shirt of Red-haired Chuck",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27285,
+            "level": 30,
+            "icon": 5084,
+            "name": "Shirt of Red-haired Chuck",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27959,
+            "level": 30,
+            "icon": 4231,
+            "name": "Winter Brigandine of Chernobog",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27963,
+            "level": 30,
+            "icon": 4231,
+            "name": "Winter Doublet of Chernobog",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27984,
+            "level": 30,
+            "icon": 3780,
+            "name": "Caftan of the Patron of Frost",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27988,
+            "level": 30,
+            "icon": 3780,
+            "name": "Shroud of the Patron of Frost",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28032,
+            "level": 14,
+            "icon": 3780,
+            "name": "Shroud of the Northern Oracle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28036,
+            "level": 16,
+            "icon": 3780,
+            "name": "Shroud of the Polar Hierophant",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28040,
+            "level": 18,
+            "icon": 3780,
+            "name": "Shroud of the Vortex Spellweaver",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28044,
+            "level": 20,
+            "icon": 3780,
+            "name": "Shroud of the Ice Recluse",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28048,
+            "level": 22,
+            "icon": 3780,
+            "name": "Shroud of the Faceless Heir",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28052,
+            "level": 24,
+            "icon": 3780,
+            "name": "Shroud of the Storm Tamer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28056,
+            "level": 26,
+            "icon": 3780,
+            "name": "Shroud of the Whitefaced Demiurge",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28060,
+            "level": 28,
+            "icon": 3780,
+            "name": "Shroud of the Arctic Ruler",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28116,
+            "level": 30,
+            "icon": 4630,
+            "name": "All-Destroying Brigandine of Chernobog",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 28120,
+            "level": 30,
+            "icon": 4630,
+            "name": "Unsurpassed Doublet of Chernobog",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 28335,
+            "level": 30,
+            "icon": 3372,
+            "name": "Brigandine of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 28339,
+            "level": 30,
+            "icon": 3372,
+            "name": "Doublet of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 28917,
+            "level": 30,
+            "icon": 1620,
+            "name": "Doublet of Restless Being",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 28922,
+            "level": 30,
+            "icon": 2563,
+            "name": "Doublet of Rebellious Spirit",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28927,
+            "level": 30,
+            "icon": 3508,
+            "name": "Doublet of Wild Heart",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 29410,
+            "level": 32,
+            "icon": 5340,
+            "name": "Doublet of Time Distortion",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29414,
+            "level": 32,
+            "icon": 5340,
+            "name": "Doublet of Fatal Retribution",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29490,
+            "level": 20,
+            "icon": 4468,
+            "name": "Brigandine of Assassins of the Sacred Forest",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29494,
+            "level": 22,
+            "icon": 4468,
+            "name": "Brigandine of Assassins of the Pyramid Valley",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29498,
+            "level": 24,
+            "icon": 4468,
+            "name": "Brigandine of Assassins of the Black Oak Forest",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29502,
+            "level": 26,
+            "icon": 4468,
+            "name": "Brigandine of Assassins of the Flying Islands",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29506,
+            "level": 28,
+            "icon": 4468,
+            "name": "Brigandine of Assassins of the Ship Graveyard",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29510,
+            "level": 28,
+            "icon": 4468,
+            "name": "Brigandine of Warriors of the Ship Graveyard",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29514,
+            "level": 28,
+            "icon": 4467,
+            "name": "Doublet of Warriors of the Imperious Clan",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29518,
+            "level": 28,
+            "icon": 4467,
+            "name": "Doublet of Assassins of the Imperious Clan",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29744,
+            "level": 7,
+            "icon": 1599,
+            "name": "Doublet of Recruit",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 29749,
+            "level": 7,
+            "icon": 1605,
+            "name": "Brigandine of Recruit",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 29754,
+            "level": 11,
+            "icon": 1599,
+            "name": "Doublet of Mercenary",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 29759,
+            "level": 11,
+            "icon": 1605,
+            "name": "Brigandine of Mercenary",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 32048,
+            "level": 30,
+            "icon": 4468,
+            "name": "Brigantine of the Warriors of the Pirate Archipelago",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32052,
+            "level": 30,
+            "icon": 4468,
+            "name": "Brigantine of the Assassins of the Pirate Archipelago",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32056,
+            "level": 30,
+            "icon": 4467,
+            "name": "Doublet of the Warriors of the Unbreakable Alliance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32060,
+            "level": 30,
+            "icon": 4467,
+            "name": "Doublet of the Assassins of the Unbreakable Alliance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32136,
+            "level": 18,
+            "icon": 5811,
+            "name": "Enchanted Doublet of Youth",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32140,
+            "level": 20,
+            "icon": 5811,
+            "name": "Enchanted Doublet of Longevity",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32144,
+            "level": 22,
+            "icon": 5811,
+            "name": "Enchanted Doublet of Unfading",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32148,
+            "level": 24,
+            "icon": 5811,
+            "name": "Enchanted Doublet of Unquenchability",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32152,
+            "level": 26,
+            "icon": 5811,
+            "name": "Enchanted Doublet of Eternity",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32156,
+            "level": 28,
+            "icon": 5811,
+            "name": "Enchanted Doublet of Immortality",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32160,
+            "level": 30,
+            "icon": 5811,
+            "name": "Enchanted Doublet of Integrity",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32164,
+            "level": 18,
+            "icon": 5812,
+            "name": "Polar Doublet of Zeal",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32168,
+            "level": 20,
+            "icon": 5812,
+            "name": "Polar Doublet of Mutiny",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32172,
+            "level": 22,
+            "icon": 5812,
+            "name": "Polar Doublet of Vehemence",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32176,
+            "level": 24,
+            "icon": 5812,
+            "name": "Polar Doublet of Ardency",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32180,
+            "level": 26,
+            "icon": 5812,
+            "name": "Polar Doublet of Bitterness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32184,
+            "level": 28,
+            "icon": 5812,
+            "name": "Polar Doublet of Frenzy",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32188,
+            "level": 30,
+            "icon": 5812,
+            "name": "Polar Doublet of Rampage",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32335,
+            "level": 30,
+            "icon": 5823,
+            "name": "Jumpsuit of the Diver Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 32337,
+            "level": 30,
+            "icon": 5823,
+            "name": "Jumpsuit of the Diver Assassin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33271,
+            "level": 32,
+            "icon": 5083,
+            "name": "Shirt of Flint the Bell",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33275,
+            "level": 32,
+            "icon": 5084,
+            "name": "Shirt of Red-haired Chuck",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33854,
+            "level": 32,
+            "icon": 4231,
+            "name": "Winter Brigandine of Titan",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33858,
+            "level": 32,
+            "icon": 4231,
+            "name": "Winter Doublet of Titan",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33878,
+            "level": 32,
+            "icon": 3780,
+            "name": "Storm Lord\u2019s Caftan",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33882,
+            "level": 32,
+            "icon": 3780,
+            "name": "Storm Lord\u2019s Shroud",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33902,
+            "level": 32,
+            "icon": 4630,
+            "name": "All-Destroying Brigandine of Titan",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 33906,
+            "level": 32,
+            "icon": 4630,
+            "name": "Unmatched Doublet of Titan",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 34464,
+            "level": 32,
+            "icon": 1620,
+            "name": "Doublet of the Sinful Light",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 34480,
+            "level": 32,
+            "icon": 2563,
+            "name": "Doublet of the Otherworldly Call",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 34495,
+            "level": 32,
+            "icon": 3508,
+            "name": "Doublet of the Ominous Requiem",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 34926,
+            "level": 31,
+            "icon": 2563,
+            "name": "Brigandine of the Champion Assassin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 34927,
+            "level": 31,
+            "icon": 2563,
+            "name": "Doublet of the Champion Assassin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 34951,
+            "level": 32,
+            "icon": 3372,
+            "name": "Brigandine of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 34955,
+            "level": 32,
+            "icon": 3372,
+            "name": "Doublet of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35098,
+            "level": 22,
+            "icon": 6186,
+            "name": "Doublet of the Guards of the Forest\u2019s Heart",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35102,
+            "level": 24,
+            "icon": 6186,
+            "name": "Doublet of the Guards of the Jaguar\u2019s Den",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35106,
+            "level": 26,
+            "icon": 6186,
+            "name": "Doublet of the Guards of the Dragon Ness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35110,
+            "level": 28,
+            "icon": 6186,
+            "name": "Doublet of the Guards of the Sky Sanctuary",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35114,
+            "level": 30,
+            "icon": 6186,
+            "name": "Doublet of the Guards of the Sea Turtle",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35147,
+            "level": 32,
+            "icon": 5811,
+            "name": "Enchanted Doublet of Eternity",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35151,
+            "level": 32,
+            "icon": 5812,
+            "name": "Polar Doublet of Fierceness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35284,
+            "level": 31,
+            "icon": 1617,
+            "name": "Doublet of the Pirate Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 35288,
+            "level": 31,
+            "icon": 1617,
+            "name": "Brigantine of the Pirate Assassin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 35636,
+            "level": 18,
+            "icon": 1617,
+            "name": "Death Grip Doublet",
+            "itemType": 2,
+            "color": 4
+        }
+    ]
+}

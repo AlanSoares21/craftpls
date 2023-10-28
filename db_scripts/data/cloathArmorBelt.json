@@ -1,0 +1,1532 @@
+{
+    "list": [
+        {
+            "id": 853,
+            "level": 2,
+            "icon": 968,
+            "name": "Old Girdle",
+            "itemType": 6,
+            "color": 0
+        },
+        {
+            "id": 885,
+            "level": 2,
+            "icon": 968,
+            "name": "Plain Girdle",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 921,
+            "level": 7,
+            "icon": 971,
+            "name": "Durable Girdle",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 979,
+            "level": 9,
+            "icon": 968,
+            "name": "Girdle of Neophyte",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 1031,
+            "level": 9,
+            "icon": 971,
+            "name": "Master's Girdle",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 2028,
+            "level": 12,
+            "icon": 971,
+            "name": "Mighty Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 2029,
+            "level": 12,
+            "icon": 971,
+            "name": "Mighty Sash",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 2095,
+            "level": 13,
+            "icon": 971,
+            "name": "Light Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 2096,
+            "level": 13,
+            "icon": 971,
+            "name": "Light Sash",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 2142,
+            "level": 14,
+            "icon": 968,
+            "name": "Elegant Belt",
+            "itemType": 6,
+            "color": 0
+        },
+        {
+            "id": 2188,
+            "level": 13,
+            "icon": 974,
+            "name": "Decorated Belt",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 2189,
+            "level": 15,
+            "icon": 974,
+            "name": "Decorated Sash",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 2268,
+            "level": 15,
+            "icon": 974,
+            "name": "Elegant Baldric",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 2314,
+            "level": 15,
+            "icon": 974,
+            "name": "Graceful Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 2315,
+            "level": 15,
+            "icon": 974,
+            "name": "Graceful Sash",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 2358,
+            "level": 15,
+            "icon": 977,
+            "name": "Sorcerer's Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 5782,
+            "level": 4,
+            "icon": 977,
+            "name": "Belt of Beginner Sorcerer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 5805,
+            "level": 10,
+            "icon": 977,
+            "name": "Double Belt of Beginner Sorcerer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 6387,
+            "level": 17,
+            "icon": 974,
+            "name": "Star Pilgrim's Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 6388,
+            "level": 17,
+            "icon": 977,
+            "name": "Star Pilgrim's Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 8011,
+            "level": 2,
+            "icon": 971,
+            "name": "Cosy Girdle",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 8012,
+            "level": 2,
+            "icon": 968,
+            "name": "Mighty Baldric",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 8018,
+            "level": 7,
+            "icon": 971,
+            "name": "Durable Sash",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 8032,
+            "level": 9,
+            "icon": 971,
+            "name": "Master's Girdle",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 8033,
+            "level": 9,
+            "icon": 974,
+            "name": "Patriarch's Sash",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 8054,
+            "level": 9,
+            "icon": 980,
+            "name": "Master's Sash",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 8057,
+            "level": 9,
+            "icon": 983,
+            "name": "Master's Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 8183,
+            "level": 15,
+            "icon": 995,
+            "name": "Sorcerer's Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 8184,
+            "level": 15,
+            "icon": 977,
+            "name": "Sorcerer's Girdle",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 8303,
+            "level": 13,
+            "icon": 983,
+            "name": "Embroidered Sash",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 8304,
+            "level": 13,
+            "icon": 977,
+            "name": "Decorated Baldric",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 8331,
+            "level": 12,
+            "icon": 983,
+            "name": "Mighty Girdle",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 8332,
+            "level": 12,
+            "icon": 974,
+            "name": "Qualitative Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 8337,
+            "level": 15,
+            "icon": 992,
+            "name": "Sun Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 8338,
+            "level": 15,
+            "icon": 986,
+            "name": "Mystic Sash",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 8378,
+            "level": 13,
+            "icon": 968,
+            "name": "Thin Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 8379,
+            "level": 13,
+            "icon": 974,
+            "name": "Thin Girdle",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 8380,
+            "level": 15,
+            "icon": 971,
+            "name": "Belt of Requital",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 8381,
+            "level": 15,
+            "icon": 977,
+            "name": "Belt of Befouler",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 9061,
+            "level": 17,
+            "icon": 974,
+            "name": "Star Pilgrim's Sacral Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 9062,
+            "level": 17,
+            "icon": 974,
+            "name": "Star Pilgrim's Damned Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 11134,
+            "level": 17,
+            "icon": 974,
+            "name": "Astromancer Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 11135,
+            "level": 17,
+            "icon": 977,
+            "name": "Astromancer Sash",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 11136,
+            "level": 17,
+            "icon": 968,
+            "name": "Astromancer Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 13789,
+            "level": 11,
+            "icon": 989,
+            "name": "Baldric of Aquilon",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 13790,
+            "level": 11,
+            "icon": 989,
+            "name": "Sash of Aquilon",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 13791,
+            "level": 11,
+            "icon": 989,
+            "name": "Belt of Aquilon",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 13792,
+            "level": 11,
+            "icon": 989,
+            "name": "Gurt of Aquilon",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 14092,
+            "level": 16,
+            "icon": 989,
+            "name": "Loyal Guard's Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 14715,
+            "level": 10,
+            "icon": 968,
+            "name": "Linen Baldric",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 14720,
+            "level": 14,
+            "icon": 983,
+            "name": "Mystic's Baldric",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 14724,
+            "level": 16,
+            "icon": 977,
+            "name": "Satin Baldric",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 14735,
+            "level": 19,
+            "icon": 1001,
+            "name": "Noble's Baldric",
+            "itemType": 6,
+            "color": 1
+        },
+        {
+            "id": 14741,
+            "level": 10,
+            "icon": 971,
+            "name": "Mystical Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 14751,
+            "level": 14,
+            "icon": 974,
+            "name": "Belt of Elements",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 14811,
+            "level": 16,
+            "icon": 992,
+            "name": "Shadow Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 14816,
+            "level": 19,
+            "icon": 1004,
+            "name": "Fiery Belt",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 14992,
+            "level": 19,
+            "icon": 983,
+            "name": "Archmage's Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 15069,
+            "level": 18,
+            "icon": 1004,
+            "name": "Belt of Harmony",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 15275,
+            "level": 18,
+            "icon": 986,
+            "name": "Charmer Asterius' Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 15278,
+            "level": 19,
+            "icon": 992,
+            "name": "Belt of Damned Pilgrims",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 15314,
+            "level": 20,
+            "icon": 977,
+            "name": "Bloody Lord's Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 15607,
+            "level": 9,
+            "icon": 983,
+            "name": "Master's Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16214,
+            "level": 5,
+            "icon": 3113,
+            "name": "Baldric of the Holiday Thief",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16217,
+            "level": 8,
+            "icon": 3113,
+            "name": "Baldric of Oath-breaker",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16220,
+            "level": 11,
+            "icon": 3113,
+            "name": "Baldric of Braincrasher",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16223,
+            "level": 14,
+            "icon": 3113,
+            "name": "Baldric of Toothy Hunter",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16226,
+            "level": 17,
+            "icon": 3113,
+            "name": "Baldric of Northern Whirl",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16229,
+            "level": 20,
+            "icon": 3113,
+            "name": "Baldric of the Snow Lady",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16232,
+            "level": 22,
+            "icon": 3113,
+            "name": "Baldric of Permafrost",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 16950,
+            "level": 21,
+            "icon": 971,
+            "name": "Baldric of the Mad Oracle",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 16955,
+            "level": 21,
+            "icon": 974,
+            "name": "Baldric of the Enlightened Astromancer",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 17248,
+            "level": 21,
+            "icon": 980,
+            "name": "Lord's Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 17564,
+            "level": 21,
+            "icon": 980,
+            "name": "Baldric of Spirits of Nature",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 18266,
+            "level": 10,
+            "icon": 3113,
+            "name": "Baldric of the Tribe Leader",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 18267,
+            "level": 18,
+            "icon": 3113,
+            "name": "Baldric of the Immortal Wanderer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 19197,
+            "level": 23,
+            "icon": 980,
+            "name": "Belt of the Lord of Enchantment",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 19232,
+            "level": 22,
+            "icon": 980,
+            "name": "Baldric of the Tree Sentinel",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 19235,
+            "level": 24,
+            "icon": 980,
+            "name": "Sky Sorcerer's Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 19260,
+            "level": 23,
+            "icon": 983,
+            "name": "Outcast's Baldric",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 19261,
+            "level": 25,
+            "icon": 983,
+            "name": "Pariah's Baldric",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 20373,
+            "level": 5,
+            "icon": 3113,
+            "name": "Sash of the Holiday Thief",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20376,
+            "level": 10,
+            "icon": 3113,
+            "name": "Sash of the Tribe Leader",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20379,
+            "level": 12,
+            "icon": 3113,
+            "name": "Baldric of the Frozen Master",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20380,
+            "level": 12,
+            "icon": 3113,
+            "name": "Sash of the Frozen Master",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20385,
+            "level": 14,
+            "icon": 3113,
+            "name": "Sash of the Toothy Hunter",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20388,
+            "level": 16,
+            "icon": 3113,
+            "name": "Baldric of the Rune Scald",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20389,
+            "level": 16,
+            "icon": 3113,
+            "name": "Sash of the Rune Scald",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20394,
+            "level": 18,
+            "icon": 3113,
+            "name": "Sash of the Immortal Wanderer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20397,
+            "level": 20,
+            "icon": 3113,
+            "name": "Sash of the Snow Lady",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20400,
+            "level": 22,
+            "icon": 3113,
+            "name": "Sash of Permafrost",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20403,
+            "level": 24,
+            "icon": 3113,
+            "name": "Baldric of the Ice Prince",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 20404,
+            "level": 24,
+            "icon": 3113,
+            "name": "Sash of the Ice Prince",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 21035,
+            "level": 25,
+            "icon": 980,
+            "name": "Magic Virtuoso's Belt",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 21414,
+            "level": 3,
+            "icon": 968,
+            "name": "Plain Cloth Sash",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 21418,
+            "level": 6,
+            "icon": 968,
+            "name": "Shabby Cloth Sash",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 22438,
+            "level": 26,
+            "icon": 3113,
+            "name": "Baldric of the Descendant of the Titans",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 22439,
+            "level": 26,
+            "icon": 3113,
+            "name": "Sash of the Descendant of the Titans",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23619,
+            "level": 27,
+            "icon": 992,
+            "name": "Belt of the Gladiator Mage",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23658,
+            "level": 10,
+            "icon": 968,
+            "name": "Cloth Sash",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23659,
+            "level": 12,
+            "icon": 968,
+            "name": "Mysterious Sash",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23660,
+            "level": 14,
+            "icon": 968,
+            "name": "Sash of Elements",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23661,
+            "level": 16,
+            "icon": 968,
+            "name": "Satin Sash",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23662,
+            "level": 18,
+            "icon": 968,
+            "name": "Shadow Sash",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23663,
+            "level": 20,
+            "icon": 968,
+            "name": "Fiery Sash",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23664,
+            "level": 22,
+            "icon": 968,
+            "name": "Sacred Sash",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23665,
+            "level": 24,
+            "icon": 968,
+            "name": "Sash of Cruelty",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23666,
+            "level": 26,
+            "icon": 968,
+            "name": "Spooky Sash",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 23667,
+            "level": 10,
+            "icon": 971,
+            "name": "Sash of Full Moon",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23668,
+            "level": 12,
+            "icon": 971,
+            "name": "Mystic Sash",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23669,
+            "level": 14,
+            "icon": 971,
+            "name": "Sash of Northern Chieftains",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23670,
+            "level": 16,
+            "icon": 971,
+            "name": "Heavenly Way Sash",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23671,
+            "level": 18,
+            "icon": 971,
+            "name": "Sash of Frozen Fire",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23672,
+            "level": 20,
+            "icon": 971,
+            "name": "Sash of Deep Lord",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23673,
+            "level": 22,
+            "icon": 971,
+            "name": "Divine Protection Sash",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23674,
+            "level": 24,
+            "icon": 971,
+            "name": "Sash of Righteous Anger",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23675,
+            "level": 26,
+            "icon": 971,
+            "name": "Dark Flame Sash",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23676,
+            "level": 10,
+            "icon": 4530,
+            "name": "Eternal Life Sash",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23677,
+            "level": 12,
+            "icon": 4530,
+            "name": "Sash of Immeasurable Stamina",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23678,
+            "level": 14,
+            "icon": 4530,
+            "name": "Iron Health Sash",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23679,
+            "level": 16,
+            "icon": 4530,
+            "name": "Sash of Inexhaustible Strength",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23680,
+            "level": 18,
+            "icon": 4530,
+            "name": "Sash of Endless Perseverance",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23681,
+            "level": 20,
+            "icon": 4530,
+            "name": "Sash of Inexhaustible Perseverance",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23682,
+            "level": 22,
+            "icon": 4530,
+            "name": "Infinite Reliability Sash",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23683,
+            "level": 24,
+            "icon": 4530,
+            "name": "Sash of Blind Fury",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 23684,
+            "level": 26,
+            "icon": 4530,
+            "name": "Sash of the Captive Souls",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 24440,
+            "level": 28,
+            "icon": 3113,
+            "name": "Baldric of the Winter King",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 24441,
+            "level": 28,
+            "icon": 3113,
+            "name": "Sash of the Winter King",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 25233,
+            "level": 28,
+            "icon": 968,
+            "name": "Sash of Insight",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 25238,
+            "level": 28,
+            "icon": 971,
+            "name": "Sash of Sinister Visions",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 25243,
+            "level": 28,
+            "icon": 4530,
+            "name": "Sash of Sheer Emptiness",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 26397,
+            "level": 29,
+            "icon": 971,
+            "name": "Baldric of the Archipelago Freebooters",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 26398,
+            "level": 29,
+            "icon": 971,
+            "name": "Sash of the Archipelago Freebooters",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 26399,
+            "level": 29,
+            "icon": 971,
+            "name": "Baldric of the Archipelago Corsairs",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 26400,
+            "level": 29,
+            "icon": 971,
+            "name": "Sash of the Archipelago Corsairs",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 26505,
+            "level": 29,
+            "icon": 992,
+            "name": "Belt of the Legendary Arcanomancer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 28095,
+            "level": 6,
+            "icon": 3113,
+            "name": "Baldric of Cold-Bearing Spirit",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 28096,
+            "level": 6,
+            "icon": 3113,
+            "name": "Sash of Cold-Bearing Spirit",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 28101,
+            "level": 30,
+            "icon": 3113,
+            "name": "Baldric of the Lord of Cold",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 28102,
+            "level": 30,
+            "icon": 3113,
+            "name": "Sash of the Lord of Cold",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 28893,
+            "level": 30,
+            "icon": 968,
+            "name": "Sash of Restless Being",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 28902,
+            "level": 30,
+            "icon": 971,
+            "name": "Sash of Rebellious Spirit",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 28915,
+            "level": 30,
+            "icon": 4530,
+            "name": "Sash of Wild Heart",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 29727,
+            "level": 7,
+            "icon": 971,
+            "name": "Baldric of Recruit",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 29732,
+            "level": 7,
+            "icon": 971,
+            "name": "Sash of Recruit",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 29737,
+            "level": 11,
+            "icon": 971,
+            "name": "Baldric of Mercenary",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 29742,
+            "level": 11,
+            "icon": 971,
+            "name": "Sash of Mercenary",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31207,
+            "level": 14,
+            "icon": 3113,
+            "name": "Icy Baldric of Toothy Hunter",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31208,
+            "level": 14,
+            "icon": 3113,
+            "name": "Icy Sash of Toothy Hunter",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31209,
+            "level": 16,
+            "icon": 3113,
+            "name": "Icy Baldric of the Rune Scald",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31210,
+            "level": 16,
+            "icon": 3113,
+            "name": "Icy Sash of the Rune Scald",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31211,
+            "level": 18,
+            "icon": 3113,
+            "name": "Icy Baldric of the Immortal Wanderer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31212,
+            "level": 18,
+            "icon": 3113,
+            "name": "Icy Sash of the Immortal Wanderer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31213,
+            "level": 20,
+            "icon": 3113,
+            "name": "Icy Baldric of the Snow Lady",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31214,
+            "level": 20,
+            "icon": 3113,
+            "name": "Icy Sash of the Snow Lady",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31215,
+            "level": 22,
+            "icon": 3113,
+            "name": "Icy Baldric of Permafrost",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31216,
+            "level": 22,
+            "icon": 3113,
+            "name": "Icy Sash of Permafrost",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31217,
+            "level": 24,
+            "icon": 3113,
+            "name": "Icy Baldric of the Ice Prince",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31218,
+            "level": 24,
+            "icon": 3113,
+            "name": "Icy Sash of the Ice Prince",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31219,
+            "level": 26,
+            "icon": 3113,
+            "name": "Icy Baldric of the Descendant of the Titans",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31220,
+            "level": 26,
+            "icon": 3113,
+            "name": "Icy Sash of the Descendant of the Titans",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31221,
+            "level": 28,
+            "icon": 3113,
+            "name": "Icy Baldric of the Winter King",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31222,
+            "level": 28,
+            "icon": 3113,
+            "name": "Icy Sash of the Winter King",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31223,
+            "level": 30,
+            "icon": 3113,
+            "name": "Icy Baldric of the Lord of Cold",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 31224,
+            "level": 30,
+            "icon": 3113,
+            "name": "Icy Sash of the Lord of Cold",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33803,
+            "level": 32,
+            "icon": 3113,
+            "name": "Baldric of the Northern Lord",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33804,
+            "level": 32,
+            "icon": 3113,
+            "name": "Sash of the Northern Lord",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33805,
+            "level": 32,
+            "icon": 3113,
+            "name": "Icy Baldric of the Northern Lord",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33806,
+            "level": 32,
+            "icon": 3113,
+            "name": "Icy Sash of the Northern Lord",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33807,
+            "level": 32,
+            "icon": 3113,
+            "name": "Cold Baldric of the Northern Lord",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33818,
+            "level": 14,
+            "icon": 3113,
+            "name": "Toothed Hunter\u2019s Cold Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33819,
+            "level": 16,
+            "icon": 3113,
+            "name": "Cold Baldric of the Rune Scald",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33820,
+            "level": 18,
+            "icon": 3113,
+            "name": "Cold Baldric of the Immortal Wanderer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33821,
+            "level": 20,
+            "icon": 3113,
+            "name": "Cold Baldric of the Snow Lady",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33822,
+            "level": 22,
+            "icon": 3113,
+            "name": "Cold Baldric of Permafrost",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33823,
+            "level": 24,
+            "icon": 3113,
+            "name": "Ice Duke\u2019s Cold Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33824,
+            "level": 26,
+            "icon": 3113,
+            "name": "Titan Scion\u2019s Cold Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33825,
+            "level": 28,
+            "icon": 3113,
+            "name": "Winter King\u2019s Cold Baldric",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 33826,
+            "level": 30,
+            "icon": 3113,
+            "name": "Cold Baldric of the Lord of Cold",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 34462,
+            "level": 32,
+            "icon": 968,
+            "name": "Sash of the Sinful Light",
+            "itemType": 6,
+            "color": 2
+        },
+        {
+            "id": 34478,
+            "level": 32,
+            "icon": 971,
+            "name": "Sash of the Otherworldly Call",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 34493,
+            "level": 32,
+            "icon": 4530,
+            "name": "Sash of the Ominous Requiem",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 34923,
+            "level": 31,
+            "icon": 992,
+            "name": "Belt of the Champion Arcanomancer",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35234,
+            "level": 31,
+            "icon": 971,
+            "name": "Baldric of the Freebooters of the Code",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35235,
+            "level": 31,
+            "icon": 971,
+            "name": "Sash of the Freebooters of the Code",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35236,
+            "level": 31,
+            "icon": 971,
+            "name": "Baldric of the Corsairs of the Code",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35237,
+            "level": 31,
+            "icon": 971,
+            "name": "Sash of the Corsairs of the Code",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35238,
+            "level": 31,
+            "icon": 971,
+            "name": "Baldric of the Forbans of the Code",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35239,
+            "level": 31,
+            "icon": 971,
+            "name": "Sash of the Forbans of the Code",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35252,
+            "level": 29,
+            "icon": 971,
+            "name": "Baldric of the Forbans of the Archipelago",
+            "itemType": 6,
+            "color": 3
+        },
+        {
+            "id": 35253,
+            "level": 29,
+            "icon": 971,
+            "name": "Sash of the Forbans of the Archipelago",
+            "itemType": 6,
+            "color": 3
+        }
+    ]
+}

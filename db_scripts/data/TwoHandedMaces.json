@@ -1,0 +1,2388 @@
+{
+    "list": [
+        {
+            "id": 7989,
+            "level": 7,
+            "icon": 1085,
+            "name": "Heavy Hammer",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 8050,
+            "level": 9,
+            "icon": 1088,
+            "name": "Ancient Warhammer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 8146,
+            "level": 9,
+            "icon": 1088,
+            "name": "Flaming Warhammer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 8172,
+            "level": 15,
+            "icon": 1085,
+            "name": "Battle Warhammer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 8314,
+            "level": 12,
+            "icon": 1085,
+            "name": "Heavy Morgenstern",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 8322,
+            "level": 15,
+            "icon": 1091,
+            "name": "Tested Maul",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 8359,
+            "level": 13,
+            "icon": 1085,
+            "name": "Marvelous Warhammer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 8367,
+            "level": 15,
+            "icon": 1085,
+            "name": "Ethereal Maul",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 9068,
+            "level": 17,
+            "icon": 1085,
+            "name": "Hammer of Abyss Zealot",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 9085,
+            "level": 18,
+            "icon": 1088,
+            "name": "Hammer of Sudden Doom",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 10427,
+            "level": 13,
+            "icon": 1079,
+            "name": "Tested Hammer",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 11145,
+            "level": 17,
+            "icon": 1094,
+            "name": "Champion Maul",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 13201,
+            "level": 18,
+            "icon": 1094,
+            "name": "Morgenstern of Night Prince",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 14398,
+            "level": 13,
+            "icon": 1085,
+            "name": "Granite Warhammer",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14402,
+            "level": 16,
+            "icon": 1088,
+            "name": "Phantom Warhammer",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14412,
+            "level": 11,
+            "icon": 1085,
+            "name": "Aliform Warhammer",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14418,
+            "level": 14,
+            "icon": 1085,
+            "name": "Molten Warhammer",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14436,
+            "level": 18,
+            "icon": 1094,
+            "name": "Hewing Hammer",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14454,
+            "level": 16,
+            "icon": 1088,
+            "name": "Warhammer of Frozen Fire",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15009,
+            "level": 19,
+            "icon": 1094,
+            "name": "Maul of Brave Warrior",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15129,
+            "level": 21,
+            "icon": 1088,
+            "name": "Desecrate Warhammer",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 15844,
+            "level": 4,
+            "icon": 3076,
+            "name": "Morgenstern of Midnight Hunter",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15856,
+            "level": 7,
+            "icon": 3076,
+            "name": "Morgenstern of Silent Maniac",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15868,
+            "level": 10,
+            "icon": 3076,
+            "name": "Morgenstern of Still Heart",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15880,
+            "level": 13,
+            "icon": 3076,
+            "name": "Morgenstern of Faceless Nightmare",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15892,
+            "level": 16,
+            "icon": 3076,
+            "name": "Morgenstern of Sinful Call",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15904,
+            "level": 19,
+            "icon": 3076,
+            "name": "Morgenstern of Immortal Recluse",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15916,
+            "level": 21,
+            "icon": 3076,
+            "name": "Morgenstern of Overwhelming Fury",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16125,
+            "level": 5,
+            "icon": 3122,
+            "name": "Maul of the Holiday Thief",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16138,
+            "level": 8,
+            "icon": 3122,
+            "name": "Maul of Oath-breaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16153,
+            "level": 11,
+            "icon": 3122,
+            "name": "Maul of Braincrasher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16166,
+            "level": 14,
+            "icon": 3122,
+            "name": "Maul of Toothy Hunter",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16179,
+            "level": 17,
+            "icon": 3122,
+            "name": "Maul of Northern Whirl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16192,
+            "level": 20,
+            "icon": 3122,
+            "name": "Maul of the Snow Lady",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16205,
+            "level": 22,
+            "icon": 3122,
+            "name": "Maul of Permafrost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16909,
+            "level": 21,
+            "icon": 3254,
+            "name": "Gladiator's Maul",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16974,
+            "level": 22,
+            "icon": 1094,
+            "name": "Sledgehammer of Northern Courage",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17106,
+            "level": 12,
+            "icon": 1085,
+            "name": "Well-tried Hammer",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17107,
+            "level": 10,
+            "icon": 1085,
+            "name": "Molten Morgenstern",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17131,
+            "level": 16,
+            "icon": 1085,
+            "name": "Sparkling Hammer",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17132,
+            "level": 20,
+            "icon": 1094,
+            "name": "Ashen Hammer",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17160,
+            "level": 10,
+            "icon": 1085,
+            "name": "Enchanted Maul of the Ent",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17161,
+            "level": 12,
+            "icon": 1085,
+            "name": "Maul of Full Moon",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17162,
+            "level": 14,
+            "icon": 1085,
+            "name": "Morgenstern of Northern Chieftains",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17163,
+            "level": 20,
+            "icon": 1085,
+            "name": "Morgenstern of Deep Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17174,
+            "level": 10,
+            "icon": 3399,
+            "name": "Ent's Amplified Maul",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17182,
+            "level": 12,
+            "icon": 3399,
+            "name": "Maul of Lunar Sickle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17190,
+            "level": 14,
+            "icon": 3399,
+            "name": "Morgenstern of Northern Lords",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17198,
+            "level": 16,
+            "icon": 3399,
+            "name": "Hammer of Chilled Flame",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17206,
+            "level": 18,
+            "icon": 3399,
+            "name": "Hammer of Dead Silence",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17214,
+            "level": 20,
+            "icon": 3399,
+            "name": "Morgenstern of the Depth Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17299,
+            "level": 22,
+            "icon": 1085,
+            "name": "Horrifying Hammer",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17309,
+            "level": 22,
+            "icon": 1085,
+            "name": "All-Destroying Morgenstern",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17317,
+            "level": 22,
+            "icon": 3399,
+            "name": "Morgenstern of Death Herald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17758,
+            "level": 23,
+            "icon": 3389,
+            "name": "Battle Warhammer of Devastation",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17946,
+            "level": 5,
+            "icon": 3076,
+            "name": "Morgenstern of Night Puppeteer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17958,
+            "level": 14,
+            "icon": 3076,
+            "name": "Morgenstern of Fatal Mistake",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17970,
+            "level": 18,
+            "icon": 3076,
+            "name": "Morgenstern of Deadly Game",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17982,
+            "level": 23,
+            "icon": 3076,
+            "name": "Morgenstern of Killer Puppet",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18282,
+            "level": 10,
+            "icon": 3122,
+            "name": "Maul of the Tribe Leader",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18295,
+            "level": 18,
+            "icon": 3122,
+            "name": "Maul of the Immortal Wanderer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18308,
+            "level": 23,
+            "icon": 3122,
+            "name": "Bound Conqueror's Maul",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18885,
+            "level": 23,
+            "icon": 3254,
+            "name": "Maul of the Templar",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18896,
+            "level": 9,
+            "icon": 1085,
+            "name": "Flaming Maul",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18897,
+            "level": 15,
+            "icon": 1085,
+            "name": "Battle Maul",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18898,
+            "level": 17,
+            "icon": 1094,
+            "name": "Champion Warhammer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18899,
+            "level": 19,
+            "icon": 1094,
+            "name": "Warhammer of Brave Warrior",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18900,
+            "level": 21,
+            "icon": 3254,
+            "name": "Gladiator's Warhammer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18907,
+            "level": 13,
+            "icon": 1085,
+            "name": "Young Fighter's Maul",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19025,
+            "level": 24,
+            "icon": 1085,
+            "name": "Rune hammer",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 19033,
+            "level": 24,
+            "icon": 1085,
+            "name": "Hammer of Liberator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19041,
+            "level": 24,
+            "icon": 3399,
+            "name": "Hammer of Legendary Defender",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19271,
+            "level": 25,
+            "icon": 3620,
+            "name": "Technocrat's Maul",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19291,
+            "level": 25,
+            "icon": 1094,
+            "name": "Maul of Revival",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 19965,
+            "level": 6,
+            "icon": 3076,
+            "name": "Morgenstern of the Blind Outlaw",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19990,
+            "level": 12,
+            "icon": 3076,
+            "name": "Morgenstern of the Unsleeping Predator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20028,
+            "level": 20,
+            "icon": 3076,
+            "name": "Morgenstern of the Damned Heir",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20041,
+            "level": 22,
+            "icon": 3076,
+            "name": "Morgenstern of the Distracted Apostate",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20054,
+            "level": 24,
+            "icon": 3076,
+            "name": "Morgenstern of the Night Visitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20079,
+            "level": 26,
+            "icon": 3076,
+            "name": "Morgenstern of the Bloody Earl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20274,
+            "level": 6,
+            "icon": 3122,
+            "name": "Hammer of Cold-Bearing Spirit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20283,
+            "level": 10,
+            "icon": 3122,
+            "name": "Hammer of the Tribe Leader",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20295,
+            "level": 12,
+            "icon": 3122,
+            "name": "Hammer of the Frozen Master",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20304,
+            "level": 14,
+            "icon": 3122,
+            "name": "Hammer of the Toothy Hunter",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20316,
+            "level": 16,
+            "icon": 3122,
+            "name": "Hammer of the Rune Scald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20325,
+            "level": 18,
+            "icon": 3122,
+            "name": "Hammer of the Immortal Wanderer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20331,
+            "level": 20,
+            "icon": 3122,
+            "name": "Hammer of the Snow Lady",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20337,
+            "level": 22,
+            "icon": 3122,
+            "name": "Hammer of Permafrost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20349,
+            "level": 24,
+            "icon": 3122,
+            "name": "Hammer of the Ice Prince",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20364,
+            "level": 26,
+            "icon": 3122,
+            "name": "Hammer of the Descendant of the Titans",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20789,
+            "level": 6,
+            "icon": 3867,
+            "name": "Hammer of the Green Hill",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20804,
+            "level": 10,
+            "icon": 3867,
+            "name": "Hammer of the Heath Meadow",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20819,
+            "level": 12,
+            "icon": 3867,
+            "name": "Hammer of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20834,
+            "level": 14,
+            "icon": 3867,
+            "name": "Hammer of the Spring Symphony",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20854,
+            "level": 16,
+            "icon": 3867,
+            "name": "Hammer of the Happy Month",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20869,
+            "level": 18,
+            "icon": 3867,
+            "name": "Hammer of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20884,
+            "level": 20,
+            "icon": 3867,
+            "name": "Warhammer of the Arcane Valley",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20899,
+            "level": 22,
+            "icon": 3867,
+            "name": "Warhammer of the Forest Mystery",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20914,
+            "level": 24,
+            "icon": 3867,
+            "name": "Warhammer of the Blooming Island",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20929,
+            "level": 26,
+            "icon": 3867,
+            "name": "Warhammer of the Emerald Tower",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21024,
+            "level": 25,
+            "icon": 3254,
+            "name": "Maul of Great Ironclad",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21056,
+            "level": 26,
+            "icon": 1085,
+            "name": "Filth Warhammer",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21064,
+            "level": 26,
+            "icon": 1085,
+            "name": "Warhammer of Soulbreaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21072,
+            "level": 26,
+            "icon": 3399,
+            "name": "Warhammer of Cruel Demolisher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21351,
+            "level": 3,
+            "icon": 1085,
+            "name": "Plain Two-handed Mace",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21364,
+            "level": 5,
+            "icon": 1085,
+            "name": "Light Two-handed Mace",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21377,
+            "level": 7,
+            "icon": 1085,
+            "name": "Coarse Two-handed Mace",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21390,
+            "level": 9,
+            "icon": 1085,
+            "name": "Smooth Two-handed Mace",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21403,
+            "level": 11,
+            "icon": 1085,
+            "name": "Useful Two-handed Mace",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21440,
+            "level": 1,
+            "icon": 1085,
+            "name": "Novice's Warhammer",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21726,
+            "level": 6,
+            "icon": 4093,
+            "name": "Hammer of Deep Slumber",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21741,
+            "level": 10,
+            "icon": 4093,
+            "name": "Hammer of Somnolent Whispers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21756,
+            "level": 12,
+            "icon": 4093,
+            "name": "Hammer of Restless Dreaming",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21771,
+            "level": 14,
+            "icon": 4093,
+            "name": "Hammer of Black Oblivion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21786,
+            "level": 16,
+            "icon": 4093,
+            "name": "Hammer of Sinister Phantasms",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21801,
+            "level": 18,
+            "icon": 4093,
+            "name": "Hammer of Dreadful Delusion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21816,
+            "level": 20,
+            "icon": 4093,
+            "name": "Hammer of Nocturnal Terror",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21831,
+            "level": 22,
+            "icon": 4093,
+            "name": "Hammer of Incarnated Nightmares",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21846,
+            "level": 24,
+            "icon": 4093,
+            "name": "Hammer of Midnight Howl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21861,
+            "level": 26,
+            "icon": 4093,
+            "name": "Hammer of Suffocating Fear",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22813,
+            "level": 6,
+            "icon": 4339,
+            "name": "Hammer of the Kingdom of Daring",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22828,
+            "level": 10,
+            "icon": 4339,
+            "name": "Hammer of the Kingdom of Boldness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22843,
+            "level": 12,
+            "icon": 4339,
+            "name": "Hammer of the Kingdom of Devotion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22858,
+            "level": 14,
+            "icon": 4339,
+            "name": "Hammer of the Kingdom of Bravery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22873,
+            "level": 16,
+            "icon": 4339,
+            "name": "Hammer of the Kingdom of Magnanimity",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22888,
+            "level": 18,
+            "icon": 4339,
+            "name": "Hammer of the Kingdom of Nobleness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22903,
+            "level": 20,
+            "icon": 4339,
+            "name": "Hammer of the Kingdom of Justice",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22918,
+            "level": 22,
+            "icon": 4339,
+            "name": "Hammer of the Kingdom of Honor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22933,
+            "level": 24,
+            "icon": 4339,
+            "name": "Hammer of the Kingdom of Valor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22948,
+            "level": 26,
+            "icon": 4339,
+            "name": "Hammer of the Kingdom of Fearlessness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23486,
+            "level": 25,
+            "icon": 3389,
+            "name": "Hammer of Tree of the Seasons\u2019 Keepers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23555,
+            "level": 27,
+            "icon": 3620,
+            "name": "Hammer of Technopolis Guards",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23604,
+            "level": 27,
+            "icon": 3254,
+            "name": "Maul of the Arena Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24078,
+            "level": 28,
+            "icon": 4093,
+            "name": "Hammer of Impending Madness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24093,
+            "level": 28,
+            "icon": 3076,
+            "name": "Morgenstern of the Crazy King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24395,
+            "level": 28,
+            "icon": 3122,
+            "name": "Hammer of the Winter King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25025,
+            "level": 10,
+            "icon": 4747,
+            "name": "Royal Hammer of the Heath Meadow",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25041,
+            "level": 12,
+            "icon": 4747,
+            "name": "Royal Hammer of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25057,
+            "level": 14,
+            "icon": 4747,
+            "name": "Royal Hammer of the Spring Symphony",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25073,
+            "level": 16,
+            "icon": 4747,
+            "name": "Royal Hammer of the Happy Month",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25089,
+            "level": 18,
+            "icon": 4747,
+            "name": "Royal Hammer of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25105,
+            "level": 20,
+            "icon": 4747,
+            "name": "Royal Hammer of the Arcane Valley",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25121,
+            "level": 22,
+            "icon": 4747,
+            "name": "Royal Hammer of the Forest Mystery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25137,
+            "level": 24,
+            "icon": 4747,
+            "name": "Royal Hammer of the Blooming Island",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25153,
+            "level": 26,
+            "icon": 4747,
+            "name": "Royal Hammer of the Emerald Tower",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25169,
+            "level": 28,
+            "icon": 4747,
+            "name": "Royal Hammer of the Sun Fortress",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25185,
+            "level": 28,
+            "icon": 4339,
+            "name": "Hammer of the Kingdom of Courage",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25199,
+            "level": 28,
+            "icon": 3867,
+            "name": "Hammer of the Sun Fortress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 25281,
+            "level": 28,
+            "icon": 1085,
+            "name": "Hammer of Scarlet Dawn",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 25291,
+            "level": 28,
+            "icon": 1085,
+            "name": "Hammer of Purple Sky",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25301,
+            "level": 28,
+            "icon": 3399,
+            "name": "Hammer of the Bloody Radiance",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26286,
+            "level": 30,
+            "icon": 4890,
+            "name": "Hammer of Lord of the Seas",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26320,
+            "level": 29,
+            "icon": 4906,
+            "name": "Hammer of Sea Tramps",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26437,
+            "level": 30,
+            "icon": 1094,
+            "name": "Maul of Gentlemen of Fortune",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 26477,
+            "level": 29,
+            "icon": 1094,
+            "name": "Hammer of Sea Wolf",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 26490,
+            "level": 29,
+            "icon": 3254,
+            "name": "Maul of the Outstanding Gladiator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27112,
+            "level": 30,
+            "icon": 4093,
+            "name": "Hammer of Monster Curse",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27139,
+            "level": 30,
+            "icon": 3076,
+            "name": "Morgenstern of Merciless Torturer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27732,
+            "level": 6,
+            "icon": 5157,
+            "name": "Hammer of Piercing Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27747,
+            "level": 10,
+            "icon": 5157,
+            "name": "Hammer of Heavy Wind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27762,
+            "level": 12,
+            "icon": 5157,
+            "name": "Hammer of Frosty Darkness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27777,
+            "level": 14,
+            "icon": 5157,
+            "name": "Hammer of Freezing Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27792,
+            "level": 16,
+            "icon": 5157,
+            "name": "Hammer of Arctic Frost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27807,
+            "level": 18,
+            "icon": 5157,
+            "name": "Hammer of Fierce Blizzard",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27822,
+            "level": 20,
+            "icon": 5157,
+            "name": "Hammer of Northern Tornado",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27837,
+            "level": 22,
+            "icon": 5157,
+            "name": "Hammer of Furious Northern Wind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27852,
+            "level": 24,
+            "icon": 5157,
+            "name": "Hammer of Sweeping Whirlwind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27867,
+            "level": 26,
+            "icon": 5157,
+            "name": "Hammer of Violent Blizzard",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27882,
+            "level": 28,
+            "icon": 5157,
+            "name": "Hammer of Snow Storm",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27897,
+            "level": 30,
+            "icon": 5157,
+            "name": "Hammer of Ice Storm",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27914,
+            "level": 30,
+            "icon": 3122,
+            "name": "Hammer of the Lord of Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28854,
+            "level": 30,
+            "icon": 1085,
+            "name": "Hammer of Purification",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 28864,
+            "level": 30,
+            "icon": 1085,
+            "name": "Hammer of Enlightenment",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28873,
+            "level": 30,
+            "icon": 3399,
+            "name": "Hammer of Catharsis",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28989,
+            "level": 30,
+            "icon": 4747,
+            "name": "Royal Hammer of Enchanted Castle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29005,
+            "level": 30,
+            "icon": 4339,
+            "name": "Hammer of Kingdom of Fortitude",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29020,
+            "level": 30,
+            "icon": 3867,
+            "name": "Hammer of Enchanted Castle",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29701,
+            "level": 7,
+            "icon": 1079,
+            "name": "Hammer of Recruit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29708,
+            "level": 9,
+            "icon": 1079,
+            "name": "Ancient Maul",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29716,
+            "level": 11,
+            "icon": 1079,
+            "name": "Hammer of Mercenary",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29877,
+            "level": 26,
+            "icon": 1085,
+            "name": "Filth Maul",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29878,
+            "level": 26,
+            "icon": 1085,
+            "name": "Maul of Soulbreaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29879,
+            "level": 26,
+            "icon": 3399,
+            "name": "Maul of Cruel Demolisher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29880,
+            "level": 24,
+            "icon": 1085,
+            "name": "Rune Maul",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29881,
+            "level": 24,
+            "icon": 1085,
+            "name": "Maul of Liberator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29882,
+            "level": 24,
+            "icon": 3399,
+            "name": "Maul of Legendary Defender",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29883,
+            "level": 22,
+            "icon": 1085,
+            "name": "Horrifying Maul",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29884,
+            "level": 22,
+            "icon": 1085,
+            "name": "All-Destroying Maul",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29885,
+            "level": 22,
+            "icon": 3399,
+            "name": "Maul of Death Herald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29886,
+            "level": 20,
+            "icon": 1085,
+            "name": "Ash Maul",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29887,
+            "level": 20,
+            "icon": 1085,
+            "name": "Maul of Deep Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29888,
+            "level": 20,
+            "icon": 3399,
+            "name": "Maul of the Depth Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29889,
+            "level": 18,
+            "icon": 1085,
+            "name": "Hewing Maul",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29890,
+            "level": 18,
+            "icon": 1088,
+            "name": "Maul of Sudden Doom",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29891,
+            "level": 18,
+            "icon": 3399,
+            "name": "Maul of Dead Silence",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29892,
+            "level": 16,
+            "icon": 1085,
+            "name": "Sparkling Maul",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29893,
+            "level": 16,
+            "icon": 1085,
+            "name": "Maul of Frozen Fire",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29894,
+            "level": 16,
+            "icon": 3399,
+            "name": "Maul of Chilled Flame",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29895,
+            "level": 14,
+            "icon": 1085,
+            "name": "Notched Maul",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29896,
+            "level": 14,
+            "icon": 1085,
+            "name": "Hammer of Northern Chieftains",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29897,
+            "level": 14,
+            "icon": 3399,
+            "name": "Hammer of Northern Lords",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29898,
+            "level": 12,
+            "icon": 1085,
+            "name": "Well-tried Maul",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29899,
+            "level": 12,
+            "icon": 1085,
+            "name": "Hammer of Full Moon",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29900,
+            "level": 12,
+            "icon": 3399,
+            "name": "Hammer of Lunar Sickle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29901,
+            "level": 10,
+            "icon": 1085,
+            "name": "Molten Maul",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29902,
+            "level": 10,
+            "icon": 1085,
+            "name": "Enchanted Hammer of the Ent",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29903,
+            "level": 10,
+            "icon": 3399,
+            "name": "Amplified Hammer of the Ent",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29904,
+            "level": 13,
+            "icon": 1085,
+            "name": "Marvelous Maul",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29905,
+            "level": 15,
+            "icon": 1085,
+            "name": "Heavenly Hammer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29906,
+            "level": 19,
+            "icon": 1094,
+            "name": "Berengar's Hammer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29908,
+            "level": 20,
+            "icon": 1085,
+            "name": "Hammer of Damned Pilgrims",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29910,
+            "level": 21,
+            "icon": 1085,
+            "name": "Enchanted Hammer of the Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29911,
+            "level": 23,
+            "icon": 3389,
+            "name": "Battle Maul of Devastation",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29913,
+            "level": 25,
+            "icon": 3389,
+            "name": "Maul of Tree of the Seasons\u2019 Keepers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29914,
+            "level": 27,
+            "icon": 3620,
+            "name": "Maul of Technopolis Guards",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29915,
+            "level": 29,
+            "icon": 4906,
+            "name": "Maul of Sea Tramps",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29916,
+            "level": 12,
+            "icon": 1085,
+            "name": "Excellent Hammer",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29918,
+            "level": 15,
+            "icon": 1091,
+            "name": "Holy Hammer",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29919,
+            "level": 17,
+            "icon": 1085,
+            "name": "Maul of Abyss Zealot",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29920,
+            "level": 22,
+            "icon": 1094,
+            "name": "Hammer of Northern Courage",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29921,
+            "level": 29,
+            "icon": 1094,
+            "name": "Maul of Sea Wolf",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 30244,
+            "level": 6,
+            "icon": 3076,
+            "name": "Mace of the Blind Outlaw",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30247,
+            "level": 10,
+            "icon": 3076,
+            "name": "Hammer of Still Heart",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30250,
+            "level": 12,
+            "icon": 3076,
+            "name": "Hammer of the Unsleeping Predator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30253,
+            "level": 14,
+            "icon": 3076,
+            "name": "Hammer of Fatal Mistake",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30256,
+            "level": 16,
+            "icon": 3076,
+            "name": "Hammer of Sinful Call",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30259,
+            "level": 18,
+            "icon": 3076,
+            "name": "Hammer of Deadly Game",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30262,
+            "level": 20,
+            "icon": 3076,
+            "name": "Hammer of the Damned Heir",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30265,
+            "level": 22,
+            "icon": 3076,
+            "name": "Hammer of the Distracted Apostate",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30267,
+            "level": 24,
+            "icon": 3076,
+            "name": "Hammer of the Night Visitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30269,
+            "level": 26,
+            "icon": 3076,
+            "name": "Hammer of the Bloody Earl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30271,
+            "level": 28,
+            "icon": 3076,
+            "name": "Hammer of the Crazy King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 30273,
+            "level": 30,
+            "icon": 3076,
+            "name": "Hammer of Merciless Torturer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31023,
+            "level": 6,
+            "icon": 3122,
+            "name": "Morgenstern of Cold-Bearing Spirit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31026,
+            "level": 10,
+            "icon": 3122,
+            "name": "Morgenstern of the Tribe Leader",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31029,
+            "level": 12,
+            "icon": 3122,
+            "name": "Morgenstern of the Frozen Master",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31032,
+            "level": 14,
+            "icon": 3122,
+            "name": "Morgenstern of the Toothy Hunter",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31035,
+            "level": 16,
+            "icon": 3122,
+            "name": "Morgenstern of the Rune Scald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31038,
+            "level": 18,
+            "icon": 3122,
+            "name": "Morgenstern of the Immortal Wanderer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31041,
+            "level": 20,
+            "icon": 3122,
+            "name": "Morgenstern of the Snow Lady",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31044,
+            "level": 22,
+            "icon": 3122,
+            "name": "Morgenstern of Permafrost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31047,
+            "level": 24,
+            "icon": 3122,
+            "name": "Morgenstern of the Ice Prince",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31050,
+            "level": 26,
+            "icon": 3122,
+            "name": "Morgenstern of the Descendant of the Titans",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31053,
+            "level": 28,
+            "icon": 3122,
+            "name": "Morgenstern of the Winter King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31056,
+            "level": 30,
+            "icon": 3122,
+            "name": "Morgenstern of the Lord of Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31780,
+            "level": 10,
+            "icon": 4747,
+            "name": "Royal Morgenstern of the Heath Meadow",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31782,
+            "level": 12,
+            "icon": 4747,
+            "name": "Royal Morgenstern of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31784,
+            "level": 14,
+            "icon": 4747,
+            "name": "Royal Morgenstern of the Spring Symphony",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31786,
+            "level": 16,
+            "icon": 4747,
+            "name": "Royal Morgenstern of the Happy Month",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31788,
+            "level": 18,
+            "icon": 4747,
+            "name": "Royal Morgenstern of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31795,
+            "level": 20,
+            "icon": 4747,
+            "name": "Royal Morgenstern of the Arcane Valley",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31797,
+            "level": 22,
+            "icon": 4747,
+            "name": "Royal Morgenstern of the Forest Mystery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31799,
+            "level": 24,
+            "icon": 4747,
+            "name": "Royal Morgenstern of the Blooming Island",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31801,
+            "level": 26,
+            "icon": 4747,
+            "name": "Royal Morgenstern of the Emerald Tower",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31803,
+            "level": 28,
+            "icon": 4747,
+            "name": "Royal Morgenstern of the Sun Fortress",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31805,
+            "level": 30,
+            "icon": 4747,
+            "name": "Royal Morgenstern of Enchanted Castle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31806,
+            "level": 6,
+            "icon": 4339,
+            "name": "Morgenstern of the Kingdom of Daring",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31807,
+            "level": 10,
+            "icon": 4339,
+            "name": "Morgenstern of the Kingdom of Boldness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31808,
+            "level": 12,
+            "icon": 4339,
+            "name": "Morgenstern of the Kingdom of Devotion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31809,
+            "level": 14,
+            "icon": 4339,
+            "name": "Morgenstern of the Kingdom of Bravery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31810,
+            "level": 16,
+            "icon": 4339,
+            "name": "Morgenstern of the Kingdom of Magnanimity",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31811,
+            "level": 18,
+            "icon": 4339,
+            "name": "Morgenstern of the Kingdom of Nobleness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31812,
+            "level": 20,
+            "icon": 4339,
+            "name": "Morgenstern of the Kingdom of Justice",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31813,
+            "level": 22,
+            "icon": 4339,
+            "name": "Morgenstern of the Kingdom of Honor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31814,
+            "level": 24,
+            "icon": 4339,
+            "name": "Morgenstern of the Kingdom of Valor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31815,
+            "level": 26,
+            "icon": 4339,
+            "name": "Morgenstern of the Kingdom of Fearlessness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31816,
+            "level": 28,
+            "icon": 4339,
+            "name": "Morgenstern of the Kingdom of Courage",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31817,
+            "level": 30,
+            "icon": 4339,
+            "name": "Morgenstern of Kingdom of Fortitude",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31819,
+            "level": 6,
+            "icon": 3867,
+            "name": "Morgenstern of the Green Hill",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 31821,
+            "level": 10,
+            "icon": 3867,
+            "name": "Morgenstern of the Heath Meadow",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 31823,
+            "level": 12,
+            "icon": 3867,
+            "name": "Morgenstern of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 31825,
+            "level": 14,
+            "icon": 3867,
+            "name": "Morgenstern of the Spring Symphony",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 31827,
+            "level": 16,
+            "icon": 3867,
+            "name": "Morgenstern of the Happy Month",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 31829,
+            "level": 18,
+            "icon": 3867,
+            "name": "Morgenstern of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 31831,
+            "level": 20,
+            "icon": 3867,
+            "name": "Morgenstern of the Arcane Valley",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 31833,
+            "level": 22,
+            "icon": 3867,
+            "name": "Morgenstern of the Forest Mystery",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 31835,
+            "level": 24,
+            "icon": 3867,
+            "name": "Morgenstern of the Blooming Island",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 31837,
+            "level": 26,
+            "icon": 3867,
+            "name": "Morgenstern of the Emerald Tower",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 31839,
+            "level": 28,
+            "icon": 3867,
+            "name": "Morgenstern of the Sun Fortress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 31841,
+            "level": 30,
+            "icon": 3867,
+            "name": "Morgenstern of Enchanted Castle",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 33122,
+            "level": 32,
+            "icon": 4093,
+            "name": "Hammer of Emanating Madness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33139,
+            "level": 32,
+            "icon": 3076,
+            "name": "Morgenstern of Bloodthirsty Inquisitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33140,
+            "level": 32,
+            "icon": 3076,
+            "name": "Hammer of Bloodthirsty Inquisitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33636,
+            "level": 32,
+            "icon": 5157,
+            "name": "Hammer of the Unbridled Hurricane",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33665,
+            "level": 32,
+            "icon": 3122,
+            "name": "Hammer of the Northern Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33666,
+            "level": 32,
+            "icon": 3122,
+            "name": "Morgenstern of the Northern Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34424,
+            "level": 32,
+            "icon": 1085,
+            "name": "Hammer of Progress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34438,
+            "level": 32,
+            "icon": 1085,
+            "name": "Hammer of Development",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34451,
+            "level": 32,
+            "icon": 3399,
+            "name": "Hammer of Metamorphosis",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34532,
+            "level": 32,
+            "icon": 4339,
+            "name": "Hammer of the Kingdom of Indestructibility",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34533,
+            "level": 32,
+            "icon": 4339,
+            "name": "Morgenstern of the Kingdom of Indestructibility",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34561,
+            "level": 32,
+            "icon": 4747,
+            "name": "Royal Hammer of the Magic Bastion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34562,
+            "level": 32,
+            "icon": 4747,
+            "name": "Royal Morgenstern of the Magic Bastion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34579,
+            "level": 32,
+            "icon": 3867,
+            "name": "Hammer of the Magic Bastion",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34580,
+            "level": 32,
+            "icon": 3867,
+            "name": "Morgenstern of the Magic Bastion",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34907,
+            "level": 31,
+            "icon": 3254,
+            "name": "Maul of the Greatest Secutor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 35265,
+            "level": 31,
+            "icon": 4906,
+            "name": "Hammer of the Pirate Brotherhood",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 35266,
+            "level": 31,
+            "icon": 4906,
+            "name": "Sledgehammer of the Pirate Brotherhood",
+            "itemType": 0,
+            "color": 3
+        }
+    ]
+}

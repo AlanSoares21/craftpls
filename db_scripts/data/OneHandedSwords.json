@@ -1,0 +1,1644 @@
+{
+    "list": [
+        {
+            "id": 672,
+            "level": 1,
+            "icon": 1411,
+            "name": "Plain Sword",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 867,
+            "level": 2,
+            "icon": 1403,
+            "name": "Rusty Sword",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 899,
+            "level": 3,
+            "icon": 1401,
+            "name": "Cheap Sword",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 935,
+            "level": 7,
+            "icon": 1405,
+            "name": "Sword of Militiaman",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 993,
+            "level": 10,
+            "icon": 1401,
+            "name": "High-quality Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 1045,
+            "level": 9,
+            "icon": 1408,
+            "name": "Sword of Hunter",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2051,
+            "level": 12,
+            "icon": 1411,
+            "name": "Acute Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 2052,
+            "level": 12,
+            "icon": 1405,
+            "name": "Acute Broadsword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 2120,
+            "level": 13,
+            "icon": 1417,
+            "name": "Acute Falchion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2121,
+            "level": 13,
+            "icon": 1417,
+            "name": "Acute Gladius",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2156,
+            "level": 13,
+            "icon": 1414,
+            "name": "Tested Sword",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 2206,
+            "level": 14,
+            "icon": 1405,
+            "name": "Tested Broadsword",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 2282,
+            "level": 15,
+            "icon": 1408,
+            "name": "Tested Gladius",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 2336,
+            "level": 15,
+            "icon": 1411,
+            "name": "Tested Blade",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2361,
+            "level": 15,
+            "icon": 1401,
+            "name": "Acute Flamberge",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2362,
+            "level": 15,
+            "icon": 1411,
+            "name": "Acute Blade",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2801,
+            "level": 15,
+            "icon": 1401,
+            "name": "Nagibator's sword",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 5188,
+            "level": 1,
+            "icon": 1411,
+            "name": "Novice's Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 5811,
+            "level": 9,
+            "icon": 1401,
+            "name": "Sharpened Battle Sword",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 6434,
+            "level": 17,
+            "icon": 1411,
+            "name": "Gladius of Abyss Zealot",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 6500,
+            "level": 18,
+            "icon": 1423,
+            "name": "Blade of Sudden Doom",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 8477,
+            "level": 1,
+            "icon": 1420,
+            "name": "Novice's Sacrificial Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 10656,
+            "level": 5,
+            "icon": 2655,
+            "name": "Wolverine Claws",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 10670,
+            "level": 10,
+            "icon": 2655,
+            "name": "Wolverine Claws",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 10671,
+            "level": 15,
+            "icon": 2655,
+            "name": "Wolverine Claws",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 11140,
+            "level": 17,
+            "icon": 1414,
+            "name": "Scout Gladius",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 11223,
+            "level": 16,
+            "icon": 1411,
+            "name": "Freezing Falchion",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13152,
+            "level": 4,
+            "icon": 1405,
+            "name": "Vampire's Blade",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13169,
+            "level": 11,
+            "icon": 1405,
+            "name": "Witch's Falchion",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13197,
+            "level": 18,
+            "icon": 1405,
+            "name": "Night Prince's Gladius",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 13793,
+            "level": 13,
+            "icon": 1411,
+            "name": "Stormbreaker's Falchion",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14102,
+            "level": 19,
+            "icon": 1405,
+            "name": "Gladius of Endless War",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 14394,
+            "level": 11,
+            "icon": 1401,
+            "name": "Granite Blade",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14408,
+            "level": 19,
+            "icon": 1408,
+            "name": "Crushing Gladius",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14419,
+            "level": 14,
+            "icon": 1405,
+            "name": "Notched Blade",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14421,
+            "level": 16,
+            "icon": 1411,
+            "name": "Flickering Blade",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14438,
+            "level": 19,
+            "icon": 1405,
+            "name": "Hewing Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14455,
+            "level": 20,
+            "icon": 1411,
+            "name": "Gladius of Deep Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 14862,
+            "level": 19,
+            "icon": 1405,
+            "name": "Berengar's Gladius",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15004,
+            "level": 19,
+            "icon": 1405,
+            "name": "Provocator's Gladius",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15094,
+            "level": 20,
+            "icon": 1405,
+            "name": "Sword of Damned Pilgrims",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15124,
+            "level": 21,
+            "icon": 1417,
+            "name": "Desecrate Sword",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 15321,
+            "level": 21,
+            "icon": 1411,
+            "name": "Enchanted Estoc of the Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15334,
+            "level": 22,
+            "icon": 1405,
+            "name": "Pontifices' Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 15346,
+            "level": 23,
+            "icon": 1401,
+            "name": "Soulless Saint's Estoc",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 15839,
+            "level": 4,
+            "icon": 3082,
+            "name": "Midnight Hunter's Gladius",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15851,
+            "level": 7,
+            "icon": 3082,
+            "name": "Silent Maniac's Gladius",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15863,
+            "level": 10,
+            "icon": 3082,
+            "name": "Gladius of Still Heart",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15875,
+            "level": 13,
+            "icon": 3082,
+            "name": "Gladius of Faceless Nightmare",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15887,
+            "level": 16,
+            "icon": 3082,
+            "name": "Gladius of Sinful Call",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15899,
+            "level": 19,
+            "icon": 3082,
+            "name": "Gladius of Immortal Recluse",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15911,
+            "level": 21,
+            "icon": 3082,
+            "name": "Gladius of Overwhelming Fury",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16120,
+            "level": 5,
+            "icon": 3130,
+            "name": "Falchion of the Holiday Thief",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16133,
+            "level": 8,
+            "icon": 3130,
+            "name": "Falchion of Oath-breaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16148,
+            "level": 11,
+            "icon": 3130,
+            "name": "Falchion of Braincrasher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16161,
+            "level": 14,
+            "icon": 3130,
+            "name": "Falchion of Toothy Hunter",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16174,
+            "level": 17,
+            "icon": 3130,
+            "name": "Falchion of Northern Whirl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16187,
+            "level": 20,
+            "icon": 3130,
+            "name": "Falchion of the Snow Lady",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16200,
+            "level": 22,
+            "icon": 3130,
+            "name": "Falchion of Permafrost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16904,
+            "level": 21,
+            "icon": 3249,
+            "name": "Crusher's Gladius",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16969,
+            "level": 22,
+            "icon": 1411,
+            "name": "Gladius of Northern courage",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17108,
+            "level": 12,
+            "icon": 1405,
+            "name": "Well-tried Blade",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17109,
+            "level": 10,
+            "icon": 1401,
+            "name": "Serrated Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17127,
+            "level": 18,
+            "icon": 1411,
+            "name": "Hewing Blade",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17128,
+            "level": 20,
+            "icon": 1411,
+            "name": "Ashen Blade",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17144,
+            "level": 10,
+            "icon": 1401,
+            "name": "Enchanted Falchion of the Ent",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17145,
+            "level": 12,
+            "icon": 1401,
+            "name": "Gladius of Full Moon",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17146,
+            "level": 14,
+            "icon": 1401,
+            "name": "Blade of Northern Chieftains",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17147,
+            "level": 16,
+            "icon": 1405,
+            "name": "Gladius of Frozen Fire",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17169,
+            "level": 10,
+            "icon": 3405,
+            "name": "Amplified Falchion of the Ent",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17177,
+            "level": 12,
+            "icon": 3405,
+            "name": "Gladius of Lunar Sickle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17185,
+            "level": 14,
+            "icon": 3405,
+            "name": "Blade of Northern Lords",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17193,
+            "level": 16,
+            "icon": 3405,
+            "name": "Gladius of Chilled Flame",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17201,
+            "level": 18,
+            "icon": 3405,
+            "name": "Blade of Dead Silence",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17209,
+            "level": 20,
+            "icon": 3405,
+            "name": "Gladius of the Depth Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17300,
+            "level": 22,
+            "icon": 1408,
+            "name": "Horrifying Blade",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17304,
+            "level": 22,
+            "icon": 1411,
+            "name": "All-Destroying Blade",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17312,
+            "level": 22,
+            "icon": 3405,
+            "name": "Gladius of Death Herald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17568,
+            "level": 23,
+            "icon": 3384,
+            "name": "Battle Blade of Devastation",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17941,
+            "level": 5,
+            "icon": 3082,
+            "name": "Night Puppeteer's Gladius",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17953,
+            "level": 14,
+            "icon": 3082,
+            "name": "Gladius of Fatal Mistake",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17965,
+            "level": 18,
+            "icon": 3082,
+            "name": "Gladius of Deadly Game",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17977,
+            "level": 23,
+            "icon": 3082,
+            "name": "Killer Puppet's Gladius",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18276,
+            "level": 10,
+            "icon": 3130,
+            "name": "Falchion of the Tribe Leader",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18290,
+            "level": 18,
+            "icon": 3130,
+            "name": "Falchion of the Immortal Wanderer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18303,
+            "level": 23,
+            "icon": 3130,
+            "name": "Bound Conqueror's Falchion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18880,
+            "level": 23,
+            "icon": 3249,
+            "name": "Gladius of the Assassin",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18902,
+            "level": 13,
+            "icon": 1401,
+            "name": "Gladius of Young Gladiator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19026,
+            "level": 24,
+            "icon": 1408,
+            "name": "Rune blade",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 19034,
+            "level": 24,
+            "icon": 1411,
+            "name": "Blade of Liberator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19042,
+            "level": 24,
+            "icon": 3405,
+            "name": "Blade of Legendary Defender",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19267,
+            "level": 25,
+            "icon": 3626,
+            "name": "Technocrat's Gladius",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19280,
+            "level": 25,
+            "icon": 1405,
+            "name": "Gladius of Revival",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 19960,
+            "level": 6,
+            "icon": 3082,
+            "name": "Gladius of the Blind Outlaw",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19985,
+            "level": 12,
+            "icon": 3082,
+            "name": "Gladius of the Unsleeping Predator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20023,
+            "level": 20,
+            "icon": 3082,
+            "name": "Gladius of the Damned Heir",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20036,
+            "level": 22,
+            "icon": 3082,
+            "name": "Gladius of the Distracted Apostate",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20049,
+            "level": 24,
+            "icon": 3082,
+            "name": "Gladius of the Night Visitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20074,
+            "level": 26,
+            "icon": 3082,
+            "name": "Gladius of the Bloody Earl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20269,
+            "level": 6,
+            "icon": 3130,
+            "name": "Falchion of Cold-Bearing Spirit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20290,
+            "level": 12,
+            "icon": 3130,
+            "name": "Falchion of the Frozen Master",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20311,
+            "level": 16,
+            "icon": 3130,
+            "name": "Falchion of the Rune Scald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20344,
+            "level": 24,
+            "icon": 3130,
+            "name": "Falchion of the Ice Prince",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20359,
+            "level": 26,
+            "icon": 3130,
+            "name": "Falchion of the Descendant of the Titans",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20784,
+            "level": 6,
+            "icon": 3864,
+            "name": "Blade of the Green Hill",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20799,
+            "level": 10,
+            "icon": 3864,
+            "name": "Blade of the Heath Meadow",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20814,
+            "level": 12,
+            "icon": 3864,
+            "name": "Blade of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20829,
+            "level": 14,
+            "icon": 3864,
+            "name": "Blade of the Spring Symphony",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20849,
+            "level": 16,
+            "icon": 3864,
+            "name": "Blade of the Happy Month",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20864,
+            "level": 18,
+            "icon": 3864,
+            "name": "Blade of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20879,
+            "level": 20,
+            "icon": 3864,
+            "name": "Blade of the Arcane Valley",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20894,
+            "level": 22,
+            "icon": 3864,
+            "name": "Blade of the Forest Mystery",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20909,
+            "level": 24,
+            "icon": 3864,
+            "name": "Blade of the Blooming Island",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20924,
+            "level": 26,
+            "icon": 3864,
+            "name": "Blade of the Emerald Tower",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21019,
+            "level": 25,
+            "icon": 3249,
+            "name": "Elusive Killer's Gladius",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21057,
+            "level": 26,
+            "icon": 1408,
+            "name": "Filth Blade",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21065,
+            "level": 26,
+            "icon": 1411,
+            "name": "Blade of Soulbreaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21073,
+            "level": 26,
+            "icon": 3405,
+            "name": "Blade of Cruel Demolisher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21345,
+            "level": 3,
+            "icon": 1401,
+            "name": "Plain Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21358,
+            "level": 5,
+            "icon": 1401,
+            "name": "Light Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21371,
+            "level": 7,
+            "icon": 1401,
+            "name": "Coarse Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21384,
+            "level": 9,
+            "icon": 1401,
+            "name": "Smooth Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21397,
+            "level": 11,
+            "icon": 1401,
+            "name": "Useful Sword",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21720,
+            "level": 6,
+            "icon": 4090,
+            "name": "Blade of Deep Slumber",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21735,
+            "level": 10,
+            "icon": 4090,
+            "name": "Blade of Somnolent Whispers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21750,
+            "level": 12,
+            "icon": 4090,
+            "name": "Blade of Restless Dreaming",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21765,
+            "level": 14,
+            "icon": 4090,
+            "name": "Blade of Black Oblivion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21780,
+            "level": 16,
+            "icon": 4090,
+            "name": "Blade of Sinister Phantasms",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21795,
+            "level": 18,
+            "icon": 4090,
+            "name": "Blade of Dreadful Delusion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21810,
+            "level": 20,
+            "icon": 4090,
+            "name": "Blade of Nocturnal Terror",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21825,
+            "level": 22,
+            "icon": 4090,
+            "name": "Blade of Incarnated Nightmares",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21840,
+            "level": 24,
+            "icon": 4090,
+            "name": "Blade of Midnight Howl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21855,
+            "level": 26,
+            "icon": 4090,
+            "name": "Blade of Suffocating Fear",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22807,
+            "level": 6,
+            "icon": 4337,
+            "name": "Blade of the Kingdom of Daring",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22822,
+            "level": 10,
+            "icon": 4337,
+            "name": "Blade of the Kingdom of Boldness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22837,
+            "level": 12,
+            "icon": 4337,
+            "name": "Blade of the Kingdom of Devotion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22852,
+            "level": 14,
+            "icon": 4337,
+            "name": "Blade of the Kingdom of Bravery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22867,
+            "level": 16,
+            "icon": 4337,
+            "name": "Blade of the Kingdom of Magnanimity",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22882,
+            "level": 18,
+            "icon": 4337,
+            "name": "Blade of the Kingdom of Nobleness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22897,
+            "level": 20,
+            "icon": 4337,
+            "name": "Blade of the Kingdom of Justice",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22912,
+            "level": 22,
+            "icon": 4337,
+            "name": "Blade of the Kingdom of Honor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22927,
+            "level": 24,
+            "icon": 4337,
+            "name": "Blade of the Kingdom of Valor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22942,
+            "level": 26,
+            "icon": 4337,
+            "name": "Blade of the Kingdom of Fearlessness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23480,
+            "level": 25,
+            "icon": 3384,
+            "name": "Blade of Tree of the Seasons\u2019 Keepers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23549,
+            "level": 27,
+            "icon": 3626,
+            "name": "Blade of Technopolis Guards",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23598,
+            "level": 27,
+            "icon": 3249,
+            "name": "Gladius of the Arena Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24072,
+            "level": 28,
+            "icon": 4090,
+            "name": "Blade of Impending Madness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24087,
+            "level": 28,
+            "icon": 3082,
+            "name": "Gladius of the Crazy King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24389,
+            "level": 28,
+            "icon": 3130,
+            "name": "Falchion of the Winter King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25019,
+            "level": 10,
+            "icon": 4754,
+            "name": "Royal Blade of the Heath Meadow",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25035,
+            "level": 12,
+            "icon": 4754,
+            "name": "Royal Blade of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25051,
+            "level": 14,
+            "icon": 4754,
+            "name": "Royal Blade of the Spring Symphony",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25067,
+            "level": 16,
+            "icon": 4754,
+            "name": "Royal Blade of the Happy Month",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25083,
+            "level": 18,
+            "icon": 4754,
+            "name": "Royal Blade of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25099,
+            "level": 20,
+            "icon": 4754,
+            "name": "Royal Blade of the Arcane Valley",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25115,
+            "level": 22,
+            "icon": 4754,
+            "name": "Royal Blade of the Forest Mystery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25131,
+            "level": 24,
+            "icon": 4754,
+            "name": "Royal Blade of the Blooming Island",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25147,
+            "level": 26,
+            "icon": 4754,
+            "name": "Royal Blade of the Emerald Tower",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25163,
+            "level": 28,
+            "icon": 4754,
+            "name": "Royal Blade of the Sun Fortress",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25179,
+            "level": 28,
+            "icon": 4337,
+            "name": "Blade of the Kingdom of Courage",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25194,
+            "level": 28,
+            "icon": 3864,
+            "name": "Blade of the Sun Fortress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 25275,
+            "level": 28,
+            "icon": 1408,
+            "name": "Blade of Scarlet Dawn",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 25285,
+            "level": 28,
+            "icon": 1411,
+            "name": "Blade of Purple Sky",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25295,
+            "level": 28,
+            "icon": 3405,
+            "name": "Blade of the Bloody Radiance",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26280,
+            "level": 30,
+            "icon": 4905,
+            "name": "Blade of Lord of the Seas",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26314,
+            "level": 29,
+            "icon": 4904,
+            "name": "Blade of Sea Tramps",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26431,
+            "level": 30,
+            "icon": 1411,
+            "name": "Gladius of Gentlemen of Fortune",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 26471,
+            "level": 29,
+            "icon": 1405,
+            "name": "Blade of Sea Wolf",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 26484,
+            "level": 29,
+            "icon": 3249,
+            "name": "Gladius of the Outstanding Gladiator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27106,
+            "level": 30,
+            "icon": 4090,
+            "name": "Blade of Monster Curse",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27133,
+            "level": 30,
+            "icon": 3082,
+            "name": "Gladius of Merciless Torturer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27726,
+            "level": 6,
+            "icon": 5163,
+            "name": "Blade of Piercing Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27741,
+            "level": 10,
+            "icon": 5163,
+            "name": "Blade of Heavy Wind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27756,
+            "level": 12,
+            "icon": 5163,
+            "name": "Blade of Frosty Darkness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27771,
+            "level": 14,
+            "icon": 5163,
+            "name": "Blade of Freezing Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27786,
+            "level": 16,
+            "icon": 5163,
+            "name": "Blade of Arctic Frost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27801,
+            "level": 18,
+            "icon": 5163,
+            "name": "Blade of Fierce Blizzard",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27816,
+            "level": 20,
+            "icon": 5163,
+            "name": "Blade of Northern Tornado",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27831,
+            "level": 22,
+            "icon": 5163,
+            "name": "Blade of Furious Northern Wind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27846,
+            "level": 24,
+            "icon": 5163,
+            "name": "Blade of Sweeping Whirlwind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27861,
+            "level": 26,
+            "icon": 5163,
+            "name": "Blade of Violent Blizzard",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27876,
+            "level": 28,
+            "icon": 5163,
+            "name": "Blade of Snow Storm",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27891,
+            "level": 30,
+            "icon": 5163,
+            "name": "Blade of Ice Storm",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27908,
+            "level": 30,
+            "icon": 3130,
+            "name": "Falchion of the Lord of Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28848,
+            "level": 30,
+            "icon": 1408,
+            "name": "Blade of Purification",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 28858,
+            "level": 30,
+            "icon": 1411,
+            "name": "Blade of Enlightenment",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28868,
+            "level": 30,
+            "icon": 3405,
+            "name": "Blade of Catharsis",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28984,
+            "level": 30,
+            "icon": 4754,
+            "name": "Royal Blade of Enchanted Castle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28999,
+            "level": 30,
+            "icon": 4337,
+            "name": "Blade of Kingdom of Fortitude",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29014,
+            "level": 30,
+            "icon": 3864,
+            "name": "Blade of Enchanted Castle",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29689,
+            "level": 7,
+            "icon": 1408,
+            "name": "Blade of Recruit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29710,
+            "level": 11,
+            "icon": 1408,
+            "name": "Blade of Mercenary",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33116,
+            "level": 32,
+            "icon": 4090,
+            "name": "Blade of Emanating Madness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33132,
+            "level": 32,
+            "icon": 3082,
+            "name": "Gladius of Bloodthirsty Inquisitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33629,
+            "level": 32,
+            "icon": 5163,
+            "name": "Blade of the Unbridled Hurricane",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33658,
+            "level": 32,
+            "icon": 3130,
+            "name": "Falchion of the Northern Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34418,
+            "level": 32,
+            "icon": 1408,
+            "name": "Blade of Progress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34432,
+            "level": 32,
+            "icon": 1411,
+            "name": "Blade of Development",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34446,
+            "level": 32,
+            "icon": 3405,
+            "name": "Blade of Metamorphosis",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34525,
+            "level": 32,
+            "icon": 4337,
+            "name": "Blade of the Kingdom of Indestructibility",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34554,
+            "level": 32,
+            "icon": 4754,
+            "name": "Royal Blade of the Magic Bastion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34572,
+            "level": 32,
+            "icon": 3864,
+            "name": "Blade of the Magic Bastion",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34901,
+            "level": 31,
+            "icon": 3249,
+            "name": "Gladius of the Greatest Secutor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 35259,
+            "level": 31,
+            "icon": 4904,
+            "name": "Blade of the Pirate Brotherhood",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 35729,
+            "level": 1,
+            "icon": 1420,
+            "name": "Novice's Sword",
+            "itemType": 0,
+            "color": 2
+        }
+    ]
+}

@@ -1,0 +1,2852 @@
+{
+    "list": [
+        {
+            "id": 847,
+            "level": 2,
+            "icon": 1352,
+            "name": "Tarnished Headband",
+            "itemType": 5,
+            "color": 0
+        },
+        {
+            "id": 873,
+            "level": 5,
+            "icon": 1316,
+            "name": "Plain Hood",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 915,
+            "level": 7,
+            "icon": 1313,
+            "name": "Durable Hood",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 973,
+            "level": 9,
+            "icon": 1355,
+            "name": "Hood of Neophyte",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 1025,
+            "level": 9,
+            "icon": 1316,
+            "name": "Master's Hood",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 2004,
+            "level": 12,
+            "icon": 1319,
+            "name": "Mighty Cowl",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 2005,
+            "level": 12,
+            "icon": 1316,
+            "name": "Mighty Hood",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 2061,
+            "level": 13,
+            "icon": 1322,
+            "name": "Mighty Hat",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 2062,
+            "level": 13,
+            "icon": 1325,
+            "name": "Light Cowl",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 2130,
+            "level": 14,
+            "icon": 1325,
+            "name": "Elegant Hood",
+            "itemType": 5,
+            "color": 0
+        },
+        {
+            "id": 2164,
+            "level": 12,
+            "icon": 1322,
+            "name": "Elegant Cowl",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 2165,
+            "level": 15,
+            "icon": 1316,
+            "name": "Elegant Hat",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 2210,
+            "level": 15,
+            "icon": 1349,
+            "name": "Decorated Cowl",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 2290,
+            "level": 15,
+            "icon": 1337,
+            "name": "Diadem of Berengar's light",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 2291,
+            "level": 15,
+            "icon": 1313,
+            "name": "Hood of Berengar's Fury",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 2346,
+            "level": 15,
+            "icon": 1876,
+            "name": "Sorcerer's Circlet",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3975,
+            "level": 16,
+            "icon": 1352,
+            "name": "Blue Diadem of Wizard",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3976,
+            "level": 16,
+            "icon": 1355,
+            "name": "Green Diadem of Wizard",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3977,
+            "level": 16,
+            "icon": 1352,
+            "name": "Violet Diadem of Wizard",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3978,
+            "level": 16,
+            "icon": 1355,
+            "name": "Red Diadem of Wizard",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3979,
+            "level": 16,
+            "icon": 1355,
+            "name": "Orange Diadem of Wizard",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3980,
+            "level": 16,
+            "icon": 1313,
+            "name": "Blue Hood of Druid",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3981,
+            "level": 16,
+            "icon": 1316,
+            "name": "Green Hood of Druid",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3982,
+            "level": 16,
+            "icon": 1325,
+            "name": "Violet Hood of Druid",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3983,
+            "level": 16,
+            "icon": 1325,
+            "name": "Red Hood of Druid",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3984,
+            "level": 16,
+            "icon": 1322,
+            "name": "Orange Hood of Druid",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3985,
+            "level": 16,
+            "icon": 1313,
+            "name": "Blue Hood of Priest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3986,
+            "level": 16,
+            "icon": 1316,
+            "name": "Green Hood of Priest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3987,
+            "level": 16,
+            "icon": 1325,
+            "name": "Violet Hood of Priest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3988,
+            "level": 16,
+            "icon": 1325,
+            "name": "Red Hood of Priest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3989,
+            "level": 16,
+            "icon": 1322,
+            "name": "Orange Hood of Priest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3990,
+            "level": 16,
+            "icon": 1813,
+            "name": "Blue Hat of Mage",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3991,
+            "level": 16,
+            "icon": 1810,
+            "name": "Green Hat of Mage",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3992,
+            "level": 16,
+            "icon": 1813,
+            "name": "Violet Hat of Mage",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3993,
+            "level": 16,
+            "icon": 1807,
+            "name": "Red Hat of Mage",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 3994,
+            "level": 16,
+            "icon": 1807,
+            "name": "Orange Hat of Mage",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4324,
+            "level": 16,
+            "icon": 1825,
+            "name": "Sorcerer's Blue Mask",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4325,
+            "level": 16,
+            "icon": 1825,
+            "name": "Sorcerer's Green Mask",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4326,
+            "level": 16,
+            "icon": 1825,
+            "name": "Sorcerer's Violet Mask",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4327,
+            "level": 16,
+            "icon": 1825,
+            "name": "Sorcerer's Red Mask",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4328,
+            "level": 16,
+            "icon": 1825,
+            "name": "Sorcerer's Brown Mask",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4329,
+            "level": 16,
+            "icon": 1828,
+            "name": "Blue Mask of Seditionary",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4330,
+            "level": 16,
+            "icon": 1828,
+            "name": "Green Mask of Seditionary",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4331,
+            "level": 16,
+            "icon": 1828,
+            "name": "Violet Mask of Seditionary",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4332,
+            "level": 16,
+            "icon": 1828,
+            "name": "Red Mask of Seditionary",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4333,
+            "level": 16,
+            "icon": 1828,
+            "name": "Brown Mask of Seditionary",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4334,
+            "level": 16,
+            "icon": 1641,
+            "name": "Blue Mask of Puma Shaman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4335,
+            "level": 16,
+            "icon": 1641,
+            "name": "Green Mask of Puma Shaman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4336,
+            "level": 16,
+            "icon": 1641,
+            "name": "Violet Mask of Puma Shaman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4337,
+            "level": 16,
+            "icon": 1641,
+            "name": "Red Mask of Puma Shaman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4338,
+            "level": 16,
+            "icon": 1641,
+            "name": "Brown Mask of Puma Shaman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4339,
+            "level": 16,
+            "icon": 1292,
+            "name": "Blue Mask of Boar Shaman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4340,
+            "level": 16,
+            "icon": 1292,
+            "name": "Green Mask of Boar Shaman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4341,
+            "level": 16,
+            "icon": 1292,
+            "name": "Violet Mask of Boar Shaman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4342,
+            "level": 16,
+            "icon": 1292,
+            "name": "Red Mask of Boar Shaman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4343,
+            "level": 16,
+            "icon": 1292,
+            "name": "Brown Mask of Boar Shaman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4447,
+            "level": 16,
+            "icon": 1819,
+            "name": "Blue Turban of Vizier",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4448,
+            "level": 16,
+            "icon": 1822,
+            "name": "Green Turban of Vizier",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4449,
+            "level": 16,
+            "icon": 1819,
+            "name": "Violet Turban of Vizier",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4450,
+            "level": 16,
+            "icon": 1816,
+            "name": "Red Turban of Vizier",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 4451,
+            "level": 16,
+            "icon": 1816,
+            "name": "Orange Turban of Vizier",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 5210,
+            "level": 1,
+            "icon": 1316,
+            "name": "Novice's Cloth Hood",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 5756,
+            "level": 7,
+            "icon": 1831,
+            "name": "Hood of Beginner Sorcerer",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 5818,
+            "level": 13,
+            "icon": 1819,
+            "name": "Turban of Young Sorcerer",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 6381,
+            "level": 17,
+            "icon": 1313,
+            "name": "Desert Wanderer's Hood",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 6485,
+            "level": 18,
+            "icon": 1840,
+            "name": "Violent Storm Cowl",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 6489,
+            "level": 18,
+            "icon": 1834,
+            "name": "Guiding Thread Hood",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 8015,
+            "level": 7,
+            "icon": 1319,
+            "name": "Light Hood",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 9141,
+            "level": 15,
+            "icon": 1313,
+            "name": "Cowl of Berengar's Power",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 9142,
+            "level": 15,
+            "icon": 1352,
+            "name": "Diadem of Berengar's Despite",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 9145,
+            "level": 18,
+            "icon": 1840,
+            "name": "Hood of Radiant Fame",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 9146,
+            "level": 18,
+            "icon": 1840,
+            "name": "Impenetrable Shroud Diadem",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 10277,
+            "level": 13,
+            "icon": 1876,
+            "name": "Oko-Shaar's Mask",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10281,
+            "level": 13,
+            "icon": 1810,
+            "name": "Snowy Bound Elf's Cap",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10283,
+            "level": 13,
+            "icon": 1876,
+            "name": "Fat Troll's Mask",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10285,
+            "level": 13,
+            "icon": 1876,
+            "name": "Alien Mask",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10287,
+            "level": 13,
+            "icon": 1876,
+            "name": "Medusa's Mask",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10289,
+            "level": 13,
+            "icon": 1876,
+            "name": "Pumpkin Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10294,
+            "level": 13,
+            "icon": 1807,
+            "name": "Everlasting Winter Cap",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10297,
+            "level": 13,
+            "icon": 1807,
+            "name": "Walker's Hat",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10299,
+            "level": 13,
+            "icon": 1876,
+            "name": "Shadder Matriarch's Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10301,
+            "level": 13,
+            "icon": 1876,
+            "name": "Scorpion Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10303,
+            "level": 13,
+            "icon": 1813,
+            "name": "One-eyed Beau's Hat",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10305,
+            "level": 13,
+            "icon": 1876,
+            "name": "Norlant Defender's Skull",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10312,
+            "level": 13,
+            "icon": 1876,
+            "name": "Executioner Horns",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10314,
+            "level": 13,
+            "icon": 1355,
+            "name": "Righteous Man's Nimbus",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10316,
+            "level": 13,
+            "icon": 1876,
+            "name": "Bouncer's Glasses",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10318,
+            "level": 13,
+            "icon": 1876,
+            "name": "Panther Ears",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10320,
+            "level": 13,
+            "icon": 1876,
+            "name": "Alice's Fillet",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10322,
+            "level": 13,
+            "icon": 1876,
+            "name": "Ravva Shaman's Mask",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10324,
+            "level": 13,
+            "icon": 1662,
+            "name": "Captain Valor's Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 10776,
+            "level": 13,
+            "icon": 2642,
+            "name": "Kepala's Cloth Mask",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 11009,
+            "level": 17,
+            "icon": 1316,
+            "name": "Astromancer Hood",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 11013,
+            "level": 17,
+            "icon": 1316,
+            "name": "Astromancer's Circlet",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 11248,
+            "level": 17,
+            "icon": 1331,
+            "name": "Polar Haze Hood",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13553,
+            "level": 3,
+            "icon": 1816,
+            "name": "Vizier's Turban",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13554,
+            "level": 7,
+            "icon": 1816,
+            "name": "Vizier's Turban",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13555,
+            "level": 10,
+            "icon": 1816,
+            "name": "Vizier's Turban",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13592,
+            "level": 3,
+            "icon": 2602,
+            "name": "Berserker's Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13593,
+            "level": 7,
+            "icon": 2602,
+            "name": "Berserker's Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13594,
+            "level": 10,
+            "icon": 2602,
+            "name": "Berserker's Helm",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13601,
+            "level": 3,
+            "icon": 2642,
+            "name": "Aborigine's Mask",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13602,
+            "level": 7,
+            "icon": 2642,
+            "name": "Aborigine's Mask",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13603,
+            "level": 10,
+            "icon": 2642,
+            "name": "Aborigine's Mask",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13604,
+            "level": 3,
+            "icon": 1813,
+            "name": "Sorcerer's Hat",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13605,
+            "level": 7,
+            "icon": 1813,
+            "name": "Sorcerer's Hat",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13606,
+            "level": 10,
+            "icon": 1813,
+            "name": "Sorcerer's Hat",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13785,
+            "level": 10,
+            "icon": 1313,
+            "name": "Hood of Aquilon",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13786,
+            "level": 10,
+            "icon": 1313,
+            "name": "Cowl of Aquilon",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 13865,
+            "level": 18,
+            "icon": 1352,
+            "name": "Nuadu's Headband",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 14714,
+            "level": 10,
+            "icon": 1352,
+            "name": "Linen Headband",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 14719,
+            "level": 14,
+            "icon": 1355,
+            "name": "Mystic's Headband",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 14725,
+            "level": 16,
+            "icon": 1593,
+            "name": "Satin Headband",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 14736,
+            "level": 19,
+            "icon": 1352,
+            "name": "Noble's Headband",
+            "itemType": 5,
+            "color": 1
+        },
+        {
+            "id": 14740,
+            "level": 10,
+            "icon": 1322,
+            "name": "Mystical Cowl",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 14750,
+            "level": 14,
+            "icon": 1316,
+            "name": "Cowl of Elements",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 14812,
+            "level": 16,
+            "icon": 1316,
+            "name": "Shadow Cowl",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 14817,
+            "level": 19,
+            "icon": 1322,
+            "name": "Fiery Cowl",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 14871,
+            "level": 20,
+            "icon": 1325,
+            "name": "Charmer Asterius' Hood",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 14942,
+            "level": 20,
+            "icon": 1313,
+            "name": "Wild Magic Cowl",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 14946,
+            "level": 20,
+            "icon": 1316,
+            "name": "Hood of Star Wisdom",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 14988,
+            "level": 19,
+            "icon": 1316,
+            "name": "Archmage's Hood",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15017,
+            "level": 10,
+            "icon": 1322,
+            "name": "Hood of Full Moon",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15019,
+            "level": 14,
+            "icon": 1331,
+            "name": "Hood of Northern Chieftains",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15023,
+            "level": 16,
+            "icon": 1316,
+            "name": "Hood of Frozen Fire",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15025,
+            "level": 19,
+            "icon": 1313,
+            "name": "Hood of Deep Lord",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15081,
+            "level": 20,
+            "icon": 1331,
+            "name": "Hood of Fierce Filth",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15292,
+            "level": 21,
+            "icon": 1331,
+            "name": "Hood of Senior Priest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 15605,
+            "level": 9,
+            "icon": 1316,
+            "name": "Master's Circlet",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 16946,
+            "level": 22,
+            "icon": 1316,
+            "name": "Hood of the Mad Oracle",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 16951,
+            "level": 22,
+            "icon": 1331,
+            "name": "Hood of the Enlightened Astromancer",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 16964,
+            "level": 21,
+            "icon": 3265,
+            "name": "Mask of the Forefather of the Dragons",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17244,
+            "level": 21,
+            "icon": 1313,
+            "name": "Lord's Hood",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 17552,
+            "level": 22,
+            "icon": 1331,
+            "name": "Hood of Spirits of Nature",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 17672,
+            "level": 6,
+            "icon": 3371,
+            "name": "Hood of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17676,
+            "level": 10,
+            "icon": 3371,
+            "name": "Hood of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17680,
+            "level": 14,
+            "icon": 3371,
+            "name": "Hood of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17684,
+            "level": 16,
+            "icon": 3371,
+            "name": "Hood of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17688,
+            "level": 18,
+            "icon": 3371,
+            "name": "Hood of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17692,
+            "level": 20,
+            "icon": 3371,
+            "name": "Hood of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17696,
+            "level": 22,
+            "icon": 3371,
+            "name": "Hood of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17700,
+            "level": 24,
+            "icon": 3371,
+            "name": "Hood of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 17704,
+            "level": 26,
+            "icon": 3371,
+            "name": "Hood of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 18022,
+            "level": 14,
+            "icon": 3445,
+            "name": "Mask of Smiley Willy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18023,
+            "level": 18,
+            "icon": 3445,
+            "name": "Mask of Smiley Willy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18024,
+            "level": 22,
+            "icon": 3445,
+            "name": "Mask of Smiley Willy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18025,
+            "level": 24,
+            "icon": 3445,
+            "name": "Mask of Smiley Willy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18026,
+            "level": 14,
+            "icon": 4581,
+            "name": "Mask of Barry the Crest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18027,
+            "level": 18,
+            "icon": 4581,
+            "name": "Mask of Barry the Crest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18028,
+            "level": 22,
+            "icon": 4581,
+            "name": "Mask of Barry the Crest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18029,
+            "level": 24,
+            "icon": 4581,
+            "name": "Mask of Barry the Crest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18364,
+            "level": 10,
+            "icon": 3505,
+            "name": "Eternal Life Cowl",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18368,
+            "level": 12,
+            "icon": 3505,
+            "name": "Immeasurable Stamina Cowl",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18372,
+            "level": 14,
+            "icon": 3505,
+            "name": "Iron Health Cowl",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18376,
+            "level": 16,
+            "icon": 3505,
+            "name": "Cowl of Inexhaustible Strength",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18380,
+            "level": 18,
+            "icon": 3505,
+            "name": "Cowl of Endless Perseverance",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18384,
+            "level": 20,
+            "icon": 3505,
+            "name": "Cowl of Inexhaustible Perseverance",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18388,
+            "level": 22,
+            "icon": 3505,
+            "name": "Infinite Reliability Cowl",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18392,
+            "level": 10,
+            "icon": 1319,
+            "name": "Cloth Cowl",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18396,
+            "level": 12,
+            "icon": 1322,
+            "name": "Mysterious Hood",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18400,
+            "level": 14,
+            "icon": 1316,
+            "name": "Hood of Elements",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18404,
+            "level": 16,
+            "icon": 1331,
+            "name": "Satin Cowl",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18408,
+            "level": 18,
+            "icon": 1331,
+            "name": "Shadow Hood",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18412,
+            "level": 20,
+            "icon": 1313,
+            "name": "Fiery Hood",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18416,
+            "level": 22,
+            "icon": 1322,
+            "name": "Sacred Cowl",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 18423,
+            "level": 12,
+            "icon": 1322,
+            "name": "Mystical Cowl",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18429,
+            "level": 16,
+            "icon": 1331,
+            "name": "Heavenly Way Cowl",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18433,
+            "level": 18,
+            "icon": 1331,
+            "name": "Cowl of Frozen Fire",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18436,
+            "level": 20,
+            "icon": 1313,
+            "name": "Cowl of Deep Lord",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 18438,
+            "level": 22,
+            "icon": 1316,
+            "name": "Divine Protection Cowl",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 19054,
+            "level": 24,
+            "icon": 1325,
+            "name": "Hood of Cruelty",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 19058,
+            "level": 24,
+            "icon": 1325,
+            "name": "Cowl of Righteous Anger",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 19062,
+            "level": 24,
+            "icon": 3505,
+            "name": "Cowl of Blind Fury",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 19193,
+            "level": 23,
+            "icon": 1325,
+            "name": "Hood of the Lord of Enchantment",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 19208,
+            "level": 23,
+            "icon": 1322,
+            "name": "Hood of the Tree Sentinel",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 19220,
+            "level": 25,
+            "icon": 1322,
+            "name": "Hood of the Mechanic the Magician",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20106,
+            "level": 26,
+            "icon": 3445,
+            "name": "Mask of Smiley Willy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20107,
+            "level": 26,
+            "icon": 4581,
+            "name": "Mask of Barry the Crest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20412,
+            "level": 6,
+            "icon": 3777,
+            "name": "Feather Hat of the Borean Warlock",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20418,
+            "level": 10,
+            "icon": 3777,
+            "name": "Veil Guard's Feather hat",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20430,
+            "level": 12,
+            "icon": 3777,
+            "name": "Feather hat of the Snow Prisoner",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20436,
+            "level": 14,
+            "icon": 3777,
+            "name": "Feather hat of the Northern Oracle",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20448,
+            "level": 16,
+            "icon": 3777,
+            "name": "Feather hat of the Polar Hierophant",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20454,
+            "level": 18,
+            "icon": 3777,
+            "name": "Feather Hat of the Vortex Spellweaver",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20460,
+            "level": 20,
+            "icon": 3777,
+            "name": "Feather Hat of the Ice Recluse",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20466,
+            "level": 22,
+            "icon": 3777,
+            "name": "Feather hat of the Faceless Heir",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20478,
+            "level": 24,
+            "icon": 3777,
+            "name": "Feather hat of the Storm Tamer",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 20490,
+            "level": 26,
+            "icon": 3777,
+            "name": "Feather Hat of the Whitefaced Demiurge",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 21031,
+            "level": 25,
+            "icon": 1325,
+            "name": "Magic Virtuoso's Hood",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 21085,
+            "level": 26,
+            "icon": 1325,
+            "name": "Spooky Hood",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 21089,
+            "level": 26,
+            "icon": 1325,
+            "name": "Dark Flame Cowl",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 21093,
+            "level": 26,
+            "icon": 3505,
+            "name": "Cowl of the Captive Souls",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 21409,
+            "level": 3,
+            "icon": 1319,
+            "name": "Plain Cloth Hood",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 21410,
+            "level": 6,
+            "icon": 1319,
+            "name": "Shabby Cloth Hood",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 22198,
+            "level": 6,
+            "icon": 4227,
+            "name": "Winter Hood of Iceman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22199,
+            "level": 6,
+            "icon": 4227,
+            "name": "Winter Cowl of Iceman",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22222,
+            "level": 10,
+            "icon": 4227,
+            "name": "Winter Hood of Ragnar",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22223,
+            "level": 10,
+            "icon": 4227,
+            "name": "Winter Cowl of Ragnar",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22246,
+            "level": 12,
+            "icon": 4227,
+            "name": "Winter Hood of Frosty Fang",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22247,
+            "level": 12,
+            "icon": 4227,
+            "name": "Winter Cowl of Frosty Fang",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22270,
+            "level": 14,
+            "icon": 4227,
+            "name": "Winter Hood of Mastodon",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22271,
+            "level": 14,
+            "icon": 4227,
+            "name": "Winter Cowl of Mastodon",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22294,
+            "level": 16,
+            "icon": 4227,
+            "name": "Winter Hood of Taron",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22295,
+            "level": 16,
+            "icon": 4227,
+            "name": "Winter Cowl of Taron",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22312,
+            "level": 18,
+            "icon": 4227,
+            "name": "Winter Hood of Kerula",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22313,
+            "level": 18,
+            "icon": 4227,
+            "name": "Winter Cowl of Kerula",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22342,
+            "level": 20,
+            "icon": 4227,
+            "name": "Winter Hood of Gimir",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22343,
+            "level": 20,
+            "icon": 4227,
+            "name": "Winter Cowl of Gimir",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22366,
+            "level": 22,
+            "icon": 4227,
+            "name": "Winter Hood of Flavius",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22367,
+            "level": 22,
+            "icon": 4227,
+            "name": "Winter Cowl of Flavius",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22390,
+            "level": 24,
+            "icon": 4227,
+            "name": "Winter Hood of Ruberius",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22391,
+            "level": 24,
+            "icon": 4227,
+            "name": "Winter Cowl of Ruberius",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22414,
+            "level": 26,
+            "icon": 4227,
+            "name": "Winter Hood of Mortis",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 22415,
+            "level": 26,
+            "icon": 4227,
+            "name": "Winter Cowl of Mortis",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 23349,
+            "level": 20,
+            "icon": 4463,
+            "name": "Cowl of Mages of the Sacred Forest",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23353,
+            "level": 20,
+            "icon": 4462,
+            "name": "Hood of Mages of the Dominant Coalition",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23357,
+            "level": 22,
+            "icon": 4463,
+            "name": "Cowl of Mages of the Pyramid Valley",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23361,
+            "level": 22,
+            "icon": 4462,
+            "name": "Hood of Mages of the Mighty Alliance",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23365,
+            "level": 24,
+            "icon": 4463,
+            "name": "Cowl of Mages of the Black Oak Forest",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23369,
+            "level": 24,
+            "icon": 4462,
+            "name": "Hood of Mages of the Legendary Brotherhood",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23373,
+            "level": 26,
+            "icon": 4463,
+            "name": "Cowl of Mages of the Flying Islands",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23377,
+            "level": 26,
+            "icon": 4462,
+            "name": "Hood of Mages of the Immortal Order",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23498,
+            "level": 25,
+            "icon": 1322,
+            "name": "Hood of the Forest Mages",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 23525,
+            "level": 27,
+            "icon": 1322,
+            "name": "Hood of the Engineer Mage",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 23611,
+            "level": 27,
+            "icon": 1325,
+            "name": "Hood of the Gladiator Mage",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 23612,
+            "level": 27,
+            "icon": 1325,
+            "name": "Cowl of the Gladiator Mage",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 23785,
+            "level": 6,
+            "icon": 3371,
+            "name": "Cowl of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23789,
+            "level": 10,
+            "icon": 3371,
+            "name": "Cowl of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23793,
+            "level": 14,
+            "icon": 3371,
+            "name": "Cowl of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23797,
+            "level": 16,
+            "icon": 3371,
+            "name": "Cowl of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23801,
+            "level": 18,
+            "icon": 3371,
+            "name": "Cowl of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23805,
+            "level": 20,
+            "icon": 3371,
+            "name": "Cowl of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23809,
+            "level": 22,
+            "icon": 3371,
+            "name": "Cowl of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23813,
+            "level": 24,
+            "icon": 3371,
+            "name": "Cowl of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23817,
+            "level": 26,
+            "icon": 3371,
+            "name": "Cowl of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23821,
+            "level": 28,
+            "icon": 3371,
+            "name": "Cowl of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 23825,
+            "level": 28,
+            "icon": 3371,
+            "name": "Hood of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24155,
+            "level": 16,
+            "icon": 3445,
+            "name": "Mask of Smiley Willy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24157,
+            "level": 20,
+            "icon": 3445,
+            "name": "Mask of Smiley Willy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24159,
+            "level": 28,
+            "icon": 3445,
+            "name": "Mask of Smiley Willy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24161,
+            "level": 16,
+            "icon": 4581,
+            "name": "Mask of Barry the Crest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24163,
+            "level": 20,
+            "icon": 4581,
+            "name": "Mask of Barry the Crest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24165,
+            "level": 28,
+            "icon": 4581,
+            "name": "Mask of Barry the Crest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24404,
+            "level": 28,
+            "icon": 4227,
+            "name": "Winter Hood of the Snow General",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24408,
+            "level": 28,
+            "icon": 4227,
+            "name": "Winter Cowl of the Snow General",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24428,
+            "level": 28,
+            "icon": 3777,
+            "name": "Down Hat of the Arctic Ruler",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 24446,
+            "level": 10,
+            "icon": 4629,
+            "name": "All-Mighty Hood of Ragnar",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24450,
+            "level": 10,
+            "icon": 4629,
+            "name": "Mighty Cowl of Ragnar",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24470,
+            "level": 12,
+            "icon": 4629,
+            "name": "All-Mighty Hood of Frosty Fang",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24471,
+            "level": 14,
+            "icon": 4629,
+            "name": "All-Mighty Hood of Mastodon",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24472,
+            "level": 16,
+            "icon": 4629,
+            "name": "All-Mighty Hood of Taron",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24473,
+            "level": 18,
+            "icon": 4629,
+            "name": "All-Mighty Hood of Kerula",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24474,
+            "level": 20,
+            "icon": 4629,
+            "name": "All-Mighty Hood of Gimir",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24475,
+            "level": 22,
+            "icon": 4629,
+            "name": "All-Mighty Hood of Flavius",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24476,
+            "level": 24,
+            "icon": 4629,
+            "name": "All-Mighty Hood of Ruberius",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24477,
+            "level": 26,
+            "icon": 4629,
+            "name": "All-Mighty Hood of Mortis",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24478,
+            "level": 28,
+            "icon": 4629,
+            "name": "All-Mighty Hood of the Snow General",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24506,
+            "level": 12,
+            "icon": 4629,
+            "name": "Mighty Cowl of Frosty Fang",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24507,
+            "level": 14,
+            "icon": 4629,
+            "name": "Mighty Cowl of Mastodon",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24508,
+            "level": 16,
+            "icon": 4629,
+            "name": "Mighty Cowl of Taron",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24509,
+            "level": 18,
+            "icon": 4629,
+            "name": "Mighty Cowl of Kerula",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24510,
+            "level": 20,
+            "icon": 4629,
+            "name": "Mighty Cowl of Gimir",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24511,
+            "level": 22,
+            "icon": 4629,
+            "name": "Mighty Cowl of Flavius",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24512,
+            "level": 24,
+            "icon": 4629,
+            "name": "Mighty Cowl of Ruberius",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24513,
+            "level": 26,
+            "icon": 4629,
+            "name": "Mighty Cowl of Mortis",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 24514,
+            "level": 28,
+            "icon": 4629,
+            "name": "Mighty Cowl of the Snow General",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 25229,
+            "level": 28,
+            "icon": 1325,
+            "name": "Cowl of Insight",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 25234,
+            "level": 28,
+            "icon": 1325,
+            "name": "Cowl of Sinister Visions",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 25239,
+            "level": 28,
+            "icon": 3505,
+            "name": "Cowl of Sheer Emptiness",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 25907,
+            "level": 20,
+            "icon": 4462,
+            "name": "Hood of Charmers of the Dominant Coalition",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 25911,
+            "level": 22,
+            "icon": 4462,
+            "name": "Hood of Charmers of the Mighty Alliance",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 25915,
+            "level": 24,
+            "icon": 4462,
+            "name": "Hood of Charmers of the Legendary Brotherhood",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 25920,
+            "level": 26,
+            "icon": 4462,
+            "name": "Hood of Charmers of the Immortal Order",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 26294,
+            "level": 30,
+            "icon": 4963,
+            "name": "Helmet of the Diver Sorcerer",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 26296,
+            "level": 30,
+            "icon": 4963,
+            "name": "Helmet of the Diver Spellweaver",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 26329,
+            "level": 29,
+            "icon": 1322,
+            "name": "Hood of the Corsair Mage",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 26333,
+            "level": 29,
+            "icon": 1322,
+            "name": "Cowl of the Corsair Charmer",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 26497,
+            "level": 29,
+            "icon": 1325,
+            "name": "Hood of the Legendary Arcanomancer",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 26498,
+            "level": 29,
+            "icon": 1325,
+            "name": "Cowl of the Legendary Arcanomancer",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27171,
+            "level": 30,
+            "icon": 3445,
+            "name": "Mask of Smiley Willy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27173,
+            "level": 30,
+            "icon": 4581,
+            "name": "Mask of Barry the Crest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27950,
+            "level": 30,
+            "icon": 4227,
+            "name": "Winter Hood of Chernobog",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27954,
+            "level": 30,
+            "icon": 4227,
+            "name": "Winter Cowl of Chernobog",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27974,
+            "level": 30,
+            "icon": 3777,
+            "name": "Feather Hat of the Patron of Frost",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27979,
+            "level": 30,
+            "icon": 3777,
+            "name": "Down Hood of the Patron of Frost",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 27999,
+            "level": 14,
+            "icon": 3777,
+            "name": "Down Hood of the Northern Oracle",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28003,
+            "level": 16,
+            "icon": 3777,
+            "name": "Down Hood of the Polar Hierophant",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28007,
+            "level": 18,
+            "icon": 3777,
+            "name": "Down Hood of the Vortex Spellweaver",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28011,
+            "level": 20,
+            "icon": 3777,
+            "name": "Down Hood of the Ice Recluse",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28015,
+            "level": 22,
+            "icon": 3777,
+            "name": "Down Hood of the Faceless Heir",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28019,
+            "level": 24,
+            "icon": 3777,
+            "name": "Down Hood of the Storm Tamer",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28023,
+            "level": 26,
+            "icon": 3777,
+            "name": "Down Hood of the Whitefaced Demiurge",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28027,
+            "level": 28,
+            "icon": 3777,
+            "name": "Down Hood of the Arctic Ruler",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28107,
+            "level": 30,
+            "icon": 4629,
+            "name": "All-Mighty Hood of Chernobog",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 28111,
+            "level": 30,
+            "icon": 4629,
+            "name": "Mighty Cowl of Chernobog",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 28326,
+            "level": 30,
+            "icon": 3371,
+            "name": "Hood of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 28330,
+            "level": 30,
+            "icon": 3371,
+            "name": "Cowl of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 28889,
+            "level": 30,
+            "icon": 1325,
+            "name": "Cowl of Restless Being",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 28899,
+            "level": 30,
+            "icon": 1325,
+            "name": "Cowl of Rebellious Spirit",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 28911,
+            "level": 30,
+            "icon": 3505,
+            "name": "Cowl of Wild Heart",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 29401,
+            "level": 32,
+            "icon": 5339,
+            "name": "Hood of the Sacred Sign",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29405,
+            "level": 32,
+            "icon": 5339,
+            "name": "Hood of Invisible Knowledge",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29457,
+            "level": 20,
+            "icon": 4463,
+            "name": "Cowl of Charmers of the Sacred Forest",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29461,
+            "level": 22,
+            "icon": 4463,
+            "name": "Cowl of Charmers of the Pyramid Valley",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29465,
+            "level": 24,
+            "icon": 4463,
+            "name": "Cowl of Charmers of the Black Oak Forest",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29469,
+            "level": 26,
+            "icon": 4463,
+            "name": "Cowl of Charmers of the Flying Islands",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29473,
+            "level": 28,
+            "icon": 4463,
+            "name": "Cowl of Charmers of the Ship Graveyard",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29477,
+            "level": 28,
+            "icon": 4463,
+            "name": "Cowl of Mages of the Ship Graveyard",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29481,
+            "level": 28,
+            "icon": 4462,
+            "name": "Hood of Mages of the Imperious Clan",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29485,
+            "level": 28,
+            "icon": 4462,
+            "name": "Hood of Charmers of the Imperious Clan",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 29723,
+            "level": 7,
+            "icon": 1316,
+            "name": "Hood of Recruit",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 29728,
+            "level": 7,
+            "icon": 1316,
+            "name": "Cowl of Recruit",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 29733,
+            "level": 11,
+            "icon": 1316,
+            "name": "Hood of Mercenary",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 29738,
+            "level": 11,
+            "icon": 1316,
+            "name": "Cowl of Mercenary",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 32031,
+            "level": 30,
+            "icon": 4463,
+            "name": "Cowl of the Mages of the Pirate Archipelago",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32035,
+            "level": 30,
+            "icon": 4463,
+            "name": "Cowl of the Spellweavers of the Pirate Archipelago",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32039,
+            "level": 30,
+            "icon": 4462,
+            "name": "Hood of the Mages of the Unbreakable Alliance",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32043,
+            "level": 30,
+            "icon": 4462,
+            "name": "Hood of the Spellweavers of the Unbreakable Alliance",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32079,
+            "level": 18,
+            "icon": 5809,
+            "name": "Witch's Hood of Youth",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32083,
+            "level": 20,
+            "icon": 5809,
+            "name": "Witch's Hood of Longevity",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32087,
+            "level": 22,
+            "icon": 5809,
+            "name": "Witch's Hood of Unfading",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32091,
+            "level": 24,
+            "icon": 5809,
+            "name": "Witch's Hood of Unquenchability",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32095,
+            "level": 26,
+            "icon": 5809,
+            "name": "Witch's Hood of Eternity",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32099,
+            "level": 28,
+            "icon": 5809,
+            "name": "Witch's Hood of Immortality",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32103,
+            "level": 30,
+            "icon": 5809,
+            "name": "Witch's Hood of Integrity",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32107,
+            "level": 18,
+            "icon": 5810,
+            "name": "Northern Hood of Zeal",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32111,
+            "level": 20,
+            "icon": 5810,
+            "name": "Northern Hood of Mutiny",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32115,
+            "level": 22,
+            "icon": 5810,
+            "name": "Northern Hood of Vehemence",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32119,
+            "level": 24,
+            "icon": 5810,
+            "name": "Northern Hood of Ardency",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32123,
+            "level": 26,
+            "icon": 5810,
+            "name": "Northern Hood of Bitterness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32127,
+            "level": 28,
+            "icon": 5810,
+            "name": "Northern Hood of Frenzy",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 32131,
+            "level": 30,
+            "icon": 5810,
+            "name": "Northern Hood of Rampage",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 33262,
+            "level": 32,
+            "icon": 3445,
+            "name": "Mask of Smiley Willy",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 33266,
+            "level": 32,
+            "icon": 4581,
+            "name": "Mask of Barry the Crest",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 33845,
+            "level": 32,
+            "icon": 4227,
+            "name": "Winter Hood of Titan",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 33849,
+            "level": 32,
+            "icon": 4227,
+            "name": "Winter Cowl of Titan",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 33869,
+            "level": 32,
+            "icon": 3777,
+            "name": "Storm Lord\u2019s Feather Hat",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 33873,
+            "level": 32,
+            "icon": 3777,
+            "name": "Storm Lord\u2019s Down Hood",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 33893,
+            "level": 32,
+            "icon": 4629,
+            "name": "All-Mighty Hood of Titan",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 33897,
+            "level": 32,
+            "icon": 4629,
+            "name": "Mighty Cowl of Titan",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 34459,
+            "level": 32,
+            "icon": 1325,
+            "name": "Cowl of the Sinful Light",
+            "itemType": 5,
+            "color": 2
+        },
+        {
+            "id": 34475,
+            "level": 32,
+            "icon": 1325,
+            "name": "Cowl of the Otherworldly Call",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 34489,
+            "level": 32,
+            "icon": 3505,
+            "name": "Cowl of the Ominous Requiem",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 34915,
+            "level": 31,
+            "icon": 1325,
+            "name": "Hood of the Champion Arcanomancer",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 34916,
+            "level": 31,
+            "icon": 1325,
+            "name": "Cowl of the Champion Arcanomancer",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 34942,
+            "level": 32,
+            "icon": 3371,
+            "name": "Hood of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 34946,
+            "level": 32,
+            "icon": 3371,
+            "name": "Cowl of Greatness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35077,
+            "level": 22,
+            "icon": 6185,
+            "name": "Hood of the Wizards of the Forest\u2019s Heart",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35081,
+            "level": 24,
+            "icon": 6185,
+            "name": "Hood of the Wizards of the Jaguar\u2019s Den",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35085,
+            "level": 26,
+            "icon": 6185,
+            "name": "Hood of the Wizards of the Dragon Ness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35089,
+            "level": 28,
+            "icon": 6185,
+            "name": "Hood of the Wizards of the Sky Sanctuary",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35093,
+            "level": 30,
+            "icon": 6185,
+            "name": "Hood of the Wizards of the Sea Turtle",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35138,
+            "level": 32,
+            "icon": 5809,
+            "name": "Witch's Hood of Eternity",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35142,
+            "level": 32,
+            "icon": 5810,
+            "name": "Northern Hood of Fierceness",
+            "itemType": 5,
+            "color": 4
+        },
+        {
+            "id": 35275,
+            "level": 31,
+            "icon": 1322,
+            "name": "Hood of the Pirate Mage",
+            "itemType": 5,
+            "color": 3
+        },
+        {
+            "id": 35279,
+            "level": 31,
+            "icon": 1322,
+            "name": "Cowl of the Pirate Spellweaver",
+            "itemType": 5,
+            "color": 3
+        }
+    ]
+}

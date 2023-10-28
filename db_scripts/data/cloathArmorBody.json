@@ -1,0 +1,3084 @@
+{
+    "list": [
+        {
+            "id": 658,
+            "level": 1,
+            "icon": 1515,
+            "name": "Beginner Clothing",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 665,
+            "level": 1,
+            "icon": 1515,
+            "name": "Torn Clothing",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 850,
+            "level": 2,
+            "icon": 1524,
+            "name": "Tarnished Robe",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 880,
+            "level": 3,
+            "icon": 1518,
+            "name": "Plain Mantle",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 918,
+            "level": 7,
+            "icon": 1533,
+            "name": "Durable Mantle",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 976,
+            "level": 9,
+            "icon": 1524,
+            "name": "Mantle of Neophyte",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 1028,
+            "level": 9,
+            "icon": 1530,
+            "name": "Master's Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 2010,
+            "level": 12,
+            "icon": 1530,
+            "name": "Mighty Smock",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 2011,
+            "level": 12,
+            "icon": 1527,
+            "name": "Mighty Robe",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 2067,
+            "level": 13,
+            "icon": 1542,
+            "name": "Light Smock",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 2068,
+            "level": 13,
+            "icon": 1527,
+            "name": "Light Robe",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 2133,
+            "level": 14,
+            "icon": 1524,
+            "name": "Elegant Robe",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 2170,
+            "level": 14,
+            "icon": 1524,
+            "name": "Elegant Smock",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 2171,
+            "level": 12,
+            "icon": 1527,
+            "name": "Decorated Smock",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 2213,
+            "level": 15,
+            "icon": 1524,
+            "name": "Elegant Vestments",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 2296,
+            "level": 15,
+            "icon": 1539,
+            "name": "Vestment of Berengar's Light",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 2297,
+            "level": 15,
+            "icon": 1512,
+            "name": "Uniform of Berengar's Fury",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 2349,
+            "level": 15,
+            "icon": 1875,
+            "name": "Sorcerer's Vestment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 3995,
+            "level": 16,
+            "icon": 1521,
+            "name": "Blue Mantle of Wizard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 3996,
+            "level": 16,
+            "icon": 1518,
+            "name": "Green Mantle of Wizard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 3997,
+            "level": 16,
+            "icon": 1545,
+            "name": "Violet Mantle of Wizard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 3998,
+            "level": 16,
+            "icon": 1539,
+            "name": "Red Mantle of Wizard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 3999,
+            "level": 16,
+            "icon": 1542,
+            "name": "Orange Mantle of Wizard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4000,
+            "level": 16,
+            "icon": 1521,
+            "name": "Blue Mantle of Druid",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4001,
+            "level": 16,
+            "icon": 1518,
+            "name": "Green Mantle of Druid",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4002,
+            "level": 16,
+            "icon": 1545,
+            "name": "Violet Mantle of Druid",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4003,
+            "level": 16,
+            "icon": 1539,
+            "name": "Red Mantle of Druid",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4004,
+            "level": 16,
+            "icon": 1542,
+            "name": "Orange Mantle of Druid",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4005,
+            "level": 16,
+            "icon": 1533,
+            "name": "Blue Mantle of Priest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4006,
+            "level": 16,
+            "icon": 1515,
+            "name": "Green Mantle of Priest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4007,
+            "level": 16,
+            "icon": 1545,
+            "name": "Violet Mantle of Priest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4008,
+            "level": 16,
+            "icon": 1524,
+            "name": "Red Mantle of Priest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4009,
+            "level": 16,
+            "icon": 1539,
+            "name": "Orange Mantle of Priest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4010,
+            "level": 16,
+            "icon": 1533,
+            "name": "Blue Mantle of Mage",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4011,
+            "level": 16,
+            "icon": 1515,
+            "name": "Green Mantle of Mage",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4012,
+            "level": 16,
+            "icon": 1545,
+            "name": "Violet Mantle of Mage",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4013,
+            "level": 16,
+            "icon": 1524,
+            "name": "Red Mantle of Mage",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4014,
+            "level": 16,
+            "icon": 1539,
+            "name": "Orange Mantle of Mage",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4304,
+            "level": 16,
+            "icon": 1533,
+            "name": "Sorcerer's Blue Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4305,
+            "level": 16,
+            "icon": 1539,
+            "name": "Sorcerer's Brown Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4306,
+            "level": 16,
+            "icon": 1515,
+            "name": "Sorcerer's Green Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4307,
+            "level": 16,
+            "icon": 1545,
+            "name": "Sorcerer's Violet Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4308,
+            "level": 16,
+            "icon": 1524,
+            "name": "Sorcerer's Red Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4309,
+            "level": 16,
+            "icon": 1533,
+            "name": "Blue Mantle of Seditionary",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4310,
+            "level": 16,
+            "icon": 1539,
+            "name": "Brown Mantle of Seditionary",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4311,
+            "level": 16,
+            "icon": 1515,
+            "name": "Green Mantle of Seditionary",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4312,
+            "level": 16,
+            "icon": 1545,
+            "name": "Violet Mantle of Seditionary",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4313,
+            "level": 16,
+            "icon": 1524,
+            "name": "Red Mantle of Seditionary",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4314,
+            "level": 16,
+            "icon": 1521,
+            "name": "Blue Mantle of Puma Shaman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4315,
+            "level": 16,
+            "icon": 1539,
+            "name": "Brown Mantle of Puma Shaman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4316,
+            "level": 16,
+            "icon": 1515,
+            "name": "Green Mantle of Puma Shaman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4317,
+            "level": 16,
+            "icon": 1545,
+            "name": "Voilet Mantle of Puma Shaman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4318,
+            "level": 16,
+            "icon": 1524,
+            "name": "Red Mantle of Puma Shaman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4319,
+            "level": 16,
+            "icon": 1521,
+            "name": "Blue Mantle of Boar Shaman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4320,
+            "level": 16,
+            "icon": 1539,
+            "name": "Brown Mantle of Boar Shaman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4321,
+            "level": 16,
+            "icon": 1515,
+            "name": "Green Mantle of Boar Shaman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4322,
+            "level": 16,
+            "icon": 1545,
+            "name": "Violet Mantle of Boar Shaman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4323,
+            "level": 16,
+            "icon": 1524,
+            "name": "Red Mantle of Boar Shaman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4429,
+            "level": 16,
+            "icon": 1521,
+            "name": "Blue Dress",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4430,
+            "level": 16,
+            "icon": 1539,
+            "name": "Orange Dress",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4431,
+            "level": 16,
+            "icon": 1515,
+            "name": "Green Dress",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4432,
+            "level": 16,
+            "icon": 1545,
+            "name": "Violet Dress",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4433,
+            "level": 16,
+            "icon": 1524,
+            "name": "Red Dress",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4434,
+            "level": 16,
+            "icon": 1521,
+            "name": "Blue Mantle of Vizier",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4437,
+            "level": 16,
+            "icon": 1539,
+            "name": "Orange Mantle of Vizier",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4438,
+            "level": 16,
+            "icon": 1515,
+            "name": "Green Mantle of Vizier",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4439,
+            "level": 16,
+            "icon": 1545,
+            "name": "Violet Mantle of Vizier",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4441,
+            "level": 16,
+            "icon": 1524,
+            "name": "Red Mantle of Vizier",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 5211,
+            "level": 1,
+            "icon": 1518,
+            "name": "Novice's Cloth Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 5271,
+            "level": 1,
+            "icon": 1512,
+            "name": "Undead's Robe",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 5273,
+            "level": 1,
+            "icon": 1536,
+            "name": "Bone Breastplate",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 5772,
+            "level": 8,
+            "icon": 1539,
+            "name": "Mantle of Beginner Sorcerer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 5819,
+            "level": 14,
+            "icon": 1875,
+            "name": "Mantle of Young Sorcerer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 6382,
+            "level": 17,
+            "icon": 1533,
+            "name": "Desert Wanderer's Smock",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 6385,
+            "level": 17,
+            "icon": 1533,
+            "name": "Desert Wanderer's Vestments",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 6486,
+            "level": 18,
+            "icon": 1524,
+            "name": "Violent Storm Robe",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 6490,
+            "level": 18,
+            "icon": 1512,
+            "name": "Guiding Thread Vestments",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 8016,
+            "level": 7,
+            "icon": 1542,
+            "name": "Decorated Robe",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 8017,
+            "level": 7,
+            "icon": 1515,
+            "name": "Durable Smock",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 8030,
+            "level": 9,
+            "icon": 1518,
+            "name": "Master's Robe",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 8031,
+            "level": 9,
+            "icon": 1527,
+            "name": "Lacy Smock",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 8052,
+            "level": 9,
+            "icon": 1536,
+            "name": "Master's Robe",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 8055,
+            "level": 9,
+            "icon": 1524,
+            "name": "Master's Vestment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 8117,
+            "level": 1,
+            "icon": 1524,
+            "name": "Torn Mantle",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 8118,
+            "level": 1,
+            "icon": 1542,
+            "name": "Torn Shirt",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 8125,
+            "level": 1,
+            "icon": 1542,
+            "name": "Torn Mantle",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 8127,
+            "level": 1,
+            "icon": 1521,
+            "name": "Torn Mantle",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 8156,
+            "level": 8,
+            "icon": 1542,
+            "name": "Vestment of Beginner Sorcerer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 8159,
+            "level": 8,
+            "icon": 1524,
+            "name": "Vestment of Young Sorcerer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 8179,
+            "level": 15,
+            "icon": 1533,
+            "name": "Sorcerer's Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 8180,
+            "level": 15,
+            "icon": 1521,
+            "name": "Sorcerer's Robe",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 8301,
+            "level": 12,
+            "icon": 1542,
+            "name": "Adorned Mantle",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 8302,
+            "level": 12,
+            "icon": 1515,
+            "name": "Adorned Vestment",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 8333,
+            "level": 15,
+            "icon": 1533,
+            "name": "Noble Vestment",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 8334,
+            "level": 15,
+            "icon": 1524,
+            "name": "Deadman's Smock",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 8374,
+            "level": 13,
+            "icon": 1524,
+            "name": "Light Tunic",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 8375,
+            "level": 13,
+            "icon": 1521,
+            "name": "Light Vestment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 8397,
+            "level": 15,
+            "icon": 1521,
+            "name": "Mantle of Berengar's Power",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 8398,
+            "level": 15,
+            "icon": 1524,
+            "name": "Smock of Berengar's Despite",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 8466,
+            "level": 1,
+            "icon": 1512,
+            "name": "Novice's Robe",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 8469,
+            "level": 1,
+            "icon": 1536,
+            "name": "Novice's Robe",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 8472,
+            "level": 1,
+            "icon": 1533,
+            "name": "Novice's Vestment",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 8475,
+            "level": 1,
+            "icon": 1524,
+            "name": "Novice's Vestment",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 9057,
+            "level": 17,
+            "icon": 1533,
+            "name": "Desert Wanderer's Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9058,
+            "level": 17,
+            "icon": 1533,
+            "name": "Desert Wanderer's Robe",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9075,
+            "level": 18,
+            "icon": 1524,
+            "name": "Tunic of Radiant Fame",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 9076,
+            "level": 18,
+            "icon": 1524,
+            "name": "Impenetrable Shroud Vestment",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 9818,
+            "level": 16,
+            "icon": 1521,
+            "name": "Apologist's Blue Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9819,
+            "level": 16,
+            "icon": 1515,
+            "name": "Apologist's Green Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9820,
+            "level": 16,
+            "icon": 1545,
+            "name": "Apologist's Violet Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9821,
+            "level": 16,
+            "icon": 1539,
+            "name": "Apologist's Red Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9822,
+            "level": 16,
+            "icon": 1524,
+            "name": "Apologist's Yellow Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9823,
+            "level": 16,
+            "icon": 1521,
+            "name": "Healer's Blue Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9824,
+            "level": 16,
+            "icon": 1515,
+            "name": "Healer's Green Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9825,
+            "level": 16,
+            "icon": 1545,
+            "name": "Healer's Violet Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9826,
+            "level": 16,
+            "icon": 1539,
+            "name": "Healer's Red Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9827,
+            "level": 16,
+            "icon": 1524,
+            "name": "Healer's Yellow Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9828,
+            "level": 16,
+            "icon": 1521,
+            "name": "Executor's Blue Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9829,
+            "level": 16,
+            "icon": 1539,
+            "name": "Executor's Brown Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9830,
+            "level": 16,
+            "icon": 1515,
+            "name": "Executor's Green Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9831,
+            "level": 16,
+            "icon": 1545,
+            "name": "Executor's Violet Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9832,
+            "level": 16,
+            "icon": 1524,
+            "name": "Executor's Red Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9833,
+            "level": 16,
+            "icon": 1521,
+            "name": "Cleaner's Blue Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9834,
+            "level": 16,
+            "icon": 1524,
+            "name": "Cleaner's Brown Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9835,
+            "level": 16,
+            "icon": 1515,
+            "name": "Cleaner's Green Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 9836,
+            "level": 16,
+            "icon": 1545,
+            "name": "Cleaner's Violet Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 10531,
+            "level": 16,
+            "icon": 1539,
+            "name": "Cleaner's Red Mantle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 11010,
+            "level": 17,
+            "icon": 1515,
+            "name": "Astromancer Robe",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 11014,
+            "level": 17,
+            "icon": 1536,
+            "name": "Astromancer's Smock",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 11018,
+            "level": 17,
+            "icon": 1521,
+            "name": "Astromancer Vestments",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 11249,
+            "level": 17,
+            "icon": 1521,
+            "name": "Polar Haze Vestments",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13186,
+            "level": 16,
+            "icon": 1533,
+            "name": "Deadborn's Smock",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13188,
+            "level": 16,
+            "icon": 1533,
+            "name": "Deadborn's Robe",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13189,
+            "level": 16,
+            "icon": 1533,
+            "name": "Deadborn's Vestments",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13190,
+            "level": 16,
+            "icon": 1533,
+            "name": "Deadborn's Chiton",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13820,
+            "level": 17,
+            "icon": 1521,
+            "name": "Abaris' Vestment",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13821,
+            "level": 17,
+            "icon": 1521,
+            "name": "Abaris' Robe",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13822,
+            "level": 17,
+            "icon": 1521,
+            "name": "Abaris's Smock",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13823,
+            "level": 17,
+            "icon": 1521,
+            "name": "Abaris' Mantle",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13866,
+            "level": 18,
+            "icon": 1512,
+            "name": "Nuadu's Mantle",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14716,
+            "level": 11,
+            "icon": 1515,
+            "name": "Linen Vestments",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 14722,
+            "level": 15,
+            "icon": 1533,
+            "name": "Mystic's Vestments",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 14727,
+            "level": 17,
+            "icon": 1527,
+            "name": "Satin Vestments",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 14738,
+            "level": 20,
+            "icon": 1527,
+            "name": "Noble's Chiton",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 14742,
+            "level": 11,
+            "icon": 1518,
+            "name": "Mystical Smock",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14809,
+            "level": 15,
+            "icon": 1527,
+            "name": "Smock of Elements",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14814,
+            "level": 17,
+            "icon": 1533,
+            "name": "Shadow Smock",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14819,
+            "level": 20,
+            "icon": 1539,
+            "name": "Flame Smock",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14872,
+            "level": 20,
+            "icon": 1539,
+            "name": "Charmer Asterius' Vestments",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 14943,
+            "level": 20,
+            "icon": 1545,
+            "name": "Wild Magic Dress",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 14947,
+            "level": 20,
+            "icon": 1518,
+            "name": "Vestment of Star Wisdom",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 14989,
+            "level": 19,
+            "icon": 1536,
+            "name": "Archmage's Vestments",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15021,
+            "level": 15,
+            "icon": 1521,
+            "name": "Smock of Northern Chieftains",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15027,
+            "level": 20,
+            "icon": 1545,
+            "name": "Smock of Deep Lord",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15082,
+            "level": 21,
+            "icon": 1521,
+            "name": "Vestments of Fierce Filth",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15293,
+            "level": 21,
+            "icon": 1545,
+            "name": "Garment of Senior Priest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15603,
+            "level": 9,
+            "icon": 1524,
+            "name": "Master's Garment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 16947,
+            "level": 22,
+            "icon": 1524,
+            "name": "Mantle of the Mad Oracle",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 16952,
+            "level": 22,
+            "icon": 1521,
+            "name": "Mantle of the Enlightened Astromancer",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 16965,
+            "level": 21,
+            "icon": 3263,
+            "name": "Vestment of the Forefather of the Dragons",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17245,
+            "level": 21,
+            "icon": 1545,
+            "name": "Lord's Vestment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 17553,
+            "level": 22,
+            "icon": 1545,
+            "name": "Smock of Spirits of Nature",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 17673,
+            "level": 6,
+            "icon": 3370,
+            "name": "Vestments of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17677,
+            "level": 10,
+            "icon": 3370,
+            "name": "Vestments of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17681,
+            "level": 14,
+            "icon": 3370,
+            "name": "Vestments of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17685,
+            "level": 16,
+            "icon": 3370,
+            "name": "Vestments of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17689,
+            "level": 18,
+            "icon": 3370,
+            "name": "Vestments of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17693,
+            "level": 20,
+            "icon": 3370,
+            "name": "Vestments of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17697,
+            "level": 22,
+            "icon": 3370,
+            "name": "Vestments of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17701,
+            "level": 24,
+            "icon": 3370,
+            "name": "Vestments of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17705,
+            "level": 26,
+            "icon": 3370,
+            "name": "Vestments of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 18365,
+            "level": 10,
+            "icon": 3504,
+            "name": "Eternal Life Garment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18369,
+            "level": 12,
+            "icon": 3504,
+            "name": "Garment of Immeasurable Stamina",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18373,
+            "level": 14,
+            "icon": 3504,
+            "name": "Iron Health Garment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18377,
+            "level": 16,
+            "icon": 3504,
+            "name": "Garment of Inexhaustible Strength",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18381,
+            "level": 18,
+            "icon": 3504,
+            "name": "Garment of Endless Perseverance",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18385,
+            "level": 20,
+            "icon": 3504,
+            "name": "Garment of Inexhaustible Perseverance",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18389,
+            "level": 22,
+            "icon": 3504,
+            "name": "Infinite Reliability Garment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18393,
+            "level": 10,
+            "icon": 1518,
+            "name": "Cloth Garment",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18397,
+            "level": 12,
+            "icon": 1533,
+            "name": "Mysterious Garment",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18401,
+            "level": 14,
+            "icon": 1515,
+            "name": "Garment of Elements",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18405,
+            "level": 16,
+            "icon": 1515,
+            "name": "Satin Garment",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18409,
+            "level": 18,
+            "icon": 1521,
+            "name": "Shadow Garment",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18413,
+            "level": 20,
+            "icon": 1545,
+            "name": "Fiery Garment",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18417,
+            "level": 22,
+            "icon": 1539,
+            "name": "Sacred Garment",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18420,
+            "level": 10,
+            "icon": 1536,
+            "name": "Garment of Full Moon",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18424,
+            "level": 12,
+            "icon": 1533,
+            "name": "Mystical Garment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18427,
+            "level": 14,
+            "icon": 1530,
+            "name": "Garment of Northern Chieftains",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18430,
+            "level": 16,
+            "icon": 1515,
+            "name": "Heavenly way Garment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18434,
+            "level": 18,
+            "icon": 1521,
+            "name": "Garment of Frozen Fire",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18439,
+            "level": 22,
+            "icon": 1524,
+            "name": "Divine Protection Garment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19055,
+            "level": 24,
+            "icon": 1524,
+            "name": "Robe of Cruelty",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 19059,
+            "level": 24,
+            "icon": 1539,
+            "name": "Robe of Righteous Anger",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19065,
+            "level": 24,
+            "icon": 3504,
+            "name": "Robe of Blind Fury",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19194,
+            "level": 23,
+            "icon": 1539,
+            "name": "Robe of the Lord of Enchantment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19209,
+            "level": 23,
+            "icon": 1524,
+            "name": "Smock of the Tree Sentinel",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19221,
+            "level": 25,
+            "icon": 1524,
+            "name": "Smock of the Mechanic the Magician",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20409,
+            "level": 6,
+            "icon": 3776,
+            "name": "Fur coat of the Borean Warlock",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20415,
+            "level": 10,
+            "icon": 3776,
+            "name": "Veil Guard's Fur coat",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20427,
+            "level": 12,
+            "icon": 3776,
+            "name": "Fur coat of the Snow Prisoner",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20433,
+            "level": 14,
+            "icon": 3776,
+            "name": "Fur coat of the Northern Oracle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20445,
+            "level": 16,
+            "icon": 3776,
+            "name": "Fur coat of the Polar Hierophant",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20451,
+            "level": 18,
+            "icon": 3776,
+            "name": "Fur Coat of the Vortex Spellweaver",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20457,
+            "level": 20,
+            "icon": 3776,
+            "name": "Fur Coat of the Ice Recluse",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20463,
+            "level": 22,
+            "icon": 3776,
+            "name": "Fur coat of the Faceless Heir",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20475,
+            "level": 24,
+            "icon": 3776,
+            "name": "Fur Coat of the Storm Tamer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20487,
+            "level": 26,
+            "icon": 3776,
+            "name": "Fur Coat of the Whitefaced Demiurge",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 21032,
+            "level": 25,
+            "icon": 1539,
+            "name": "Magic Virtuoso's Vestments",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 21088,
+            "level": 26,
+            "icon": 1524,
+            "name": "Spooky Garment",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 21092,
+            "level": 26,
+            "icon": 1539,
+            "name": "Dark Flame Garment",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 21096,
+            "level": 26,
+            "icon": 3504,
+            "name": "Garment of the Captive Souls",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 21411,
+            "level": 3,
+            "icon": 1524,
+            "name": "Plain Cloth Mantle",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 21415,
+            "level": 6,
+            "icon": 1524,
+            "name": "Shabby Cloth Mantle",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 22204,
+            "level": 6,
+            "icon": 4226,
+            "name": "Winter Vestments of Iceman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22205,
+            "level": 6,
+            "icon": 4226,
+            "name": "Winter Smock of Iceman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22228,
+            "level": 10,
+            "icon": 4226,
+            "name": "Winter Vestments of Ragnar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22229,
+            "level": 10,
+            "icon": 4226,
+            "name": "Winter Smock of Ragnar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22252,
+            "level": 12,
+            "icon": 4226,
+            "name": "Winter Vestments of Frosty Fang",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22253,
+            "level": 12,
+            "icon": 4226,
+            "name": "Winter Smock of Frosty Fang",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22276,
+            "level": 14,
+            "icon": 4226,
+            "name": "Winter Vestments of Mastodon",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22277,
+            "level": 14,
+            "icon": 4226,
+            "name": "Winter Smock of Mastodon",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22300,
+            "level": 16,
+            "icon": 4226,
+            "name": "Winter Vestments of Taron",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22301,
+            "level": 16,
+            "icon": 4226,
+            "name": "Winter Smock of Taron",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22318,
+            "level": 18,
+            "icon": 4226,
+            "name": "Winter Vestments of Kerula",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22319,
+            "level": 18,
+            "icon": 4226,
+            "name": "Winter Smock of Kerula",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22348,
+            "level": 20,
+            "icon": 4226,
+            "name": "Winter Vestments of Gimir",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22349,
+            "level": 20,
+            "icon": 4226,
+            "name": "Winter Smock of Gimir",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22372,
+            "level": 22,
+            "icon": 4226,
+            "name": "Winter Vestments of Flavius",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22373,
+            "level": 22,
+            "icon": 4226,
+            "name": "Winter Smock of Flavius",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22396,
+            "level": 24,
+            "icon": 4226,
+            "name": "Winter Vestments of Ruberius",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22397,
+            "level": 24,
+            "icon": 4226,
+            "name": "Winter Smock of Ruberius",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22420,
+            "level": 26,
+            "icon": 4226,
+            "name": "Winter Vestments of Mortis",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22421,
+            "level": 26,
+            "icon": 4226,
+            "name": "Winter Smock of Mortis",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23350,
+            "level": 20,
+            "icon": 4461,
+            "name": "Vestments of Mages of the Sacred Forest",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23354,
+            "level": 20,
+            "icon": 4460,
+            "name": "Smock of Mages of the Dominant Coalition",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23358,
+            "level": 22,
+            "icon": 4461,
+            "name": "Vestments of Mages of the Pyramid Valley",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23362,
+            "level": 22,
+            "icon": 4460,
+            "name": "Smock of Mages of the Mighty Alliance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23366,
+            "level": 24,
+            "icon": 4461,
+            "name": "Vestments of Mages of the Black Oak Forest",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23370,
+            "level": 24,
+            "icon": 4460,
+            "name": "Smock of Mages of the Legendary Brotherhood",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23374,
+            "level": 26,
+            "icon": 4461,
+            "name": "Vestments of Mages of the Flying Islands",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23378,
+            "level": 26,
+            "icon": 4460,
+            "name": "Smock of Mages of the Immortal Order",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23499,
+            "level": 25,
+            "icon": 1524,
+            "name": "Robe of the Forest Mages",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23526,
+            "level": 27,
+            "icon": 1524,
+            "name": "Robe of the Engineer Mage",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23613,
+            "level": 27,
+            "icon": 1539,
+            "name": "Vestment of the Gladiator Mage",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23614,
+            "level": 27,
+            "icon": 1539,
+            "name": "Smock of the Gladiator Mage",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23786,
+            "level": 6,
+            "icon": 3370,
+            "name": "Smock of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23790,
+            "level": 10,
+            "icon": 3370,
+            "name": "Smock of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23794,
+            "level": 14,
+            "icon": 3370,
+            "name": "Smock of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23798,
+            "level": 16,
+            "icon": 3370,
+            "name": "Smock of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23802,
+            "level": 18,
+            "icon": 3370,
+            "name": "Smock of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23806,
+            "level": 20,
+            "icon": 3370,
+            "name": "Smock of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23810,
+            "level": 22,
+            "icon": 3370,
+            "name": "Smock of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23814,
+            "level": 24,
+            "icon": 3370,
+            "name": "Smock of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23818,
+            "level": 26,
+            "icon": 3370,
+            "name": "Smock of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23822,
+            "level": 28,
+            "icon": 3370,
+            "name": "Smock of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23826,
+            "level": 28,
+            "icon": 3370,
+            "name": "Vestments of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24405,
+            "level": 28,
+            "icon": 4226,
+            "name": "Winter Vestments of the Snow General",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 24409,
+            "level": 28,
+            "icon": 4226,
+            "name": "Winter Smock of the Snow General",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 24429,
+            "level": 28,
+            "icon": 3776,
+            "name": "Fur Coat of the Arctic Ruler",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 24447,
+            "level": 10,
+            "icon": 4628,
+            "name": "All-Mighty Vestments of Ragnar",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24451,
+            "level": 10,
+            "icon": 4628,
+            "name": "Mighty Smock of Ragnar",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24479,
+            "level": 12,
+            "icon": 4628,
+            "name": "All-Mighty Vestments of Frosty Fang",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24480,
+            "level": 14,
+            "icon": 4628,
+            "name": "All-Mighty Vestments of Mastodon",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24481,
+            "level": 16,
+            "icon": 4628,
+            "name": "All-Mighty Vestments of Taron",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24482,
+            "level": 18,
+            "icon": 4628,
+            "name": "All-Mighty Vestments of Kerula",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24483,
+            "level": 20,
+            "icon": 4628,
+            "name": "All-Mighty Vestments of Gimir",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24484,
+            "level": 22,
+            "icon": 4628,
+            "name": "All-Mighty Vestments of Flavius",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24485,
+            "level": 24,
+            "icon": 4628,
+            "name": "All-Mighty Vestments of Ruberius",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24486,
+            "level": 26,
+            "icon": 4628,
+            "name": "All-Mighty Vestments of Mortis",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24487,
+            "level": 28,
+            "icon": 4628,
+            "name": "All-Mighty Vestments of the Snow General",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24515,
+            "level": 12,
+            "icon": 4628,
+            "name": "Mighty Smock of Frosty Fang",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24516,
+            "level": 14,
+            "icon": 4628,
+            "name": "Mighty Smock of Mastodon",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24517,
+            "level": 16,
+            "icon": 4628,
+            "name": "Mighty Smock of Taron",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24518,
+            "level": 18,
+            "icon": 4628,
+            "name": "Mighty Smock of Kerula",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24519,
+            "level": 20,
+            "icon": 4628,
+            "name": "Mighty Smock of Gimir",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24520,
+            "level": 22,
+            "icon": 4628,
+            "name": "Mighty Smock of Flavius",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24521,
+            "level": 24,
+            "icon": 4628,
+            "name": "Mighty Smock of Ruberius",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24522,
+            "level": 26,
+            "icon": 4628,
+            "name": "Mighty Smock of Mortis",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24523,
+            "level": 28,
+            "icon": 4628,
+            "name": "Mighty Smock of the Snow General",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 25230,
+            "level": 28,
+            "icon": 1524,
+            "name": "Vestment of Insight",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 25235,
+            "level": 28,
+            "icon": 1539,
+            "name": "Vestment of Sinister Visions",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 25240,
+            "level": 28,
+            "icon": 3504,
+            "name": "Vestment of Sheer Emptiness",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 25908,
+            "level": 20,
+            "icon": 4460,
+            "name": "Smock of Charmers of the Dominant Coalition",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 25912,
+            "level": 22,
+            "icon": 4460,
+            "name": "Smock of Charmers of the Mighty Alliance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 25916,
+            "level": 24,
+            "icon": 4460,
+            "name": "Smock of Charmers of the Legendary Brotherhood",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 25919,
+            "level": 26,
+            "icon": 4460,
+            "name": "Smock of Charmers of the Immortal Order",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 26330,
+            "level": 29,
+            "icon": 1539,
+            "name": "Robe of the Corsair Mage",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 26334,
+            "level": 29,
+            "icon": 1539,
+            "name": "Smock of the Corsair Charmer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 26499,
+            "level": 29,
+            "icon": 1539,
+            "name": "Vestments of the Legendary Arcanomancer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 26500,
+            "level": 29,
+            "icon": 1539,
+            "name": "Smock of the Legendary Arcanomancer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27215,
+            "level": 14,
+            "icon": 5080,
+            "name": "Shirt of Smiley Willy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27217,
+            "level": 16,
+            "icon": 5080,
+            "name": "Shirt of Smiley Willy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27219,
+            "level": 18,
+            "icon": 5080,
+            "name": "Shirt of Smiley Willy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27221,
+            "level": 20,
+            "icon": 5080,
+            "name": "Shirt of Smiley Willy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27223,
+            "level": 22,
+            "icon": 5080,
+            "name": "Shirt of Smiley Willy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27225,
+            "level": 24,
+            "icon": 5080,
+            "name": "Shirt of Smiley Willy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27227,
+            "level": 26,
+            "icon": 5080,
+            "name": "Shirt of Smiley Willy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27229,
+            "level": 28,
+            "icon": 5080,
+            "name": "Shirt of Smiley Willy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27231,
+            "level": 30,
+            "icon": 5080,
+            "name": "Shirt of Smiley Willy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27233,
+            "level": 14,
+            "icon": 5081,
+            "name": "Shirt of Barry the Crest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27235,
+            "level": 16,
+            "icon": 5081,
+            "name": "Shirt of Barry the Crest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27237,
+            "level": 18,
+            "icon": 5081,
+            "name": "Shirt of Barry the Crest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27239,
+            "level": 20,
+            "icon": 5081,
+            "name": "Shirt of Barry the Crest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27241,
+            "level": 22,
+            "icon": 5081,
+            "name": "Shirt of Barry the Crest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27243,
+            "level": 24,
+            "icon": 5081,
+            "name": "Shirt of Barry the Crest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27245,
+            "level": 26,
+            "icon": 5081,
+            "name": "Shirt of Barry the Crest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27247,
+            "level": 28,
+            "icon": 5081,
+            "name": "Shirt of Barry the Crest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27249,
+            "level": 30,
+            "icon": 5081,
+            "name": "Shirt of Barry the Crest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27951,
+            "level": 30,
+            "icon": 4226,
+            "name": "Winter Vestments of Chernobog",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27955,
+            "level": 30,
+            "icon": 4226,
+            "name": "Winter Smock of Chernobog",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27975,
+            "level": 30,
+            "icon": 3776,
+            "name": "Fur Coat of the Patron of Frost",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27980,
+            "level": 30,
+            "icon": 3776,
+            "name": "Luxury Fur Coat of the Patron of Frost",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28000,
+            "level": 14,
+            "icon": 3776,
+            "name": "Luxury Fur Coat of the Northern Oracle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28004,
+            "level": 16,
+            "icon": 3776,
+            "name": "Luxury Fur Coat of the Polar Hierophant",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28008,
+            "level": 18,
+            "icon": 3776,
+            "name": "Luxury Fur Coat of the Vortex Spellweaver",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28012,
+            "level": 20,
+            "icon": 3776,
+            "name": "Luxury Fur Coat of the Ice Recluse",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28016,
+            "level": 22,
+            "icon": 3776,
+            "name": "Luxury Fur Coat of the Faceless Heir",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28020,
+            "level": 24,
+            "icon": 3776,
+            "name": "Luxury Fur Coat of the Storm Tamer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28024,
+            "level": 26,
+            "icon": 3776,
+            "name": "Luxury Fur Coat of the Whitefaced Demiurge",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28028,
+            "level": 28,
+            "icon": 3776,
+            "name": "Luxury Fur Coat of the Arctic Ruler",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28108,
+            "level": 30,
+            "icon": 4628,
+            "name": "All-Mighty Vestments of Chernobog",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 28112,
+            "level": 30,
+            "icon": 4628,
+            "name": "Mighty Smock of Chernobog",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 28327,
+            "level": 30,
+            "icon": 3370,
+            "name": "Vestments of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 28331,
+            "level": 30,
+            "icon": 3370,
+            "name": "Smock of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 28890,
+            "level": 30,
+            "icon": 1524,
+            "name": "Garment of Restless Being",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 28898,
+            "level": 30,
+            "icon": 1539,
+            "name": "Garment of Rebellious Spirit",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28912,
+            "level": 30,
+            "icon": 3504,
+            "name": "Garment of Wild Heart",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 29402,
+            "level": 32,
+            "icon": 5338,
+            "name": "Hoodie of the Sacred Sign",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29406,
+            "level": 32,
+            "icon": 5338,
+            "name": "Hoodie of Invisible Knowledge",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29458,
+            "level": 20,
+            "icon": 4461,
+            "name": "Vestments of Charmers of the Sacred Forest",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29462,
+            "level": 22,
+            "icon": 4461,
+            "name": "Vestments of Charmers of the Pyramid Valley",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29466,
+            "level": 24,
+            "icon": 4461,
+            "name": "Vestments of Charmers of the Black Oak Forest",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29470,
+            "level": 26,
+            "icon": 4461,
+            "name": "Vestments of Charmers of the Flying Islands",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29474,
+            "level": 28,
+            "icon": 4461,
+            "name": "Vestments of Charmers of the Ship Graveyard",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29478,
+            "level": 28,
+            "icon": 4461,
+            "name": "Vestments of Mages of the Ship Graveyard",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29482,
+            "level": 28,
+            "icon": 4460,
+            "name": "Smock of Mages of the Imperious Clan",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29486,
+            "level": 28,
+            "icon": 4460,
+            "name": "Smock of Charmers of the Imperious Clan",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29724,
+            "level": 7,
+            "icon": 1530,
+            "name": "Smock of Recruit",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 29729,
+            "level": 7,
+            "icon": 1530,
+            "name": "Vestments of Recruit",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 29734,
+            "level": 11,
+            "icon": 1530,
+            "name": "Smock of Mercenary",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 29739,
+            "level": 11,
+            "icon": 1530,
+            "name": "Vestments of Mercenary",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 32032,
+            "level": 30,
+            "icon": 4461,
+            "name": "Garb of the Mages of the Pirate Archipelago",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32036,
+            "level": 30,
+            "icon": 4461,
+            "name": "Garb of the Spellweavers of the Pirate Archipelago",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32040,
+            "level": 30,
+            "icon": 4460,
+            "name": "Smock of the Mages of the Unbreakable Alliance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32044,
+            "level": 30,
+            "icon": 4460,
+            "name": "Smock of the Spellweavers of the Unbreakable Alliance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32080,
+            "level": 18,
+            "icon": 5807,
+            "name": "Witch's Smock of Youth",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32084,
+            "level": 20,
+            "icon": 5807,
+            "name": "Witch's Smock of Longevity",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32088,
+            "level": 22,
+            "icon": 5807,
+            "name": "Witch's Smock of Unfading",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32092,
+            "level": 24,
+            "icon": 5807,
+            "name": "Witch's Smock of Unquenchability",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32096,
+            "level": 26,
+            "icon": 5807,
+            "name": "Witch's Robe of Eternity",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32100,
+            "level": 28,
+            "icon": 5807,
+            "name": "Witch's Smock of Immortality",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32104,
+            "level": 30,
+            "icon": 5807,
+            "name": "Witch's Smock of Integrity",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32108,
+            "level": 18,
+            "icon": 5808,
+            "name": "Northern Smock of Zeal",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32112,
+            "level": 20,
+            "icon": 5808,
+            "name": "Northern Smock of Mutiny",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32116,
+            "level": 22,
+            "icon": 5808,
+            "name": "Northern Robe of Vehemence",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32120,
+            "level": 24,
+            "icon": 5808,
+            "name": "Northern Smock of Ardency",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32124,
+            "level": 26,
+            "icon": 5808,
+            "name": "Northern Smock of Bitterness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32128,
+            "level": 28,
+            "icon": 5808,
+            "name": "Northern Smock of Frenzy",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32132,
+            "level": 30,
+            "icon": 5808,
+            "name": "Northern Smock of Rampage",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32331,
+            "level": 30,
+            "icon": 5822,
+            "name": "Jumpsuit of the Diver Sorcerer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 32333,
+            "level": 30,
+            "icon": 5822,
+            "name": "Jumpsuit of the Diver Spellweaver",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33263,
+            "level": 32,
+            "icon": 5080,
+            "name": "Shirt of Smiley Willy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33267,
+            "level": 32,
+            "icon": 5081,
+            "name": "Shirt of Barry the Crest",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33846,
+            "level": 32,
+            "icon": 4226,
+            "name": "Winter Vestments of Titan",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33850,
+            "level": 32,
+            "icon": 4226,
+            "name": "Winter Smock of Titan",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33870,
+            "level": 32,
+            "icon": 3776,
+            "name": "Storm Lord\u2019s Fur Coat",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33874,
+            "level": 32,
+            "icon": 3776,
+            "name": "Storm Lord\u2019s Luxury Fur Coat",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33894,
+            "level": 32,
+            "icon": 4628,
+            "name": "All-Mighty Vestments of Titan",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 33898,
+            "level": 32,
+            "icon": 4628,
+            "name": "Mighty Smock of Titan",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 34460,
+            "level": 32,
+            "icon": 1524,
+            "name": "Garment of the Sinful Light",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 34474,
+            "level": 32,
+            "icon": 1539,
+            "name": "Garment of the Otherworldly Call",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 34490,
+            "level": 32,
+            "icon": 3504,
+            "name": "Garment of the Ominous Requiem",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 34917,
+            "level": 31,
+            "icon": 1539,
+            "name": "Vestments of the Champion Arcanomancer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 34918,
+            "level": 31,
+            "icon": 1539,
+            "name": "Smock of the Champion Arcanomancer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 34943,
+            "level": 32,
+            "icon": 3370,
+            "name": "Vestments of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 34947,
+            "level": 32,
+            "icon": 3370,
+            "name": "Smock of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35078,
+            "level": 22,
+            "icon": 6184,
+            "name": "Vestment of the Wizards of the Forest\u2019s Heart",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35082,
+            "level": 24,
+            "icon": 6184,
+            "name": "Vestment of the Wizards of the Jaguar\u2019s Den",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35086,
+            "level": 26,
+            "icon": 6184,
+            "name": "Vestment of the Wizards of the Dragon Ness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35090,
+            "level": 28,
+            "icon": 6184,
+            "name": "Vestment of the Wizards of the Sky Sanctuary",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35094,
+            "level": 30,
+            "icon": 6184,
+            "name": "Vestment of the Wizards of the Sea Turtle",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35139,
+            "level": 32,
+            "icon": 5807,
+            "name": "Witch's Robe of Eternity",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35143,
+            "level": 32,
+            "icon": 5808,
+            "name": "Northern Robe of Fierceness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35276,
+            "level": 31,
+            "icon": 1539,
+            "name": "Vestment of the Pirate Mage",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 35280,
+            "level": 31,
+            "icon": 1539,
+            "name": "Robe of the Pirate Spellweaver",
+            "itemType": 2,
+            "color": 3
+        }
+    ]
+}

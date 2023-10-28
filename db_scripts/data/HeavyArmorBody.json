@@ -1,0 +1,2348 @@
+{
+    "list": [
+        {
+            "id": 2014,
+            "level": 12,
+            "icon": 1250,
+            "name": "Trustworthy Chain Mail",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 2015,
+            "level": 12,
+            "icon": 1259,
+            "name": "Trustworthy Hauberk",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 2071,
+            "level": 13,
+            "icon": 1253,
+            "name": "Firm Mail",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 2072,
+            "level": 13,
+            "icon": 1265,
+            "name": "Firm Hauberk",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 2135,
+            "level": 14,
+            "icon": 1265,
+            "name": "Glorious Mail",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 2174,
+            "level": 12,
+            "icon": 1250,
+            "name": "Fine Mail",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 2175,
+            "level": 14,
+            "icon": 1259,
+            "name": "Well-tried Mail",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 2215,
+            "level": 15,
+            "icon": 1268,
+            "name": "Fine hauberk",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 2300,
+            "level": 15,
+            "icon": 1256,
+            "name": "Scale armour of Berengar's guard",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 2301,
+            "level": 15,
+            "icon": 1271,
+            "name": "Mail of Berengar's Endurance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 2351,
+            "level": 15,
+            "icon": 1879,
+            "name": "Mail of Fighter",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4249,
+            "level": 16,
+            "icon": 1244,
+            "name": "Blue Mail of Bodyguard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4250,
+            "level": 16,
+            "icon": 1271,
+            "name": "Green Mail of Bodyguard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4251,
+            "level": 16,
+            "icon": 1253,
+            "name": "Violet Mail of Bodyguard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4252,
+            "level": 16,
+            "icon": 1262,
+            "name": "Red Mail of Bodyguard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4253,
+            "level": 16,
+            "icon": 1277,
+            "name": "Orange Mail of Bodyguard",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4254,
+            "level": 16,
+            "icon": 1244,
+            "name": "Blue Mail of Sergeant",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4255,
+            "level": 16,
+            "icon": 1271,
+            "name": "Green Mail of Sergeant",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4256,
+            "level": 16,
+            "icon": 1253,
+            "name": "Violet Mail of Sergeant",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4257,
+            "level": 16,
+            "icon": 1262,
+            "name": "Red Mail of Sergeant",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4258,
+            "level": 16,
+            "icon": 1277,
+            "name": "Orange Mail of Sergeant",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4408,
+            "level": 16,
+            "icon": 1244,
+            "name": "Blue Carapace of Foreman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4409,
+            "level": 16,
+            "icon": 1271,
+            "name": "Green Carapace of Foreman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4410,
+            "level": 16,
+            "icon": 1253,
+            "name": "Violet Carapace of Foreman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4411,
+            "level": 16,
+            "icon": 1262,
+            "name": "Red Carapace of Foreman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4412,
+            "level": 16,
+            "icon": 1277,
+            "name": "Orange Carapace of Foreman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4413,
+            "level": 16,
+            "icon": 1244,
+            "name": "Blue Carapace of Berserker",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4414,
+            "level": 16,
+            "icon": 1271,
+            "name": "Green Carapace of Berserker",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4415,
+            "level": 16,
+            "icon": 1253,
+            "name": "Violet Carapace of Berserker",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4416,
+            "level": 16,
+            "icon": 1262,
+            "name": "Red Carapace of Berserker",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4417,
+            "level": 16,
+            "icon": 1277,
+            "name": "Orange Carapace of Berserker",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 4481,
+            "level": 5,
+            "icon": 1244,
+            "name": "Used Mail",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 4482,
+            "level": 9,
+            "icon": 1247,
+            "name": "Tempered Mail",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 5198,
+            "level": 1,
+            "icon": 1256,
+            "name": "Novice's Mail Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 5269,
+            "level": 1,
+            "icon": 1611,
+            "name": "Undead's Jacket",
+            "itemType": 2,
+            "color": 0
+        },
+        {
+            "id": 5790,
+            "level": 8,
+            "icon": 1879,
+            "name": "Mail of Beginner Fighter",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 5825,
+            "level": 14,
+            "icon": 1879,
+            "name": "Mail of Young Fighter",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 6373,
+            "level": 17,
+            "icon": 1253,
+            "name": "Desert Wanderer's Carapace",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 6377,
+            "level": 17,
+            "icon": 1265,
+            "name": "Desert Wanderer's Armor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 6473,
+            "level": 18,
+            "icon": 1277,
+            "name": "Hauberk of Heroic Endurance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 6478,
+            "level": 18,
+            "icon": 1879,
+            "name": "Scale Armor of Divine Defence",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 11002,
+            "level": 17,
+            "icon": 1244,
+            "name": "Champion Plate Armor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 11241,
+            "level": 17,
+            "icon": 2584,
+            "name": "Everlasting Winter Cuirass",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13191,
+            "level": 16,
+            "icon": 1277,
+            "name": "Deadborn's Mail",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13193,
+            "level": 16,
+            "icon": 1271,
+            "name": "Deadborn's Hauberk",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13812,
+            "level": 17,
+            "icon": 2569,
+            "name": "Abaris' Cuirass",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13818,
+            "level": 17,
+            "icon": 2569,
+            "name": "Abaris' Mail",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 13858,
+            "level": 18,
+            "icon": 2593,
+            "name": "Garaan's Plate Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14823,
+            "level": 11,
+            "icon": 1253,
+            "name": "Copper Armor",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 14829,
+            "level": 15,
+            "icon": 1268,
+            "name": "Gloomy Armor",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 14834,
+            "level": 17,
+            "icon": 1277,
+            "name": "Steel Armor",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 14839,
+            "level": 20,
+            "icon": 1277,
+            "name": "Berserker's Cuirass",
+            "itemType": 2,
+            "color": 1
+        },
+        {
+            "id": 14843,
+            "level": 11,
+            "icon": 1262,
+            "name": "Notched Cuirass",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14849,
+            "level": 15,
+            "icon": 1268,
+            "name": "Mighty Cuirass",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14854,
+            "level": 17,
+            "icon": 1274,
+            "name": "Mithril Cuirass",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14859,
+            "level": 20,
+            "icon": 2590,
+            "name": "Inferno Cuirass",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 14888,
+            "level": 20,
+            "icon": 2590,
+            "name": "Crusher Asterius' Hauberk",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 14927,
+            "level": 20,
+            "icon": 2590,
+            "name": "Hauberk of the Golden Dawn",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 14931,
+            "level": 20,
+            "icon": 2587,
+            "name": "Scales of the Dark Skies",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 14999,
+            "level": 19,
+            "icon": 1277,
+            "name": "Plate Armor of Brave Warrior",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15046,
+            "level": 15,
+            "icon": 1274,
+            "name": "Cuirass of Northern Chieftains",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15052,
+            "level": 20,
+            "icon": 1274,
+            "name": "Cuirass of Deep Lord",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15090,
+            "level": 21,
+            "icon": 2584,
+            "name": "Hauberk of Fierce Filth",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15301,
+            "level": 21,
+            "icon": 2584,
+            "name": "Dark Guard Hauberk",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 15602,
+            "level": 9,
+            "icon": 1247,
+            "name": "Tempered Mail",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 16927,
+            "level": 22,
+            "icon": 2593,
+            "name": "Plate Armor of the Bloody Jarl",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 16932,
+            "level": 22,
+            "icon": 2593,
+            "name": "Plate Armor of the Die-Hard Huskarl",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 16957,
+            "level": 21,
+            "icon": 3260,
+            "name": "Carapace of Kronus the Champion",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17255,
+            "level": 21,
+            "icon": 1277,
+            "name": "Armor of the Indomitable One",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 17561,
+            "level": 22,
+            "icon": 1277,
+            "name": "Hauberk of Forest Power",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 17601,
+            "level": 6,
+            "icon": 3368,
+            "name": "Plate Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17605,
+            "level": 10,
+            "icon": 3368,
+            "name": "Plate Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17609,
+            "level": 14,
+            "icon": 3368,
+            "name": "Plate Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17613,
+            "level": 16,
+            "icon": 3368,
+            "name": "Plate Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17617,
+            "level": 18,
+            "icon": 3368,
+            "name": "Plate Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17621,
+            "level": 20,
+            "icon": 3368,
+            "name": "Plate Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17625,
+            "level": 22,
+            "icon": 3368,
+            "name": "Plate Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17629,
+            "level": 24,
+            "icon": 3368,
+            "name": "Plate Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 17633,
+            "level": 26,
+            "icon": 3368,
+            "name": "Plate Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 18522,
+            "level": 10,
+            "icon": 3506,
+            "name": "Eternal Life Armor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18526,
+            "level": 12,
+            "icon": 3506,
+            "name": "Armor of Immeasurable Stamina",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18530,
+            "level": 14,
+            "icon": 3506,
+            "name": "Iron Health Armor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18534,
+            "level": 16,
+            "icon": 3506,
+            "name": "Armor of Inexhaustible Strength",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18538,
+            "level": 18,
+            "icon": 3506,
+            "name": "Armor of Endless Perseverance",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18542,
+            "level": 20,
+            "icon": 3506,
+            "name": "Armor of Inexhaustible Perseverance",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18546,
+            "level": 22,
+            "icon": 3506,
+            "name": "Infinite Reliability Armor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18550,
+            "level": 10,
+            "icon": 1250,
+            "name": "Plate armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18554,
+            "level": 12,
+            "icon": 1253,
+            "name": "Notched Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18556,
+            "level": 14,
+            "icon": 1259,
+            "name": "Mighty Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18560,
+            "level": 16,
+            "icon": 1268,
+            "name": "Steel Mail",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18564,
+            "level": 18,
+            "icon": 1265,
+            "name": "Mithril Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18568,
+            "level": 20,
+            "icon": 1274,
+            "name": "Inferno Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18572,
+            "level": 22,
+            "icon": 1271,
+            "name": "Consecrated Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 18576,
+            "level": 10,
+            "icon": 1268,
+            "name": "Armor of Full Moon",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18580,
+            "level": 12,
+            "icon": 1253,
+            "name": "Reinforced Armor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18583,
+            "level": 14,
+            "icon": 1271,
+            "name": "Armor of Northern Chieftains",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18586,
+            "level": 16,
+            "icon": 1274,
+            "name": "Durable Armor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18590,
+            "level": 18,
+            "icon": 1277,
+            "name": "Armor of Frozen Fire",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 18595,
+            "level": 22,
+            "icon": 2593,
+            "name": "Divine Protection Armor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19162,
+            "level": 24,
+            "icon": 1271,
+            "name": "Armor of Cruelty",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 19166,
+            "level": 24,
+            "icon": 2593,
+            "name": "Armor of Righteous Anger",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19170,
+            "level": 24,
+            "icon": 3506,
+            "name": "Armor of Blind Fury",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19204,
+            "level": 23,
+            "icon": 1277,
+            "name": "Plate Armor of the Templar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19217,
+            "level": 23,
+            "icon": 1277,
+            "name": "Hauberk of the Tree Defender",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 19228,
+            "level": 25,
+            "icon": 1277,
+            "name": "Hauberk of the Warrior Mechanic",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20411,
+            "level": 6,
+            "icon": 3778,
+            "name": "Sheepskin of the Borean Warlock",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20417,
+            "level": 10,
+            "icon": 3778,
+            "name": "Veil Guard's Sheepskin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20429,
+            "level": 12,
+            "icon": 3778,
+            "name": "Sheepskin of the Snow Prisoner",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20435,
+            "level": 14,
+            "icon": 3778,
+            "name": "Sheepskin of the Northern Oracle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20447,
+            "level": 16,
+            "icon": 3778,
+            "name": "Sheepskin of the Polar Hierophant",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20453,
+            "level": 18,
+            "icon": 3778,
+            "name": "Sheepskin of the Vortex Spellweaver",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20459,
+            "level": 20,
+            "icon": 3778,
+            "name": "Sheepskin of the Ice Recluse",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20465,
+            "level": 22,
+            "icon": 3778,
+            "name": "Sheepskin of the Faceless Heir",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20477,
+            "level": 24,
+            "icon": 3778,
+            "name": "Sheepskin of the Storm Tamer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 20489,
+            "level": 26,
+            "icon": 3778,
+            "name": "Sheepskin of the Whitefaced Demiurge",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 21042,
+            "level": 25,
+            "icon": 1277,
+            "name": "Armor of Great Ironclad",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 21112,
+            "level": 26,
+            "icon": 1271,
+            "name": "Spooky Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 21116,
+            "level": 26,
+            "icon": 2593,
+            "name": "Dark Flame Armor",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 21120,
+            "level": 26,
+            "icon": 3506,
+            "name": "Armor of the Captive Souls",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 21430,
+            "level": 3,
+            "icon": 1244,
+            "name": "Plain Heavy Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 21435,
+            "level": 6,
+            "icon": 1244,
+            "name": "Shabby Heavy Armor",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 22208,
+            "level": 6,
+            "icon": 4229,
+            "name": "Winter Hauberk of Iceman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22209,
+            "level": 6,
+            "icon": 4229,
+            "name": "Winter Armor of Iceman",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22232,
+            "level": 10,
+            "icon": 4229,
+            "name": "Winter Hauberk of Ragnar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22233,
+            "level": 10,
+            "icon": 4229,
+            "name": "Winter Armor of Ragnar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22256,
+            "level": 12,
+            "icon": 4229,
+            "name": "Winter Hauberk of Frosty Fang",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22257,
+            "level": 12,
+            "icon": 4229,
+            "name": "Winter Armor of Frosty Fang",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22280,
+            "level": 14,
+            "icon": 4229,
+            "name": "Winter Hauberk of Mastodon",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22281,
+            "level": 14,
+            "icon": 4229,
+            "name": "Winter Armor of Mastodon",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22304,
+            "level": 16,
+            "icon": 4229,
+            "name": "Winter Hauberk of Taron",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22305,
+            "level": 16,
+            "icon": 4229,
+            "name": "Winter Armor of Taron",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22322,
+            "level": 18,
+            "icon": 4229,
+            "name": "Winter Hauberk of Kerula",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22323,
+            "level": 18,
+            "icon": 4229,
+            "name": "Winter Armor of Kerula",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22352,
+            "level": 20,
+            "icon": 4229,
+            "name": "Winter Hauberk of Gimir",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22353,
+            "level": 20,
+            "icon": 4229,
+            "name": "Winter Armor of Gimir",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22376,
+            "level": 22,
+            "icon": 4229,
+            "name": "Winter Hauberk of Flavius",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22377,
+            "level": 22,
+            "icon": 4229,
+            "name": "Winter Armor of Flavius",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22400,
+            "level": 24,
+            "icon": 4229,
+            "name": "Winter Hauberk of Ruberius",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22401,
+            "level": 24,
+            "icon": 4229,
+            "name": "Winter Armor of Ruberius",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22424,
+            "level": 26,
+            "icon": 4229,
+            "name": "Winter Hauberk of Mortis",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 22425,
+            "level": 26,
+            "icon": 4229,
+            "name": "Winter Armor of Mortis",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23382,
+            "level": 20,
+            "icon": 4471,
+            "name": "Armor of Defenders of the Sacred Forest",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23386,
+            "level": 20,
+            "icon": 4472,
+            "name": "Plate Mail of Defenders of the Dominant Coalition",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23390,
+            "level": 22,
+            "icon": 4471,
+            "name": "Armor of Defenders of the Pyramid Valley",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23394,
+            "level": 22,
+            "icon": 4472,
+            "name": "Plate Mail of Defenders of the Mighty Alliance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23398,
+            "level": 24,
+            "icon": 4471,
+            "name": "Armor of Defenders of the Black Oak Forest",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23402,
+            "level": 24,
+            "icon": 4472,
+            "name": "Plate Mail of Defenders of the Legendary Brotherhood",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23406,
+            "level": 26,
+            "icon": 4471,
+            "name": "Armor of Defenders of the Flying Islands",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23410,
+            "level": 26,
+            "icon": 4472,
+            "name": "Plate Mail of Defenders of the Immortal Order",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23505,
+            "level": 25,
+            "icon": 1277,
+            "name": "Armor of the Forest Defenders",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23534,
+            "level": 27,
+            "icon": 1277,
+            "name": "Armor of the Engineer Defender",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23631,
+            "level": 27,
+            "icon": 1277,
+            "name": "Plate Armor of the Gladiator Defender",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23632,
+            "level": 27,
+            "icon": 1277,
+            "name": "Armor of the Gladiator Defender",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 23874,
+            "level": 6,
+            "icon": 3368,
+            "name": "Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23878,
+            "level": 10,
+            "icon": 3368,
+            "name": "Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23882,
+            "level": 14,
+            "icon": 3368,
+            "name": "Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23886,
+            "level": 16,
+            "icon": 3368,
+            "name": "Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23890,
+            "level": 18,
+            "icon": 3368,
+            "name": "Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23894,
+            "level": 20,
+            "icon": 3368,
+            "name": "Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23898,
+            "level": 22,
+            "icon": 3368,
+            "name": "Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23902,
+            "level": 24,
+            "icon": 3368,
+            "name": "Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23906,
+            "level": 26,
+            "icon": 3368,
+            "name": "Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23910,
+            "level": 28,
+            "icon": 3368,
+            "name": "Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 23914,
+            "level": 28,
+            "icon": 3368,
+            "name": "Plate Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24421,
+            "level": 28,
+            "icon": 4229,
+            "name": "Winter Hauberk of the Snow General",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 24425,
+            "level": 28,
+            "icon": 4229,
+            "name": "Winter Armor of the Snow General",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 24437,
+            "level": 28,
+            "icon": 3778,
+            "name": "Sheepskin of the Arctic Ruler",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 24463,
+            "level": 10,
+            "icon": 4632,
+            "name": "Omnipotent Hauberk of Ragnar",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24467,
+            "level": 10,
+            "icon": 4632,
+            "name": "Majestic Armor of Ragnar",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24623,
+            "level": 12,
+            "icon": 4632,
+            "name": "Omnipotent Hauberk of Frosty Fang",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24624,
+            "level": 14,
+            "icon": 4632,
+            "name": "Omnipotent Hauberk of Mastodon",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24625,
+            "level": 16,
+            "icon": 4632,
+            "name": "Omnipotent Hauberk of Taron",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24626,
+            "level": 18,
+            "icon": 4632,
+            "name": "Omnipotent Hauberk of Kerula",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24627,
+            "level": 20,
+            "icon": 4632,
+            "name": "Omnipotent Hauberk of Gimir",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24628,
+            "level": 22,
+            "icon": 4632,
+            "name": "Omnipotent Hauberk of Flavius",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24629,
+            "level": 24,
+            "icon": 4632,
+            "name": "Omnipotent Hauberk of Ruberius",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24630,
+            "level": 26,
+            "icon": 4632,
+            "name": "Omnipotent Hauberk of Mortis",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24631,
+            "level": 28,
+            "icon": 4632,
+            "name": "Omnipotent Hauberk of the Snow General",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24659,
+            "level": 12,
+            "icon": 4632,
+            "name": "Majestic Armor of Frosty Fang",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24660,
+            "level": 14,
+            "icon": 4632,
+            "name": "Majestic Armor of the Mastodon",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24661,
+            "level": 16,
+            "icon": 4632,
+            "name": "Majestic Armor of Taron",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24662,
+            "level": 18,
+            "icon": 4632,
+            "name": "Majestic Armor of Kerula",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24663,
+            "level": 20,
+            "icon": 4632,
+            "name": "Majestic Armor of Gimir",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24664,
+            "level": 22,
+            "icon": 4632,
+            "name": "Majestic Armor of Flavius",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24665,
+            "level": 24,
+            "icon": 4632,
+            "name": "Majestic Armor of Ruberius",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24666,
+            "level": 26,
+            "icon": 4632,
+            "name": "Majestic Armor of Mortis",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 24667,
+            "level": 28,
+            "icon": 4632,
+            "name": "Majestic Armor of the Snow General",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 25260,
+            "level": 28,
+            "icon": 1271,
+            "name": "Armor of Insight",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 25265,
+            "level": 28,
+            "icon": 2593,
+            "name": "Armor of Sinister Visions",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 25270,
+            "level": 28,
+            "icon": 3506,
+            "name": "Armor of Sheer Emptiness",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 25939,
+            "level": 20,
+            "icon": 4472,
+            "name": "Plate Armor of Templars of the Dominant Coalition",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 25944,
+            "level": 22,
+            "icon": 4472,
+            "name": "Plate Armor of Templars of the Mighty Alliance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 25947,
+            "level": 24,
+            "icon": 4472,
+            "name": "Plate Armor of Templars of the Legendary Brotherhood",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 25951,
+            "level": 26,
+            "icon": 4472,
+            "name": "Plate Armor of Templars of the Immortal Order",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 26346,
+            "level": 29,
+            "icon": 1268,
+            "name": "Armor of the Corsair Defender",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 26350,
+            "level": 29,
+            "icon": 1268,
+            "name": "Plate Armor of the Corsair Templar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 26517,
+            "level": 29,
+            "icon": 1277,
+            "name": "Plate Armor of the Legendary Templar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 26518,
+            "level": 29,
+            "icon": 1277,
+            "name": "Armor of the Legendary Templar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27287,
+            "level": 14,
+            "icon": 5085,
+            "name": "Shirt of Raider Hans",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27289,
+            "level": 16,
+            "icon": 5085,
+            "name": "Shirt of Raider Hans",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27291,
+            "level": 18,
+            "icon": 5085,
+            "name": "Shirt of Raider Hans",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27293,
+            "level": 20,
+            "icon": 5085,
+            "name": "Shirt of Raider Hans",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27295,
+            "level": 22,
+            "icon": 5085,
+            "name": "Shirt of Raider Hans",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27297,
+            "level": 24,
+            "icon": 5085,
+            "name": "Shirt of Raider Hans",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27299,
+            "level": 26,
+            "icon": 5085,
+            "name": "Shirt of Raider Hans",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27301,
+            "level": 28,
+            "icon": 5085,
+            "name": "Shirt of Raider Hans",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27303,
+            "level": 30,
+            "icon": 5085,
+            "name": "Shirt of Raider Hans",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27305,
+            "level": 14,
+            "icon": 5086,
+            "name": "Shirt of Patched Sammy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27307,
+            "level": 16,
+            "icon": 5086,
+            "name": "Shirt of Patched Sammy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27309,
+            "level": 18,
+            "icon": 5086,
+            "name": "Shirt of Patched Sammy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27311,
+            "level": 20,
+            "icon": 5086,
+            "name": "Shirt of Patched Sammy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27313,
+            "level": 22,
+            "icon": 5086,
+            "name": "Shirt of Patched Sammy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27315,
+            "level": 24,
+            "icon": 5086,
+            "name": "Shirt of Patched Sammy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27317,
+            "level": 26,
+            "icon": 5086,
+            "name": "Shirt of Patched Sammy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27319,
+            "level": 28,
+            "icon": 5086,
+            "name": "Shirt of Patched Sammy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27321,
+            "level": 30,
+            "icon": 5086,
+            "name": "Shirt of Patched Sammy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27967,
+            "level": 30,
+            "icon": 4229,
+            "name": "Winter Hauberk of Chernobog",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27971,
+            "level": 30,
+            "icon": 4229,
+            "name": "Winter Armor of Chernobog",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27992,
+            "level": 30,
+            "icon": 3778,
+            "name": "Sheepskin of the Patron of Frost",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 27996,
+            "level": 30,
+            "icon": 3778,
+            "name": "Bekishe of the Patron of Frost",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28064,
+            "level": 14,
+            "icon": 3778,
+            "name": "Bekishe of the Northern Oracle",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28068,
+            "level": 16,
+            "icon": 3778,
+            "name": "Bekishe of the Polar Hierophant",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28072,
+            "level": 18,
+            "icon": 3778,
+            "name": "Bekishe of the Vortex Spellweaver",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28076,
+            "level": 20,
+            "icon": 3778,
+            "name": "Bekishe of the Ice Recluse",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28080,
+            "level": 22,
+            "icon": 3778,
+            "name": "Bekishe of the Faceless Heir",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28084,
+            "level": 24,
+            "icon": 3778,
+            "name": "Bekishe of the Storm Tamer",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28088,
+            "level": 26,
+            "icon": 3778,
+            "name": "Bekishe of the Whitefaced Demiurge",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28092,
+            "level": 28,
+            "icon": 3778,
+            "name": "Bekishe of the Arctic Ruler",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28124,
+            "level": 30,
+            "icon": 4632,
+            "name": "Omnipotent Hauberk of Chernobog",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 28128,
+            "level": 30,
+            "icon": 4632,
+            "name": "Majestic Armor of Chernobog",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 28343,
+            "level": 30,
+            "icon": 3368,
+            "name": "Plate Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 28347,
+            "level": 30,
+            "icon": 3368,
+            "name": "Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 28932,
+            "level": 30,
+            "icon": 1271,
+            "name": "Armor of Restless Being",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 28937,
+            "level": 30,
+            "icon": 2593,
+            "name": "Armor of Rebellious Spirit",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 28949,
+            "level": 30,
+            "icon": 3506,
+            "name": "Armor of Wild Heart",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 29418,
+            "level": 32,
+            "icon": 5342,
+            "name": "Armor of Power Incarnation",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29422,
+            "level": 32,
+            "icon": 5342,
+            "name": "Armor of Doom's Command",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29522,
+            "level": 20,
+            "icon": 4471,
+            "name": "Armor of Templars of the Sacred Forest",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29526,
+            "level": 22,
+            "icon": 4471,
+            "name": "Armor of Templars of the Pyramid Valley",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29530,
+            "level": 24,
+            "icon": 4471,
+            "name": "Armor of Templars of the Black Oak Forest",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29534,
+            "level": 26,
+            "icon": 4471,
+            "name": "Armor of Templars of the Flying Islands",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29538,
+            "level": 28,
+            "icon": 4471,
+            "name": "Armor of Templars of the Ship Graveyard",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29542,
+            "level": 28,
+            "icon": 4471,
+            "name": "Armor of Defenders of the Ship Graveyard",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29546,
+            "level": 28,
+            "icon": 4472,
+            "name": "Plate Mail of Defenders of the Imperious Clan",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29550,
+            "level": 28,
+            "icon": 4472,
+            "name": "Plate Armor of Templars of the Imperious Clan",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 29769,
+            "level": 7,
+            "icon": 1247,
+            "name": "Armor of Recruit",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 29774,
+            "level": 7,
+            "icon": 1247,
+            "name": "Mail of Recruit",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 29779,
+            "level": 11,
+            "icon": 1247,
+            "name": "Armor of Mercenary",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 29784,
+            "level": 11,
+            "icon": 1247,
+            "name": "Mail of Mercenary",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 32064,
+            "level": 30,
+            "icon": 4471,
+            "name": "Armor of the Defenders of the Pirate Archipelago",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32068,
+            "level": 30,
+            "icon": 4471,
+            "name": "Armor of the Templars of the Pirate Archipelago",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32072,
+            "level": 30,
+            "icon": 4472,
+            "name": "Plate Armor of the Defenders of the Unbreakable Alliance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32076,
+            "level": 30,
+            "icon": 4472,
+            "name": "Plate Armor of the Templars of the Unbreakable Alliance",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32192,
+            "level": 18,
+            "icon": 5815,
+            "name": "Sorcerer's Armor of Youth",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32196,
+            "level": 20,
+            "icon": 5815,
+            "name": "Sorcerer's Armor of Longevity",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32200,
+            "level": 22,
+            "icon": 5815,
+            "name": "Sorcerer's Armor of Unfading",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32204,
+            "level": 24,
+            "icon": 5815,
+            "name": "Sorcerer's Armor of Unquenchability",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32208,
+            "level": 26,
+            "icon": 5815,
+            "name": "Sorcerer's Armor of Eternity",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32212,
+            "level": 28,
+            "icon": 5815,
+            "name": "Sorcerer's Armor of Immortality",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32216,
+            "level": 30,
+            "icon": 5815,
+            "name": "Sorcerer's Armor of Integrity",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32220,
+            "level": 18,
+            "icon": 5816,
+            "name": "Arctic Armor of Zeal",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32224,
+            "level": 20,
+            "icon": 5816,
+            "name": "Arctic Armor of Mutiny",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32228,
+            "level": 22,
+            "icon": 5816,
+            "name": "Arctic Armor of Vehemence",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32232,
+            "level": 24,
+            "icon": 5816,
+            "name": "Arctic Armor of Ardency",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32236,
+            "level": 26,
+            "icon": 5816,
+            "name": "Arctic Armor of Bitterness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32240,
+            "level": 28,
+            "icon": 5816,
+            "name": "Arctic Armor of Frenzy",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32244,
+            "level": 30,
+            "icon": 5816,
+            "name": "Arctic Armor of Rampage",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 32339,
+            "level": 30,
+            "icon": 5824,
+            "name": "Jumpsuit of the Diver Defender",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 32341,
+            "level": 30,
+            "icon": 5824,
+            "name": "Jumpsuit of the Diver Templar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33279,
+            "level": 32,
+            "icon": 5085,
+            "name": "Shirt of Raider Hans",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33283,
+            "level": 32,
+            "icon": 5086,
+            "name": "Shirt of Patched Sammy",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33862,
+            "level": 32,
+            "icon": 4229,
+            "name": "Winter Hauberk of Titan",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33866,
+            "level": 32,
+            "icon": 4229,
+            "name": "Winter Armor of Titan",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33886,
+            "level": 32,
+            "icon": 3778,
+            "name": "Storm Lord\u2019s Sheepskin",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33890,
+            "level": 32,
+            "icon": 3778,
+            "name": "Storm Lord\u2019s Bekishe",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 33910,
+            "level": 32,
+            "icon": 4632,
+            "name": "Omnipotent Hauberk of Titan",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 33914,
+            "level": 32,
+            "icon": 4632,
+            "name": "Majestic Armor of Titan",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 34468,
+            "level": 32,
+            "icon": 1271,
+            "name": "Armor of the Sinful Light",
+            "itemType": 2,
+            "color": 2
+        },
+        {
+            "id": 34485,
+            "level": 32,
+            "icon": 2593,
+            "name": "Armor of the Otherworldly Call",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 34500,
+            "level": 32,
+            "icon": 3506,
+            "name": "Armor of the Ominous Requiem",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 34935,
+            "level": 31,
+            "icon": 1277,
+            "name": "Plate Armor of the Champion Templar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 34936,
+            "level": 31,
+            "icon": 1277,
+            "name": "Armor of the Champion Templar",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 34959,
+            "level": 32,
+            "icon": 3368,
+            "name": "Plate Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 34963,
+            "level": 32,
+            "icon": 3368,
+            "name": "Armor of Greatness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35118,
+            "level": 22,
+            "icon": 6188,
+            "name": "Plate Armor of the Knights of the Forest\u2019s Heart",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35122,
+            "level": 24,
+            "icon": 6188,
+            "name": "Plate Armor of the Knights of the Jaguar\u2019s Den",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35126,
+            "level": 26,
+            "icon": 6188,
+            "name": "Plate Armor of the Knights of the Dragon Ness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35130,
+            "level": 28,
+            "icon": 6188,
+            "name": "Plate Armor of the Knights of the Sky Sanctuary",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35134,
+            "level": 30,
+            "icon": 6188,
+            "name": "Plate Armor of the Knights of the Sea Turtle",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35155,
+            "level": 32,
+            "icon": 5815,
+            "name": "Sorcerer's Armor of Eternity",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35159,
+            "level": 32,
+            "icon": 5816,
+            "name": "Arctic Armor of Fierceness",
+            "itemType": 2,
+            "color": 4
+        },
+        {
+            "id": 35293,
+            "level": 31,
+            "icon": 1268,
+            "name": "Armor of the Defender Pirate",
+            "itemType": 2,
+            "color": 3
+        },
+        {
+            "id": 35297,
+            "level": 31,
+            "icon": 1268,
+            "name": "Plate Armor of the Templar Pirate",
+            "itemType": 2,
+            "color": 3
+        }
+    ]
+}

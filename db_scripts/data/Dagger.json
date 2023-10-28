@@ -1,0 +1,1700 @@
+{
+    "list": [
+        {
+            "id": 668,
+            "level": 1,
+            "icon": 1106,
+            "name": "Copper Knife",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 869,
+            "level": 2,
+            "icon": 1109,
+            "name": "Rusty Knife",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 901,
+            "level": 3,
+            "icon": 1109,
+            "name": "Cheap Knife",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 937,
+            "level": 7,
+            "icon": 1103,
+            "name": "Knife of Vagabond",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 995,
+            "level": 10,
+            "icon": 1100,
+            "name": "High-quality Knife",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 1047,
+            "level": 9,
+            "icon": 1103,
+            "name": "Knife of Rogue",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2056,
+            "level": 12,
+            "icon": 1100,
+            "name": "Acute Knife",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 2125,
+            "level": 13,
+            "icon": 1103,
+            "name": "Acute Dirk",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2160,
+            "level": 13,
+            "icon": 1106,
+            "name": "Tested Dagger",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 2286,
+            "level": 15,
+            "icon": 1112,
+            "name": "Tested Rondel",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 2340,
+            "level": 15,
+            "icon": 1106,
+            "name": "Tested Kris",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 2344,
+            "level": 14,
+            "icon": 1106,
+            "name": "Tested Shiv",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 2366,
+            "level": 15,
+            "icon": 1106,
+            "name": "Acute Rondel",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 5185,
+            "level": 1,
+            "icon": 1106,
+            "name": "Novice's Dagger",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 5810,
+            "level": 9,
+            "icon": 1103,
+            "name": "Battle Dagger",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 5838,
+            "level": 1,
+            "icon": 1100,
+            "name": "",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 6433,
+            "level": 17,
+            "icon": 1100,
+            "name": "Kris of Abyss Zealot",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 6499,
+            "level": 18,
+            "icon": 1112,
+            "name": "Rondel of Sudden Doom",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 11139,
+            "level": 17,
+            "icon": 1112,
+            "name": "Scout Kris",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 11216,
+            "level": 16,
+            "icon": 1103,
+            "name": "Icy Dirk",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13160,
+            "level": 8,
+            "icon": 1103,
+            "name": "Werewolf's Dagger",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13177,
+            "level": 14,
+            "icon": 1103,
+            "name": "Headsman's Knife",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 13196,
+            "level": 18,
+            "icon": 1103,
+            "name": "Night Prince's Rondel",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 13869,
+            "level": 19,
+            "icon": 1103,
+            "name": "Ruberius' Kris",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14101,
+            "level": 19,
+            "icon": 1103,
+            "name": "Rondel of Endless War",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 14391,
+            "level": 10,
+            "icon": 1103,
+            "name": "Granite Dagger",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14399,
+            "level": 15,
+            "icon": 1106,
+            "name": "Phantom Kris",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14405,
+            "level": 18,
+            "icon": 1100,
+            "name": "Stinging Dagger",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 14413,
+            "level": 11,
+            "icon": 1100,
+            "name": "Serrated Knife",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14415,
+            "level": 13,
+            "icon": 1100,
+            "name": "Flickering Dagger",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14422,
+            "level": 16,
+            "icon": 1103,
+            "name": "Flickering Kris",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14437,
+            "level": 18,
+            "icon": 1103,
+            "name": "Hewing Rondel",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14443,
+            "level": 20,
+            "icon": 1103,
+            "name": "Ashen Kris",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 14445,
+            "level": 10,
+            "icon": 1103,
+            "name": "Enchanted Kris of the Ent",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 14861,
+            "level": 19,
+            "icon": 1100,
+            "name": "Berengar's Dagger",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15003,
+            "level": 19,
+            "icon": 1103,
+            "name": "Provocator's Kris",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15093,
+            "level": 20,
+            "icon": 1100,
+            "name": "Kris of Damned Pilgrims",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15130,
+            "level": 21,
+            "icon": 1106,
+            "name": "Desecrate Dagger",
+            "itemType": 0,
+            "color": 0
+        },
+        {
+            "id": 15320,
+            "level": 21,
+            "icon": 1100,
+            "name": "Enchanted Dagger of the Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15332,
+            "level": 22,
+            "icon": 1100,
+            "name": "Pontifices' Dagger",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 15345,
+            "level": 23,
+            "icon": 1100,
+            "name": "Soulless Saint's Rondel",
+            "itemType": 0,
+            "color": 1
+        },
+        {
+            "id": 15838,
+            "level": 4,
+            "icon": 3077,
+            "name": "Midnight Hunter's Dagger",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15850,
+            "level": 7,
+            "icon": 3077,
+            "name": "Silent Maniac's Dagger",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15862,
+            "level": 10,
+            "icon": 3077,
+            "name": "Dagger of Still Heart",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15874,
+            "level": 13,
+            "icon": 3077,
+            "name": "Dagger of Faceless Nightmare",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15886,
+            "level": 16,
+            "icon": 3077,
+            "name": "Dagger of Sinful Call",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15898,
+            "level": 19,
+            "icon": 3077,
+            "name": "Dagger of Immortal Recluse",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 15910,
+            "level": 21,
+            "icon": 3077,
+            "name": "Dagger of Overwhelming Fury",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16119,
+            "level": 5,
+            "icon": 3123,
+            "name": "Kris of the Holiday Thief",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16132,
+            "level": 8,
+            "icon": 3123,
+            "name": "Kris of Oath-breaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16147,
+            "level": 11,
+            "icon": 3123,
+            "name": "Kris of Braincrasher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16160,
+            "level": 14,
+            "icon": 3123,
+            "name": "Kris of Toothy Hunter",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16173,
+            "level": 17,
+            "icon": 3123,
+            "name": "Kris of Northern Whirl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16186,
+            "level": 20,
+            "icon": 3123,
+            "name": "Kris of the Snow Lady",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16199,
+            "level": 22,
+            "icon": 3123,
+            "name": "Kris of Permafrost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16903,
+            "level": 21,
+            "icon": 3248,
+            "name": "Crusher's Kris",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 16968,
+            "level": 22,
+            "icon": 1103,
+            "name": "Kris of Northern Courage",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17110,
+            "level": 10,
+            "icon": 1103,
+            "name": "Serrated Dagger",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17111,
+            "level": 12,
+            "icon": 1103,
+            "name": "Well-tried Rondel",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17112,
+            "level": 14,
+            "icon": 1103,
+            "name": "Molten Rondel",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17140,
+            "level": 12,
+            "icon": 1103,
+            "name": "Rondel of Full Moon",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17141,
+            "level": 14,
+            "icon": 1103,
+            "name": "Rondel of Northern Chieftains",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17142,
+            "level": 16,
+            "icon": 1106,
+            "name": "Dagger of Frozen Fire",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17143,
+            "level": 20,
+            "icon": 1106,
+            "name": "Dagger of Deep Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17168,
+            "level": 10,
+            "icon": 3400,
+            "name": "Amplified Kris of the Ent",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17176,
+            "level": 12,
+            "icon": 3400,
+            "name": "Rondel of Lunar Sickle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17184,
+            "level": 14,
+            "icon": 3400,
+            "name": "Rondel of Northern Lords",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17192,
+            "level": 16,
+            "icon": 3400,
+            "name": "Dagger of Chilled Flame",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17200,
+            "level": 18,
+            "icon": 3400,
+            "name": "Rondel of Dead Silence",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17208,
+            "level": 20,
+            "icon": 3400,
+            "name": "Dagger of the Depth Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17297,
+            "level": 22,
+            "icon": 1109,
+            "name": "Horrifying Kris",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 17303,
+            "level": 22,
+            "icon": 1100,
+            "name": "All-Destroying Rondel",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17311,
+            "level": 22,
+            "icon": 3400,
+            "name": "Dagger of Death Herald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17567,
+            "level": 23,
+            "icon": 3388,
+            "name": "Battle Dagger of Devastation",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17940,
+            "level": 5,
+            "icon": 3077,
+            "name": "Night Puppeteer's Dagger",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17952,
+            "level": 14,
+            "icon": 3077,
+            "name": "Dagger of Fatal Mistake",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17964,
+            "level": 18,
+            "icon": 3077,
+            "name": "Dagger of Deadly Game",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 17976,
+            "level": 23,
+            "icon": 3077,
+            "name": "Killer Puppet's Dagger",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18274,
+            "level": 10,
+            "icon": 3123,
+            "name": "Kris of the Tribe Leader",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18289,
+            "level": 18,
+            "icon": 3123,
+            "name": "Kris of the Immortal Wanderer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18302,
+            "level": 23,
+            "icon": 3123,
+            "name": "Bound Conqueror's Kris",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18879,
+            "level": 23,
+            "icon": 3248,
+            "name": "Kris of the Assassin",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 18901,
+            "level": 13,
+            "icon": 1100,
+            "name": "Kris of Young Gladiator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19023,
+            "level": 24,
+            "icon": 1109,
+            "name": "Rune kris",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 19031,
+            "level": 24,
+            "icon": 1100,
+            "name": "Kris of Liberator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19037,
+            "level": 24,
+            "icon": 3400,
+            "name": "Kris of Legendary Defender",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19266,
+            "level": 25,
+            "icon": 3621,
+            "name": "Technocrat's Kris",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19279,
+            "level": 25,
+            "icon": 1100,
+            "name": "Kris of Revival",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 19959,
+            "level": 6,
+            "icon": 3077,
+            "name": "Dagger of the Blind Outlaw",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 19984,
+            "level": 12,
+            "icon": 3077,
+            "name": "Dagger of the Unsleeping Predator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20022,
+            "level": 20,
+            "icon": 3077,
+            "name": "Dagger of the Damned Heir",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20035,
+            "level": 22,
+            "icon": 3077,
+            "name": "Dagger of the Distracted Apostate",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20048,
+            "level": 24,
+            "icon": 3077,
+            "name": "Dagger of the Night Visitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20073,
+            "level": 26,
+            "icon": 3077,
+            "name": "Dagger of the Bloody Earl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20268,
+            "level": 6,
+            "icon": 3123,
+            "name": "Kris of Cold-Bearing Spirit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20289,
+            "level": 12,
+            "icon": 3123,
+            "name": "Kris of the Frozen Master",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20310,
+            "level": 16,
+            "icon": 3123,
+            "name": "Kris of the Rune Scald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20343,
+            "level": 24,
+            "icon": 3123,
+            "name": "Kris of the Ice Prince",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20358,
+            "level": 26,
+            "icon": 3123,
+            "name": "Kris of the Descendant of the Titans",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 20783,
+            "level": 6,
+            "icon": 3862,
+            "name": "Dagger of the Green Hill",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20798,
+            "level": 10,
+            "icon": 3862,
+            "name": "Dagger of the Heath Meadow",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20813,
+            "level": 12,
+            "icon": 3862,
+            "name": "Dagger of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20828,
+            "level": 14,
+            "icon": 3862,
+            "name": "Dagger of the Spring Symphony",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20848,
+            "level": 16,
+            "icon": 3862,
+            "name": "Dagger of the Happy Month",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20863,
+            "level": 18,
+            "icon": 3862,
+            "name": "Dagger of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20878,
+            "level": 20,
+            "icon": 3862,
+            "name": "Dagger of the Arcane Valley",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20893,
+            "level": 22,
+            "icon": 3862,
+            "name": "Dagger of the Forest Mystery",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20908,
+            "level": 24,
+            "icon": 3862,
+            "name": "Dagger of the Blooming Island",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 20923,
+            "level": 26,
+            "icon": 3862,
+            "name": "Dagger of the Emerald Tower",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21018,
+            "level": 25,
+            "icon": 3248,
+            "name": "Elusive Killer's Kris",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21054,
+            "level": 26,
+            "icon": 1109,
+            "name": "Filth Kris",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21062,
+            "level": 26,
+            "icon": 1100,
+            "name": "Kris of Soulbreaker",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21070,
+            "level": 26,
+            "icon": 3400,
+            "name": "Kris of Cruel Demolisher",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21344,
+            "level": 3,
+            "icon": 1100,
+            "name": "Plain Dagger",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21357,
+            "level": 5,
+            "icon": 1100,
+            "name": "Light Dagger",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21370,
+            "level": 7,
+            "icon": 1100,
+            "name": "Coarse Dagger",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21383,
+            "level": 9,
+            "icon": 1100,
+            "name": "Smooth Dagger",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21396,
+            "level": 11,
+            "icon": 1100,
+            "name": "Useful Dagger",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 21719,
+            "level": 6,
+            "icon": 4100,
+            "name": "Dagger of Deep Slumber",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21734,
+            "level": 10,
+            "icon": 4100,
+            "name": "Dagger of Somnolent Whispers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21749,
+            "level": 12,
+            "icon": 4100,
+            "name": "Dagger of Restless Dreaming",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21764,
+            "level": 14,
+            "icon": 4100,
+            "name": "Dagger of Black Oblivion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21779,
+            "level": 16,
+            "icon": 4100,
+            "name": "Dagger of Sinister Phantasms",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21794,
+            "level": 18,
+            "icon": 4100,
+            "name": "Dagger of Dreadful Delusion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21809,
+            "level": 20,
+            "icon": 4100,
+            "name": "Dagger of Nocturnal Terror",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21824,
+            "level": 22,
+            "icon": 4100,
+            "name": "Dagger of Incarnated Nightmares",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21839,
+            "level": 24,
+            "icon": 4100,
+            "name": "Dagger of Midnight Howl",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 21854,
+            "level": 26,
+            "icon": 4100,
+            "name": "Dagger of Suffocating Fear",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22806,
+            "level": 6,
+            "icon": 4335,
+            "name": "Dagger of the Kingdom of Daring",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22821,
+            "level": 10,
+            "icon": 4335,
+            "name": "Dagger of the Kingdom of Boldness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22836,
+            "level": 12,
+            "icon": 4335,
+            "name": "Dagger of the Kingdom of Devotion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22851,
+            "level": 14,
+            "icon": 4335,
+            "name": "Dagger of the Kingdom of Bravery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22866,
+            "level": 16,
+            "icon": 4335,
+            "name": "Dagger of the Kingdom of Magnanimity",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22881,
+            "level": 18,
+            "icon": 4335,
+            "name": "Dagger of the Kingdom of Nobleness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22896,
+            "level": 20,
+            "icon": 4335,
+            "name": "Dagger of the Kingdom of Justice",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22911,
+            "level": 22,
+            "icon": 4335,
+            "name": "Dagger of the Kingdom of Honor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22926,
+            "level": 24,
+            "icon": 4335,
+            "name": "Dagger of the Kingdom of Valor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 22941,
+            "level": 26,
+            "icon": 4335,
+            "name": "Dagger of the Kingdom of Fearlessness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23479,
+            "level": 25,
+            "icon": 3388,
+            "name": "Dagger of Tree of the Seasons\u2019 Keepers",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23548,
+            "level": 27,
+            "icon": 3621,
+            "name": "Dagger of Technopolis Guards",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 23597,
+            "level": 27,
+            "icon": 3248,
+            "name": "Kris of the Arena Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24071,
+            "level": 28,
+            "icon": 4100,
+            "name": "Dagger of Impending Madness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24086,
+            "level": 28,
+            "icon": 3077,
+            "name": "Dagger of the Crazy King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 24388,
+            "level": 28,
+            "icon": 3123,
+            "name": "Kris of the Winter King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25018,
+            "level": 10,
+            "icon": 4748,
+            "name": "Royal Dagger of the Heath Meadow",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25034,
+            "level": 12,
+            "icon": 4748,
+            "name": "Royal Dagger of the Four-Leaf Clover",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25050,
+            "level": 14,
+            "icon": 4748,
+            "name": "Royal Dagger of the Spring Symphony",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25066,
+            "level": 16,
+            "icon": 4748,
+            "name": "Royal Dagger of the Happy Month",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25082,
+            "level": 18,
+            "icon": 4748,
+            "name": "Royal Dagger of the Singing Oak Forest",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25098,
+            "level": 20,
+            "icon": 4748,
+            "name": "Royal Dagger of the Arcane Valley",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25114,
+            "level": 22,
+            "icon": 4748,
+            "name": "Royal Dagger of the Forest Mystery",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25130,
+            "level": 24,
+            "icon": 4748,
+            "name": "Royal Dagger of the Blooming Island",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25146,
+            "level": 26,
+            "icon": 4748,
+            "name": "Royal Dagger of the Emerald Tower",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25162,
+            "level": 28,
+            "icon": 4748,
+            "name": "Royal Dagger of the Sun Fortress",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25178,
+            "level": 28,
+            "icon": 4335,
+            "name": "Dagger of the Kingdom of Courage",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25193,
+            "level": 28,
+            "icon": 3862,
+            "name": "Dagger of the Sun Fortress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 25274,
+            "level": 28,
+            "icon": 1109,
+            "name": "Kris of Scarlet Dawn",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 25284,
+            "level": 28,
+            "icon": 1100,
+            "name": "Kris of Purple Sky",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 25294,
+            "level": 28,
+            "icon": 3400,
+            "name": "Kris of the Bloody Radiance",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26279,
+            "level": 30,
+            "icon": 4892,
+            "name": "Dagger of Lord of the Seas",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26313,
+            "level": 29,
+            "icon": 4891,
+            "name": "Dagger of Sea Tramps",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 26430,
+            "level": 30,
+            "icon": 1103,
+            "name": "Kris of Gentlemen of Fortune",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 26470,
+            "level": 29,
+            "icon": 1100,
+            "name": "Dagger of Sea Wolf",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 26483,
+            "level": 29,
+            "icon": 3248,
+            "name": "Kris of the Outstanding Gladiator",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27105,
+            "level": 30,
+            "icon": 4100,
+            "name": "Dagger of Monster Curse",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27132,
+            "level": 30,
+            "icon": 3077,
+            "name": "Dagger of Merciless Torturer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27725,
+            "level": 6,
+            "icon": 5164,
+            "name": "Dagger of Piercing Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27740,
+            "level": 10,
+            "icon": 5164,
+            "name": "Dagger of Heavy Wind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27755,
+            "level": 12,
+            "icon": 5164,
+            "name": "Dagger of Frosty Darkness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27770,
+            "level": 14,
+            "icon": 5164,
+            "name": "Dagger of Freezing Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27785,
+            "level": 16,
+            "icon": 5164,
+            "name": "Dagger of Arctic Frost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27800,
+            "level": 18,
+            "icon": 5164,
+            "name": "Dagger of Fierce Blizzard",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27815,
+            "level": 20,
+            "icon": 5164,
+            "name": "Dagger of Northern Tornado",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27830,
+            "level": 22,
+            "icon": 5164,
+            "name": "Dagger of Furious Northern Wind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27845,
+            "level": 24,
+            "icon": 5164,
+            "name": "Dagger of Sweeping Whirlwind",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27860,
+            "level": 26,
+            "icon": 5164,
+            "name": "Dagger of Violent Blizzard",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27875,
+            "level": 28,
+            "icon": 5164,
+            "name": "Dagger of Snow Storm",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27890,
+            "level": 30,
+            "icon": 5164,
+            "name": "Dagger of Ice Storm",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 27907,
+            "level": 30,
+            "icon": 3123,
+            "name": "Kris of the Lord of Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28847,
+            "level": 30,
+            "icon": 1109,
+            "name": "Kris of Purification",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 28857,
+            "level": 30,
+            "icon": 1100,
+            "name": "Kris of Enlightenment",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28867,
+            "level": 30,
+            "icon": 3400,
+            "name": "Kris of Catharsis",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28982,
+            "level": 30,
+            "icon": 4748,
+            "name": "Royal Dagger of Enchanted Castle",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 28998,
+            "level": 30,
+            "icon": 4335,
+            "name": "Dagger of Kingdom of Fortitude",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29013,
+            "level": 30,
+            "icon": 3862,
+            "name": "Dagger of Enchanted Castle",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 29688,
+            "level": 7,
+            "icon": 1103,
+            "name": "Dagger of Recruit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 29709,
+            "level": 11,
+            "icon": 1103,
+            "name": "Dagger of Mercenary",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31021,
+            "level": 6,
+            "icon": 3123,
+            "name": "Dagger of Cold-Bearing Spirit",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31024,
+            "level": 10,
+            "icon": 3123,
+            "name": "Dagger of the Tribe Leader",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31027,
+            "level": 12,
+            "icon": 3123,
+            "name": "Dagger of the Frozen Master",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31030,
+            "level": 14,
+            "icon": 3123,
+            "name": "Dagger of the Toothy Hunter",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31033,
+            "level": 16,
+            "icon": 3123,
+            "name": "Dagger of the Rune Scald",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31036,
+            "level": 18,
+            "icon": 3123,
+            "name": "Dagger of the Immortal Wanderer",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31039,
+            "level": 20,
+            "icon": 3123,
+            "name": "Dagger of the Snow Lady",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31042,
+            "level": 22,
+            "icon": 3123,
+            "name": "Dagger of Permafrost",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31045,
+            "level": 24,
+            "icon": 3123,
+            "name": "Dagger of the Ice Prince",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31048,
+            "level": 26,
+            "icon": 3123,
+            "name": "Dagger of the Descendant of the Titans",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31051,
+            "level": 28,
+            "icon": 3123,
+            "name": "Dagger of the Winter King",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 31054,
+            "level": 30,
+            "icon": 3123,
+            "name": "Dagger of the Lord of Cold",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33115,
+            "level": 32,
+            "icon": 4100,
+            "name": "Dagger of Emanating Madness",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33131,
+            "level": 32,
+            "icon": 3077,
+            "name": "Dagger of Bloodthirsty Inquisitor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33628,
+            "level": 32,
+            "icon": 5164,
+            "name": "Dagger of the Unbridled Hurricane",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33656,
+            "level": 32,
+            "icon": 3123,
+            "name": "Kris of the Northern Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 33657,
+            "level": 32,
+            "icon": 3123,
+            "name": "Dagger of the Northern Lord",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34417,
+            "level": 32,
+            "icon": 1109,
+            "name": "Kris of Progress",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34431,
+            "level": 32,
+            "icon": 1100,
+            "name": "Kris of Development",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34445,
+            "level": 32,
+            "icon": 3400,
+            "name": "Kris of Metamorphosis",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34524,
+            "level": 32,
+            "icon": 4335,
+            "name": "Dagger of the Kingdom of Indestructibility",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34553,
+            "level": 32,
+            "icon": 4748,
+            "name": "Royal Dagger of the Magic Bastion",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 34571,
+            "level": 32,
+            "icon": 3862,
+            "name": "Dagger of the Magic Bastion",
+            "itemType": 0,
+            "color": 2
+        },
+        {
+            "id": 34900,
+            "level": 31,
+            "icon": 3248,
+            "name": "Kris of the Greatest Secutor",
+            "itemType": 0,
+            "color": 3
+        },
+        {
+            "id": 35258,
+            "level": 31,
+            "icon": 4891,
+            "name": "Dagger of the Pirate Brotherhood",
+            "itemType": 0,
+            "color": 3
+        }
+    ]
+}

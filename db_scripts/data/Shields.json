@@ -1,0 +1,1860 @@
+{
+    "list": [
+        {
+            "id": 872,
+            "level": 2,
+            "icon": 1190,
+            "name": "Old Shield",
+            "itemType": 3,
+            "color": 0
+        },
+        {
+            "id": 914,
+            "level": 3,
+            "icon": 1190,
+            "name": "Cheap Shield",
+            "itemType": 3,
+            "color": 1
+        },
+        {
+            "id": 940,
+            "level": 7,
+            "icon": 1193,
+            "name": "Fist Buckler",
+            "itemType": 3,
+            "color": 1
+        },
+        {
+            "id": 998,
+            "level": 10,
+            "icon": 1193,
+            "name": "Durable Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 1050,
+            "level": 9,
+            "icon": 1193,
+            "name": "Padded Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 2060,
+            "level": 12,
+            "icon": 1190,
+            "name": "Round Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 2129,
+            "level": 13,
+            "icon": 1190,
+            "name": "Light Buckler",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 2163,
+            "level": 13,
+            "icon": 1193,
+            "name": "Light Shield",
+            "itemType": 3,
+            "color": 0
+        },
+        {
+            "id": 2289,
+            "level": 15,
+            "icon": 1202,
+            "name": "Well-tried Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 2343,
+            "level": 15,
+            "icon": 1196,
+            "name": "Fine shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 2345,
+            "level": 14,
+            "icon": 1199,
+            "name": "Siege shield",
+            "itemType": 3,
+            "color": 1
+        },
+        {
+            "id": 2369,
+            "level": 15,
+            "icon": 1196,
+            "name": "Warrior Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 4536,
+            "level": 1,
+            "icon": 1193,
+            "name": "Shield of Beginner",
+            "itemType": 3,
+            "color": 0
+        },
+        {
+            "id": 6440,
+            "level": 17,
+            "icon": 1202,
+            "name": "Shield of Abyss Zealot",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 6476,
+            "level": 18,
+            "icon": 1202,
+            "name": "Shield of Heroic Endurance",
+            "itemType": 3,
+            "color": 4
+        },
+        {
+            "id": 6535,
+            "level": 7,
+            "icon": 1208,
+            "name": "",
+            "itemType": 3,
+            "color": 1
+        },
+        {
+            "id": 9149,
+            "level": 1,
+            "icon": 1193,
+            "name": "Novice Barbarian's Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 9627,
+            "level": 1,
+            "icon": 1205,
+            "name": "Novice Paladin's Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 9628,
+            "level": 1,
+            "icon": 1202,
+            "name": "Novice Death Knight's Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 10659,
+            "level": 5,
+            "icon": 2657,
+            "name": "Pumpkin Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 10676,
+            "level": 10,
+            "icon": 2657,
+            "name": "Pumpkin Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 10677,
+            "level": 15,
+            "icon": 2657,
+            "name": "Pumpkin Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 11154,
+            "level": 17,
+            "icon": 2614,
+            "name": "Champion Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 11277,
+            "level": 16,
+            "icon": 2611,
+            "name": "Snowy Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 11555,
+            "level": 9,
+            "icon": 1190,
+            "name": "Practice Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 13168,
+            "level": 8,
+            "icon": 1196,
+            "name": "Werewolf's Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 13185,
+            "level": 14,
+            "icon": 1196,
+            "name": "Headsman's Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 13227,
+            "level": 18,
+            "icon": 2614,
+            "name": "Night Prince's Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 14110,
+            "level": 19,
+            "icon": 2605,
+            "name": "Shield of Endless War",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 14870,
+            "level": 19,
+            "icon": 1205,
+            "name": "Berengar's Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 14911,
+            "level": 11,
+            "icon": 1193,
+            "name": "Granite Shield",
+            "itemType": 3,
+            "color": 1
+        },
+        {
+            "id": 14912,
+            "level": 13,
+            "icon": 1193,
+            "name": "Copper Shield",
+            "itemType": 3,
+            "color": 1
+        },
+        {
+            "id": 14913,
+            "level": 15,
+            "icon": 1205,
+            "name": "Phantom Shield",
+            "itemType": 3,
+            "color": 1
+        },
+        {
+            "id": 14914,
+            "level": 17,
+            "icon": 1196,
+            "name": "Assault Shield",
+            "itemType": 3,
+            "color": 1
+        },
+        {
+            "id": 14915,
+            "level": 19,
+            "icon": 1199,
+            "name": "Crushing Shield",
+            "itemType": 3,
+            "color": 1
+        },
+        {
+            "id": 14916,
+            "level": 11,
+            "icon": 1193,
+            "name": "Molten Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 14917,
+            "level": 13,
+            "icon": 1193,
+            "name": "Flickering Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 14918,
+            "level": 15,
+            "icon": 1196,
+            "name": "Serrated Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 14919,
+            "level": 17,
+            "icon": 1205,
+            "name": "Polished Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 14920,
+            "level": 19,
+            "icon": 1202,
+            "name": "Ashen Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 14921,
+            "level": 11,
+            "icon": 1190,
+            "name": "Enchanted Shield of the Ent",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 14922,
+            "level": 13,
+            "icon": 1193,
+            "name": "Shield of Full Moon",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 14923,
+            "level": 15,
+            "icon": 1196,
+            "name": "Shield of Northern Chieftains",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 14924,
+            "level": 17,
+            "icon": 1199,
+            "name": "Frozen Fire Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 14925,
+            "level": 20,
+            "icon": 1202,
+            "name": "Shield of Deep Lord",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 14950,
+            "level": 19,
+            "icon": 1205,
+            "name": "Shield of the Great Victory",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 14951,
+            "level": 20,
+            "icon": 1193,
+            "name": "Gorgeous Round Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 14952,
+            "level": 20,
+            "icon": 1208,
+            "name": "Engraved Shield",
+            "itemType": 3,
+            "color": 1
+        },
+        {
+            "id": 15015,
+            "level": 19,
+            "icon": 1199,
+            "name": "Shield of Brave Warrior",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 15104,
+            "level": 20,
+            "icon": 1199,
+            "name": "Shield of Damned Pilgrims",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 15135,
+            "level": 21,
+            "icon": 1196,
+            "name": "Desecrate Shield",
+            "itemType": 3,
+            "color": 0
+        },
+        {
+            "id": 15331,
+            "level": 21,
+            "icon": 2614,
+            "name": "Enchanted Shield of the Lord",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 15344,
+            "level": 22,
+            "icon": 2608,
+            "name": "Pontifices' Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 15356,
+            "level": 23,
+            "icon": 2614,
+            "name": "Soulless Saint's Shield",
+            "itemType": 3,
+            "color": 1
+        },
+        {
+            "id": 15849,
+            "level": 4,
+            "icon": 3079,
+            "name": "Midnight Hunter's Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 15861,
+            "level": 7,
+            "icon": 3079,
+            "name": "Silent Maniac's Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 15873,
+            "level": 10,
+            "icon": 3079,
+            "name": "Shield of Still Heart",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 15885,
+            "level": 13,
+            "icon": 3079,
+            "name": "Shield of Faceless Nightmare",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 15897,
+            "level": 16,
+            "icon": 3079,
+            "name": "Shield of Sinful Call",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 15909,
+            "level": 19,
+            "icon": 3079,
+            "name": "Shield of Immortal Recluse",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 15921,
+            "level": 21,
+            "icon": 3079,
+            "name": "Shield of Overwhelming Fury",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 16131,
+            "level": 5,
+            "icon": 3126,
+            "name": "Shield of the Holiday Thief",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 16144,
+            "level": 8,
+            "icon": 3126,
+            "name": "Shield of Oath-breaker",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 16159,
+            "level": 11,
+            "icon": 3126,
+            "name": "Shield of Braincrasher",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 16172,
+            "level": 14,
+            "icon": 3126,
+            "name": "Combat Shield of Toothy Hunter",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 16185,
+            "level": 17,
+            "icon": 3126,
+            "name": "Shield of Northern Whirl",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 16198,
+            "level": 20,
+            "icon": 3126,
+            "name": "Combat Shield of the Snow Lady",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 16211,
+            "level": 22,
+            "icon": 3126,
+            "name": "Combat Shield of Permafrost",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 16915,
+            "level": 21,
+            "icon": 3247,
+            "name": "Gladiator's Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 16980,
+            "level": 22,
+            "icon": 1196,
+            "name": "Long Shield of Northern Courage",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 17216,
+            "level": 10,
+            "icon": 1193,
+            "name": "Tested Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 17217,
+            "level": 12,
+            "icon": 1193,
+            "name": "Sparkling Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 17218,
+            "level": 14,
+            "icon": 1196,
+            "name": "Notched Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 17219,
+            "level": 16,
+            "icon": 1205,
+            "name": "Shining Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 17220,
+            "level": 18,
+            "icon": 1202,
+            "name": "Hewing Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 17221,
+            "level": 20,
+            "icon": 1202,
+            "name": "Fiery Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 17222,
+            "level": 10,
+            "icon": 1190,
+            "name": "Enchanted Siege Shield of the Ent",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17223,
+            "level": 12,
+            "icon": 1193,
+            "name": "Siege Shield of Full Moon",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17224,
+            "level": 14,
+            "icon": 1196,
+            "name": "Shield of Northern Chieftains",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17225,
+            "level": 16,
+            "icon": 1199,
+            "name": "Frozen Fire Siege Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17226,
+            "level": 10,
+            "icon": 3402,
+            "name": "Amplified Shield of the Ent",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17227,
+            "level": 12,
+            "icon": 3402,
+            "name": "Shield of Lunar Sickle",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17228,
+            "level": 14,
+            "icon": 3402,
+            "name": "Shield of Northern Lords",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17229,
+            "level": 16,
+            "icon": 3402,
+            "name": "Shield of Chilled Flame",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17230,
+            "level": 18,
+            "icon": 3402,
+            "name": "Shield of Dead Silence",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17231,
+            "level": 20,
+            "icon": 3402,
+            "name": "Shield of the Depth Lord",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17319,
+            "level": 22,
+            "icon": 1202,
+            "name": "Horrifying Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 17320,
+            "level": 22,
+            "icon": 1202,
+            "name": "All-Destroying Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17321,
+            "level": 22,
+            "icon": 3402,
+            "name": "Shield of Death Herald",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17578,
+            "level": 23,
+            "icon": 3387,
+            "name": "Combat Shield of Devastation",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17951,
+            "level": 5,
+            "icon": 3079,
+            "name": "Night Puppeteer's Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17963,
+            "level": 14,
+            "icon": 3079,
+            "name": "Shield of Fatal Mistake",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17975,
+            "level": 18,
+            "icon": 3079,
+            "name": "Shield of Deadly Game",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 17987,
+            "level": 23,
+            "icon": 3079,
+            "name": "Killer Puppet's Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 18288,
+            "level": 10,
+            "icon": 3126,
+            "name": "Combat Shield of the Tribe Leader",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 18301,
+            "level": 18,
+            "icon": 3126,
+            "name": "Combat Shield of the Immortal Wanderer",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 18314,
+            "level": 23,
+            "icon": 3126,
+            "name": "Bound Conqueror's Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 18891,
+            "level": 23,
+            "icon": 3247,
+            "name": "Shield of the Templar",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 18913,
+            "level": 13,
+            "icon": 1196,
+            "name": "Young Fighter's Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 19045,
+            "level": 24,
+            "icon": 1202,
+            "name": "Rune shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 19046,
+            "level": 24,
+            "icon": 1202,
+            "name": "Shield of Liberator",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 19047,
+            "level": 24,
+            "icon": 3402,
+            "name": "Shield of Legendary Defender",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 19278,
+            "level": 25,
+            "icon": 3623,
+            "name": "Technocrat's Shield",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 19290,
+            "level": 25,
+            "icon": 2608,
+            "name": "Shield of Revival",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 19971,
+            "level": 6,
+            "icon": 3079,
+            "name": "Shield of the Blind Outlaw",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 19996,
+            "level": 12,
+            "icon": 3079,
+            "name": "Shield of the Unsleeping Predator",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20034,
+            "level": 20,
+            "icon": 3079,
+            "name": "Shield of the Damned Heir",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20047,
+            "level": 22,
+            "icon": 3079,
+            "name": "Shield of the Distracted Apostate",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20060,
+            "level": 24,
+            "icon": 3079,
+            "name": "Shield of the Night Visitor",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20085,
+            "level": 26,
+            "icon": 3079,
+            "name": "Shield of the Bloody Earl",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20281,
+            "level": 6,
+            "icon": 3126,
+            "name": "Combat Shield of Cold-Bearing Spirit",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20282,
+            "level": 6,
+            "icon": 3126,
+            "name": "Attack Shield of Cold-Bearing Spirit",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20288,
+            "level": 10,
+            "icon": 3126,
+            "name": "Attack Shield of the Tribe Leader",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20302,
+            "level": 12,
+            "icon": 3126,
+            "name": "Combat Shield of the Frozen Master",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20303,
+            "level": 12,
+            "icon": 3126,
+            "name": "Attack Shield of the Frozen Master",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20309,
+            "level": 14,
+            "icon": 3126,
+            "name": "Attack Shield of the Toothy Hunter",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20323,
+            "level": 16,
+            "icon": 3126,
+            "name": "Combat Shield of the Rune Scald",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20324,
+            "level": 16,
+            "icon": 3126,
+            "name": "Attack Shield of the Rune Scald",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20330,
+            "level": 18,
+            "icon": 3126,
+            "name": "Attack Shield of the Immortal Wanderer",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20336,
+            "level": 20,
+            "icon": 3126,
+            "name": "Attack Shield of the Snow Lady",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20342,
+            "level": 22,
+            "icon": 3126,
+            "name": "Attack Shield of Permafrost",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20356,
+            "level": 24,
+            "icon": 3126,
+            "name": "Combat Shield of the Ice Prince",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20357,
+            "level": 24,
+            "icon": 3126,
+            "name": "Attack Shield of the Ice Prince",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20371,
+            "level": 26,
+            "icon": 3126,
+            "name": "Combat Shield of the Descendant of the Titans",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20372,
+            "level": 26,
+            "icon": 3126,
+            "name": "Attack Shield of the Descendant of the Titans",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 20797,
+            "level": 6,
+            "icon": 3861,
+            "name": "Shield of the Green Hill",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 20812,
+            "level": 10,
+            "icon": 3861,
+            "name": "Shield of the Heath Meadow",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 20827,
+            "level": 12,
+            "icon": 3861,
+            "name": "Shield of the Four-Leaf Clover",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 20842,
+            "level": 14,
+            "icon": 3861,
+            "name": "Shield of the Spring Symphony",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 20862,
+            "level": 16,
+            "icon": 3861,
+            "name": "Shield of the Happy Month",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 20877,
+            "level": 18,
+            "icon": 3861,
+            "name": "Shield of the Singing Oak Forest",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 20892,
+            "level": 20,
+            "icon": 3861,
+            "name": "Shield of the Arcane Valley",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 20907,
+            "level": 22,
+            "icon": 3861,
+            "name": "Shield of the Forest Mystery",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 20922,
+            "level": 24,
+            "icon": 3861,
+            "name": "Shield of the Blooming Island",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 20937,
+            "level": 26,
+            "icon": 3861,
+            "name": "Shield of the Emerald Tower",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 21030,
+            "level": 25,
+            "icon": 3247,
+            "name": "Shield of Great Ironclad",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 21076,
+            "level": 26,
+            "icon": 1202,
+            "name": "Filth Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 21077,
+            "level": 26,
+            "icon": 1202,
+            "name": "Shield of Soulbreaker",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 21078,
+            "level": 26,
+            "icon": 3402,
+            "name": "Shield of Cruel Demolisher",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 21233,
+            "level": 1,
+            "icon": 1202,
+            "name": "Novice's Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 21356,
+            "level": 3,
+            "icon": 1193,
+            "name": "Plain Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 21369,
+            "level": 5,
+            "icon": 1193,
+            "name": "Light Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 21382,
+            "level": 7,
+            "icon": 1193,
+            "name": "Coarse Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 21395,
+            "level": 9,
+            "icon": 1193,
+            "name": "Smooth Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 21408,
+            "level": 11,
+            "icon": 1193,
+            "name": "Useful Shield",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 21733,
+            "level": 6,
+            "icon": 4099,
+            "name": "Shield of Deep Slumber",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 21748,
+            "level": 10,
+            "icon": 4099,
+            "name": "Shield of Somnolent Whispers",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 21763,
+            "level": 12,
+            "icon": 4099,
+            "name": "Shield of Restless Dreaming",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 21778,
+            "level": 14,
+            "icon": 4099,
+            "name": "Shield of Black Oblivion",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 21793,
+            "level": 16,
+            "icon": 4099,
+            "name": "Shield of Sinister Phantasms",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 21808,
+            "level": 18,
+            "icon": 4099,
+            "name": "Shield of Dreadful Delusion",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 21823,
+            "level": 20,
+            "icon": 4099,
+            "name": "Shield of Nocturnal Terror",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 21838,
+            "level": 22,
+            "icon": 4099,
+            "name": "Shield of Incarnated Nightmares",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 21853,
+            "level": 24,
+            "icon": 4099,
+            "name": "Shield of Midnight Howl",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 21868,
+            "level": 26,
+            "icon": 4099,
+            "name": "Shield of Suffocating Fear",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 22820,
+            "level": 6,
+            "icon": 4357,
+            "name": "Shield of the Kingdom of Daring",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 22835,
+            "level": 10,
+            "icon": 4357,
+            "name": "Shield of the Kingdom of Boldness",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 22850,
+            "level": 12,
+            "icon": 4357,
+            "name": "Shield of the Kingdom of Devotion",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 22865,
+            "level": 14,
+            "icon": 4357,
+            "name": "Shield of the Kingdom of Bravery",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 22880,
+            "level": 16,
+            "icon": 4357,
+            "name": "Shield of the Kingdom of Magnanimity",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 22895,
+            "level": 18,
+            "icon": 4357,
+            "name": "Shield of the Kingdom of Nobleness",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 22910,
+            "level": 20,
+            "icon": 4357,
+            "name": "Shield of the Kingdom of Justice",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 22925,
+            "level": 22,
+            "icon": 4357,
+            "name": "Shield of the Kingdom of Honor",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 22940,
+            "level": 24,
+            "icon": 4357,
+            "name": "Shield of the Kingdom of Valor",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 22955,
+            "level": 26,
+            "icon": 4357,
+            "name": "Shield of the Kingdom of Fearlessness",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 23493,
+            "level": 25,
+            "icon": 3387,
+            "name": "Siege Shield of Tree of the Seasons\u2019 Keepers",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 23494,
+            "level": 25,
+            "icon": 3387,
+            "name": "Combat Shield of Tree of the Seasons\u2019 Keepers",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 23562,
+            "level": 27,
+            "icon": 3623,
+            "name": "Siege Shield of Technopolis Guards",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 23563,
+            "level": 27,
+            "icon": 3623,
+            "name": "Combat Shield of Technopolis Guards",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 23610,
+            "level": 27,
+            "icon": 3247,
+            "name": "Shield of the Arena Lord",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 24085,
+            "level": 28,
+            "icon": 4099,
+            "name": "Shield of Impending Madness",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 24100,
+            "level": 28,
+            "icon": 3079,
+            "name": "Shield of the Crazy King",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 24402,
+            "level": 28,
+            "icon": 3126,
+            "name": "Combat Shield of the Winter King",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 24403,
+            "level": 28,
+            "icon": 3126,
+            "name": "Assault Shield of the Winter King",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25033,
+            "level": 10,
+            "icon": 4750,
+            "name": "Royal Shield of the Heath Meadow",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25049,
+            "level": 12,
+            "icon": 4750,
+            "name": "Royal Shield of the Four-Leaf Clover",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25065,
+            "level": 14,
+            "icon": 4750,
+            "name": "Royal Shield of the Spring Symphony",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25081,
+            "level": 16,
+            "icon": 4750,
+            "name": "Royal Shield of the Happy Month",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25097,
+            "level": 18,
+            "icon": 4750,
+            "name": "Royal Shield of the Singing Oak Forest",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25113,
+            "level": 20,
+            "icon": 4750,
+            "name": "Royal Shield of the Arcane Valley",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25129,
+            "level": 22,
+            "icon": 4750,
+            "name": "Royal Shield of the Forest Mystery",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25145,
+            "level": 24,
+            "icon": 4750,
+            "name": "Royal Shield of the Blooming Island",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25161,
+            "level": 26,
+            "icon": 4750,
+            "name": "Royal Shield of the Emerald Tower",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25177,
+            "level": 28,
+            "icon": 4750,
+            "name": "Royal Shield of the Sun Fortress",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25192,
+            "level": 28,
+            "icon": 4357,
+            "name": "Shield of the Kingdom of Courage",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25207,
+            "level": 28,
+            "icon": 3861,
+            "name": "Shield of the Sun Fortress",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 25283,
+            "level": 28,
+            "icon": 1202,
+            "name": "Shield of Scarlet Dawn",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 25293,
+            "level": 28,
+            "icon": 1202,
+            "name": "Shield of Purple Sky",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 25303,
+            "level": 28,
+            "icon": 3402,
+            "name": "Shield of the Bloody Radiance",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 26293,
+            "level": 30,
+            "icon": 4896,
+            "name": "Shield of Lord of the Seas",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 26327,
+            "level": 29,
+            "icon": 4895,
+            "name": "Siege Shield of Sea Tramps",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 26328,
+            "level": 29,
+            "icon": 4895,
+            "name": "Combat Shield of Sea Tramps",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 26443,
+            "level": 30,
+            "icon": 1196,
+            "name": "Shield of Gentlemen of Fortune",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 26496,
+            "level": 29,
+            "icon": 3247,
+            "name": "Shield of the Outstanding Gladiator",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27120,
+            "level": 30,
+            "icon": 4099,
+            "name": "Shield of Monster Curse",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27146,
+            "level": 30,
+            "icon": 3079,
+            "name": "Shield of Merciless Torturer",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27739,
+            "level": 6,
+            "icon": 5160,
+            "name": "Shield of Piercing Cold",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27754,
+            "level": 10,
+            "icon": 5160,
+            "name": "Shield of Heavy Wind",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27769,
+            "level": 12,
+            "icon": 5160,
+            "name": "Shield of Frosty Darkness",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27784,
+            "level": 14,
+            "icon": 5160,
+            "name": "Shield of Freezing Cold",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27799,
+            "level": 16,
+            "icon": 5160,
+            "name": "Shield of Arctic Frost",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27814,
+            "level": 18,
+            "icon": 5160,
+            "name": "Shield of Fierce Blizzard",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27829,
+            "level": 20,
+            "icon": 5160,
+            "name": "Shield of Northern Tornado",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27844,
+            "level": 22,
+            "icon": 5160,
+            "name": "Shield of Furious Northern Wind",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27859,
+            "level": 24,
+            "icon": 5160,
+            "name": "Shield of Sweeping Whirlwind",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27874,
+            "level": 26,
+            "icon": 5160,
+            "name": "Shield of Violent Blizzard",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27889,
+            "level": 28,
+            "icon": 5160,
+            "name": "Shield of Snow Storm",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27904,
+            "level": 30,
+            "icon": 5160,
+            "name": "Shield of Ice Storm",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27921,
+            "level": 30,
+            "icon": 3126,
+            "name": "Combat Shield of the Lord of Cold",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 27922,
+            "level": 30,
+            "icon": 3126,
+            "name": "Attack Shield of the Lord of Cold",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 28856,
+            "level": 30,
+            "icon": 1202,
+            "name": "Shield of Purification",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 28866,
+            "level": 30,
+            "icon": 1202,
+            "name": "Shield of Enlightenment",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 28876,
+            "level": 30,
+            "icon": 3402,
+            "name": "Shield of Catharsis",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 28997,
+            "level": 30,
+            "icon": 4750,
+            "name": "Royal Shield of Enchanted Castle",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 29012,
+            "level": 30,
+            "icon": 4357,
+            "name": "Shield of Kingdom of Fortitude",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 29028,
+            "level": 30,
+            "icon": 3861,
+            "name": "Shield of Enchanted Castle",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 29707,
+            "level": 7,
+            "icon": 1193,
+            "name": "Shield of Recruit",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 29722,
+            "level": 11,
+            "icon": 1193,
+            "name": "Shield of Mercenary",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 33130,
+            "level": 32,
+            "icon": 4099,
+            "name": "Shield of Emanating Madness",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 33147,
+            "level": 32,
+            "icon": 3079,
+            "name": "Shield of Bloodthirsty Inquisitor",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 33643,
+            "level": 32,
+            "icon": 5160,
+            "name": "Shield of the Unbridled Hurricane",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 33674,
+            "level": 32,
+            "icon": 3126,
+            "name": "Combat Shield of the Northern Lord",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 33675,
+            "level": 32,
+            "icon": 3126,
+            "name": "Attack Shield of the Northern Lord",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 34426,
+            "level": 32,
+            "icon": 1202,
+            "name": "Shield of Progress",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 34440,
+            "level": 32,
+            "icon": 1202,
+            "name": "Shield of Development",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 34454,
+            "level": 32,
+            "icon": 3402,
+            "name": "Shield of Metamorphosis",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 34540,
+            "level": 32,
+            "icon": 4357,
+            "name": "Shield of the Kingdom of Indestructibility",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 34570,
+            "level": 32,
+            "icon": 4750,
+            "name": "Royal Shield of the Magic Bastion",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 34588,
+            "level": 32,
+            "icon": 3861,
+            "name": "Shield of the Magic Bastion",
+            "itemType": 3,
+            "color": 2
+        },
+        {
+            "id": 34914,
+            "level": 31,
+            "icon": 3247,
+            "name": "Shield of the Greatest Secutor",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 35273,
+            "level": 31,
+            "icon": 4895,
+            "name": "Siege Shield of the Pirate Brotherhood",
+            "itemType": 3,
+            "color": 3
+        },
+        {
+            "id": 35274,
+            "level": 31,
+            "icon": 4895,
+            "name": "Battle Shield of the Pirate Brotherhood",
+            "itemType": 3,
+            "color": 3
+        }
+    ]
+}

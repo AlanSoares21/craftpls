@@ -1,0 +1,2332 @@
+{
+    "list": [
+        {
+            "id": 857,
+            "level": 2,
+            "icon": 1491,
+            "name": "Cheap Vambraces",
+            "itemType": 7,
+            "color": 0
+        },
+        {
+            "id": 858,
+            "level": 2,
+            "icon": 1491,
+            "name": "Old Vambraces",
+            "itemType": 7,
+            "color": 0
+        },
+        {
+            "id": 889,
+            "level": 2,
+            "icon": 1426,
+            "name": "Plain Gloves",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 890,
+            "level": 2,
+            "icon": 1491,
+            "name": "Worn Vambraces",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 925,
+            "level": 7,
+            "icon": 1426,
+            "name": "Durable Gloves",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 926,
+            "level": 7,
+            "icon": 1491,
+            "name": "Durable Wristguards",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 984,
+            "level": 9,
+            "icon": 1488,
+            "name": "Coarse Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 985,
+            "level": 9,
+            "icon": 1491,
+            "name": "Vambraces of Fighter",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 1035,
+            "level": 9,
+            "icon": 1429,
+            "name": "Leather Gloves of Hunter",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 1036,
+            "level": 9,
+            "icon": 1432,
+            "name": "Leather Gloves of Guardian",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 2018,
+            "level": 12,
+            "icon": 1456,
+            "name": "Light leather Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 2019,
+            "level": 12,
+            "icon": 1459,
+            "name": "Light Leather Mittens",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 2075,
+            "level": 13,
+            "icon": 1432,
+            "name": "Trustworthy Leather Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 2076,
+            "level": 13,
+            "icon": 1456,
+            "name": "Trustworthy Leather Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 2137,
+            "level": 14,
+            "icon": 1488,
+            "name": "Good-looking Wristguards",
+            "itemType": 7,
+            "color": 0
+        },
+        {
+            "id": 2178,
+            "level": 15,
+            "icon": 1441,
+            "name": "Good-looking Leather Gloves",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 2179,
+            "level": 12,
+            "icon": 1450,
+            "name": "Expensive Leather Gloves",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 2263,
+            "level": 15,
+            "icon": 1494,
+            "name": "Polished Wristguards",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 2304,
+            "level": 15,
+            "icon": 1444,
+            "name": "Gloves of Berengar Shadow",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 2305,
+            "level": 15,
+            "icon": 1435,
+            "name": "Gloves of Berengar's Revenge",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 2353,
+            "level": 15,
+            "icon": 1453,
+            "name": "Gladiator's Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4020,
+            "level": 16,
+            "icon": 1453,
+            "name": "Blue Gauntlets of Guard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4021,
+            "level": 16,
+            "icon": 1465,
+            "name": "Green Gauntlets of Guard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4022,
+            "level": 16,
+            "icon": 1453,
+            "name": "Violet Gauntlets of Guard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4023,
+            "level": 16,
+            "icon": 1441,
+            "name": "Red Gauntlets of Guard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4024,
+            "level": 16,
+            "icon": 1456,
+            "name": "Orange Gauntlets of Guard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4348,
+            "level": 16,
+            "icon": 1453,
+            "name": "Blue Gauntlets of Inquisitor",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4349,
+            "level": 16,
+            "icon": 1465,
+            "name": "Green Gauntlets of Inquisitor",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4350,
+            "level": 16,
+            "icon": 1453,
+            "name": "Violet Gauntlets of Inquisitor",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4351,
+            "level": 16,
+            "icon": 1441,
+            "name": "Red Gauntlets of Inquisitor",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4352,
+            "level": 16,
+            "icon": 1456,
+            "name": "Orange Gauntlets of Inquisitor",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 5208,
+            "level": 1,
+            "icon": 1429,
+            "name": "Novice's Leather Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 5786,
+            "level": 11,
+            "icon": 1470,
+            "name": "Gloves of Beginner Gladiator",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 5806,
+            "level": 5,
+            "icon": 1470,
+            "name": "Thin Gloves of Beginner Gladiator",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 5839,
+            "level": 1,
+            "icon": 1426,
+            "name": "",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 6073,
+            "level": 5,
+            "icon": 2231,
+            "name": "Mate's Snowcatchers",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 6101,
+            "level": 13,
+            "icon": 2231,
+            "name": "Scrooge Family's Snowcatchers",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 6425,
+            "level": 17,
+            "icon": 1444,
+            "name": "Desert Wanderer's Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 6429,
+            "level": 17,
+            "icon": 1472,
+            "name": "Desert Wanderer's Wristguards",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 6483,
+            "level": 18,
+            "icon": 1494,
+            "name": "Killing Whisper Wristguards",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 11007,
+            "level": 17,
+            "icon": 1429,
+            "name": "Scout Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 11246,
+            "level": 17,
+            "icon": 1497,
+            "name": "Severe Cold Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13807,
+            "level": 16,
+            "icon": 1456,
+            "name": "Abaris' Leather Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13863,
+            "level": 18,
+            "icon": 1462,
+            "name": "Harad's Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14673,
+            "level": 12,
+            "icon": 1438,
+            "name": "Tough Leather Vambraces",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 14677,
+            "level": 14,
+            "icon": 1438,
+            "name": "Seeker's Vambraces",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 14682,
+            "level": 17,
+            "icon": 1438,
+            "name": "Tested Vambraces",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 14687,
+            "level": 19,
+            "icon": 1491,
+            "name": "Flaming Vambraces",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 14693,
+            "level": 12,
+            "icon": 1438,
+            "name": "Tanned Leather Wristguards",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14697,
+            "level": 14,
+            "icon": 1491,
+            "name": "Adventurer's Wristguards",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14702,
+            "level": 17,
+            "icon": 1444,
+            "name": "Scaled Wristguards",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14707,
+            "level": 19,
+            "icon": 1456,
+            "name": "Elemental Wristguards",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14885,
+            "level": 20,
+            "icon": 1476,
+            "name": "Conqueror Asterius' Wristguards",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 14936,
+            "level": 20,
+            "icon": 1470,
+            "name": "Burning Rage Wristguards",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 14940,
+            "level": 20,
+            "icon": 1465,
+            "name": "Wristguards of the Dark Outlaw",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 14995,
+            "level": 19,
+            "icon": 1482,
+            "name": "Provocator's Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15031,
+            "level": 12,
+            "icon": 1456,
+            "name": "Wristguards of Full Moon",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15033,
+            "level": 14,
+            "icon": 1491,
+            "name": "Wristguards of Northern Chieftains",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15039,
+            "level": 19,
+            "icon": 1506,
+            "name": "Wristguards of Deep Lord",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15087,
+            "level": 20,
+            "icon": 1470,
+            "name": "Wristguards of Fierce Filth",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15298,
+            "level": 21,
+            "icon": 1441,
+            "name": "Wristguards of Horror Guard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 16938,
+            "level": 22,
+            "icon": 1482,
+            "name": "Leather Gloves of the Deadly Mystic",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 16943,
+            "level": 22,
+            "icon": 1482,
+            "name": "Leather Gloves of the Fanatic Dream Walker",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 16962,
+            "level": 21,
+            "icon": 3267,
+            "name": "Wrists of the Lord of Borea",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17251,
+            "level": 21,
+            "icon": 1485,
+            "name": "Gauntlets of the Elusive One",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 17558,
+            "level": 22,
+            "icon": 1482,
+            "name": "Wristguards of Wildlife Hunting",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 17638,
+            "level": 6,
+            "icon": 3364,
+            "name": "Gloves of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17642,
+            "level": 10,
+            "icon": 3364,
+            "name": "Gloves of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17646,
+            "level": 14,
+            "icon": 3364,
+            "name": "Gloves of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17650,
+            "level": 16,
+            "icon": 3364,
+            "name": "Gloves of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17654,
+            "level": 18,
+            "icon": 3364,
+            "name": "Gloves of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17658,
+            "level": 20,
+            "icon": 3364,
+            "name": "Gloves of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17662,
+            "level": 22,
+            "icon": 3364,
+            "name": "Gloves of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17666,
+            "level": 24,
+            "icon": 3364,
+            "name": "Gloves of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17670,
+            "level": 26,
+            "icon": 3364,
+            "name": "Gloves of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 18315,
+            "level": 6,
+            "icon": 3495,
+            "name": "Borean Warlock's Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18323,
+            "level": 10,
+            "icon": 3495,
+            "name": "Veil Guard's Mittens",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18329,
+            "level": 14,
+            "icon": 3495,
+            "name": "Gauntlets of the Northern Oracle",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18335,
+            "level": 18,
+            "icon": 3495,
+            "name": "Gauntlets of the Vortex Spellweaver",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18341,
+            "level": 20,
+            "icon": 3495,
+            "name": "Gauntlets of the Ice Recluse",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18349,
+            "level": 22,
+            "icon": 3495,
+            "name": "Gauntlets of the Faceless Heir",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18444,
+            "level": 10,
+            "icon": 3514,
+            "name": "Eternal Life Wristguards",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18448,
+            "level": 12,
+            "icon": 3514,
+            "name": "Wristguards of Immeasurable Stamina",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18452,
+            "level": 14,
+            "icon": 3514,
+            "name": "Iron Health Wristguards",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18456,
+            "level": 16,
+            "icon": 3514,
+            "name": "Wristguards of Inexhaustible Strength",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18460,
+            "level": 18,
+            "icon": 3514,
+            "name": "Wristguards of Endless Perseverance",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18464,
+            "level": 20,
+            "icon": 3514,
+            "name": "Wristguards of Inexhaustible Perseverance",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18468,
+            "level": 22,
+            "icon": 3514,
+            "name": "Infinite Reliability Wristguards",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18472,
+            "level": 10,
+            "icon": 1456,
+            "name": "Leather Wristguards",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18476,
+            "level": 12,
+            "icon": 1459,
+            "name": "Tanned Leather Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18480,
+            "level": 14,
+            "icon": 1465,
+            "name": "Adventurer's Wristguards",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18484,
+            "level": 16,
+            "icon": 1479,
+            "name": "Thick Leather Wristguards",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18488,
+            "level": 18,
+            "icon": 1467,
+            "name": "Scaled Wristguards",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18493,
+            "level": 20,
+            "icon": 1476,
+            "name": "Elemental Wristguards",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18496,
+            "level": 22,
+            "icon": 1470,
+            "name": "Sacred Wristguards",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18499,
+            "level": 10,
+            "icon": 1456,
+            "name": "Wristguards of Full Moon",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18503,
+            "level": 12,
+            "icon": 1459,
+            "name": "Excellent Wristguards",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18506,
+            "level": 14,
+            "icon": 1462,
+            "name": "Wristguards of Northern Chieftains",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18510,
+            "level": 16,
+            "icon": 1467,
+            "name": "Durable leather Wristguards",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18514,
+            "level": 18,
+            "icon": 1470,
+            "name": "Wristguards of Frozen Fire",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18516,
+            "level": 20,
+            "icon": 1476,
+            "name": "Wristguards of Deep Lord",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18519,
+            "level": 22,
+            "icon": 1485,
+            "name": "Divine Protection Wristguards",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19068,
+            "level": 24,
+            "icon": 1470,
+            "name": "Wristguards of Cruelty",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 19072,
+            "level": 24,
+            "icon": 1485,
+            "name": "Wristguards of Righteous Anger",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19075,
+            "level": 24,
+            "icon": 3514,
+            "name": "Wristguards of Blind Fury",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19200,
+            "level": 23,
+            "icon": 1485,
+            "name": "Assassin's Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19214,
+            "level": 23,
+            "icon": 1482,
+            "name": "Wristguards of the Tree Guard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19226,
+            "level": 25,
+            "icon": 1482,
+            "name": "Wristguards of the Soldier Mechanic",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 20425,
+            "level": 12,
+            "icon": 3495,
+            "name": "Gloves of the Snow Prisoner",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 20443,
+            "level": 16,
+            "icon": 3495,
+            "name": "Gloves of the Polar Hierophant",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 20473,
+            "level": 24,
+            "icon": 3495,
+            "name": "Gloves of the Storm Tamer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 20485,
+            "level": 26,
+            "icon": 3495,
+            "name": "Gloves of the Whitefaced Demiurge",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 21038,
+            "level": 25,
+            "icon": 1485,
+            "name": "Elusive Killer's Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 21098,
+            "level": 26,
+            "icon": 1470,
+            "name": "Spooky Wristguards",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 21102,
+            "level": 26,
+            "icon": 1485,
+            "name": "Dark Flame Wristguards",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 21106,
+            "level": 26,
+            "icon": 3514,
+            "name": "Wristguards of the Captive Souls",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 21421,
+            "level": 3,
+            "icon": 1426,
+            "name": "Plain Light Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 21426,
+            "level": 6,
+            "icon": 1456,
+            "name": "Shabby Light Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 22212,
+            "level": 6,
+            "icon": 4222,
+            "name": "Winter Wristguards of Iceman",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22213,
+            "level": 6,
+            "icon": 4222,
+            "name": "Winter Wrists of Iceman",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22236,
+            "level": 10,
+            "icon": 4222,
+            "name": "Winter Wristguards of Ragnar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22237,
+            "level": 10,
+            "icon": 4222,
+            "name": "Winter Wrists of Ragnar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22260,
+            "level": 12,
+            "icon": 4222,
+            "name": "Winter Wristguards of Frosty Fang",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22261,
+            "level": 12,
+            "icon": 4222,
+            "name": "Winter Wrists of Frosty Fang",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22284,
+            "level": 14,
+            "icon": 4222,
+            "name": "Winter Wristguards of Mastodon",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22285,
+            "level": 14,
+            "icon": 4222,
+            "name": "Winter Wrists of Mastodon",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22308,
+            "level": 16,
+            "icon": 4222,
+            "name": "Winter Wristguards of Taron",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22309,
+            "level": 16,
+            "icon": 4222,
+            "name": "Winter Wrists of Taron",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22326,
+            "level": 18,
+            "icon": 4222,
+            "name": "Winter Wristguards of Kerula",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22327,
+            "level": 18,
+            "icon": 4222,
+            "name": "Winter Wrists of Kerula",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22356,
+            "level": 20,
+            "icon": 4222,
+            "name": "Winter Wristguards of Gimir",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22357,
+            "level": 20,
+            "icon": 4222,
+            "name": "Winter Wrists of Gimir",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22380,
+            "level": 22,
+            "icon": 4222,
+            "name": "Winter Wristguards of Flavius",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22381,
+            "level": 22,
+            "icon": 4222,
+            "name": "Winter Wrists of Flavius",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22404,
+            "level": 24,
+            "icon": 4222,
+            "name": "Winter Wristguards of Ruberius",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22405,
+            "level": 24,
+            "icon": 4222,
+            "name": "Winter Wrists of Ruberius",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22428,
+            "level": 26,
+            "icon": 4222,
+            "name": "Winter Wristguards of Mortis",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22429,
+            "level": 26,
+            "icon": 4222,
+            "name": "Winter Wrists of Mortis",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23319,
+            "level": 20,
+            "icon": 4457,
+            "name": "Wristguards of Warriors of the Sacred Forest",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23323,
+            "level": 20,
+            "icon": 4456,
+            "name": "Wrists of Warriors of the Dominant Coalition",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23327,
+            "level": 22,
+            "icon": 4457,
+            "name": "Wristguards of Warriors of the Pyramid Valley",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23331,
+            "level": 22,
+            "icon": 4456,
+            "name": "Wrists of Warriors of the Mighty Alliance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23335,
+            "level": 24,
+            "icon": 4457,
+            "name": "Wristguards of Warriors of the Black Oak Forest",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23339,
+            "level": 24,
+            "icon": 4456,
+            "name": "Wrists of Warriors of the Legendary Brotherhood",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23343,
+            "level": 26,
+            "icon": 4457,
+            "name": "Wristguards of Warriors of the Flying Islands",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23347,
+            "level": 26,
+            "icon": 4456,
+            "name": "Wrists of Warriors of the Immortal Order",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23502,
+            "level": 25,
+            "icon": 1462,
+            "name": "Wrists of the Forest Warriors",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23531,
+            "level": 27,
+            "icon": 1482,
+            "name": "Wrists of the Engineer Warrior",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23624,
+            "level": 27,
+            "icon": 1485,
+            "name": "Gloves of the Gladiator Warrior",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23625,
+            "level": 27,
+            "icon": 1485,
+            "name": "Wrists of the Gladiator Warrior",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23831,
+            "level": 6,
+            "icon": 3364,
+            "name": "Wrists of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23835,
+            "level": 10,
+            "icon": 3364,
+            "name": "Wrists of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23839,
+            "level": 14,
+            "icon": 3364,
+            "name": "Wrists of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23843,
+            "level": 16,
+            "icon": 3364,
+            "name": "Wrists of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23847,
+            "level": 18,
+            "icon": 3364,
+            "name": "Wrists of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23851,
+            "level": 20,
+            "icon": 3364,
+            "name": "Wrists of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23855,
+            "level": 22,
+            "icon": 3364,
+            "name": "Wrists of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23859,
+            "level": 24,
+            "icon": 3364,
+            "name": "Wrists of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23863,
+            "level": 26,
+            "icon": 3364,
+            "name": "Wrists of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23867,
+            "level": 28,
+            "icon": 3364,
+            "name": "Wrists of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23871,
+            "level": 28,
+            "icon": 3364,
+            "name": "Gloves of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24414,
+            "level": 28,
+            "icon": 4222,
+            "name": "Winter Wristguards of the Snow General",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 24418,
+            "level": 28,
+            "icon": 4222,
+            "name": "Winter Wrists of the Snow General",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 24434,
+            "level": 28,
+            "icon": 3495,
+            "name": "Gauntlets of the Arctic Ruler",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 24456,
+            "level": 10,
+            "icon": 4626,
+            "name": "All-Destroying Wristguards of Ragnar",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24460,
+            "level": 10,
+            "icon": 4626,
+            "name": "Unmatched Wrists of Ragnar",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24560,
+            "level": 12,
+            "icon": 4626,
+            "name": "All-Destroying Wristguards of Frosty Fang",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24561,
+            "level": 14,
+            "icon": 4626,
+            "name": "All-Destroying Wristguards of Mastodon",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24562,
+            "level": 16,
+            "icon": 4626,
+            "name": "All-Destroying Wristguards of Taron",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24563,
+            "level": 18,
+            "icon": 4626,
+            "name": "All-Destroying Wristguards of Kerula",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24564,
+            "level": 20,
+            "icon": 4626,
+            "name": "All-Destroying Wristguards of Gimir",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24565,
+            "level": 22,
+            "icon": 4626,
+            "name": "All-Destroying Wristguards of Flavius",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24566,
+            "level": 24,
+            "icon": 4626,
+            "name": "All-Destroying Wristguards of Ruberius",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24567,
+            "level": 26,
+            "icon": 4626,
+            "name": "All-Destroying Wristguards of Mortis",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24568,
+            "level": 28,
+            "icon": 4626,
+            "name": "All-Destroying Wristguards of the Snow General",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24596,
+            "level": 12,
+            "icon": 4626,
+            "name": "Unsurpassed Wrists of Frosty Fang",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24597,
+            "level": 14,
+            "icon": 4626,
+            "name": "Unsurpassed Wrists of Mastodon",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24598,
+            "level": 16,
+            "icon": 4626,
+            "name": "Unsurpassed Wrists of Taron",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24599,
+            "level": 18,
+            "icon": 4626,
+            "name": "Unsurpassed Wrists of Kerula",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24600,
+            "level": 20,
+            "icon": 4626,
+            "name": "Unsurpassed Wrists of Gimir",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24601,
+            "level": 22,
+            "icon": 4626,
+            "name": "Unsurpassed Wrists of Flavius",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24602,
+            "level": 24,
+            "icon": 4626,
+            "name": "Unsurpassed Wrists of Ruberius",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24603,
+            "level": 26,
+            "icon": 4626,
+            "name": "Unsurpassed Wrists of Mortis",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24604,
+            "level": 28,
+            "icon": 4626,
+            "name": "Unsurpassed Wrists of the Snow General",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 25246,
+            "level": 28,
+            "icon": 1470,
+            "name": "Wristguards of Insight",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 25251,
+            "level": 28,
+            "icon": 1485,
+            "name": "Wristguards of Sinister Visions",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 25256,
+            "level": 28,
+            "icon": 3514,
+            "name": "Wristguards of Sheer Emptiness",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 25925,
+            "level": 20,
+            "icon": 4456,
+            "name": "Wrists of Assassins of the Dominant Coalition",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 25929,
+            "level": 22,
+            "icon": 4456,
+            "name": "Wrists of Assassins of the Mighty Alliance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 25933,
+            "level": 24,
+            "icon": 4456,
+            "name": "Wrists of Assassins of the Legendary Brotherhood",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 25937,
+            "level": 26,
+            "icon": 4456,
+            "name": "Wrists of Assassins of the Immortal Order",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 26339,
+            "level": 29,
+            "icon": 1462,
+            "name": "Wrists of the Corsair Warrior",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 26343,
+            "level": 29,
+            "icon": 1462,
+            "name": "Wristguards of the Corsair Assassin",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 26510,
+            "level": 29,
+            "icon": 1485,
+            "name": "Gloves of the Legendary Assassin",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 26511,
+            "level": 29,
+            "icon": 1485,
+            "name": "Wrists of the Legendary Assassin",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27252,
+            "level": 14,
+            "icon": 5076,
+            "name": "Gloves of Flint the Bell",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27254,
+            "level": 16,
+            "icon": 5076,
+            "name": "Gloves of Flint the Bell",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27256,
+            "level": 18,
+            "icon": 5076,
+            "name": "Gloves of Flint the Bell",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27258,
+            "level": 20,
+            "icon": 5076,
+            "name": "Gloves of Flint the Bell",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27260,
+            "level": 22,
+            "icon": 5076,
+            "name": "Gloves of Flint the Bell",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27262,
+            "level": 24,
+            "icon": 5076,
+            "name": "Gloves of Flint the Bell",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27264,
+            "level": 26,
+            "icon": 5076,
+            "name": "Gloves of Flint the Bell",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27266,
+            "level": 28,
+            "icon": 5076,
+            "name": "Gloves of Flint the Bell",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27268,
+            "level": 30,
+            "icon": 5076,
+            "name": "Gloves of Flint the Bell",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27270,
+            "level": 14,
+            "icon": 5077,
+            "name": "Gloves of Red-haired Chuck",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27272,
+            "level": 16,
+            "icon": 5077,
+            "name": "Gloves of Red-haired Chuck",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27274,
+            "level": 18,
+            "icon": 5077,
+            "name": "Gloves of Red-haired Chuck",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27276,
+            "level": 20,
+            "icon": 5077,
+            "name": "Gloves of Red-haired Chuck",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27278,
+            "level": 22,
+            "icon": 5077,
+            "name": "Gloves of Red-haired Chuck",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27280,
+            "level": 24,
+            "icon": 5077,
+            "name": "Gloves of Red-haired Chuck",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27282,
+            "level": 26,
+            "icon": 5077,
+            "name": "Gloves of Red-haired Chuck",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27284,
+            "level": 28,
+            "icon": 5077,
+            "name": "Gloves of Red-haired Chuck",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27286,
+            "level": 30,
+            "icon": 5077,
+            "name": "Gloves of Red-haired Chuck",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27960,
+            "level": 30,
+            "icon": 4222,
+            "name": "Winter Wristguards of Chernobog",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27964,
+            "level": 30,
+            "icon": 4222,
+            "name": "Winter Wrists of Chernobog",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27985,
+            "level": 30,
+            "icon": 3495,
+            "name": "Gauntlets of the Patron of Frost",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27989,
+            "level": 30,
+            "icon": 3495,
+            "name": "Knitted Gloves of the Patron of Frost",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28033,
+            "level": 14,
+            "icon": 3495,
+            "name": "Knitted Gloves of the Northern Oracle",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28037,
+            "level": 16,
+            "icon": 3495,
+            "name": "Knitted Gloves of the Polar Hierophant",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28041,
+            "level": 18,
+            "icon": 3495,
+            "name": "Knitted Gloves of the Vortex Spellweaver",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28045,
+            "level": 20,
+            "icon": 3495,
+            "name": "Knitted Gloves of the Ice Recluse",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28049,
+            "level": 22,
+            "icon": 3495,
+            "name": "Knitted Gloves of the Faceless Heir",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28053,
+            "level": 24,
+            "icon": 3495,
+            "name": "Knitted Gloves of the Storm Tamer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28057,
+            "level": 26,
+            "icon": 3495,
+            "name": "Knitted Gloves of the Whitefaced Demiurge",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28061,
+            "level": 28,
+            "icon": 3495,
+            "name": "Knitted Gloves of the Arctic Ruler",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28117,
+            "level": 30,
+            "icon": 4626,
+            "name": "All-Destroying Wristguards of Chernobog",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 28121,
+            "level": 30,
+            "icon": 4626,
+            "name": "Unsurpassed Wrists of Chernobog",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 28336,
+            "level": 30,
+            "icon": 3364,
+            "name": "Gloves of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 28340,
+            "level": 30,
+            "icon": 3364,
+            "name": "Wrists of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 28918,
+            "level": 30,
+            "icon": 1470,
+            "name": "Wristguards of Restless Being",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 28923,
+            "level": 30,
+            "icon": 1485,
+            "name": "Wristguards of Rebellious Spirit",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28928,
+            "level": 30,
+            "icon": 3514,
+            "name": "Wristguards of Wild Heart",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 29411,
+            "level": 32,
+            "icon": 5336,
+            "name": "Wrists of Time Distortion",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29415,
+            "level": 32,
+            "icon": 5336,
+            "name": "Wrists of Fatal Retribution",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29491,
+            "level": 20,
+            "icon": 4457,
+            "name": "Wristguards of Assassins of the Sacred Forest",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29495,
+            "level": 22,
+            "icon": 4457,
+            "name": "Wristguards of Assassins of the Pyramid Valley",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29499,
+            "level": 24,
+            "icon": 4457,
+            "name": "Wristguards of Assassins of the Black Oak Forest",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29503,
+            "level": 26,
+            "icon": 4457,
+            "name": "Wristguards of Assassins of the Flying Islands",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29507,
+            "level": 28,
+            "icon": 4457,
+            "name": "Wristguards of Assassins of the Ship Graveyard",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29511,
+            "level": 28,
+            "icon": 4457,
+            "name": "Wristguards of Warriors of the Ship Graveyard",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29515,
+            "level": 28,
+            "icon": 4456,
+            "name": "Wrists of Warriors of the Imperious Clan",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29519,
+            "level": 28,
+            "icon": 4456,
+            "name": "Wrists of Assassins of the Imperious Clan",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29745,
+            "level": 7,
+            "icon": 1429,
+            "name": "Wrists of Recruit",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 29750,
+            "level": 7,
+            "icon": 1432,
+            "name": "Wristguards of Recruit",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 29755,
+            "level": 11,
+            "icon": 1429,
+            "name": "Wrists of Mercenary",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 29760,
+            "level": 11,
+            "icon": 1432,
+            "name": "Wristguards of Mercenary",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 32049,
+            "level": 30,
+            "icon": 4457,
+            "name": "Wristguards of the Warriors of the Pirate Archipelago",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32053,
+            "level": 30,
+            "icon": 4457,
+            "name": "Wristguards of the Assassins of the Pirate Archipelago",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32057,
+            "level": 30,
+            "icon": 4456,
+            "name": "Wrists of the Warriors of the Unbreakable Alliance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32061,
+            "level": 30,
+            "icon": 4456,
+            "name": "Wrists of the Assassins of the Unbreakable Alliance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32137,
+            "level": 18,
+            "icon": 5803,
+            "name": "Enchanted Wrists of Youth",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32141,
+            "level": 20,
+            "icon": 5803,
+            "name": "Enchanted Wrists of Longevity",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32145,
+            "level": 22,
+            "icon": 5803,
+            "name": "Enchanted Wrists of Unfading",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32149,
+            "level": 24,
+            "icon": 5803,
+            "name": "Enchanted Wrists of Unquenchability",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32153,
+            "level": 26,
+            "icon": 5803,
+            "name": "Enchanted Wrists of Eternity",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32157,
+            "level": 28,
+            "icon": 5803,
+            "name": "Enchanted Wrists of Immortality",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32161,
+            "level": 30,
+            "icon": 5803,
+            "name": "Enchanted Wrists of Integrity",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32165,
+            "level": 18,
+            "icon": 5804,
+            "name": "Polar Wrists of Zeal",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32169,
+            "level": 20,
+            "icon": 5804,
+            "name": "Polar Wrists of Mutiny",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32173,
+            "level": 22,
+            "icon": 5804,
+            "name": "Polar Wrists of Vehemence",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32177,
+            "level": 24,
+            "icon": 5804,
+            "name": "Polar Wrists of Ardency",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32181,
+            "level": 26,
+            "icon": 5804,
+            "name": "Polar Wrists of Bitterness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32185,
+            "level": 28,
+            "icon": 5804,
+            "name": "Polar Wrists of Frenzy",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32189,
+            "level": 30,
+            "icon": 5804,
+            "name": "Polar Wrists of Rampage",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32336,
+            "level": 30,
+            "icon": 5820,
+            "name": "Gloves of the Diver Warrior",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 32338,
+            "level": 30,
+            "icon": 5820,
+            "name": "Gloves of the Diver Assassin",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33272,
+            "level": 32,
+            "icon": 5076,
+            "name": "Gloves of Flint the Bell",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33276,
+            "level": 32,
+            "icon": 5077,
+            "name": "Gloves of Red-haired Chuck",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33855,
+            "level": 32,
+            "icon": 4222,
+            "name": "Winter Wristguards of Titan",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33859,
+            "level": 32,
+            "icon": 4222,
+            "name": "Winter Wrists of Titan",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33879,
+            "level": 32,
+            "icon": 3495,
+            "name": "Storm Lord\u2019s Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33883,
+            "level": 32,
+            "icon": 3495,
+            "name": "Storm Lord\u2019s Knitted Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33903,
+            "level": 32,
+            "icon": 4626,
+            "name": "All-Destroying Wristguards of Titan",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 33907,
+            "level": 32,
+            "icon": 4626,
+            "name": "Unmatched Wrists of Titan",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 34465,
+            "level": 32,
+            "icon": 1470,
+            "name": "Wristguards of the Sinful Light",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 34481,
+            "level": 32,
+            "icon": 1485,
+            "name": "Wristguards of the Otherworldly Call",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 34496,
+            "level": 32,
+            "icon": 3514,
+            "name": "Wristguards of the Ominous Requiem",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 34928,
+            "level": 31,
+            "icon": 1485,
+            "name": "Gloves of the Champion Assassin",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 34929,
+            "level": 31,
+            "icon": 1485,
+            "name": "Wrists of the Champion Assassin",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 34952,
+            "level": 32,
+            "icon": 3364,
+            "name": "Gloves of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 34956,
+            "level": 32,
+            "icon": 3364,
+            "name": "Wrists of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35099,
+            "level": 22,
+            "icon": 6182,
+            "name": "Wrists of the Guards of the Forest\u2019s Heart",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35103,
+            "level": 24,
+            "icon": 6182,
+            "name": "Wrists of the Guards of the Jaguar\u2019s Den",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35107,
+            "level": 26,
+            "icon": 6182,
+            "name": "Wrists of the Guards of the Dragon Ness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35111,
+            "level": 28,
+            "icon": 6182,
+            "name": "Wrists of the Guards of the Sky Sanctuary",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35115,
+            "level": 30,
+            "icon": 6182,
+            "name": "Wrists of the Guards of the Sea Turtle",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35148,
+            "level": 32,
+            "icon": 5803,
+            "name": "Enchanted Wrists of Eternity",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35152,
+            "level": 32,
+            "icon": 5804,
+            "name": "Polar Wrists of Fierceness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35285,
+            "level": 31,
+            "icon": 1462,
+            "name": "Wrists of the Pirate Warrior",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 35289,
+            "level": 31,
+            "icon": 1462,
+            "name": "Wristguards of the Pirate Assassin",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 35637,
+            "level": 18,
+            "icon": 1494,
+            "name": "Death Grip Wrists",
+            "itemType": 7,
+            "color": 4
+        }
+    ]
+}

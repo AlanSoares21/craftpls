@@ -1,0 +1,1700 @@
+{
+    "list": [
+        {
+            "id": 38530,
+            "level": 6,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38531,
+            "level": 6,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38532,
+            "level": 10,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38533,
+            "level": 10,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38534,
+            "level": 14,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38535,
+            "level": 14,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38536,
+            "level": 16,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38537,
+            "level": 16,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38538,
+            "level": 18,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38539,
+            "level": 18,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38540,
+            "level": 20,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38541,
+            "level": 20,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38542,
+            "level": 22,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38543,
+            "level": 22,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38544,
+            "level": 24,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38545,
+            "level": 24,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38546,
+            "level": 26,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38547,
+            "level": 26,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38548,
+            "level": 28,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38549,
+            "level": 28,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38550,
+            "level": 30,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38551,
+            "level": 30,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38552,
+            "level": 32,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38553,
+            "level": 32,
+            "icon": 7101,
+            "name": "Chain of Greatness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38554,
+            "level": 6,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38555,
+            "level": 6,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38556,
+            "level": 10,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38557,
+            "level": 10,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38558,
+            "level": 14,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38559,
+            "level": 14,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38560,
+            "level": 16,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38561,
+            "level": 16,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38562,
+            "level": 18,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38563,
+            "level": 18,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38564,
+            "level": 20,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38565,
+            "level": 20,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38566,
+            "level": 22,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38567,
+            "level": 22,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38568,
+            "level": 24,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38569,
+            "level": 24,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38570,
+            "level": 26,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38571,
+            "level": 26,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38572,
+            "level": 28,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38573,
+            "level": 28,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38574,
+            "level": 30,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38575,
+            "level": 30,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38576,
+            "level": 32,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38577,
+            "level": 32,
+            "icon": 7102,
+            "name": "Contender's Chain",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38578,
+            "level": 10,
+            "icon": 7097,
+            "name": "Dull Jade Headband",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38579,
+            "level": 10,
+            "icon": 7097,
+            "name": "Dull Jade Bracelet",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38580,
+            "level": 12,
+            "icon": 7097,
+            "name": "Dark Headband",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38581,
+            "level": 12,
+            "icon": 7097,
+            "name": "Dark Bracelet",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38582,
+            "level": 14,
+            "icon": 7097,
+            "name": "Hazy Headband",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38583,
+            "level": 14,
+            "icon": 7097,
+            "name": "Hazy Bracelet",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38584,
+            "level": 16,
+            "icon": 7097,
+            "name": "Plain Onyx Headband",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38585,
+            "level": 16,
+            "icon": 7097,
+            "name": "Plain Onyx Bracelet",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38586,
+            "level": 18,
+            "icon": 7097,
+            "name": "Headband of the Elements",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38587,
+            "level": 18,
+            "icon": 7097,
+            "name": "Bracelet of the Elements",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38588,
+            "level": 20,
+            "icon": 7097,
+            "name": "Headband of Azure Sky",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38589,
+            "level": 20,
+            "icon": 7097,
+            "name": "Bracelet of Azure Sky",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38590,
+            "level": 22,
+            "icon": 7097,
+            "name": "Headband of Captivating Illusions",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38591,
+            "level": 22,
+            "icon": 7097,
+            "name": "Bracelet of Captivating Illusions",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38592,
+            "level": 24,
+            "icon": 7097,
+            "name": "Headband of Power",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38593,
+            "level": 24,
+            "icon": 7097,
+            "name": "Bracelet of Power",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38594,
+            "level": 26,
+            "icon": 7097,
+            "name": "Unity Headband",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38595,
+            "level": 26,
+            "icon": 7097,
+            "name": "Unity Bracelet",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38596,
+            "level": 28,
+            "icon": 7097,
+            "name": "Caprice Headband",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38597,
+            "level": 28,
+            "icon": 7097,
+            "name": "Caprice Bracelet",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38598,
+            "level": 30,
+            "icon": 7097,
+            "name": "Headband of Repentance",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38599,
+            "level": 30,
+            "icon": 7097,
+            "name": "Bracelet of Repentance",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38600,
+            "level": 32,
+            "icon": 7097,
+            "name": "Headband of Inscrutability",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38601,
+            "level": 32,
+            "icon": 7097,
+            "name": "Bracelet of Inscrutability",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38602,
+            "level": 10,
+            "icon": 7098,
+            "name": "Polished Jade Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38603,
+            "level": 10,
+            "icon": 7098,
+            "name": "Polished Jade Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38604,
+            "level": 12,
+            "icon": 7098,
+            "name": "Headband of Pure Light",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38605,
+            "level": 12,
+            "icon": 7098,
+            "name": "Bracelet of Pure Light",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38606,
+            "level": 14,
+            "icon": 7098,
+            "name": "Tempest Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38607,
+            "level": 14,
+            "icon": 7098,
+            "name": "Tempest Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38608,
+            "level": 16,
+            "icon": 7098,
+            "name": "Daedal Onyx Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38609,
+            "level": 16,
+            "icon": 7098,
+            "name": "Daedal Onyx Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38610,
+            "level": 18,
+            "icon": 7098,
+            "name": "Headband of Absolute Strength",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38611,
+            "level": 18,
+            "icon": 7098,
+            "name": "Bracelet of Absolute Strength",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38612,
+            "level": 20,
+            "icon": 7098,
+            "name": "Headband of Heavenly Flame",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38613,
+            "level": 20,
+            "icon": 7098,
+            "name": "Bracelet of Heavenly Flame",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38614,
+            "level": 22,
+            "icon": 7098,
+            "name": "Bloody Fire Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38615,
+            "level": 22,
+            "icon": 7098,
+            "name": "Bloody Fire Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38616,
+            "level": 24,
+            "icon": 7098,
+            "name": "Almighty Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38617,
+            "level": 24,
+            "icon": 7098,
+            "name": "Almighty Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38618,
+            "level": 26,
+            "icon": 7098,
+            "name": "Headband of Steadfastness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38619,
+            "level": 26,
+            "icon": 7098,
+            "name": "Bracelet of Steadfastness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38620,
+            "level": 28,
+            "icon": 7098,
+            "name": "Headband of Rebelliousness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38621,
+            "level": 28,
+            "icon": 7098,
+            "name": "Bracelet of Rebelliousness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38622,
+            "level": 30,
+            "icon": 7098,
+            "name": "Headband of the Sacrament",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38623,
+            "level": 30,
+            "icon": 7098,
+            "name": "Bracelet of the Sacrament",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38624,
+            "level": 32,
+            "icon": 7098,
+            "name": "Headband of Inaccessibility",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38625,
+            "level": 32,
+            "icon": 7098,
+            "name": "Bracelet of Inaccessibility",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38626,
+            "level": 10,
+            "icon": 7099,
+            "name": "Graceful Jade Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38627,
+            "level": 10,
+            "icon": 7100,
+            "name": "Graceful Jade Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38628,
+            "level": 12,
+            "icon": 7099,
+            "name": "Radiant Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38629,
+            "level": 12,
+            "icon": 7100,
+            "name": "Radiant Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38630,
+            "level": 14,
+            "icon": 7099,
+            "name": "Storm Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38631,
+            "level": 14,
+            "icon": 7100,
+            "name": "Storm Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38632,
+            "level": 16,
+            "icon": 7099,
+            "name": "High-quality Onyx Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38633,
+            "level": 16,
+            "icon": 7100,
+            "name": "High-quality Onyx Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38634,
+            "level": 18,
+            "icon": 7099,
+            "name": "Headband of Invincibility",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38635,
+            "level": 18,
+            "icon": 7100,
+            "name": "Bracelet of Invincibility",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38636,
+            "level": 20,
+            "icon": 7099,
+            "name": "Headband of the Fiery Skies",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38637,
+            "level": 20,
+            "icon": 7100,
+            "name": "Bracelet of the Fiery Skies",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38638,
+            "level": 22,
+            "icon": 7099,
+            "name": "Headband of the Pain Lord",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38639,
+            "level": 22,
+            "icon": 7100,
+            "name": "Bracelet of the Pain Lord",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38640,
+            "level": 24,
+            "icon": 7099,
+            "name": "Headband of Incredible Power",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38641,
+            "level": 24,
+            "icon": 7100,
+            "name": "Bracelet of Incredible Power",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38642,
+            "level": 26,
+            "icon": 7099,
+            "name": "True Tranquility Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38643,
+            "level": 26,
+            "icon": 7100,
+            "name": "True Tranquility Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38644,
+            "level": 28,
+            "icon": 7099,
+            "name": "Headband of Stubbornness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38645,
+            "level": 28,
+            "icon": 7100,
+            "name": "Bracelet of Stubbornness",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38646,
+            "level": 30,
+            "icon": 7099,
+            "name": "Headband of Epiphany",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38647,
+            "level": 30,
+            "icon": 7100,
+            "name": "Bracelet of Epiphany",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38648,
+            "level": 32,
+            "icon": 7099,
+            "name": "Headband of Transcendence",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38649,
+            "level": 32,
+            "icon": 7100,
+            "name": "Bracelet of Transcendence",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38739,
+            "level": 5,
+            "icon": 7103,
+            "name": "Light Headband",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38740,
+            "level": 5,
+            "icon": 7103,
+            "name": "Light Bracelet",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38741,
+            "level": 8,
+            "icon": 7103,
+            "name": "Mighty Headband",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38742,
+            "level": 8,
+            "icon": 7103,
+            "name": "Mighty Bracelet",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38743,
+            "level": 7,
+            "icon": 7105,
+            "name": "Recruit\u2019s Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38744,
+            "level": 7,
+            "icon": 7105,
+            "name": "Recruit\u2019s Cuff",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38745,
+            "level": 7,
+            "icon": 7105,
+            "name": "Recruit\u2019s Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38746,
+            "level": 7,
+            "icon": 7105,
+            "name": "Recruit\u2019s Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38747,
+            "level": 9,
+            "icon": 7105,
+            "name": "Headband of Fighter",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38748,
+            "level": 9,
+            "icon": 7105,
+            "name": "Cuff of Fighter",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38749,
+            "level": 9,
+            "icon": 7105,
+            "name": "Bracelet of Fighter",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38750,
+            "level": 9,
+            "icon": 7105,
+            "name": "Circlet of Fighter",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38751,
+            "level": 11,
+            "icon": 7105,
+            "name": "Mercenary Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38752,
+            "level": 11,
+            "icon": 7105,
+            "name": "Mercenary Cuff",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38753,
+            "level": 11,
+            "icon": 7105,
+            "name": "Mercenary Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38754,
+            "level": 11,
+            "icon": 7105,
+            "name": "Mercenary Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38755,
+            "level": 12,
+            "icon": 7103,
+            "name": "High-standard Headband",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38756,
+            "level": 12,
+            "icon": 7103,
+            "name": "High-standard Bracelet",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38757,
+            "level": 15,
+            "icon": 7103,
+            "name": "Eminent Headband",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38758,
+            "level": 15,
+            "icon": 7103,
+            "name": "Eminent Bracelet",
+            "itemType": 37,
+            "color": 2
+        },
+        {
+            "id": 38759,
+            "level": 13,
+            "icon": 7105,
+            "name": "Stylish Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38760,
+            "level": 13,
+            "icon": 7105,
+            "name": "Stylish Cuff",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38761,
+            "level": 13,
+            "icon": 7105,
+            "name": "Stylish Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38762,
+            "level": 13,
+            "icon": 7105,
+            "name": "Stylish Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38763,
+            "level": 15,
+            "icon": 7105,
+            "name": "Exquisite Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38764,
+            "level": 15,
+            "icon": 7105,
+            "name": "Exquisite Cuff",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38765,
+            "level": 15,
+            "icon": 7105,
+            "name": "Exquisite Casing",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38766,
+            "level": 15,
+            "icon": 7105,
+            "name": "Exquisite Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38767,
+            "level": 15,
+            "icon": 7105,
+            "name": "Exquisite Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38768,
+            "level": 17,
+            "icon": 7105,
+            "name": "Filigree Headband of the Abyss Zealots",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38769,
+            "level": 17,
+            "icon": 7105,
+            "name": "Filigree Cuff of the Abyss Zealots",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38770,
+            "level": 17,
+            "icon": 7105,
+            "name": "Filigree Bracelet of the Abyss Zealots",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38771,
+            "level": 17,
+            "icon": 7105,
+            "name": "Filigree Circlet of the Abyss Zealots",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38772,
+            "level": 19,
+            "icon": 7105,
+            "name": "Headband of Heavenly Dreams",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38773,
+            "level": 19,
+            "icon": 7105,
+            "name": "Cuff of Heavenly Dreams",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38774,
+            "level": 19,
+            "icon": 7105,
+            "name": "Casing of Heavenly Dreams",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38775,
+            "level": 19,
+            "icon": 7105,
+            "name": "Bracelet of Heavenly Dreams",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38776,
+            "level": 19,
+            "icon": 7105,
+            "name": "Circlet of Heavenly Drams",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38777,
+            "level": 21,
+            "icon": 7104,
+            "name": "Rotting Garden Mage Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38778,
+            "level": 21,
+            "icon": 7104,
+            "name": "Rotting Garden Charmer Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38779,
+            "level": 21,
+            "icon": 7104,
+            "name": "Rotting Garden Warrior Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38780,
+            "level": 21,
+            "icon": 7104,
+            "name": "Rotting Garden Assassin Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38781,
+            "level": 21,
+            "icon": 7104,
+            "name": "Rotting Garden Defender Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38782,
+            "level": 21,
+            "icon": 7104,
+            "name": "Rotting Garden Templar Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38783,
+            "level": 23,
+            "icon": 7104,
+            "name": "Termitary Mage Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38784,
+            "level": 23,
+            "icon": 7104,
+            "name": "Termitary Charmer Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38785,
+            "level": 23,
+            "icon": 7104,
+            "name": "Termitary Warrior Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38786,
+            "level": 23,
+            "icon": 7104,
+            "name": "Termitary Assassin Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38787,
+            "level": 23,
+            "icon": 7104,
+            "name": "Termitary Defender Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38788,
+            "level": 23,
+            "icon": 7104,
+            "name": "Termitary Templar Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38789,
+            "level": 25,
+            "icon": 7104,
+            "name": "Tree of the Seasons Mage Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38790,
+            "level": 25,
+            "icon": 7104,
+            "name": "Tree of the Seasons Charmer Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38791,
+            "level": 25,
+            "icon": 7104,
+            "name": "Tree of the Seasons Warrior Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38792,
+            "level": 25,
+            "icon": 7104,
+            "name": "Tree of the Seasons Assassin Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38793,
+            "level": 25,
+            "icon": 7104,
+            "name": "Tree of the Seasons Defender Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38794,
+            "level": 25,
+            "icon": 7104,
+            "name": "Tree of the Seasons Templar Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38795,
+            "level": 27,
+            "icon": 7104,
+            "name": "Technopolis Mage Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38796,
+            "level": 27,
+            "icon": 7104,
+            "name": "Technopolis Charmer Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38797,
+            "level": 27,
+            "icon": 7104,
+            "name": "Technopolis Warrior Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38798,
+            "level": 27,
+            "icon": 7104,
+            "name": "Technopolis Assassin Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38799,
+            "level": 27,
+            "icon": 7104,
+            "name": "Technopolis Defender Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38800,
+            "level": 27,
+            "icon": 7104,
+            "name": "Technopolis Templar Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38801,
+            "level": 29,
+            "icon": 7104,
+            "name": "Sea Tramp Mage Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38802,
+            "level": 29,
+            "icon": 7104,
+            "name": "Sea Tramp Charmer Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38803,
+            "level": 29,
+            "icon": 7104,
+            "name": "Sea Tramp Warrior Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38804,
+            "level": 29,
+            "icon": 7104,
+            "name": "Sea Tramp Assassin Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38805,
+            "level": 29,
+            "icon": 7104,
+            "name": "Sea Tramp Defender Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38806,
+            "level": 29,
+            "icon": 7104,
+            "name": "Sea Tramp Templar Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38807,
+            "level": 31,
+            "icon": 7104,
+            "name": "Pirate Brotherhood Mage Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38808,
+            "level": 31,
+            "icon": 7104,
+            "name": "Pirate Brotherhood Charmer Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38809,
+            "level": 31,
+            "icon": 7104,
+            "name": "Pirate Brotherhood Warrior Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38810,
+            "level": 31,
+            "icon": 7104,
+            "name": "Pirate Brotherhood Assassin Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38811,
+            "level": 31,
+            "icon": 7104,
+            "name": "Pirate Brotherhood Defender Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38812,
+            "level": 31,
+            "icon": 7104,
+            "name": "Pirate Brotherhood Templar Circlet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38813,
+            "level": 31,
+            "icon": 7113,
+            "name": "Admiral\u2019s Headband",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 38814,
+            "level": 31,
+            "icon": 7113,
+            "name": "Admiral\u2019s Bracelet",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39214,
+            "level": 33,
+            "icon": 7104,
+            "name": "Headband of Ancient Temple Sorcerers",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39215,
+            "level": 33,
+            "icon": 7104,
+            "name": "Headband of Ancient Temple Soothsayers",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39216,
+            "level": 33,
+            "icon": 7104,
+            "name": "Bracelet of Ancient Temple Scouts",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39217,
+            "level": 33,
+            "icon": 7104,
+            "name": "Bracelet of Ancient Temple Mercenaries",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39218,
+            "level": 33,
+            "icon": 7104,
+            "name": "Circlet of Ancient Temple Guardians",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39219,
+            "level": 33,
+            "icon": 7104,
+            "name": "Circlet of Ancient Temple Defenders",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39220,
+            "level": 33,
+            "icon": 7141,
+            "name": "Influential Headband of the Almahad Adventurers",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39221,
+            "level": 33,
+            "icon": 7141,
+            "name": "Influential Cuff of the Almahad Adventurers",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39222,
+            "level": 33,
+            "icon": 7141,
+            "name": "Influential Bracelet of the Almahad Adventurers",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39223,
+            "level": 33,
+            "icon": 7141,
+            "name": "Influential Circlet of the Almahad Adventurers",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39224,
+            "level": 33,
+            "icon": 7140,
+            "name": "Influential Headband of the Almahad Assassins",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39225,
+            "level": 33,
+            "icon": 7140,
+            "name": "Influential Cuff of the Almahad Assassins",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39226,
+            "level": 33,
+            "icon": 7140,
+            "name": "Influential Bracelet of the Almahad Assassins",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39227,
+            "level": 33,
+            "icon": 7140,
+            "name": "Influential Circlet of the Almahad Assassins",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39228,
+            "level": 33,
+            "icon": 7139,
+            "name": "Headband of the Golden Belts",
+            "itemType": 37,
+            "color": 3
+        },
+        {
+            "id": 39229,
+            "level": 33,
+            "icon": 7139,
+            "name": "Bracelet of the Golden Belts",
+            "itemType": 37,
+            "color": 3
+        }
+    ]
+}

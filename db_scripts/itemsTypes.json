@@ -1,0 +1,37 @@
+{
+    "cloathArmorHead": 8,
+    "cloathArmorBody": 24,
+    "cloathArmorHands": 25,
+    "cloathArmorBelt": 26,
+    "cloathArmorLegs": 27,
+
+    "HeavyArmorHead": 33,
+    "HeavyArmorBody": 34,
+    "HeavyArmorHands": 35,
+    "HeavyArmorBelt": 36,
+    "HeavyArmorLegs": 37,
+
+    "LightweightArmorHead": 28,
+    "LightweightArmorBody": 29,
+    "LightweightArmorHands": 30,
+    "LightweightArmorBelt": 31,
+    "LightweightArmorLegs": 32,
+
+    "Cloaks": 39,
+    "Rings": 40,
+    "Amulets": 41,
+    "Bracelets": 93,
+
+    "Dagger": 4,
+    "OneHandedSwords": 12,
+    "TwoHandedSwords": 13,
+    "OneHandedAxe": 14,
+    "TwoHandedAxe": 15,
+    "OneHandedMaces": 16,
+    "TwoHandedMaces": 17,
+    "Spears": 18,
+    "Shields": 19,
+    "Staves": 20,
+    "Bows": 21,
+    "Crossbows": 22
+}

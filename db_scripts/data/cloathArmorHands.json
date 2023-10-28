@@ -1,0 +1,2580 @@
+{
+    "list": [
+        {
+            "id": 856,
+            "level": 2,
+            "icon": 1438,
+            "name": "Old Vambraces",
+            "itemType": 7,
+            "color": 0
+        },
+        {
+            "id": 888,
+            "level": 2,
+            "icon": 1438,
+            "name": "Plain Vambraces",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 924,
+            "level": 7,
+            "icon": 1438,
+            "name": "Durable Vambraces",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 983,
+            "level": 9,
+            "icon": 1488,
+            "name": "Vambraces of Neophyte",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 1034,
+            "level": 9,
+            "icon": 1447,
+            "name": "Master's Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 2016,
+            "level": 12,
+            "icon": 1447,
+            "name": "Mighty Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 2017,
+            "level": 12,
+            "icon": 1447,
+            "name": "Mighty Mittens",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 2073,
+            "level": 13,
+            "icon": 1429,
+            "name": "Light Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 2074,
+            "level": 13,
+            "icon": 1447,
+            "name": "Light Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 2136,
+            "level": 14,
+            "icon": 1438,
+            "name": "Elegant Bracers",
+            "itemType": 7,
+            "color": 0
+        },
+        {
+            "id": 2176,
+            "level": 15,
+            "icon": 1426,
+            "name": "Elegant Gloves",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 2177,
+            "level": 12,
+            "icon": 1432,
+            "name": "Decorated Gloves",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 2216,
+            "level": 15,
+            "icon": 1488,
+            "name": "Decorated Bracers",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 2302,
+            "level": 15,
+            "icon": 1488,
+            "name": "Bracers of Berengar's light",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 2303,
+            "level": 15,
+            "icon": 1444,
+            "name": "Gloves of Berengar's Fury",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 2352,
+            "level": 15,
+            "icon": 1488,
+            "name": "Sorcerer's Bracers",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 3970,
+            "level": 16,
+            "icon": 1444,
+            "name": "Blue Gloves of Wizard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 3971,
+            "level": 16,
+            "icon": 1447,
+            "name": "Green Gloves of Wizard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 3972,
+            "level": 16,
+            "icon": 1450,
+            "name": "Violet Gloves of Wizard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 3973,
+            "level": 16,
+            "icon": 1441,
+            "name": "Red Gloves of Wizard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 3974,
+            "level": 16,
+            "icon": 1479,
+            "name": "Orange Gloves of Wizard",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4294,
+            "level": 16,
+            "icon": 1444,
+            "name": "Sorcerer's Blue Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4295,
+            "level": 16,
+            "icon": 1482,
+            "name": "Sorcerer's Brown Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4296,
+            "level": 16,
+            "icon": 1447,
+            "name": "Sorcerer's Green Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4297,
+            "level": 16,
+            "icon": 1450,
+            "name": "Sorcerer's Violet Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 4298,
+            "level": 16,
+            "icon": 1441,
+            "name": "Sorcerer's Red Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 5212,
+            "level": 1,
+            "icon": 1432,
+            "name": "Novice's Cloth Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 5779,
+            "level": 11,
+            "icon": 1438,
+            "name": "Bracers of Beginner Sorcerer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 5804,
+            "level": 5,
+            "icon": 1438,
+            "name": "Armwraps of Beginner Sorcerer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 6072,
+            "level": 5,
+            "icon": 2231,
+            "name": "Mate's Mittens",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 6100,
+            "level": 13,
+            "icon": 2231,
+            "name": "Scrooge Family's Mittens",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 6383,
+            "level": 17,
+            "icon": 1465,
+            "name": "Desert Wanderer's Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 6386,
+            "level": 17,
+            "icon": 1491,
+            "name": "Desert Wanderer's Bracers",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 6487,
+            "level": 18,
+            "icon": 1494,
+            "name": "Violent Storm Bracers",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 6491,
+            "level": 18,
+            "icon": 1506,
+            "name": "Guiding Thread Gauntlets",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 8013,
+            "level": 2,
+            "icon": 1432,
+            "name": "Mighty Bracers",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 8014,
+            "level": 2,
+            "icon": 1426,
+            "name": "Cosy Gauntlets",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 8034,
+            "level": 9,
+            "icon": 1432,
+            "name": "Perfect Mittens",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 8035,
+            "level": 9,
+            "icon": 1435,
+            "name": "Elegant Gauntlets",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 8053,
+            "level": 9,
+            "icon": 1438,
+            "name": "Master's Bracers",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 8056,
+            "level": 9,
+            "icon": 1438,
+            "name": "Master's Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 8155,
+            "level": 5,
+            "icon": 1485,
+            "name": "Gloves of Beginner Sorcerer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 8157,
+            "level": 11,
+            "icon": 1438,
+            "name": "Vambraces of Beginner Sorcerer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 8158,
+            "level": 5,
+            "icon": 1494,
+            "name": "Bracers of Young Sorcerer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 8160,
+            "level": 11,
+            "icon": 1435,
+            "name": "Gloves of Young Sorcerer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 8181,
+            "level": 15,
+            "icon": 1435,
+            "name": "Sorcerer's Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 8182,
+            "level": 15,
+            "icon": 1488,
+            "name": "Sorcerer's Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 8329,
+            "level": 12,
+            "icon": 1438,
+            "name": "Mighty Armwraps",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 8330,
+            "level": 12,
+            "icon": 1438,
+            "name": "Mighty Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 8335,
+            "level": 15,
+            "icon": 1447,
+            "name": "Embroidered Mittens",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 8336,
+            "level": 15,
+            "icon": 1444,
+            "name": "Decorated Gauntlets",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 8376,
+            "level": 13,
+            "icon": 1488,
+            "name": "Light Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 8377,
+            "level": 13,
+            "icon": 1438,
+            "name": "Light Armwraps",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 8399,
+            "level": 15,
+            "icon": 1438,
+            "name": "Vambraces of Berengar's Power",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 8400,
+            "level": 15,
+            "icon": 1482,
+            "name": "Gauntlets of Berengar's Despite",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 8467,
+            "level": 1,
+            "icon": 1435,
+            "name": "Novice's Cloth Gauntlets",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 8470,
+            "level": 1,
+            "icon": 1441,
+            "name": "Novice's Cloth Gauntlets",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 8473,
+            "level": 1,
+            "icon": 1438,
+            "name": "Novice's Cloth Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 8476,
+            "level": 1,
+            "icon": 1438,
+            "name": "Novice's Cloth Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 9059,
+            "level": 17,
+            "icon": 1465,
+            "name": "Desert Wanderer's Armwraps",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 9060,
+            "level": 17,
+            "icon": 1465,
+            "name": "Desert Wanderer's Vambraces",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 9077,
+            "level": 18,
+            "icon": 1494,
+            "name": "Armwraps of Radiant Fame",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 9078,
+            "level": 18,
+            "icon": 1494,
+            "name": "Impenetrable Shroud Vambraces",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 11011,
+            "level": 17,
+            "icon": 1435,
+            "name": "Astromancer's Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 11015,
+            "level": 17,
+            "icon": 1491,
+            "name": "Astromancer Bracers",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 11019,
+            "level": 17,
+            "icon": 1444,
+            "name": "Astromancer Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 11250,
+            "level": 17,
+            "icon": 1444,
+            "name": "Polar Haze Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13778,
+            "level": 8,
+            "icon": 1447,
+            "name": "Temptress's Mittens",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13779,
+            "level": 8,
+            "icon": 1447,
+            "name": "Temptress's Gauntlets",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13780,
+            "level": 8,
+            "icon": 1447,
+            "name": "Temptress's Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13781,
+            "level": 8,
+            "icon": 1447,
+            "name": "Temptress's Bracers",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13808,
+            "level": 16,
+            "icon": 1426,
+            "name": "Abaris' Mittens",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13809,
+            "level": 16,
+            "icon": 1426,
+            "name": "Abaris's Gauntlets",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13810,
+            "level": 16,
+            "icon": 1426,
+            "name": "Abaris' Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13811,
+            "level": 16,
+            "icon": 1438,
+            "name": "Abaris' Bracers",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 13867,
+            "level": 18,
+            "icon": 1438,
+            "name": "Nuadu's Bracers",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14717,
+            "level": 12,
+            "icon": 1435,
+            "name": "Linen Gloves",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 14721,
+            "level": 14,
+            "icon": 1444,
+            "name": "Mystic's Gloves",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 14726,
+            "level": 17,
+            "icon": 1465,
+            "name": "Satin Gloves",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 14737,
+            "level": 19,
+            "icon": 1447,
+            "name": "Noble's Gloves",
+            "itemType": 7,
+            "color": 1
+        },
+        {
+            "id": 14748,
+            "level": 12,
+            "icon": 1438,
+            "name": "Mystical Bracers",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14752,
+            "level": 14,
+            "icon": 1438,
+            "name": "Bracers of Elements",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14813,
+            "level": 17,
+            "icon": 1450,
+            "name": "Shadow Bracers",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14818,
+            "level": 19,
+            "icon": 1438,
+            "name": "Fiery Bracers",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 14873,
+            "level": 20,
+            "icon": 1438,
+            "name": "Charmer Asterius' Bracers",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 14944,
+            "level": 20,
+            "icon": 1438,
+            "name": "Wild Magic Sleeves",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 14948,
+            "level": 20,
+            "icon": 1447,
+            "name": "Gloves of Star Wisdom",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 14990,
+            "level": 19,
+            "icon": 1447,
+            "name": "Archmage's Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15018,
+            "level": 12,
+            "icon": 1438,
+            "name": "Bracers of Full Moon",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15020,
+            "level": 14,
+            "icon": 1438,
+            "name": "Armlets of Northern Chieftains",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15026,
+            "level": 19,
+            "icon": 1438,
+            "name": "Bracers of Deep Lord",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15083,
+            "level": 20,
+            "icon": 1438,
+            "name": "Bracers of Fierce Filth",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15294,
+            "level": 21,
+            "icon": 1438,
+            "name": "Bracers of Senior Priest",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 15609,
+            "level": 9,
+            "icon": 1438,
+            "name": "Master's Wristguards",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 16948,
+            "level": 22,
+            "icon": 1438,
+            "name": "Armlets of the Mad Oracle",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 16953,
+            "level": 22,
+            "icon": 1438,
+            "name": "Armlets of the Enlightened Astromancer",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 16966,
+            "level": 21,
+            "icon": 3266,
+            "name": "Gloves of the Forefather of the Dragons",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17246,
+            "level": 21,
+            "icon": 1444,
+            "name": "Lord's Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 17554,
+            "level": 22,
+            "icon": 1438,
+            "name": "Bracers of Wildlife Hunting",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 17674,
+            "level": 6,
+            "icon": 3363,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17678,
+            "level": 10,
+            "icon": 3363,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17682,
+            "level": 14,
+            "icon": 3363,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17686,
+            "level": 16,
+            "icon": 3363,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17690,
+            "level": 18,
+            "icon": 3363,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17694,
+            "level": 20,
+            "icon": 3363,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17698,
+            "level": 22,
+            "icon": 3363,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17702,
+            "level": 24,
+            "icon": 3363,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 17706,
+            "level": 26,
+            "icon": 3363,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 18316,
+            "level": 6,
+            "icon": 3494,
+            "name": "Borean Warlock's Mitts",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18324,
+            "level": 10,
+            "icon": 3494,
+            "name": "Veil Guard's Mitts",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18330,
+            "level": 14,
+            "icon": 3494,
+            "name": "Mitts of the Northern Oracle",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18336,
+            "level": 18,
+            "icon": 3494,
+            "name": "Mitts of the Vortex Spellweaver",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18343,
+            "level": 20,
+            "icon": 3494,
+            "name": "Mitts of the Ice Recluse",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18350,
+            "level": 22,
+            "icon": 3494,
+            "name": "Mitts of the Faceless Heir",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18366,
+            "level": 10,
+            "icon": 3513,
+            "name": "Eternal Life Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18370,
+            "level": 12,
+            "icon": 3513,
+            "name": "Immeasurable Stamina gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18374,
+            "level": 14,
+            "icon": 3513,
+            "name": "Iron Health Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18378,
+            "level": 16,
+            "icon": 3513,
+            "name": "Gloves of Inexhaustible Strength",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18382,
+            "level": 18,
+            "icon": 3513,
+            "name": "Gloves of Endless Perseverance",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18386,
+            "level": 20,
+            "icon": 3513,
+            "name": "Gloves of Inexhaustible Perseverance",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18390,
+            "level": 22,
+            "icon": 3513,
+            "name": "Infinite Reliability Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18394,
+            "level": 10,
+            "icon": 1426,
+            "name": "Cloth Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18398,
+            "level": 12,
+            "icon": 1432,
+            "name": "Mysterious Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18402,
+            "level": 14,
+            "icon": 1456,
+            "name": "Gloves of Elements",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18406,
+            "level": 16,
+            "icon": 1447,
+            "name": "Satin Gauntlets",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18410,
+            "level": 18,
+            "icon": 1444,
+            "name": "Shadow Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18414,
+            "level": 20,
+            "icon": 1450,
+            "name": "Fiery Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18418,
+            "level": 22,
+            "icon": 1441,
+            "name": "Sacred Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 18421,
+            "level": 10,
+            "icon": 1426,
+            "name": "Gloves of Full Moon",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18425,
+            "level": 12,
+            "icon": 1432,
+            "name": "Mystical Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18431,
+            "level": 16,
+            "icon": 1447,
+            "name": "Heavenly way Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18435,
+            "level": 18,
+            "icon": 1444,
+            "name": "Gloves of Frozen Fire",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18437,
+            "level": 20,
+            "icon": 1450,
+            "name": "Gloves of Deep Lord",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 18440,
+            "level": 22,
+            "icon": 1459,
+            "name": "Divine Protection Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19056,
+            "level": 24,
+            "icon": 1441,
+            "name": "Gloves of Cruelty",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 19060,
+            "level": 24,
+            "icon": 1459,
+            "name": "Gloves of Righteous Anger",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19063,
+            "level": 24,
+            "icon": 3513,
+            "name": "Gloves of Blind Fury",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19195,
+            "level": 23,
+            "icon": 1441,
+            "name": "Gauntlets of the Lord of Enchantment",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19210,
+            "level": 23,
+            "icon": 1438,
+            "name": "Bracers of the Tree Sentinel",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 19222,
+            "level": 25,
+            "icon": 1438,
+            "name": "Bracers of the Mechanic the Magician",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 20424,
+            "level": 12,
+            "icon": 3494,
+            "name": "Wrist warmers of the Snow Prisoner",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 20442,
+            "level": 16,
+            "icon": 3494,
+            "name": "Wrist warmers of the Polar Hierophant",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 20472,
+            "level": 24,
+            "icon": 3494,
+            "name": "Wrist Warmers of the Storm Tamer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 20484,
+            "level": 26,
+            "icon": 3494,
+            "name": "Wrist Warmers of the Whitefaced Demiurge",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 21033,
+            "level": 25,
+            "icon": 1441,
+            "name": "Magic Virtuoso's Gauntlets",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 21086,
+            "level": 26,
+            "icon": 1441,
+            "name": "Spooky Gloves",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 21090,
+            "level": 26,
+            "icon": 1459,
+            "name": "Dark Flame Gloves",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 21094,
+            "level": 26,
+            "icon": 3513,
+            "name": "Gloves of the Captive Souls",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 21412,
+            "level": 3,
+            "icon": 1488,
+            "name": "Plain Cloth Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 21416,
+            "level": 6,
+            "icon": 1488,
+            "name": "Shabby Cloth Vambraces",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 22210,
+            "level": 6,
+            "icon": 4221,
+            "name": "Winter Gloves of Iceman",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22211,
+            "level": 6,
+            "icon": 4221,
+            "name": "Winter Mittens of Iceman",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22234,
+            "level": 10,
+            "icon": 4221,
+            "name": "Winter Gloves of Ragnar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22235,
+            "level": 10,
+            "icon": 4221,
+            "name": "Winter Mittens of Ragnar",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22258,
+            "level": 12,
+            "icon": 4221,
+            "name": "Winter Gloves of Frosty Fang",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22259,
+            "level": 12,
+            "icon": 4221,
+            "name": "Winter Mittens of Frosty Fang",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22282,
+            "level": 14,
+            "icon": 4221,
+            "name": "Winter Gloves of Mastodon",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22283,
+            "level": 14,
+            "icon": 4221,
+            "name": "Winter Mittens of Mastodon",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22306,
+            "level": 16,
+            "icon": 4221,
+            "name": "Winter Gloves of Taron",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22307,
+            "level": 16,
+            "icon": 4221,
+            "name": "Winter Mittens of Taron",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22324,
+            "level": 18,
+            "icon": 4221,
+            "name": "Winter Gloves of Kerula",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22325,
+            "level": 18,
+            "icon": 4221,
+            "name": "Winter Mittens of Kerula",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22354,
+            "level": 20,
+            "icon": 4221,
+            "name": "Winter Gloves of Gimir",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22355,
+            "level": 20,
+            "icon": 4221,
+            "name": "Winter Mittens of Gimir",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22378,
+            "level": 22,
+            "icon": 4221,
+            "name": "Winter Gloves of Flavius",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22379,
+            "level": 22,
+            "icon": 4221,
+            "name": "Winter Mittens of Flavius",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22402,
+            "level": 24,
+            "icon": 4221,
+            "name": "Winter Gloves of Ruberius",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22403,
+            "level": 24,
+            "icon": 4221,
+            "name": "Winter Mittens of Ruberius",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22426,
+            "level": 26,
+            "icon": 4221,
+            "name": "Winter Gloves of Mortis",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 22427,
+            "level": 26,
+            "icon": 4221,
+            "name": "Winter Mittens of Mortis",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23351,
+            "level": 20,
+            "icon": 4454,
+            "name": "Gloves of Mages of the Sacred Forest",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23355,
+            "level": 20,
+            "icon": 4455,
+            "name": "Bracers of Mages of the Dominant Coalition",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23359,
+            "level": 22,
+            "icon": 4454,
+            "name": "Gloves of Mages of the Pyramid Valley",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23363,
+            "level": 22,
+            "icon": 4455,
+            "name": "Bracers of Mages of the Mighty Alliance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23367,
+            "level": 24,
+            "icon": 4454,
+            "name": "Gloves of Mages of the Black Oak Forest",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23371,
+            "level": 24,
+            "icon": 4455,
+            "name": "Bracers of Mages of the Legendary Brotherhood",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23375,
+            "level": 26,
+            "icon": 4454,
+            "name": "Gloves of Mages of the Flying Islands",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23379,
+            "level": 26,
+            "icon": 4455,
+            "name": "Bracers of Mages of the Immortal Order",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23507,
+            "level": 25,
+            "icon": 1441,
+            "name": "Gloves of the Forest Mages",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23527,
+            "level": 27,
+            "icon": 1447,
+            "name": "Gloves of the Engineer Mage",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23615,
+            "level": 27,
+            "icon": 1441,
+            "name": "Wristguards of the Gladiator Mage",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23616,
+            "level": 27,
+            "icon": 1441,
+            "name": "Bracers of the Gladiator Mage",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 23787,
+            "level": 6,
+            "icon": 3363,
+            "name": "Bracers of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23791,
+            "level": 10,
+            "icon": 3363,
+            "name": "Bracers of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23795,
+            "level": 14,
+            "icon": 3363,
+            "name": "Bracers of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23799,
+            "level": 16,
+            "icon": 3363,
+            "name": "Bracers of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23803,
+            "level": 18,
+            "icon": 3363,
+            "name": "Bracers of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23807,
+            "level": 20,
+            "icon": 3363,
+            "name": "Bracers of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23811,
+            "level": 22,
+            "icon": 3363,
+            "name": "Bracers of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23815,
+            "level": 24,
+            "icon": 3363,
+            "name": "Bracers of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23819,
+            "level": 26,
+            "icon": 3363,
+            "name": "Bracers of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23823,
+            "level": 28,
+            "icon": 3363,
+            "name": "Bracers of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 23827,
+            "level": 28,
+            "icon": 3363,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24406,
+            "level": 28,
+            "icon": 4221,
+            "name": "Winter Gloves of the Snow General",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 24410,
+            "level": 28,
+            "icon": 4221,
+            "name": "Winter Mittens of the Snow General",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 24430,
+            "level": 28,
+            "icon": 3494,
+            "name": "Wrist Warmers of the Arctic Ruler",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 24448,
+            "level": 10,
+            "icon": 4625,
+            "name": "All-Mighty Gloves of Ragnar",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24452,
+            "level": 10,
+            "icon": 4625,
+            "name": "Mighty Mittens of Ragnar",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24488,
+            "level": 12,
+            "icon": 4625,
+            "name": "All-Mighty Gloves of Frosty Fang",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24489,
+            "level": 14,
+            "icon": 4625,
+            "name": "All-Mighty Gloves of Mastodon",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24490,
+            "level": 16,
+            "icon": 4625,
+            "name": "All-Mighty Gloves of Taron",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24491,
+            "level": 18,
+            "icon": 4625,
+            "name": "All-Mighty Gloves of Kerula",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24492,
+            "level": 20,
+            "icon": 4625,
+            "name": "All-Mighty Gloves of Gimir",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24493,
+            "level": 22,
+            "icon": 4625,
+            "name": "All-Mighty Gloves of Flavius",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24494,
+            "level": 24,
+            "icon": 4625,
+            "name": "All-Mighty Gloves of Ruberius",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24495,
+            "level": 26,
+            "icon": 4625,
+            "name": "All-Mighty Gloves of Mortis",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24496,
+            "level": 28,
+            "icon": 4625,
+            "name": "All-Mighty Gloves of the Snow General",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24524,
+            "level": 12,
+            "icon": 4625,
+            "name": "Mighty Mittens of Frosty Fang",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24525,
+            "level": 14,
+            "icon": 4625,
+            "name": "Mighty Mittens of Mastodon",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24526,
+            "level": 16,
+            "icon": 4625,
+            "name": "Mighty Mittens of Taron",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24527,
+            "level": 18,
+            "icon": 4625,
+            "name": "Mighty Mittens of Kerula",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24528,
+            "level": 20,
+            "icon": 4625,
+            "name": "Mighty Mittens of Gimir",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24529,
+            "level": 22,
+            "icon": 4625,
+            "name": "Mighty Mittens of Flavius",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24530,
+            "level": 24,
+            "icon": 4625,
+            "name": "Mighty Mittens of Ruberius",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24531,
+            "level": 26,
+            "icon": 4625,
+            "name": "Mighty Mittens of Mortis",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 24532,
+            "level": 28,
+            "icon": 4625,
+            "name": "Mighty Mittens of the Snow General",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 25231,
+            "level": 28,
+            "icon": 1441,
+            "name": "Gloves of Insight",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 25236,
+            "level": 28,
+            "icon": 1459,
+            "name": "Gloves of Sinister Visions",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 25241,
+            "level": 28,
+            "icon": 3513,
+            "name": "Gloves of Sheer Emptiness",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 25909,
+            "level": 20,
+            "icon": 4455,
+            "name": "Bracers of Charmers of the Dominant Coalition",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 25913,
+            "level": 22,
+            "icon": 4455,
+            "name": "Bracers of Charmers of the Mighty Alliance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 25917,
+            "level": 24,
+            "icon": 4455,
+            "name": "Bracers of Charmers of the Legendary Brotherhood",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 25921,
+            "level": 26,
+            "icon": 4455,
+            "name": "Bracers of Charmers of the Immortal Order",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 26331,
+            "level": 29,
+            "icon": 1441,
+            "name": "Gloves of the Corsair Mage",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 26335,
+            "level": 29,
+            "icon": 1441,
+            "name": "Bracers the Corsair Charmer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 26501,
+            "level": 29,
+            "icon": 1441,
+            "name": "Wristguards of the Legendary Arcanomancer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 26502,
+            "level": 29,
+            "icon": 1441,
+            "name": "Bracers of the Legendary Arcanomancer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27216,
+            "level": 14,
+            "icon": 5074,
+            "name": "Gloves of Smiley Willy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27218,
+            "level": 16,
+            "icon": 5074,
+            "name": "Gloves of Smiley Willy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27220,
+            "level": 18,
+            "icon": 5074,
+            "name": "Gloves of Smiley Willy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27222,
+            "level": 20,
+            "icon": 5074,
+            "name": "Gloves of Smiley Willy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27224,
+            "level": 22,
+            "icon": 5074,
+            "name": "Gloves of Smiley Willy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27226,
+            "level": 24,
+            "icon": 5074,
+            "name": "Gloves of Smiley Willy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27228,
+            "level": 26,
+            "icon": 5074,
+            "name": "Gloves of Smiley Willy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27230,
+            "level": 28,
+            "icon": 5074,
+            "name": "Gloves of Smiley Willy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27232,
+            "level": 30,
+            "icon": 5074,
+            "name": "Gloves of Smiley Willy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27234,
+            "level": 14,
+            "icon": 5075,
+            "name": "Gloves of Barry the Crest",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27236,
+            "level": 16,
+            "icon": 5075,
+            "name": "Gloves of Barry the Crest",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27238,
+            "level": 18,
+            "icon": 5075,
+            "name": "Gloves of Barry the Crest",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27240,
+            "level": 20,
+            "icon": 5075,
+            "name": "Gloves of Barry the Crest",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27242,
+            "level": 22,
+            "icon": 5075,
+            "name": "Gloves of Barry the Crest",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27244,
+            "level": 24,
+            "icon": 5075,
+            "name": "Gloves of Barry the Crest",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27246,
+            "level": 26,
+            "icon": 5075,
+            "name": "Gloves of Barry the Crest",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27248,
+            "level": 28,
+            "icon": 5075,
+            "name": "Gloves of Barry the Crest",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27250,
+            "level": 30,
+            "icon": 5075,
+            "name": "Gloves of Barry the Crest",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27952,
+            "level": 30,
+            "icon": 4221,
+            "name": "Winter Gloves of Chernobog",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27956,
+            "level": 30,
+            "icon": 4221,
+            "name": "Winter Mittens of Chernobog",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27976,
+            "level": 30,
+            "icon": 3494,
+            "name": "Wrist Warmers of the Patron of Frost",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 27981,
+            "level": 30,
+            "icon": 3494,
+            "name": "Woolen Mittens of the Patron of Frost",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28001,
+            "level": 14,
+            "icon": 3494,
+            "name": "Woolen Mittens of the Northern Oracle",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28005,
+            "level": 16,
+            "icon": 3494,
+            "name": "Woolen Mittens of the Polar Hierophant",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28009,
+            "level": 18,
+            "icon": 3494,
+            "name": "Woolen Mittens of the Vortex Spellweaver",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28013,
+            "level": 20,
+            "icon": 3494,
+            "name": "Woolen Mittens of the Ice Recluse",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28017,
+            "level": 22,
+            "icon": 3494,
+            "name": "Woolen Mittens of the Faceless Heir",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28021,
+            "level": 24,
+            "icon": 3494,
+            "name": "Woolen Mittens of the Storm Tamer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28025,
+            "level": 26,
+            "icon": 3494,
+            "name": "Woolen Mittens of the Whitefaced Demiurge",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28029,
+            "level": 28,
+            "icon": 3494,
+            "name": "Woolen Mittens of the Arctic Ruler",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28109,
+            "level": 30,
+            "icon": 4625,
+            "name": "All-Mighty Gloves of Chernobog",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 28113,
+            "level": 30,
+            "icon": 4625,
+            "name": "Mighty Mittens of Chernobog",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 28328,
+            "level": 30,
+            "icon": 3363,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 28332,
+            "level": 30,
+            "icon": 3363,
+            "name": "Bracers of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 28891,
+            "level": 30,
+            "icon": 1441,
+            "name": "Gloves of Restless Being",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 28900,
+            "level": 30,
+            "icon": 1459,
+            "name": "Gloves of Rebellious Spirit",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 28913,
+            "level": 30,
+            "icon": 3513,
+            "name": "Gloves of Wild Heart",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 29403,
+            "level": 32,
+            "icon": 5335,
+            "name": "Gloves of the Sacred Sign",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29407,
+            "level": 32,
+            "icon": 5335,
+            "name": "Gloves of Invisible Knowledge",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29459,
+            "level": 20,
+            "icon": 4454,
+            "name": "Gloves of Charmers of the Sacred Forest",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29463,
+            "level": 22,
+            "icon": 4454,
+            "name": "Gloves of Charmers of the Pyramid Valley",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29467,
+            "level": 24,
+            "icon": 4454,
+            "name": "Gloves of Charmers of the Black Oak Forest",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29471,
+            "level": 26,
+            "icon": 4454,
+            "name": "Gloves of Charmers of the Flying Islands",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29475,
+            "level": 28,
+            "icon": 4454,
+            "name": "Gloves of Charmers of the Ship Graveyard",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29479,
+            "level": 28,
+            "icon": 4454,
+            "name": "Gloves of Mages of the Ship Graveyard",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29483,
+            "level": 28,
+            "icon": 4455,
+            "name": "Bracers of Mages of the Imperious Clan",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29487,
+            "level": 28,
+            "icon": 4455,
+            "name": "Bracers of Charmers of the Imperious Clan",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 29725,
+            "level": 7,
+            "icon": 1447,
+            "name": "Gloves of Recruit",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 29730,
+            "level": 7,
+            "icon": 1447,
+            "name": "Bracers of Recruit",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 29735,
+            "level": 11,
+            "icon": 1447,
+            "name": "Gloves of Mercenary",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 29740,
+            "level": 11,
+            "icon": 1447,
+            "name": "Bracers of Mercenary",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 32033,
+            "level": 30,
+            "icon": 4454,
+            "name": "Gloves of the Mages of the Pirate Archipelago",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32037,
+            "level": 30,
+            "icon": 4454,
+            "name": "Gloves of the Spellweavers of the Pirate Archipelago",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32041,
+            "level": 30,
+            "icon": 4455,
+            "name": "Bracers of the Mages of the Unbreakable Alliance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32045,
+            "level": 30,
+            "icon": 4455,
+            "name": "Bracers of the Spellweavers of the Unbreakable Alliance",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32081,
+            "level": 18,
+            "icon": 5801,
+            "name": "Witch's Gloves of Youth",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32085,
+            "level": 20,
+            "icon": 5801,
+            "name": "Witch's Gloves of Longevity",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32089,
+            "level": 22,
+            "icon": 5801,
+            "name": "Witch's Gloves of Unfading",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32093,
+            "level": 24,
+            "icon": 5801,
+            "name": "Witch's Gloves of Unquenchability",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32097,
+            "level": 26,
+            "icon": 5801,
+            "name": "Witch's Gloves of Eternity",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32101,
+            "level": 28,
+            "icon": 5801,
+            "name": "Witch's Gloves of Immortality",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32105,
+            "level": 30,
+            "icon": 5801,
+            "name": "Witch's Gloves of Integrity",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32109,
+            "level": 18,
+            "icon": 5802,
+            "name": "Northern Gloves of Zeal",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32113,
+            "level": 20,
+            "icon": 5802,
+            "name": "Northern Gloves of Mutiny",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32117,
+            "level": 22,
+            "icon": 5802,
+            "name": "Northern Gloves of Vehemence",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32121,
+            "level": 24,
+            "icon": 5802,
+            "name": "Northern Gloves of Ardency",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32125,
+            "level": 26,
+            "icon": 5802,
+            "name": "Northern Gloves of Bitterness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32129,
+            "level": 28,
+            "icon": 5802,
+            "name": "Northern Gloves of Frenzy",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32133,
+            "level": 30,
+            "icon": 5802,
+            "name": "Northern Gloves of Rampage",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 32332,
+            "level": 30,
+            "icon": 5819,
+            "name": "Gloves of the Diver Sorcerer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 32334,
+            "level": 30,
+            "icon": 5819,
+            "name": "Gloves of the Diver Spellweaver",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33264,
+            "level": 32,
+            "icon": 5074,
+            "name": "Gloves of Smiley Willy",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33268,
+            "level": 32,
+            "icon": 5075,
+            "name": "Gloves of Barry the Crest",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33847,
+            "level": 32,
+            "icon": 4221,
+            "name": "Winter Gloves of Titan",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33851,
+            "level": 32,
+            "icon": 4221,
+            "name": "Winter Mittens of Titan",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33871,
+            "level": 32,
+            "icon": 3494,
+            "name": "Storm Lord\u2019s Mitts",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33875,
+            "level": 32,
+            "icon": 3494,
+            "name": "Storm Lord\u2019s Woolen Mittens",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 33895,
+            "level": 32,
+            "icon": 4625,
+            "name": "All-Mighty Gloves of Titan",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 33899,
+            "level": 32,
+            "icon": 4625,
+            "name": "Mighty Mittens of Titan",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 34461,
+            "level": 32,
+            "icon": 1441,
+            "name": "Gloves of the Sinful Light",
+            "itemType": 7,
+            "color": 2
+        },
+        {
+            "id": 34476,
+            "level": 32,
+            "icon": 1459,
+            "name": "Gloves of the Otherworldly Call",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 34491,
+            "level": 32,
+            "icon": 3513,
+            "name": "Gloves of the Ominous Requiem",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 34919,
+            "level": 31,
+            "icon": 1441,
+            "name": "Wristguards of the Champion Arcanomancer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 34920,
+            "level": 31,
+            "icon": 1441,
+            "name": "Bracers of the Champion Arcanomancer",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 34944,
+            "level": 32,
+            "icon": 3363,
+            "name": "Gauntlets of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 34948,
+            "level": 32,
+            "icon": 3363,
+            "name": "Bracers of Greatness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35079,
+            "level": 22,
+            "icon": 6181,
+            "name": "Gloves of the Wizards of the Forest\u2019s Heart",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35083,
+            "level": 24,
+            "icon": 6181,
+            "name": "Gloves of the Wizards of the Jaguar\u2019s Den",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35087,
+            "level": 26,
+            "icon": 6181,
+            "name": "Gloves of the Wizards of the Dragon Ness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35091,
+            "level": 28,
+            "icon": 6181,
+            "name": "Gloves of the Wizards of the Sky Sanctuary",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35095,
+            "level": 30,
+            "icon": 6181,
+            "name": "Gloves of the Wizards of the Sea Turtle",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35140,
+            "level": 32,
+            "icon": 5801,
+            "name": "Witch's Gloves of Eternity",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35144,
+            "level": 32,
+            "icon": 5802,
+            "name": "Northern Gloves of Fierceness",
+            "itemType": 7,
+            "color": 4
+        },
+        {
+            "id": 35277,
+            "level": 31,
+            "icon": 1441,
+            "name": "Gloves of the Pirate Mage",
+            "itemType": 7,
+            "color": 3
+        },
+        {
+            "id": 35281,
+            "level": 31,
+            "icon": 1441,
+            "name": "Bracers of the Pirate Spellweaver",
+            "itemType": 7,
+            "color": 3
+        }
+    ]
+}
