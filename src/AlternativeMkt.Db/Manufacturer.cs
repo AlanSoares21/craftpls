@@ -14,6 +14,7 @@ public partial class Manufacturer
     public bool Hide { get; set; }
 
     public Guid Userid { get; set; }
+    public byte ServerId { get; set; }
 
     public DateTime? CreatedAt { get; set; }
 
@@ -26,4 +27,6 @@ public partial class Manufacturer
     public virtual ICollection<Request> Requests { get; set; } = new List<Request>();
 
     public virtual User User { get; set; } = null!;
+    
+    public virtual Server Server { get; set; } = null!;
 }

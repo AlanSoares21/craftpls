@@ -10,6 +10,7 @@ public partial class GameAccount
     public string? Name { get; set; }
 
     public Guid UserId { get; set; }
+    public byte ServerId { get; set; }
 
     public DateTime? CreatedAt { get; set; }
 
@@ -18,4 +19,5 @@ public partial class GameAccount
     public DateTime? DeletedAt { get; set; }
 
     public virtual User User { get; set; } = null!;
+    public virtual Server Server { get; set; } = null!;
 }

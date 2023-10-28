@@ -155,11 +155,16 @@ public partial class MktDbContext : DbContext
                 .HasColumnType("timestamp without time zone")
                 .HasColumnName("updatedat");
             entity.Property(e => e.UserId).HasColumnName("userid");
+            entity.Property(e => e.ServerId).HasColumnName("serverid");
 
             entity.HasOne(d => d.User).WithMany(p => p.GameAccounts)
                 .HasForeignKey(d => d.UserId)
                 .OnDelete(DeleteBehavior.Restrict)
                 .HasConstraintName("game_accounts_userid_fkey");
+            
+            entity.HasOne(d => d.Server).WithMany(e => e.GameAccounts)
+                .OnDelete(DeleteBehavior.Restrict)
+                .HasConstraintName("game_accounts_serverid_fkey");
         });
 
         modelBuilder.Entity<Manufacturer>(entity =>
@@ -185,10 +190,15 @@ public partial class MktDbContext : DbContext
                 .HasColumnType("timestamp without time zone")
                 .HasColumnName("updatedat");
             entity.Property(e => e.Userid).HasColumnName("userid");
+            entity.Property(e => e.ServerId).HasColumnName("serverid");
 
-            entity.HasOne(d => d.User).WithOne(p => p.Manufacturer)
+            entity.HasOne(d => d.User).WithMany(p => p.Manufacturers)
                 .OnDelete(DeleteBehavior.Restrict)
                 .HasConstraintName("manufacturers_userid_fkey");
+
+            entity.HasOne(d => d.Server).WithMany(e => e.Manufacturers)
+                .OnDelete(DeleteBehavior.Restrict)
+                .HasConstraintName("manufacturers_serverid_fkey");
         });
 
         modelBuilder.Entity<Request>(entity =>
@@ -275,6 +285,17 @@ public partial class MktDbContext : DbContext
                 .HasColumnName("updatedat");
         });
 
+        modelBuilder.Entity<Server>(entity => {
+            entity.HasKey(e => e.Id).HasName("server_pkey");
+
+            entity.ToTable("servers");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+
+            entity.Property(e => e.Name)
+                .HasColumnName("name")
+                .HasMaxLength(100);
+        });
         OnModelCreatingPartial(modelBuilder);
     }
 

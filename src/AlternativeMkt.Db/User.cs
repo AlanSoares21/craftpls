@@ -19,7 +19,7 @@ public partial class User
 
     public virtual ICollection<GameAccount> GameAccounts { get; set; } = new List<GameAccount>();
 
-    public virtual Manufacturer? Manufacturer { get; set; }
+    public virtual List<Manufacturer>? Manufacturers { get; set; }
 
     public virtual ICollection<Request> Requests { get; set; } = new List<Request>();
 }
