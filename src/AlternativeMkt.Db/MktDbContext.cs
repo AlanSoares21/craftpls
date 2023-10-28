@@ -64,13 +64,13 @@ public partial class MktDbContext : DbContext
 
             entity.ToTable("craft_items");
 
-            entity.HasIndex(e => e.Name, "craft_items_name_key").IsUnique();
-
             entity.Property(e => e.Id).HasColumnName("id");
             entity.Property(e => e.CategoryId).HasColumnName("categoryid");
             entity.Property(e => e.Name)
                 .HasMaxLength(100)
                 .HasColumnName("name");
+            entity.Property(e => e.Level)
+                .HasColumnName("level");
 
             entity.HasOne(d => d.Category).WithMany(p => p.CraftItems)
                 .HasForeignKey(d => d.CategoryId)

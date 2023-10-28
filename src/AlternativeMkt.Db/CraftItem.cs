@@ -8,6 +8,7 @@ public partial class CraftItem
     public int Id { get; set; }
 
     public string? Name { get; set; }
+    public int? Level { get; set; }
 
     public int? CategoryId { get; set; }
     public virtual CraftCategory? Category { get; set; }
