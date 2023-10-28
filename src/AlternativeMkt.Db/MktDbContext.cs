@@ -36,6 +36,7 @@ public partial class MktDbContext : DbContext
     public virtual DbSet<Request> Requests { get; set; }
 
     public virtual DbSet<User> Users { get; set; }
+    public virtual DbSet<Server> Servers { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
         string? connstring = _configuration.GetConnectionString("MainDb");

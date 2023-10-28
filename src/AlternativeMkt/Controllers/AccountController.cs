@@ -108,8 +108,18 @@ public class AccountController: BaseController
     }
 
     [Authorize]
-    public IActionResult Profile() {
-        return View(_auth.GetUser(User.Claims));
+    public async Task<IActionResult> Profile() {
+        var authData = _auth.GetUser(User.Claims);
+        var userData = await _db.Users
+            .SingleAsync(u => u.Id == authData.Id);
+        userData.GameAccounts = _db.GameAccounts
+            .Include(g => g.Server)
+            .ToList();
+        if (userData is null)
+            throw new Exception("User data ta nulo");
+        if (userData.GameAccounts is null)
+            throw new Exception("User game accounts ta nulo");
+        return View(userData);
     }
 
     [Authorize]

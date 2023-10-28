@@ -1,0 +1,10 @@
+@inject IViewLocalizer text
+@model List<Server>
+
+<label for="selectServer" class="form-label">@text["ChooseServerLabel"]</label>
+<select id="selectServer" name=@ViewData["name"] class="form-select">
+    @foreach (var server in Model)
+    {
+        <option value="@server.Id">@server.Name</option>
+    }
+</select>

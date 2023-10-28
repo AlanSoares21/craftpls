@@ -1,0 +1,16 @@
+@inject IViewLocalizer text
+
+@{
+    ViewData["Title"] = "Add Game Account";
+}
+
+<form asp-controller="GameAccount" asp-action="Register">
+    <div class="mb-3">
+        <vc:server-selection name="server" ></vc:server-selection>
+    </div>
+    <div class="mb-3">
+        <label for="txtName" class="form-label">@text["TxtAccountNameLabel"]</label>
+        <input id="txtName" name="name" type="text" maxlength="12" class="form-control"/>
+    </div>
+    <input type="submit" class="btn btn-primary" value=@text["BtnSubmitText"] />
+</form>

@@ -1,6 +1,30 @@
 @model User
 
-<i>@Model.Id</i>
-<p>@Model.Email</p>
-<p>@Model.Name</p>
-<a asp-action="EditProfile">Edit</a>
+@{
+    ViewData["Title"] = "Profile - " + 
+        (string.IsNullOrEmpty(Model.Name) ? Model.Email : Model.Name);
+}
+
+<section class="container">
+    <div class="row">
+        <div class="col">
+            <i>@Model.Id</i>
+            <p>@Model.Email</p>
+            <p>@Model.Name</p>
+            <a asp-action="EditProfile">Edit</a>
+        </div>
+        <div class="col-sm">
+            <ul class="list-group">
+                @foreach (var account in Model.GameAccounts)
+                {
+                    @if (account is not null) {
+                        <li class="list-group-item">@account.Name - @account.Server.Name</li>
+                    }
+                }
+            </ul>
+            <a asp-controller="GameAccount" asp-action="New">
+                Add Game Account
+            </a>
+        </div>
+    </div>
+</section>
