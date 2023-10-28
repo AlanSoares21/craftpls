@@ -112,9 +112,9 @@ public partial class MktDbContext : DbContext
 
         modelBuilder.Entity<CraftResource>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("equips_pkey");
+            entity.HasKey(e => e.Id).HasName("craft_resource_pkey");
 
-            entity.ToTable("equips");
+            entity.ToTable("craft_resource");
 
             entity.Property(e => e.Id).HasColumnName("id");
             entity.Property(e => e.Amount).HasColumnName("ammount");
