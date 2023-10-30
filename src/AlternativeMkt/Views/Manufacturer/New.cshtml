@@ -1,0 +1,22 @@
+@inject IViewLocalizer text
+
+@{
+    ViewData["Title"] = "New Manufactuer";
+}
+
+<form asp-action="Add">
+    <div class="mb-1">
+        <label for="maxRequestsOpen" class="form-label">@text["MaxRequestsOpenLabel"]</label>
+        <input type="number" name="maxRequestsOpen" class="form-control" />
+    </div>
+    <div class="mb-1">
+        <label for="maxRequestsAccepted" class="form-label">@text["MaxRequestsAcceptedLabel"]</label>
+        <input name="maxRequestsAccepted" type="number" class="form-control" />
+    </div>
+    <div class="mb-1">
+        <vc:server-selection name="server"></vc:server-selection>
+    </div>
+    <div class="mb-1">
+        <input type="submit" value=@text["AddManufacturerBtn"] class="form-control btn btn-success"/>
+    </div>
+</form>

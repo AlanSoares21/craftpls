@@ -1,0 +1,15 @@
+@model List<Manufacturer>
+
+@{
+    ViewData["Title"] = "Select Manufacturer";
+}
+
+<section class="list-group mb-2">
+    @foreach (var manufacturer in Model)
+    {
+        <a asp-action="Index" asp-route-id=@manufacturer.Id class="list-group-item list-group-item-action">
+            @manufacturer.Server.Name
+        </a>
+    }
+</section>
+<a asp-action="New" class="btn btn-primary">New Manufacturer</a>

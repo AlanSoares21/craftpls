@@ -1,0 +1,33 @@
+@inject IViewLocalizer text
+@model Manufacturer
+
+@{
+    ViewData["Title"] = "Manufacturer";
+}
+<!-- Your data as manufacturer -->
+<form asp-action="Edit" asp-route-id="@Model.Id" class="row g-3 align-items-center">
+    <h3>@Model.Server.Name</h3>
+    <div class="col">
+        <label for="maxRequestsOpen" class="form-label">@text["MaxRequestsOpenLabel"]</label>
+        <input type="number" name="maxRequestsOpen" value=@Model.MaxRequestsOpen class="form-control" />
+    </div>
+    <div class="col">
+        <label for="maxRequestsAccepted" class="form-label">@text["MaxRequestsAcceptedLabel"]</label>
+        <input name="maxRequestsAccepted" type="number" value="@Model.MaxRequestsAccepted" class="form-control" />
+    </div>
+    <div class="col form-check">
+        <input type="checkbox" name="hide" value="true" checked=@Model.Hide class="form-check-input" />
+        <label for="hide" class="form-check-label">@text["HideLabel"]</label>
+    </div>  
+    <div class="col mb-1">
+        <input type="submit" class="btn btn-success" value="Update">
+    </div>
+</form>
+
+
+<!-- Pages to handle prices and requests -->
+<section class="container mt-3">
+    <a asp-action="Prices" asp-route-id=@Model.Id class="btn btn-primary">Prices</a>
+    <a asp-action="Requests" asp-route-id=@Model.Id class="btn btn-primary">Requests</a>
+    <a asp-action="Index" asp-route-id="" class="btn btn-secondary">Switch server</a>
+</section>
