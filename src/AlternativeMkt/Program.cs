@@ -10,6 +10,8 @@ builder.Services.AddLocalization(opt => {
     opt.ResourcesPath = "Resources";
 });
 
+builder.Services.AddControllers();
+
 // Add services to the container.
 builder.Services.AddControllersWithViews()
     .AddViewLocalization();
@@ -92,7 +94,7 @@ app.MapControllerRoute(
 
 app.MapAreaControllerRoute(
     name: "default",
-    areaName: "main|api",
+    areaName: "main",
     pattern: "{area=main}/{culture}/{controller=Home}/{action=Index}/{id?}",
     defaults: new {
         area = "main",
@@ -100,7 +102,7 @@ app.MapAreaControllerRoute(
         controller = "Home",
         action = "Index"
     },
-    constraints: new { area = "main|api", culture = "en|pt" }
+    constraints: new { area = "main", culture = "en|pt" }
 );
 
 app.Run();
