@@ -83,21 +83,24 @@ app.MapControllerRoute(
     name: "root",
     pattern: "",
     defaults: new {
+        area = "main",
         culture = "en",
         controller = "ChangeCulture",
         action = "RedirectToLocalized"
     }
 );
 
-app.MapControllerRoute(
+app.MapAreaControllerRoute(
     name: "default",
-    pattern: "{culture}/{controller=Home}/{action=Index}/{id?}",
+    areaName: "main|api",
+    pattern: "{area=main}/{culture}/{controller=Home}/{action=Index}/{id?}",
     defaults: new {
+        area = "main",
         culture = "en",
         controller = "Home",
         action = "Index"
     },
-    constraints: new { culture = "en|pt" }
+    constraints: new { area = "main|api", culture = "en|pt" }
 );
 
 app.Run();
