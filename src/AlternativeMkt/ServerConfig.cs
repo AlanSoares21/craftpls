@@ -11,7 +11,7 @@ public class ServerConfig
     }
     private int _SecondsAuthTokenExpireDefault = 60;
     private bool _SecondsAuthTokenExpireIsEmpty() => 
-        string.IsNullOrEmpty(_configuration["SecondsAuthTokenExpire"]);
+        string.IsNullOrEmpty(_configuration["Jwt:SecondsAuthTokenExpire"]);
     public string Issuer => "" + _configuration["Jwt:Issuer"];
 
     public byte[] SecretKey => 
@@ -23,4 +23,6 @@ public class ServerConfig
         _SecondsAuthTokenExpireIsEmpty() ?
         _SecondsAuthTokenExpireDefault :
         int.Parse("" + _configuration["Jwt:SecondsAuthTokenExpire"]);
+
+    public string AllowedOrigin => "" + _configuration["Jwt:AllowedOrigin"];
 }

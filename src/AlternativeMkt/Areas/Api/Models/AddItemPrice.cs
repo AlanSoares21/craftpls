@@ -1,5 +1,5 @@
 
-namespace AlternativeMkt.Main.Models;
+namespace AlternativeMkt.Api.Models;
 
 public class AddItemPrice
 {

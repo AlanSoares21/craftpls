@@ -1,16 +1,23 @@
 using System.Security.Claims;
+using System.Text.Json.Serialization;
 using AlternativeMkt;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 
+const string CorsPolicyName = "CorsDefault";
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddLocalization(opt => {
     opt.ResourcesPath = "Resources";
 });
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(opt => {
+        opt.JsonSerializerOptions.ReferenceHandler = 
+            ReferenceHandler.IgnoreCycles;
+    });
 
 // Add services to the container.
 builder.Services.AddControllersWithViews()
@@ -22,6 +29,16 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ServerConfig>();
 
 var config = new ServerConfig(builder.Configuration);
+
+builder.Services.AddCors(options => {
+    options.AddPolicy(name: CorsPolicyName, policy => {
+        Console.WriteLine($"Allowed origin: {config.AllowedOrigin}");
+        policy.WithOrigins(config.AllowedOrigin)
+            .WithMethods("POST", "PUT", "GET", "OPTIONS")
+            .AllowAnyHeader();
+    });
+});
+
 
 builder.Services.AddAuthorization(options => {
     options.AddPolicy(JwtBearerDefaults.AuthenticationScheme, policy =>
@@ -80,6 +97,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.UseCors(CorsPolicyName);
 
 app.MapControllerRoute(
     name: "root",
