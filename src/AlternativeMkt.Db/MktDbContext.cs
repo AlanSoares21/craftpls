@@ -72,6 +72,12 @@ public partial class MktDbContext : DbContext
                 .HasColumnName("name");
             entity.Property(e => e.Level)
                 .HasColumnName("level");
+            entity.Property(e => e.AssetId).HasColumnName("assetid");
+
+            entity.HasOne(d => d.Asset).WithMany(p => p.CraftItems)
+                .HasForeignKey(d => d.AssetId)
+                .OnDelete(DeleteBehavior.SetNull)
+                .HasConstraintName("craft_items_asset_fkey");
 
             entity.HasOne(d => d.Category).WithMany(p => p.CraftItems)
                 .HasForeignKey(d => d.CategoryId)
@@ -296,6 +302,18 @@ public partial class MktDbContext : DbContext
             entity.Property(e => e.Name)
                 .HasColumnName("name")
                 .HasMaxLength(100);
+        });
+
+        modelBuilder.Entity<Asset>(entity => {
+            entity.HasKey(e => e.Id).HasName("asset_pkey");
+
+            entity.ToTable("assets");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+
+            entity.Property(e => e.Endpoint)
+                .HasColumnName("endpoint")
+                .HasMaxLength(69);
         });
         OnModelCreatingPartial(modelBuilder);
     }

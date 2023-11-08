@@ -10,7 +10,8 @@ public class MktDbContextFactory : IDesignTimeDbContextFactory<MktDbContext>
     {
         return new MktDbContext(
             new ConfigurationBuilder()
-            .AddUserSecrets(System.Reflection.Assembly.GetAssembly(this.GetType())
-        ).Build());
+            .AddUserSecrets(System.Reflection.Assembly.GetAssembly(this.GetType()))
+            .Build()
+        );
     }
 }
