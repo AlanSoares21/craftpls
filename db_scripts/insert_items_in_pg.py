@@ -1,4 +1,4 @@
-from utils import readJson
+from utils import itemNameToPostgresString, readJson
 
 itemTypeToCraftCategory = readJson("./itemTypeToCraftCategory.json")
 itemsTypes = readJson("./itemsTypes.json")
@@ -13,7 +13,7 @@ def commandForFile(itemType: str):
     lastIndex = ammountItems - 1
     for index in range(ammountItems):
         item = items[index]
-        name = str(item['name']).replace('\'', '\'\'')
+        name = itemNameToPostgresString(str(item['name']))
         command += "('" + name + "', " + str(item['level']) + ", " + str(itemTypeToCraftCategory[itemType]) + ")"
         if (index != lastIndex):
             command += ",\n"

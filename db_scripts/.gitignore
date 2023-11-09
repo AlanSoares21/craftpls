@@ -1,4 +1,8 @@
 .env
 venv/
 insertItemsScript.sql
+assetsToItemIcons.sql
 __pycache__
+data/icons
+data/icons_cache
+sameNameAndLevel.json
