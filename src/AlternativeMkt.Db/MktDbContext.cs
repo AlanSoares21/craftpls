@@ -311,6 +311,9 @@ public partial class MktDbContext : DbContext
 
             entity.Property(e => e.Id).HasColumnName("id");
 
+            entity.HasIndex(e => e.Endpoint, "assets_endpoint_key")
+                .IsUnique();
+
             entity.Property(e => e.Endpoint)
                 .HasColumnName("endpoint")
                 .HasMaxLength(69);
