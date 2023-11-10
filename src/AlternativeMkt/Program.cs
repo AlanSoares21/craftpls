@@ -71,10 +71,14 @@ builder.Services
             OnMessageReceived = context =>
             {
                 var accessToken = context.Request.Cookies["Identifier"];
-
+                
                 if (!string.IsNullOrEmpty(accessToken))
                 {
                     context.Token = context.Request.Cookies["Identifier"];
+                } else {
+                    accessToken = context.Request.Cookies["Authorization"];
+                    if (!string.IsNullOrEmpty(accessToken))
+                        context.Token = accessToken["Bearer ".Length..];
                 }
                 return Task.CompletedTask;
             }

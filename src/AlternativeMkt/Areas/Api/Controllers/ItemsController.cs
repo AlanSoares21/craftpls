@@ -1,7 +1,9 @@
+using System.Linq.Expressions;
 using AlternativeMkt.Api.Models;
 using AlternativeMkt.Db;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace AlternativeMkt.Api.Controllers;
 
@@ -18,7 +20,10 @@ public class ItemsController: BaseApiController
         StandardList<CraftItem> list = new() {
             Start = query.start
         };
-        list.Data = _db.CraftItems.Where(FiltreItems(query))
+        list.Data = _db.CraftItems
+            .Include(i => i.Asset)
+            .Where(FiltreItems(query))
+            .OrderBy(i => i.Id)
             .Skip(query.start)
             .Take(query.count)
             .ToList();
@@ -28,7 +33,7 @@ public class ItemsController: BaseApiController
         return Ok(list);
     }
 
-    Func<CraftItem, bool> FiltreItems(ListItemsParams query) {
+    Expression<Func<CraftItem, bool>> FiltreItems(ListItemsParams query) {
         return i => 
         (query.name == null || i.Name != null && i.Name.StartsWith(query.name)) &&
         

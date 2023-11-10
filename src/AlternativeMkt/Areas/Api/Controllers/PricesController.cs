@@ -36,7 +36,7 @@ public class PricesController : BaseApiController
             Start = query.start
         };
         list.Data = _db.CraftItemsPrices
-            .Include(p => p.Item)
+            .Include(p => p.Item.Asset)
             .Where(p => 
                 p.ManufacturerId == manufacturerId 
                 && p.DeletedAt == null
