@@ -35,36 +35,44 @@ const ListPrices: React.FC<IListPricesProps> = ({
     const [pagination, setPagination] = useState<IStandardPaginationParams>({count: 10, start: 0});
     const [totalItems, setTotal] = useState(0);
 
-    useEffect(() => {
-        let manufacturerId = "";
-
-        if (import.meta.env.DEV) {
-            if (import.meta.env.VITE_ManufacturerId !== undefined)
-                manufacturerId = import.meta.env.VITE_ManufacturerId;
-        }
+    const searchPrices = useCallback((p: IStandardPaginationParams) => {
+        if (!manufacturer)
+            return
         setSearchingForPrices(true)
-        api.listPrices(manufacturerId, pagination)
-            .then(result => {
-                console.log('listando prices', result)
-                setPricesToEdit({})
-                setTotal(result.total)
-                setData(result.data)
-            })
-            .catch(r => {
-                setErrorMessage(`Error on list prices. Info: ${JSON.stringify(r)}`)
-            })
-            .finally(() => {
-                setSearchingForPrices(false);
-            });
-    }, []);
+        setPricesToEdit({})
+        api.listPrices(manufacturer, p)
+        .then(result => {
+            setTotal(result.total)
+            setData(result.data)
+        })
+        .catch(r => {
+            setErrorMessage(`Error on list prices. Info: ${JSON.stringify(r)}`)
+        })
+        .finally(() => {
+            setSearchingForPrices(false);
+        });
+    }, [manufacturer])
+
+    useEffect(() => {
+        searchPrices(pagination)
+    }, [manufacturer]);
     
     return <section className="container text-center mt-1">
         {
             errorMessage !== undefined &&
             <p>{errorMessage}</p>
         }
-        <div className="row mb-1">
-            <div className="col-1">
+        <div className="row justify-content-start mb-1">
+            <div className="col-4 col-sm-1">
+                <button 
+                    className="btn btn-primary" 
+                    type='button'
+                    onClick={() => searchPrices(pagination)}
+                >
+                    Refresh
+                </button>
+            </div>
+            <div className="col-1 col-sm-1">
                 <UpdatePriceModal
                     id={updatePriceModalId}
                     manufacturer={manufacturer}
@@ -122,7 +130,10 @@ const ListPrices: React.FC<IListPricesProps> = ({
                 <Pagination 
                     {...pagination} 
                     total={totalItems} 
-                    goTo={console.log} 
+                    goTo={i => {
+                        setPagination(p => ({...p, start: i}))
+                        searchPrices({...pagination, start: i})
+                    }} 
                 />
             </div>
         </div>
