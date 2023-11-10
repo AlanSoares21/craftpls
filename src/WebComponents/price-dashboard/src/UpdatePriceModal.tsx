@@ -1,13 +1,20 @@
 import { MouseEventHandler, useCallback, useRef, useState } from "react";
+import { IItemPrice } from "./interfaces";
+import { updatePrice } from "./api";
 
 export interface IUpdatePriceModalProps {
     id: string;
     manufacturer: string;
+    itemsPrices: {
+        [id: IItemPrice['id']]: IItemPrice
+    };
+    onUpdate(): void;
 }
 
 const UpdatePriceModal : React.FC<IUpdatePriceModalProps> = ({
-    id, manufacturer
+    id, manufacturer, itemsPrices, onUpdate
 }) => {
+    const [pricesUpdated, setPricesUpdated] = useState<number>()
     const closeRef = useRef<HTMLButtonElement>(null)
     const [price, setPrice] = useState(0)
 
@@ -16,20 +23,40 @@ const UpdatePriceModal : React.FC<IUpdatePriceModalProps> = ({
     const closePanel = useCallback(() => {
         if (closeRef && closeRef.current) {
             closeRef.current.click()
-            console.log("finished close modal");
             return;
         }
     }, [closeRef])
 
     const onSave = useCallback<MouseEventHandler<HTMLButtonElement>>(
-        () => {
+        async () => {
         if (price <= 0) {
             setError("*You should set a valid craft price")
             return;
         }
-        setError("")
-        closePanel()
-    }, [id, manufacturer, closePanel, price])
+        let success = 0;
+        let fail = 0;
+        setPricesUpdated(0)
+        for (const priceId in itemsPrices) {
+            await updatePrice(priceId, {price})
+            .then(() => {
+                success++;
+            })
+            .catch(() => {
+                fail++;
+            })
+            .finally(() => {
+                setPricesUpdated(fail + success)
+            })
+        }
+        setPricesUpdated(undefined)
+        if (fail === 0) {
+            setError("")
+            closePanel()
+        } else {
+            setError(`${success} items prices updated. ${fail} failed`)
+        }
+        onUpdate()
+    }, [manufacturer, itemsPrices, closePanel, price, onUpdate])
 
     return <div className="modal fade" id={id} aria-labelledby="exampleModalLabel" tabIndex={-1} aria-hidden="true">
         <div className="modal-dialog">
@@ -37,12 +64,15 @@ const UpdatePriceModal : React.FC<IUpdatePriceModalProps> = ({
             
                 <div className="modal-header">
                     <h5 className="modal-title">Set the new craft price</h5>
-                    <button 
-                        type="button" 
-                        className="btn-close" 
-                        data-bs-dismiss="modal" 
-                        aria-label="Close">    
-                    </button>
+                    {
+                        pricesUpdated === undefined &&
+                        <button 
+                            type="button" 
+                            className="btn-close" 
+                            data-bs-dismiss="modal" 
+                            aria-label="Close">    
+                        </button>
+                    }
                 </div>
                 
                 <div className="modal-body">
@@ -61,23 +91,45 @@ const UpdatePriceModal : React.FC<IUpdatePriceModalProps> = ({
                     </form>
                 </div>
                 
-                <div className="modal-footer">
-                    <div className="col">
+                <div className="modal-footer"> 
+                    <div className="col-1">
                         {errorMessage}
                     </div>
-                    <button 
-                        ref={closeRef}
-                        type="button" 
-                        className="btn btn-danger" 
-                        data-bs-dismiss="modal">
-                        Cancel
-                    </button>
-                    <button 
-                        type="button" 
-                        className="btn btn-success"
-                        onClick={onSave}>
-                        Save
-                    </button>
+                    <div className="col-4">
+                        <button 
+                            ref={closeRef}
+                            type="button" 
+                            className="btn btn-danger" 
+                            data-bs-dismiss="modal">
+                            Close
+                        </button>
+                    </div>
+                    <div className="col-6">
+                    {
+                        pricesUpdated === undefined ?
+                        <button 
+                            type="button" 
+                            className="btn btn-success"
+                            onClick={onSave}>
+                            Save
+                        </button>
+                        :
+                        <div
+                            className="progress" 
+                            role="progressbar"
+                            aria-valuenow={pricesUpdated / Object.keys(itemsPrices).length * 100} 
+                            aria-valuemin={0} 
+                            aria-valuemax={100}
+                        >
+                            <div 
+                                className="progress-bar" 
+                                style={{width: `${pricesUpdated / Object.keys(itemsPrices).length * 100}%`}}
+                            >
+                            </div>
+                        </div>
+                    }
+                    </div>
+                    
                 </div>
 
             </div>

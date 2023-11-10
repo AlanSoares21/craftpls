@@ -76,6 +76,10 @@ const ListPrices: React.FC<IListPricesProps> = ({
                 <UpdatePriceModal
                     id={updatePriceModalId}
                     manufacturer={manufacturer}
+                    itemsPrices={pricesToEdit}
+                    onUpdate={() => {
+                        searchPrices(pagination)
+                    }}
                 />
                 <button 
                     className="btn btn-secondary" 
