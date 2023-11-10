@@ -47,6 +47,13 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                     type="number" 
                     className="form-control"
                     min={0} 
+                    onChange={ev => {
+                        let level = parseInt(ev.target.value)
+                        if (Number.isInteger(level) && level > 0)
+                            setPagination(p => ({...p, level}))
+                        else
+                            setPagination(p => ({...p, level: undefined}))
+                    }}
                 />
             </div>
             <div className="col">
@@ -56,6 +63,13 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                     type="number" 
                     className="form-control" 
                     min={0}
+                    onChange={ev => {
+                        let maxLevel = parseInt(ev.target.value)
+                        if (Number.isInteger(maxLevel) && maxLevel > 0)
+                            setPagination(p => ({...p, maxLevel}))
+                        else
+                            setPagination(p => ({...p, maxLevel: undefined}))
+                    }}
                 />
             </div>
             <div className="col">
@@ -65,6 +79,13 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                     type="number" 
                     className="form-control" 
                     min={0} 
+                    onChange={ev => {
+                        let minLevel = parseInt(ev.target.value)
+                        if (Number.isInteger(minLevel) && minLevel > 0)
+                            setPagination(p => ({...p, minLevel}))
+                        else
+                            setPagination(p => ({...p, minLevel: undefined}))
+                    }}
                 />
             </div>
         </div>

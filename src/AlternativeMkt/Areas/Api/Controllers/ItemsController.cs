@@ -37,10 +37,12 @@ public class ItemsController: BaseApiController
         return i => 
         (query.name == null || i.Name != null && i.Name.StartsWith(query.name)) &&
         
-        (query.level == null && query.maxLevel == null && query.minLevel == null || (
-            query.level != null && query.level == i.Level
-            || query.maxLevel != null && query.maxLevel >= i.Level
-            || query.minLevel != null && query.minLevel <= i.Level
-        ));
+        (
+            query.level == null && 
+                (query.maxLevel == null || query.maxLevel != null && query.maxLevel >= i.Level) 
+                && (query.minLevel == null || query.minLevel != null && query.minLevel <= i.Level)
+            ||
+            query.level != null && query.level == i.Level 
+        );
     }
 }

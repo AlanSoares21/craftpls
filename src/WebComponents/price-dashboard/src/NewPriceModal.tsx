@@ -61,7 +61,7 @@ const NewPriceModal : React.FC<INewPriceModalProps> = ({
                 </div>
                 
                 <div className="modal-body">
-                    <form>
+                    <form onSubmit={ev => ev.preventDefault()}>
                         <div className="mb-1">
                             <SelectItem itemSelected={setItem} />
                         </div>
