@@ -1,4 +1,4 @@
-import React, { MouseEventHandler, useCallback, useEffect, useRef, useState } from "react";
+import React, { MouseEventHandler, useCallback, useRef, useState } from "react";
 import SelectItem from "./SelectItem";
 import { IItem } from "./interfaces";
 import { addPrice } from "./api";
@@ -26,7 +26,7 @@ const NewPriceModal : React.FC<INewPriceModalProps> = ({
     }, [closeRef])
 
     const onSave = useCallback<MouseEventHandler<HTMLButtonElement>>(
-        (ev) => {
+        () => {
         if (item === undefined) {
             setError("*You should select an item before try save")
             return;

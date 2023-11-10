@@ -12,6 +12,10 @@ function App() {
     if (import.meta.env.DEV) {
       setManufacturer(import.meta.env.VITE_ManufacturerId + "")
     }
+    else {
+      const path = location.pathname.split('/')
+      setManufacturer(path[path.length - 1])
+    }
   }, [])
 
   return (
