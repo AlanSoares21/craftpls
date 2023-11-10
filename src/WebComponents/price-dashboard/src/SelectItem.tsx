@@ -1,7 +1,7 @@
 import React, { useCallback, useEffect, useState } from "react"
 import Pagination from "./Pagination"
 import { listItems } from "./api";
-import { IItem, IListItemsParams } from "./interfaces";
+import { IFilterItems, IItem, IListItemsParams } from "./interfaces";
 
 interface ISelectItemProps {
     itemSelected(item: IItem): void;
@@ -15,6 +15,7 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
         count: 5,
         start: 0
     });
+    const [filterValues, setFilter] = useState<IFilterItems>({});
 
     const searchItems = useCallback((p: IListItemsParams) => {
         listItems(p)
@@ -36,7 +37,16 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
         <div className="row mb-1">
             <div className="col">
                 <label className="form-label" htmlFor="txtName">Name</label>
-                <input type="text" className="form-control"/>
+                <input 
+                    type="text" 
+                    className="form-control"
+                    onChange={ev => {
+                        if (ev.target.value)
+                            setFilter(p => ({...p, name: ev.target.value}))
+                        else
+                            setFilter(p => ({...p, name: undefined}))
+                    }}
+                />
             </div>
         </div>
         <div className="row mb-2">
@@ -50,9 +60,9 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                     onChange={ev => {
                         let level = parseInt(ev.target.value)
                         if (Number.isInteger(level) && level > 0)
-                            setPagination(p => ({...p, level}))
+                            setFilter(p => ({...p, level}))
                         else
-                            setPagination(p => ({...p, level: undefined}))
+                            setFilter(p => ({...p, level: undefined}))
                     }}
                 />
             </div>
@@ -66,9 +76,9 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                     onChange={ev => {
                         let maxLevel = parseInt(ev.target.value)
                         if (Number.isInteger(maxLevel) && maxLevel > 0)
-                            setPagination(p => ({...p, maxLevel}))
+                            setFilter(p => ({...p, maxLevel}))
                         else
-                            setPagination(p => ({...p, maxLevel: undefined}))
+                            setFilter(p => ({...p, maxLevel: undefined}))
                     }}
                 />
             </div>
@@ -82,16 +92,22 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                     onChange={ev => {
                         let minLevel = parseInt(ev.target.value)
                         if (Number.isInteger(minLevel) && minLevel > 0)
-                            setPagination(p => ({...p, minLevel}))
+                            setFilter(p => ({...p, minLevel}))
                         else
-                            setPagination(p => ({...p, minLevel: undefined}))
+                            setFilter(p => ({...p, minLevel: undefined}))
                     }}
                 />
             </div>
         </div>
         <div className="row mb-1">
-            <button className="btn btn-primary" onClick={() => searchItems(pagination)}>
-                Search Items
+            <button 
+                className="btn btn-primary"
+                onClick={() => {
+                    searchItems({...pagination, ...filterValues})
+                    setPagination({...pagination, ...filterValues})
+                }}
+            >
+                Apply filter
             </button>
         </div>
         <div className="row mb-1">
@@ -127,7 +143,6 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                 start={pagination.start}
                 total={total} 
                 goTo={i => {
-                    console.log("go to ", i);
                     setPagination(p => ({...p, start: i}))
                     searchItems({...pagination, start: i})
                 }} 

@@ -11,11 +11,14 @@ export interface IStandardList<T> {
     data: T[];
 }
 
-export interface IListItemsParams extends IStandardPaginationParams {
+export interface IFilterItems {
     name?: string;
     level?: number;
     maxLevel?: number;
     minLevel?: number;
+}
+
+export interface IListItemsParams extends IStandardPaginationParams, IFilterItems {
 }
 
 export interface IAsset {
