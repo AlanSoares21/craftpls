@@ -16,17 +16,17 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
         start: 0
     });
 
-    const searchItems = useCallback(() => {
-        listItems(pagination)
+    const searchItems = useCallback((p: IListItemsParams) => {
+        listItems(p)
         .then(r => {
-            setTotal(r.total)
-            setPagination(p => ({...p, start: r.start}))
+            if (r.total !== total)
+                setTotal(r.total)
             setItems(r.data)
         });
-    }, []);
+    }, [total]);
 
     useEffect(() => {
-        searchItems();
+        searchItems(pagination);
     }, []);
 
     return <div>
@@ -69,7 +69,7 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
             </div>
         </div>
         <div className="row mb-1">
-            <button className="btn btn-primary" onClick={searchItems}>
+            <button className="btn btn-primary" onClick={() => searchItems(pagination)}>
                 Search Items
             </button>
         </div>
@@ -101,7 +101,16 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
             }
         </div>
         <div className="row">
-            <Pagination count={1} start={0} total={total} goTo={console.log} />
+            <Pagination 
+                count={pagination.count} 
+                start={pagination.start}
+                total={total} 
+                goTo={i => {
+                    console.log("go to ", i);
+                    setPagination(p => ({...p, start: i}))
+                    searchItems({...pagination, start: i})
+                }} 
+            />
         </div>
     </div>
 }
@@ -126,7 +135,7 @@ const ItemSelected: React.FC<IItemSelectedProps> = ({itemSelected}) => {
             <>
                 <div className="row mb-2">
                     <div className="col-1">
-                        <img src="https://wsdb.xyz/icons/1423.webp" />
+                        <img src={import.meta.env.VITE_AssetsUrl + '/' + item.asset?.endpoint} />
                     </div>
                     <div className="col-sm">
                         {item.name} - Lv: {item.level}
