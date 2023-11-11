@@ -1,6 +1,7 @@
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace AlternativeMkt.Main.Controllers;
 
@@ -15,12 +16,34 @@ public class SearchController : BaseController {
         _dbContext = dbContext;
         _logger = logger;
     }
-    public IActionResult Index(string searchTerm) 
+    public IActionResult Manufacturers(int itemId) 
     {
-        _logger.LogInformation("Search index run");
-        ViewData["CraftItemSearched"] = searchTerm;
-        return View(_dbContext.CraftItemsPrices
-            .Where(p => p.Item.Name != null && p.Item.Name.Contains(searchTerm))
-        );
+        CraftItem item = _dbContext.CraftItems
+            .Include("Asset")
+            .Where(i => i.Id == itemId)
+            .Single();
+        var prices = _dbContext.CraftItemsPrices
+            .Include(p => p.Manufacturer)
+                .ThenInclude(m => m.Server)
+            .Include(p => p.Manufacturer)
+                .ThenInclude(m => m.User)
+            .Where(p => !p.Manufacturer.Hide && p.ItemId == item.Id && p.DeletedAt == null)
+            .ToList();
+        for (int i = 0; i < prices.Count; i++)
+        {
+            int serverId = prices[i].Manufacturer.ServerId;
+            Guid userId = prices[i].Manufacturer.Userid;
+            prices[i].Manufacturer.Server.GameAccounts = _dbContext.GameAccounts
+                .Where(g => 
+                    g.UserId == userId 
+                    &&
+                    g.ServerId == serverId 
+                    && g.DeletedAt == null
+                ).ToList();
+        }
+        return View(new SearchItemPrices() {
+            Item = item,
+            Prices = prices
+        });
     }
 }

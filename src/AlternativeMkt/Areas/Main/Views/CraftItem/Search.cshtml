@@ -1,11 +1,32 @@
+@inject IConfiguration config
 @using AlternativeMkt.Db
 
 @model List<CraftItem>
 
-<p>Your search result page</p>
-@foreach (CraftItem item in Model)
-{
-    <article>
-        <h3>@item.Name</h3>
-    </article>
-}
+<section class="container">
+    <div class="row mb-2">
+        <vc:search-bar value=@ViewData["CraftItemSearched"] />
+    </div>
+    <div class="row">
+        @foreach (CraftItem item in Model)
+        {
+            <div class="col mb-1">
+                <div class="card" style="width: 12rem;">
+                    <img src=@config["AssetsUrl"]/@item.Asset.Endpoint class="card-img-top"/>
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name</h5>
+                        <p class="card-text">Level: @item.Level</p>
+                        <a 
+                            class="btn btn-primary" 
+                            asp-controller="Search" 
+                            asp-action="Manufacturers" 
+                            asp-route-itemId=@item.Id 
+                        >
+                                Check Crafts
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</section>

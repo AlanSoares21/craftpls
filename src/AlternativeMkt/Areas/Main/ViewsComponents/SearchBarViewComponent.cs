@@ -4,9 +4,9 @@ namespace AlternativeMkt.Main.ViewsComponents;
 
 public class SearchBarViewComponent : ViewComponent
 {
-
-    public IViewComponentResult Invoke()
+    public IViewComponentResult Invoke(string? value = null)
     {
+        ViewData["CraftItemSearched"] = value;
         return View();
     }
 }

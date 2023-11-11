@@ -1,0 +1,40 @@
+@inject IConfiguration config
+@using AlternativeMkt.Db
+@model SearchItemPrices
+
+<section class="row">
+    <div class="col-4">
+        <div class="card" style="width: 12rem;">
+            <img src=@config["AssetsUrl"]/@Model.Item.Asset.Endpoint class="card-img-top"/>
+            <div class="card-body">
+                <h5 class="card-title">@Model.Item.Name</h5>
+                <p class="card-text">Level: @Model.Item.Level</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto">
+        <div class="list-group">
+            @foreach (var itemPrice in Model.Prices)
+            {
+                <a
+                    class="list-group-item list-group-item-action"
+                    asp-action="Item" 
+                    asp-controller="Request"
+                    asp-route-id="@itemPrice.ItemId"
+                    asp-route-manufacturerId="@itemPrice.ManufacturerId"
+                >
+                    <p>Server: @itemPrice.Manufacturer.Server.Name</p>
+                    <p>
+                        Manufacturer: 
+                        @string.Join(
+                            ", ", 
+                            itemPrice.Manufacturer.Server.GameAccounts.Select(a => a.Name)
+                        )
+                    </p>
+                    Price: @itemPrice.Price
+                </a>
+            }
+        </div>
+    
+    </div>
+</section>

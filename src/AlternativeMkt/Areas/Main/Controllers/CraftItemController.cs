@@ -1,6 +1,7 @@
 
 using AlternativeMkt.Db;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace AlternativeMkt.Main.Controllers;
 
@@ -11,8 +12,9 @@ public class CraftItemController: BaseController
         _db = db;
     }
     public async Task<IActionResult> Search(string searchTerm = "") {
+        ViewData["CraftItemSearched"] = searchTerm;
         return View(
-            _db.CraftItems.Where(i => 
+            _db.CraftItems.Include("Asset").Where(i => 
                 i.Name != null 
                 && i.Name.Contains(searchTerm)
             ).ToList()
