@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <ItemGroup>
-    <ProjectReference Include="..\AlternativeMkt.Db\AlternativeMkt.Db.csproj" />
+    <ProjectReference Include="..\..\AlternativeMkt.Db\AlternativeMkt.Db.csproj" />
   </ItemGroup>
 
   <ItemGroup>

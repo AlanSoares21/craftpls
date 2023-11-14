@@ -27,6 +27,7 @@ builder.Services.AddDbContext<MktDbContext>();
 
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ServerConfig>();
+builder.Services.AddScoped<IDateTools, DateTools>();
 
 var config = new ServerConfig(builder.Configuration);
 
