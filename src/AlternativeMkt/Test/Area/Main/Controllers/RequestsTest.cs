@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Controllers;
 using Microsoft.AspNetCore.Routing;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Query;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
@@ -147,18 +148,152 @@ public class RequestsTest
     }
 
     [Fact]
-    public async Task Redirect_To_Show_Action_After_Create_New_Request() {
+    public async Task Redirect_To_List_After_Create_New_Request() {
         User requester = new() {
             Id = Guid.NewGuid()
         };
-        var priceList = new List<CraftItemsPrice>() { };
+        CraftItemsPrice itemsPrice = new() {
+            Id = Guid.NewGuid(),
+            ManufacturerId = Guid.NewGuid()
+        };
+        var mockRequests = MktDbContextBuilder.MockDbSet(new List<Request>());
+        mockRequests.Setup(r => r.AddAsync(
+                It.IsAny<Request>(), 
+                It.IsAny<CancellationToken>()
+            )
+        );
         var mockDb = new MktDbContextBuilder()
-            .WithItemsPrices(priceList)
+            .WithItemsPrices(new List<CraftItemsPrice>() { itemsPrice })
+            .WithRequests(mockRequests)
             .Build();
         var controller = GetController(mockDb.Object, AuthServiceWithUser(requester));
         SetClaims(controller);
-        var result = await controller.New(new()) as ViewResult;
+        var result = await controller.New(new() {
+            PriceId = itemsPrice.Id
+        }) as RedirectToActionResult;
         Assert.NotNull(result);
+        Assert.Equal("List", result.ActionName);
+    }
+
+    [Fact]
+    public async Task When_Canceling_A_Request_Not_Requested_By_The_User_Return_Error() {
+        User requester = new() {
+            Id = Guid.NewGuid()
+        };
+        Request request = new() {
+            Id = Guid.NewGuid(),
+            RequesterId = Guid.NewGuid()
+        };
+        var mockDb = new MktDbContextBuilder()
+            .WithRequests(new List<Request>() { request })
+            .Build();
+        var controller = GetController(mockDb.Object, AuthServiceWithUser(requester));
+        SetClaims(controller);
+        var result = await controller.Cancel(request.Id) as ViewResult;
+        Assert.NotNull(result);
+        Assert.Equal("Error", result.ViewName);
+        Assert.Contains("Request not found", (string?)result.Model);
+    }
+
+    [Fact]
+    public async Task Can_Not_Cancel_A_Request_Already_Cancelled() {
+        User requester = new() {
+            Id = Guid.NewGuid()
+        };
+        Request request = new() {
+            Id = Guid.NewGuid(),
+            RequesterId = requester.Id,
+            Cancelled = DateTime.Now
+        };
+        var mockDb = new MktDbContextBuilder()
+            .WithRequests(new List<Request>() { request })
+            .Build();
+        var controller = GetController(mockDb.Object, AuthServiceWithUser(requester));
+        SetClaims(controller);
+        var result = await controller.Cancel(request.Id) as ViewResult;
+        Assert.NotNull(result);
+        Assert.Equal("Error", result.ViewName);
+        Assert.Contains("Request already cancelled", (string?)result.Model);
+    }
+
+    [Fact]
+    public async Task Can_Not_Cancel_A_Request_Already_Accepeted() {
+        User requester = new() {
+            Id = Guid.NewGuid()
+        };
+        Request request = new() {
+            Id = Guid.NewGuid(),
+            RequesterId = requester.Id,
+            Accepted = DateTime.Now
+        };
+        var mockDb = new MktDbContextBuilder()
+            .WithRequests(new List<Request>() { request })
+            .Build();
+        var controller = GetController(mockDb.Object, AuthServiceWithUser(requester));
+        SetClaims(controller);
+        var result = await controller.Cancel(request.Id) as ViewResult;
+        Assert.NotNull(result);
+        Assert.Equal("Error", result.ViewName);
+        Assert.Contains("Request already accepted", (string?)result.Model);
+    }
+
+    [Fact]
+    public async Task Cancel_Request() {
+        User requester = new() {
+            Id = Guid.NewGuid()
+        };
+        Request request = new() {
+            Id = Guid.NewGuid(),
+            RequesterId = requester.Id,
+        };
+        var mockDate = new Mock<IDateTools>();
+        DateTime updateDate = DateTime.Now;
+        mockDate.Setup(d => d.UtcNow()).Returns(updateDate);
+        var mockRequests = MktDbContextBuilder
+            .MockDbSet(new List<Request>() { request });
+        var mockDb = new MktDbContextBuilder()
+            .WithRequests(mockRequests)
+            .Build();
+        var controller = GetController(
+            mockDb.Object, 
+            AuthServiceWithUser(requester),
+            mockDate.Object
+        );
+        SetClaims(controller);
+        await controller.Cancel(request.Id);
+        Assert.Equal(updateDate, request.UpdatedAt);
+        Assert.Equal(updateDate, request.Cancelled);
+        mockRequests.Verify(r => r.Update(request), Times.Once());
+        mockDb.Verify(d => d.SaveChangesAsync(It.IsAny<CancellationToken>()));
+    }
+
+    [Fact]
+    public async Task After_Cancel_Request_Redirect_To_Show_Action() {
+        User requester = new() {
+            Id = Guid.NewGuid()
+        };
+        Request request = new() {
+            Id = Guid.NewGuid(),
+            RequesterId = requester.Id,
+        };
+        var mockDate = new Mock<IDateTools>();
+        DateTime updateDate = DateTime.Now;
+        mockDate.Setup(d => d.UtcNow()).Returns(updateDate);
+        var mockRequests = MktDbContextBuilder
+            .MockDbSet(new List<Request>() { request });
+        var mockDb = new MktDbContextBuilder()
+            .WithRequests(mockRequests)
+            .Build();
+        var controller = GetController(
+            mockDb.Object, 
+            AuthServiceWithUser(requester),
+            mockDate.Object
+        );
+        SetClaims(controller);
+        var result = await controller
+            .Cancel(request.Id) as RedirectToActionResult;
+        Assert.NotNull(result);
+        Assert.Equal("Show", result.ActionName);
     }
 
     IAuthService AuthServiceWithUser(User user) {
@@ -184,10 +319,14 @@ public class RequestsTest
     }
     
     RequestController GetController(MktDbContext db, IAuthService auth) =>
+        GetController(db, auth, Mock.Of<IDateTools>());
+
+    RequestController GetController(MktDbContext db, IAuthService auth, IDateTools date) =>
         new RequestController(
             db, 
             auth,
-            GetLogger()
+            GetLogger(),
+            date
         );
 
     ILogger<RequestController> GetLogger() => 

@@ -12,14 +12,17 @@ public class RequestController: BaseController
     MktDbContext _db;
     IAuthService _auth;
     ILogger<RequestController> _logger;
+    IDateTools _date;
     public RequestController(
         MktDbContext db,
         IAuthService auth,
-        ILogger<RequestController> logger
+        ILogger<RequestController> logger,
+        IDateTools date
     ) {
         _db = db;
         _auth = auth;
         _logger = logger;
+        _date = date;
     }
     [AllowAnonymous]
     public IActionResult Open(Guid id) {
@@ -66,9 +69,63 @@ public class RequestController: BaseController
         };
         await _db.Requests.AddAsync(new());
         await _db.SaveChangesAsync();
-        // registrar novo request no db
-        // saveChanges is called
-        // redirect to List Action
-        return View();
+        return RedirectToAction("List");
+    }
+
+    [Authorize]
+    public IActionResult List() {
+        User user = _auth.GetUser(User.Claims);
+        var requests = _db.Requests
+            .Where(r => r.RequesterId == user.Id && r.DeletedAt == null)
+            .OrderBy(r => r.CreatedAt)
+            .ToList();
+        return View(requests);
+    }
+
+    [Authorize]
+    public IActionResult Show(Guid id) {
+        User user = _auth.GetUser(User.Claims);
+        Request? request = SearchUserRequest(user, id);
+        if (request is null)
+            return View("Error", "Request not found");
+        return View(request);
+    }
+
+    [HttpPut]
+    [Authorize]
+    public async Task<IActionResult> Cancel(Guid id) {
+        User user = _auth.GetUser(User.Claims);
+        Request? request = SearchUserRequest(user, id);
+        if (request is null)
+            return View("Error", "Request not found");
+        if (request.Cancelled is not null) {
+            _logger.LogError("User {u} tried cancel request {r} but it is already cancelled",
+                user.Id,
+                request.Id
+            );
+            return View("Error", "Request already cancelled");
+        }
+        if (request.Accepted is not null) {
+            _logger.LogError("User {u} tried cancel request {r} but it already was accepted",
+                user.Id,
+                request.Id
+            );
+            return View("Error", "Request already accepted");
+        }
+        DateTime updated = _date.UtcNow();
+        request.UpdatedAt = updated;
+        request.Cancelled = updated;
+        _db.Requests.Update(request);
+        await _db.SaveChangesAsync();
+        
+        return RedirectToAction("Show", id);
+    }
+
+    Request? SearchUserRequest(User user, Guid requestId) {
+        return _db.Requests
+            .Where(r => r.Id == requestId 
+                && r.RequesterId == user.Id 
+                && r.DeletedAt == null
+            ).SingleOrDefault();
     }
 }
