@@ -13,7 +13,7 @@ using Microsoft.EntityFrameworkCore.Query;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace AlternativeMkt.Tests.Main.Controller;
+namespace AlternativeMkt.Tests.Main.Controllers;
 
 public class RequestsTest
 {

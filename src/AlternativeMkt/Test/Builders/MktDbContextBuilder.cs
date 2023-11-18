@@ -30,6 +30,17 @@ public class MktDbContextBuilder
         return this;
     }
 
+    Mock<DbSet<Manufacturer>>? manufacturers;
+    public MktDbContextBuilder WithManufacturer(List<Manufacturer> value) {
+        manufacturers = MockDbSet(value);
+        return this;
+    }
+
+    public MktDbContextBuilder WithManufacturer(Mock<DbSet<Manufacturer>> value) {
+        manufacturers = value;
+        return this;
+    }
+
     public Mock<MktDbContext> Build() {
         DbSet<CraftItemsPrice> priceDbSet = 
             MockDbSet(new List<CraftItemsPrice>() { }).Object;
@@ -40,10 +51,16 @@ public class MktDbContextBuilder
             MockDbSet(new List<Request>() { }).Object;
         if (requests is not null)
                 requestsDbSet = requests.Object;
+        
+        DbSet<Manufacturer> manufacturersDbSet = 
+            MockDbSet(new List<Manufacturer>() { }).Object;
+        if (manufacturers is not null)
+                manufacturersDbSet = manufacturers.Object;
 
         var mockDb = new Mock<MktDbContext>(GetConfig());
         mockDb.Setup(db => db.CraftItemsPrices).Returns(priceDbSet);
         mockDb.Setup(db => db.Requests).Returns(requestsDbSet);
+        mockDb.Setup(db => db.Manufacturers).Returns(manufacturersDbSet);
         return mockDb;
     }
 

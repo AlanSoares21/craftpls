@@ -1,9 +1,11 @@
 
+using System.Runtime.CompilerServices;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace AlternativeMkt.Main.Controllers;
 
@@ -119,6 +121,43 @@ public class RequestController: BaseController
         await _db.SaveChangesAsync();
         
         return RedirectToAction("Show", id);
+    }
+
+    [HttpPut]
+    [Authorize]
+    public async Task<IActionResult> Accept(Guid id) {
+        User user = _auth.GetUser(User.Claims);
+        var request = _db.Requests
+            .Include(r => r.Manufacturer)
+            .Where(r => r.Id == id && r.DeletedAt == null)
+            .SingleOrDefault();
+        if (request is null) {
+            _logger.LogInformation("User {user} tried accept request {id}, but the request is not in the database", 
+                user.Id,
+                id
+            );
+            return View("Error", "Request not found");
+        }
+        if (request.Manufacturer.Userid != user.Id) {
+            _logger.LogInformation("User {user} tried accept request {id}, but the manufacturer is {manufacturer}", 
+                user.Id,
+                id,
+                request.ManufacturerId
+            );
+            return View("Error", "You can not accept a request that you is not the manufacturer");
+        }
+        if (request.Cancelled is not null) {
+            _logger.LogInformation("User {user} tried accept request {id}, but the request was cancelled in {d}", 
+                user.Id,
+                id,
+                request.Cancelled
+            );
+            return View("Error", "You can not accept a cancelled request");
+        }
+        request.Cancelled = _date.UtcNow();
+        _db.Requests.Update(request);
+        await _db.SaveChangesAsync();
+        return RedirectToAction("Requests", "Manufacturer", request.ManufacturerId);
     }
 
     Request? SearchUserRequest(User user, Guid requestId) {
