@@ -160,6 +160,46 @@ public class RequestController: BaseController
         return RedirectToAction("Requests", "Manufacturer", request.ManufacturerId);
     }
 
+    [HttpPut]
+    [Authorize]
+    public async Task<IActionResult> Finished(Guid id) {
+        User user = _auth.GetUser(User.Claims);
+        var request = _db.Requests
+            .Where(r => r.Id == id && r.DeletedAt == null)
+            .SingleOrDefault();
+        if (request is null) {
+            _logger.LogError("Error request not found. User {id} tried to finish request {id}",
+                user.Id,
+                id
+            );
+            return View("Error", "Request not found");
+        }
+        if (request.RequesterId != user.Id && request.ManufacturerId != user.Id) {
+            _logger.LogError("User {id} is not involved in request {id} but tried finish it",
+                user.Id,
+                id
+            );
+            return View("Error", "You can not finish this request");
+        }
+        if (request.Cancelled is not null) {
+            _logger.LogError("User {id} tried to finish request {id} but the request is cancelled",
+                user.Id,
+                id
+            );
+            return View("Error", "The request is cancelled");
+        }
+        var finishedAt = _date.UtcNow();
+        request.UpdatedAt = finishedAt;
+        if (request.RequesterId == user.Id)
+            request.FinishedByRequester = finishedAt;
+        else
+            request.FinishedByManufacturer = finishedAt;
+        
+        _db.Requests.Update(request);
+        await _db.SaveChangesAsync();
+        return RedirectToAction("Requests", "Manufacturer", id);
+    }
+    
     Request? SearchUserRequest(User user, Guid requestId) {
         return _db.Requests
             .Where(r => r.Id == requestId 
