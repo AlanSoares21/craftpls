@@ -1,35 +1,12 @@
-using System.Linq.Expressions;
 using System.Security.Claims;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
-using AlternativeMkt.Main.Controllers;
-using Castle.Core.Logging;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Controllers;
-using Microsoft.AspNetCore.Routing;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Query;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Logging;
 
 namespace AlternativeMkt.Tests.Main.Controllers;
 
-public class RequestsTest
+public class RequestsTest: RequestUtils
 {
-
-    /*
-        Open/itemPriceId -> mostra o item, os recursos necessários,
-        o preço do manufacturer para cada recurso e 
-        o preço total do request
-
-        New -> cria request, trata erros
-
-        Show(id) -> mostra dados do request, permite editar(*)
-
-        List -> lista os requests onde o usuário é o requester
-    */
-
     [Fact]
     public void Open_Request()
     {
@@ -85,7 +62,6 @@ public class RequestsTest
             .WithItemsPrices(priceList)
             .Build();
         var controller = GetController(mockDb.Object, mockAuth.Object);
-        SetClaims(controller);
         var result = await controller.New(new()) as ViewResult;
         Assert.NotNull(result);
         Assert.Equal("Error", result.ViewName);
@@ -107,7 +83,6 @@ public class RequestsTest
             .WithItemsPrices(priceList)
             .Build();
         var controller = GetController(mockDb.Object, AuthServiceWithUser(requester));
-        SetClaims(controller);
         var result = await controller.New(new()) as ViewResult;
         Assert.NotNull(result);
         Assert.Equal("Error", result.ViewName);
@@ -131,7 +106,6 @@ public class RequestsTest
             .WithRequests(mockRequests)
             .Build();
         var controller = GetController(mockDb.Object, AuthServiceWithUser(requester));
-        SetClaims(controller);
         await controller.New(new() {
             PriceId = itemsPrice.Id
         });
@@ -167,7 +141,6 @@ public class RequestsTest
             .WithRequests(mockRequests)
             .Build();
         var controller = GetController(mockDb.Object, AuthServiceWithUser(requester));
-        SetClaims(controller);
         var result = await controller.New(new() {
             PriceId = itemsPrice.Id
         }) as RedirectToActionResult;
@@ -188,7 +161,6 @@ public class RequestsTest
             .WithRequests(new List<Request>() { request })
             .Build();
         var controller = GetController(mockDb.Object, AuthServiceWithUser(requester));
-        SetClaims(controller);
         var result = await controller.Cancel(request.Id) as ViewResult;
         Assert.NotNull(result);
         Assert.Equal("Error", result.ViewName);
@@ -209,7 +181,6 @@ public class RequestsTest
             .WithRequests(new List<Request>() { request })
             .Build();
         var controller = GetController(mockDb.Object, AuthServiceWithUser(requester));
-        SetClaims(controller);
         var result = await controller.Cancel(request.Id) as ViewResult;
         Assert.NotNull(result);
         Assert.Equal("Error", result.ViewName);
@@ -230,7 +201,6 @@ public class RequestsTest
             .WithRequests(new List<Request>() { request })
             .Build();
         var controller = GetController(mockDb.Object, AuthServiceWithUser(requester));
-        SetClaims(controller);
         var result = await controller.Cancel(request.Id) as ViewResult;
         Assert.NotNull(result);
         Assert.Equal("Error", result.ViewName);
@@ -259,7 +229,6 @@ public class RequestsTest
             AuthServiceWithUser(requester),
             mockDate.Object
         );
-        SetClaims(controller);
         await controller.Cancel(request.Id);
         Assert.Equal(updateDate, request.UpdatedAt);
         Assert.Equal(updateDate, request.Cancelled);
@@ -289,46 +258,9 @@ public class RequestsTest
             AuthServiceWithUser(requester),
             mockDate.Object
         );
-        SetClaims(controller);
         var result = await controller
             .Cancel(request.Id) as RedirectToActionResult;
         Assert.NotNull(result);
         Assert.Equal("Show", result.ActionName);
     }
-
-    IAuthService AuthServiceWithUser(User user) {
-        var mockAuth = new Mock<IAuthService>();
-        mockAuth.Setup(a => a.GetUser(It.IsAny<IEnumerable<Claim>>()))
-            .Returns(user);
-        return mockAuth.Object;
-    }
-
-    void SetClaims(RequestController controller) {
-        var claims = new Claim[] { };
-        HttpContext httpContext = new DefaultHttpContext();
-        RouteValueDictionary routeDataDictioanry = new();
-        RouteData routeData = new RouteData(routeDataDictioanry);
-        ControllerActionDescriptor actionDescriptor = 
-            new ControllerActionDescriptor();
-        ActionContext actionContext = 
-            new ActionContext(httpContext, routeData, actionDescriptor);
-        actionContext.HttpContext.User = 
-            new ClaimsPrincipal(new ClaimsIdentity(claims));
-        var controllerContext = new ControllerContext(actionContext);
-        controller.ControllerContext = controllerContext;
-    }
-    
-    RequestController GetController(MktDbContext db, IAuthService auth) =>
-        GetController(db, auth, Mock.Of<IDateTools>());
-
-    RequestController GetController(MktDbContext db, IAuthService auth, IDateTools date) =>
-        new RequestController(
-            db, 
-            auth,
-            GetLogger(),
-            date
-        );
-
-    ILogger<RequestController> GetLogger() => 
-        new Mock<ILogger<RequestController>>().Object;
 }

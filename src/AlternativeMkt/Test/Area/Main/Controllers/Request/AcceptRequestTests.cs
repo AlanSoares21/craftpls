@@ -1,16 +1,9 @@
-using System.Security.Claims;
-using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
-using AlternativeMkt.Main.Controllers;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Controllers;
-using Microsoft.AspNetCore.Routing;
-using Microsoft.Extensions.Logging;
 
 namespace AlternativeMkt.Tests.Main.Controllers;
 
-public class AcceptRequestTests
+public class AcceptRequestTests : RequestUtils
 {
     [Fact]
     public async Task When_Not_Found_A_Request_Return_Error() {
@@ -23,7 +16,6 @@ public class AcceptRequestTests
         };
         var dbMock = new MktDbContextBuilder().Build();
         var controller = GetController(dbMock.Object, AuthServiceWithUser(user));
-        SetClaims(controller);
         var result = await controller.Accept(request.Id) as ViewResult;
         Assert.NotNull(result);
         Assert.Equal("Error", result.ViewName);
@@ -48,7 +40,6 @@ public class AcceptRequestTests
             .WithRequests(new List<Request>() { request })
             .Build();
         var controller = GetController(dbMock.Object, AuthServiceWithUser(user));
-        SetClaims(controller);
         var result = await controller.Accept(request.Id) as ViewResult;
         Assert.NotNull(result);
         Assert.Equal("Error", result.ViewName);
@@ -74,14 +65,12 @@ public class AcceptRequestTests
             .WithRequests(new List<Request>() { request })
             .Build();
         var controller = GetController(dbMock.Object, AuthServiceWithUser(user));
-        SetClaims(controller);
         var result = await controller.Accept(request.Id) as ViewResult;
         Assert.NotNull(result);
         Assert.Equal("Error", result.ViewName);
         Assert.Equal("You can not accept a cancelled request", (string?)result.Model);
     }
 
-    // TODO:: after accept a request redirects to Manufacturer Requests Page
     [Fact]
     public async Task After_Accept_A_Request_Redirects_To_Manufacturer_Request_Page() {
         User user = new() {
@@ -100,7 +89,6 @@ public class AcceptRequestTests
             .WithRequests(new List<Request>() { request })
             .Build();
         var controller = GetController(dbMock.Object, AuthServiceWithUser(user));
-        SetClaims(controller);
         var result = await controller.Accept(request.Id) as RedirectToActionResult;
         Assert.NotNull(result);
         Assert.Equal("Manufacturer", result.ControllerName);
@@ -134,7 +122,6 @@ public class AcceptRequestTests
             AuthServiceWithUser(user), 
             mockDate.Object
         );
-        SetClaims(controller);
         await controller.Accept(request.Id);
         Assert.Equal(cancelledDate, request.Cancelled);
         mockRequests.Verify(r => r.Update(request), 
@@ -144,40 +131,4 @@ public class AcceptRequestTests
             Times.Once()
         );
     }
-
-    IAuthService AuthServiceWithUser(User user) {
-        var mockAuth = new Mock<IAuthService>();
-        mockAuth.Setup(a => a.GetUser(It.IsAny<IEnumerable<Claim>>()))
-            .Returns(user);
-        return mockAuth.Object;
-    }
-
-    void SetClaims(RequestController controller) {
-        var claims = new Claim[] { };
-        HttpContext httpContext = new DefaultHttpContext();
-        RouteValueDictionary routeDataDictioanry = new();
-        RouteData routeData = new RouteData(routeDataDictioanry);
-        ControllerActionDescriptor actionDescriptor = 
-            new ControllerActionDescriptor();
-        ActionContext actionContext = 
-            new ActionContext(httpContext, routeData, actionDescriptor);
-        actionContext.HttpContext.User = 
-            new ClaimsPrincipal(new ClaimsIdentity(claims));
-        var controllerContext = new ControllerContext(actionContext);
-        controller.ControllerContext = controllerContext;
-    }
-
-    RequestController GetController(MktDbContext db, IAuthService auth) =>
-        GetController(db, auth, Mock.Of<IDateTools>());
-
-    RequestController GetController(MktDbContext db, IAuthService auth, IDateTools date) =>
-        new RequestController(
-            db, 
-            auth,
-            GetLogger(),
-            date
-        );
-
-    ILogger<RequestController> GetLogger() => 
-        new Mock<ILogger<RequestController>>().Object;
 }
