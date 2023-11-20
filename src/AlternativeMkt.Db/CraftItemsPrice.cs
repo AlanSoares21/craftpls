@@ -8,6 +8,7 @@ public partial class CraftItemsPrice
     public Guid Id { get; set; }
 
     public int Price { get; set; }
+    public int TotalPrice { get; set; }
 
     public int ItemId { get; set; }
 

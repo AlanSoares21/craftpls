@@ -21,22 +21,22 @@ public partial class MktDbContext : DbContext
         _configuration = configuration;
     }
 
-    public virtual DbSet<CraftCategory> CraftCategories { get; set; }
+    public virtual DbSet<CraftCategory> CraftCategories { get; set; } = null!;
 
-    public virtual DbSet<CraftItem> CraftItems { get; set; }
+    public virtual DbSet<CraftItem> CraftItems { get; set; } = null!;
 
-    public virtual DbSet<CraftItemsPrice> CraftItemsPrices { get; set; }
+    public virtual DbSet<CraftItemsPrice> CraftItemsPrices { get; set; } = null!;
 
-    public virtual DbSet<CraftResource> CraftResources { get; set; }
+    public virtual DbSet<CraftResource> CraftResources { get; set; } = null!;
 
-    public virtual DbSet<GameAccount> GameAccounts { get; set; }
+    public virtual DbSet<GameAccount> GameAccounts { get; set; } = null!;
 
-    public virtual DbSet<Manufacturer> Manufacturers { get; set; }
+    public virtual DbSet<Manufacturer> Manufacturers { get; set; } = null!;
 
-    public virtual DbSet<Request> Requests { get; set; }
+    public virtual DbSet<Request> Requests { get; set; } = null!;
 
-    public virtual DbSet<User> Users { get; set; }
-    public virtual DbSet<Server> Servers { get; set; }
+    public virtual DbSet<User> Users { get; set; } = null!;
+    public virtual DbSet<Server> Servers { get; set; } = null!;
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
         string? connstring = _configuration.GetConnectionString("MainDb");
@@ -104,6 +104,7 @@ public partial class MktDbContext : DbContext
                 .HasColumnName("deletedat");
             entity.Property(e => e.ManufacturerId).HasColumnName("manufacturerid");
             entity.Property(e => e.Price).HasColumnName("price");
+            entity.Property(e => e.TotalPrice).HasColumnName("totalprice");
             entity.Property(e => e.UpdatedAt)
                 .HasColumnType("timestamp without time zone")
                 .HasColumnName("updatedat");
