@@ -2,6 +2,7 @@
 using AlternativeMkt.Db;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Moq.EntityFrameworkCore.DbAsyncQueryProvider;
 using Xunit.Sdk;
 
 namespace AlternativeMkt.Tests.Builders;
@@ -31,13 +32,31 @@ public class MktDbContextBuilder
     }
 
     Mock<DbSet<Manufacturer>>? manufacturers;
-    public MktDbContextBuilder WithManufacturer(List<Manufacturer> value) {
+    public MktDbContextBuilder WithManufacturers(List<Manufacturer> value) {
         manufacturers = MockDbSet(value);
         return this;
     }
 
-    public MktDbContextBuilder WithManufacturer(Mock<DbSet<Manufacturer>> value) {
+    public MktDbContextBuilder WithManufacturers(Mock<DbSet<Manufacturer>> value) {
         manufacturers = value;
+        return this;
+    }
+
+    Mock<DbSet<CraftItem>> items = MockDbSet(new List<CraftItem>() { });
+    public MktDbContextBuilder WithItems(List<CraftItem> value) => 
+        WithItems(MockDbSet(value));
+
+    public MktDbContextBuilder WithItems(Mock<DbSet<CraftItem>> value) {
+        items = value;
+        return this;
+    }
+
+    Mock<DbSet<CraftResource>> resources = MockDbSet(new List<CraftResource>() { });
+    public MktDbContextBuilder WithResources(List<CraftResource> value) => 
+        WithResources(MockDbSet(value));
+
+    public MktDbContextBuilder WithResources(Mock<DbSet<CraftResource>> value) {
+        resources = value;
         return this;
     }
 
@@ -56,17 +75,22 @@ public class MktDbContextBuilder
             MockDbSet(new List<Manufacturer>() { }).Object;
         if (manufacturers is not null)
                 manufacturersDbSet = manufacturers.Object;
+        
+        DbSet<CraftItem> itemsDbSet = items.Object;
+        DbSet<CraftResource> resourcesDbSet = resources.Object;
 
         var mockDb = new Mock<MktDbContext>(GetConfig());
         mockDb.Setup(db => db.CraftItemsPrices).Returns(priceDbSet);
         mockDb.Setup(db => db.Requests).Returns(requestsDbSet);
         mockDb.Setup(db => db.Manufacturers).Returns(manufacturersDbSet);
+        mockDb.Setup(db => db.CraftItems).Returns(itemsDbSet);
+        mockDb.Setup(db => db.CraftResources).Returns(resourcesDbSet);
         return mockDb;
     }
 
     public static Mock<DbSet<T>> MockDbSet<T>(
         List<T> list) where T : class {
-        var data = list.AsQueryable();
+        var data = new InMemoryAsyncEnumerable<T>(list.AsQueryable());
         var mockDbSet = new Mock<DbSet<T>>();
         SetQueryableForDbSet(data, mockDbSet);
         return mockDbSet;

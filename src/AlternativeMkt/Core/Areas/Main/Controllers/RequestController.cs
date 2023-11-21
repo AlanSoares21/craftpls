@@ -42,6 +42,7 @@ public class RequestController: BaseController
         var user = _auth.GetUser(User.Claims);
         // verificar se o item price tem um registro no db
         var price = _db.CraftItemsPrices
+            .Include(p => p.Item)
             .Where(p => p.Id == requestData.PriceId)
             .SingleOrDefault();
         if (price is null) {
@@ -62,14 +63,13 @@ public class RequestController: BaseController
             user.Id,
             requestData.PriceId
         );
-        int totalPrice = price.Price;
         Request request = new() {
             ItemId = price.ItemId,
-            Price = totalPrice,
+            Price = price.TotalPrice,
             RequesterId = user.Id,
             ManufacturerId = price.ManufacturerId
         };
-        await _db.Requests.AddAsync(new());
+        await _db.Requests.AddAsync(request);
         await _db.SaveChangesAsync();
         return RedirectToAction("List");
     }

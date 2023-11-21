@@ -53,37 +53,82 @@ public class PricesController : BaseApiController
     }
     
     [HttpPost]
-    public async Task<IActionResult> Add([FromBody] AddItemPrice price) {
-        string dataAsJson = JsonSerializer.Serialize(price);
+    public async Task<IActionResult> Add([FromBody] AddItemPrice priceData) {
+        string dataAsJson = JsonSerializer.Serialize(priceData);
         var user = _auth.GetUser(User.Claims);
         _logger.LogInformation("Adding item price for user {Id} - data: {data}",
             user.Id,
             dataAsJson
         );
+        if (priceData.price < 1) {
+            _logger.LogInformation("User {id} tried add price with value {v}", 
+                user.Id,
+                priceData.price
+            );
+            return BadRequest(new ApiError("Price must be greater than zero"));
+        }
         // check if the manufacturer is owned by the user
         var manufacturer = await _db.Manufacturers
-            .Include(m => m.CraftItemsPrices.Where(p => p.ItemId == price.itemId))
-            .Where(m => m.Id == price.manufacturerId && m.Userid == user.Id)
+            .Include(m => m.CraftItemsPrices.Where(p => p.ItemId == priceData.itemId))
+            .Where(m => m.Id == priceData.manufacturerId && m.Userid == user.Id)
             .SingleOrDefaultAsync();
         if (manufacturer is null) {
             _logger.LogError("Manufacturer {m} not found - user: {u}", 
-                price.manufacturerId,
+                priceData.manufacturerId,
                 user.Id
             );
-            return NotFound(new ApiError($"Manufacturer {price.manufacturerId} not found"));
+            return NotFound(new ApiError($"Manufacturer {priceData.manufacturerId} not found"));
         }
         // check if already exists a price for this item
-        if (manufacturer.CraftItemsPrices.Count > 0) {
+        if (manufacturer.CraftItemsPrices.Count > 0 && 
+/*
+    OBS: when mocking entity framework the include method dont work as at runtime, 
+    so its necessary check the first element of CraftItemsPrices
+*/
+#if DEBUG
+            manufacturer.CraftItemsPrices.ElementAt(0).ItemId == priceData.itemId
+#endif
+        ) {
             _logger.LogError("Manufacturer {m} already set a price for item {item}", 
-                price.manufacturerId,
-                price.itemId
+                priceData.manufacturerId,
+                priceData.itemId
             );
-            return BadRequest(new ApiError($"You alredy set a price for this item {manufacturer.CraftItemsPrices.ElementAt(0).ItemId}"));
+            return BadRequest(new ApiError($"You have alredy set a price for this item {manufacturer.CraftItemsPrices.ElementAt(0).ItemId}"));
+        }
+        CraftItem? item = _db.CraftItems
+            .Include(i => i.Resources)
+            .Where(i => i.Id == priceData.itemId).SingleOrDefault();
+        if (item is null) {
+            _logger.LogInformation("User {user} tried to add price to item {id}, but could not found the item in the db", 
+                user.Id,
+                priceData.itemId
+            );
+            return BadRequest(new ApiError($"Item {priceData.itemId} not found in db"));
+        }
+        int totalPrice = priceData.price;
+        if (item.Resources.Count > 0) {
+            int? resourcePrices = _db.CraftItemsPrices
+                .Include(p => p.Item)
+                    .ThenInclude(i => i.ResourceFor.Where(r => r.ItemId == item.Id))
+                .Where(p => p.Item.ResourceFor
+                    .Where(r => r.ItemId == item.Id).Count() > 0
+                ).Sum(p => p.TotalPrice * p.Item.ResourceFor.ElementAt(0).Amount);
+            if (resourcePrices is not null && resourcePrices.Value > 0)
+                totalPrice += resourcePrices.Value;
+            else {
+                _logger.LogError("User {user} tried to set price to item {item}, but have not added prices to item resources - data: {data}",
+                    user.Id,
+                    item.Id,
+                    dataAsJson
+                );
+                return BadRequest(new ApiError("Add prices to item resources before add a price to it"));
+            }
         }
         CraftItemsPrice itemsPrice = new() {
-            ItemId = price.itemId,
-            ManufacturerId = price.manufacturerId,
-            Price = price.price
+            ItemId = priceData.itemId,
+            ManufacturerId = priceData.manufacturerId,
+            Price = priceData.price,
+            TotalPrice = totalPrice
         };
         await _db.CraftItemsPrices.AddAsync(itemsPrice);
         await _db.SaveChangesAsync();
@@ -91,7 +136,7 @@ public class PricesController : BaseApiController
             user.Id,
             dataAsJson
         );
-        return Created("/", price);
+        return Created("/", priceData);
     }
 
     [Route("{priceId}")]
