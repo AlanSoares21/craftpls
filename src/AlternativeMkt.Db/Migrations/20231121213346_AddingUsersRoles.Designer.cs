@@ -3,6 +3,7 @@ using System;
 using AlternativeMkt.Db;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace AlternativeMkt.Db.Migrations
 {
     [DbContext(typeof(MktDbContext))]
-    partial class MktDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231121213346_AddingUsersRoles")]
+    partial class AddingUsersRoles
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

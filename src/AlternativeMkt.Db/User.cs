@@ -21,5 +21,6 @@ public partial class User
 
     public virtual List<Manufacturer>? Manufacturers { get; set; }
 
-    public virtual ICollection<Request> Requests { get; set; } = new List<Request>();
+    public List<Request> Requests { get; set; } = new List<Request>();
+    public List<UserRole> Roles { get; set; } = new List<UserRole>();
 }

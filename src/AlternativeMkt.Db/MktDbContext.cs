@@ -319,6 +319,52 @@ public partial class MktDbContext : DbContext
                 .HasColumnName("endpoint")
                 .HasMaxLength(69);
         });
+
+        modelBuilder.Entity<Role>(entity => {
+            entity.HasKey(e => e.Id).HasName("roles_pkey");
+
+            entity.ToTable("roles");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+
+            entity.HasIndex(e => e.Name, "roles_name_key")
+                .IsUnique();
+
+            entity.Property(e => e.Name)
+                .HasColumnName("name")
+                .HasMaxLength(20);
+        });
+
+        modelBuilder.Entity<UserRole>(entity => {
+            entity.HasKey(e => e.Id).HasName("users_roles_pkey");
+
+            entity.ToTable("users_roles");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+
+            entity.Property(e => e.CreatedAt)
+                .HasDefaultValueSql("CURRENT_TIMESTAMP")
+                .HasColumnType("timestamp without time zone")
+                .HasColumnName("createdat");
+
+            entity.Property(e => e.DeletedAt)
+                .HasColumnType("timestamp without time zone")
+                .HasColumnName("deletedat");
+
+            entity.Property(e => e.UserId).HasColumnName("userid");
+            entity.Property(e => e.RoleId).HasColumnName("roleid");
+
+            entity.HasOne(r => r.User).WithMany(u => u.Roles)
+                .HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.Cascade)
+                .HasConstraintName("users_roles_userid_fkey");
+            
+            entity.HasOne(r => r.Role).WithMany(u => u.Users)
+                .HasForeignKey(d => d.RoleId)
+                .OnDelete(DeleteBehavior.Cascade)
+                .HasConstraintName("users_roles_rolesid_fkey");
+        });
+
         OnModelCreatingPartial(modelBuilder);
     }
 
