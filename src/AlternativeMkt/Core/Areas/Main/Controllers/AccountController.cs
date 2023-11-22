@@ -34,7 +34,6 @@ public class AccountController: BaseController
     public IActionResult OAuth() {
         const string googleUrl = "https://accounts.google.com/o/oauth2/v2/auth";
         string url = $"{googleUrl}{GetGoogleOAuthQuery()}";
-        _logger.LogInformation("Redirecting to {url}", url);
         return Redirect(url);
     }
 
@@ -90,7 +89,10 @@ public class AccountController: BaseController
 
     async Task<IActionResult> AuthenticateUserSession(string email) {
         string redirectTo = "/";
-        User? user = await _db.Users.SingleOrDefaultAsync(u => u.Email == email);
+        User? user = await _db.Users
+            .Include(u => u.Roles)
+                .ThenInclude(ur => ur.Role)
+            .SingleOrDefaultAsync(u => u.Email == email);
         if (user is null) {
             await CreateNewUser(email);
             user = await _db.Users.SingleAsync(u => u.Email == email);
@@ -108,7 +110,11 @@ public class AccountController: BaseController
     }
 
     [Authorize]
-    public async Task<IActionResult> Profile() {
+    public async Task<IActionResult> Profile(
+        [FromServices] IAuthorizationService authorizationService
+    ) {
+        Task<AuthorizationResult> checkAdminAccess = 
+            authorizationService.AuthorizeAsync(User, "AdminAccess");
         var authData = _auth.GetUser(User.Claims);
         var userData = await _db.Users
             .SingleAsync(u => u.Id == authData.Id);
@@ -119,6 +125,8 @@ public class AccountController: BaseController
             throw new Exception("User data ta nulo");
         if (userData.GameAccounts is null)
             throw new Exception("User game accounts ta nulo");
+        await checkAdminAccess;
+        ViewData["AdminAccess"] = checkAdminAccess.Result.Succeeded;
         return View(userData);
     }
 

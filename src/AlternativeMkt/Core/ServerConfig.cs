@@ -25,4 +25,5 @@ public class ServerConfig
         int.Parse("" + _configuration["Jwt:SecondsAuthTokenExpire"]);
 
     public string AllowedOrigin => "" + _configuration["Jwt:AllowedOrigin"];
+    public int AdminRoleId => int.Parse("" + _configuration["Roles:Admin"]);
 }

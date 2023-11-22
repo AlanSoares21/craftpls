@@ -30,6 +30,7 @@ builder.Services.AddScoped<ServerConfig>();
 builder.Services.AddScoped<IDateTools, DateTools>();
 
 var config = new ServerConfig(builder.Configuration);
+string adminRoleId = config.AdminRoleId.ToString();
 
 builder.Services.AddCors(options => {
     options.AddPolicy(name: CorsPolicyName, policy => {
@@ -42,6 +43,9 @@ builder.Services.AddCors(options => {
 
 
 builder.Services.AddAuthorization(options => {
+    options.AddPolicy("AdminAccess", policy => {
+        policy.RequireRole(adminRoleId);
+    });
     options.AddPolicy(JwtBearerDefaults.AuthenticationScheme, policy =>
     {
         policy.AddAuthenticationSchemes(JwtBearerDefaults.AuthenticationScheme);
@@ -118,15 +122,15 @@ app.MapControllerRoute(
 
 app.MapAreaControllerRoute(
     name: "default",
-    areaName: "main",
-    pattern: "{area=main}/{culture}/{controller=Home}/{action=Index}/{id?}",
+    areaName: "main|admin",
+    pattern: "{area=main|admin}/{culture}/{controller=Home}/{action=Index}/{id?}",
     defaults: new {
-        area = "main",
+        area = "main|admin",
         culture = "en",
         controller = "Home",
         action = "Index"
     },
-    constraints: new { area = "main", culture = "en|pt" }
+    constraints: new { area = "main|admin", culture = "en|pt" }
 );
 
 app.Run();

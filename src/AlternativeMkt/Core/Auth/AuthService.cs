@@ -75,6 +75,10 @@ public class AuthService: IAuthService
             claims.Add(new(ClaimTypes.Email, user.Email));
         if (user.Name is not null)
             claims.Add(new(ClaimTypes.Name, user.Name));
+        if (user.Roles.Count > 0) {
+            foreach (var userRole in user.Roles)
+                claims.Add(new(ClaimTypes.Role, userRole.RoleId.ToString()));
+        }
         return new JwtSecurityTokenHandler().WriteToken(JwtToken(claims));
     }
 
