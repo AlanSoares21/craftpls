@@ -45,4 +45,18 @@ public class ItemsController: BaseApiController
             query.level != null && query.level == i.Level 
         );
     }
+
+    [HttpGet("{itemId}/resources")]
+    public IActionResult ListResources(int itemId) {
+        StandardList<CraftResource> response = new();
+        response.Start = 0;
+        response.Data = _db.CraftResources
+            .Include(r => r.Resource)
+                .ThenInclude(i => i.Asset)
+            .Where(r => r.ItemId == itemId)
+            .ToList();
+        response.Count = response.Data.Count;
+        response.Total = response.Data.Count;
+        return Ok(response);
+    }
 }

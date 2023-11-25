@@ -123,9 +123,9 @@ app.MapControllerRoute(
 app.MapAreaControllerRoute(
     name: "default",
     areaName: "main|admin",
-    pattern: "{area=main|admin}/{culture}/{controller=Home}/{action=Index}/{id?}",
+    pattern: "{area=main}/{culture}/{controller=Home}/{action=Index}/{id?}",
     defaults: new {
-        area = "main|admin",
+        area = "main",
         culture = "en",
         controller = "Home",
         action = "Index"
