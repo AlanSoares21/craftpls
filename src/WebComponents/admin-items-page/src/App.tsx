@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { Container} from 'react-bootstrap'
 import SelectItem from './SelectItem';
 import { IItem } from './interfaces';

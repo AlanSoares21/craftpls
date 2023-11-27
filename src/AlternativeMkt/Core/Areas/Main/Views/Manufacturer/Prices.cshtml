@@ -1,7 +1,7 @@
-@inject IConfiguration config
+@inject ServerConfig config
 
 @{
-    string scriptPath = "/WebComponents/price-dashboard/" + config["PriceDashboardJs"];
+    string scriptPath = "/WebComponents/price-dashboard/" + config.PriceDashboardJs;
 }
 
 <section id="root">

@@ -1,0 +1,8 @@
+@inject ServerConfig config
+
+@{
+    string scriptPath = "/WebComponents/admin-items-page/" + config.AdminItemsPageJs;
+}
+
+<section id="admin-items-page"></section>
+<script src=@scriptPath />

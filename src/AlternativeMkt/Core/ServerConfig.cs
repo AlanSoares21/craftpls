@@ -26,4 +26,6 @@ public class ServerConfig
 
     public string AllowedOrigin => "" + _configuration["Jwt:AllowedOrigin"];
     public int AdminRoleId => int.Parse("" + _configuration["Roles:Admin"]);
+    public string? PriceDashboardJs => _configuration["PriceDashboardJs"];
+    public string? AdminItemsPageJs => _configuration["AdminItemsPageJs"];
 }
