@@ -1,7 +1,7 @@
 import React, { useCallback, useEffect, useState } from "react"
 import Pagination from "./Pagination"
 import { listItemResources, listItems, listPrices } from "./api";
-import { ICraftResource, IFilterItems, IItem, IListItemsParams } from "./interfaces";
+import { ICraftResource, IFilterItems, IItem, IItemPrice, IListItemsParams } from "./interfaces";
 import { Button, Image, Row, Stack, Table } from "react-bootstrap";
 import { getAssetUrl } from "./utils";
 
@@ -164,6 +164,10 @@ const ItemSelected: React.FC<IItemSelectedProps> = ({
     const [item, setItem] = useState<IItem>();
     const [missingResources, setMissingResources] = 
         useState<ICraftResource[]>([]);
+    const [itemResourcesPrices, setItemResourcesPrices] = 
+        useState<IItemPrice[]>([]);
+    const [resources, setResources] = 
+        useState<ICraftResource[]>([]);
 
     const checkResources = useCallback(async (itemToCheck: IItem) => {
         const listResources = listItemResources(itemToCheck.id);
@@ -172,13 +176,15 @@ const ItemSelected: React.FC<IItemSelectedProps> = ({
             count: 10,
             resourcesOf: itemToCheck.id
         });
-        const resources = await listResources;
-        const missing = resources.data
+        const itemResources = await listResources.then(r => r.data);
+        const missing = itemResources
             .filter(r => !resourcesPrices.data
                 .some(p => p.itemId === r.resourceId)
             );
         setMissingResources(missing);
-    }, [manufacturer, setMissingResources]);
+        setResources(itemResources);
+        setItemResourcesPrices(resourcesPrices.data);
+    }, [manufacturer, setMissingResources, setResources, setItemResourcesPrices]);
 
     const handleSelectItem = useCallback((item: IItem) => {
         checkResources(item)
@@ -214,13 +220,13 @@ const ItemSelected: React.FC<IItemSelectedProps> = ({
                     </button>
                 </div>
                 {
-                    missingResources.length > 0 &&
+                    missingResources.length > 0 ?
                     <Stack>
                         <div>You should add prices to {missingResources.length} items before add a price to this item</div>
                         <Table>
                             <thead>
                                 <tr>
-                                    <th colSpan={4}>The follow resources are missing a price</th>    
+                                    <th colSpan={4}>The following resources are missing a price</th>    
                                 </tr>
                                 <tr>
                                     <th>Icon</th>
@@ -241,6 +247,32 @@ const ItemSelected: React.FC<IItemSelectedProps> = ({
                             </tbody>
                         </Table>
                     </Stack>
+                    :
+                    <Table>
+                        <thead>
+                            <tr>
+                                <th colSpan={5}>This item has the following resources</th>
+                            </tr>
+                            <tr>
+                                <th>Icon</th>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Total Price</th>
+                                <th>Amount</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {itemResourcesPrices.map(p => (
+                                <tr key={p.id}>
+                                    <td>{p.item.asset && <Image src={getAssetUrl(p.item.asset)} />}</td>
+                                    <td>{p.item.name}</td>
+                                    <td>{p.item.level}</td>
+                                    <td>{p.totalPrice}</td>
+                                    <td>{resources.find(r => r.resourceId == p.itemId)?.amount}</td>
+                                </tr>
+                            ))}
+                        </tbody>
+                    </Table>
                 }
             </>
         }
