@@ -20,7 +20,8 @@ public partial class CraftItemsPrice
 
     public DateTime? DeletedAt { get; set; }
 
-    public virtual CraftItem Item { get; set; } = null!;
+    public CraftItem Item { get; set; } = null!;
 
-    public virtual Manufacturer Manufacturer { get; set; } = null!;
+    public Manufacturer Manufacturer { get; set; } = null!;
+    public bool ResourcesChanged { get; set; }
 }

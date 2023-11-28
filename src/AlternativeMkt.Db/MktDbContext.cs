@@ -109,6 +109,10 @@ public partial class MktDbContext : DbContext
                 .HasColumnType("timestamp without time zone")
                 .HasColumnName("updatedat");
 
+            entity.Property(e => e.ResourcesChanged)
+                .HasDefaultValue(false)
+                .HasColumnName("resourceschanged");
+
             entity.HasOne(d => d.Item).WithMany(p => p.Prices)
                 .HasForeignKey(d => d.ItemId)
                 .HasConstraintName("craft_items_prices_craftitemid_fkey");
