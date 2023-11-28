@@ -30,7 +30,7 @@ public class PricesController : BaseApiController
     [HttpGet]
     public IActionResult List(
         Guid manufacturerId, 
-        [FromQuery] StandardPaginationParams query
+        [FromQuery] ListPricesParams query
     ) {
         StandardList<CraftItemsPrice> list = new() {
             Start = query.start
@@ -40,6 +40,13 @@ public class PricesController : BaseApiController
             .Where(p => 
                 p.ManufacturerId == manufacturerId 
                 && p.DeletedAt == null
+                && (
+                    query.itemId == null 
+                    || p.ItemId == query.itemId
+                ) && (
+                    query.resourcesOf == null
+                    || p.Item.ResourceFor.Where(r => r.ItemId == query.resourcesOf).Count() > 0 
+                )
             )
             .Skip(query.start)
             .Take(query.count)
