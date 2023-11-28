@@ -1,7 +1,8 @@
 import axios from 'axios'
 import { 
-    IAddItemPrice, IItem, IItemPrice, 
+    IAddItemPrice, ICraftResource, IItem, IItemPrice, 
     IListItemsParams, 
+    IListPriceParams, 
     IStandardList, IStandardPaginationParams, 
     IUpdateItemPrice 
 } from './interfaces';
@@ -21,7 +22,14 @@ export function listItems(params: IListItemsParams) {
         .then(r => r.data);
 }
 
-export function listPrices(manufacturerId: string, params: IStandardPaginationParams) {
+export function listItemResources(itemId: IItem['id']) {
+    return api.get<IStandardList<ICraftResource>>(
+        `${url}/Items/${itemId}/resources`, 
+        {headers: authHeaders})
+        .then(r => r.data);
+}
+
+export function listPrices(manufacturerId: string, params: IListPriceParams) {
     return api.get<IStandardList<IItemPrice>>(
             `${url}/Prices/${manufacturerId}`, 
             {params, headers: authHeaders}

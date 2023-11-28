@@ -46,7 +46,7 @@ const NewPriceModal : React.FC<INewPriceModalProps> = ({
         .finally(closePanel)
     }, [id, manufacturer, closePanel, item, price])
 
-    return <div className="modal fade" id={id} aria-labelledby="exampleModalLabel" tabIndex={-1} aria-hidden="true">
+    return <div className="modal fade" id={id} tabIndex={-1} aria-hidden="true">
         <div className="modal-dialog">
             <div className="modal-content">
             
@@ -63,7 +63,7 @@ const NewPriceModal : React.FC<INewPriceModalProps> = ({
                 <div className="modal-body">
                     <form onSubmit={ev => ev.preventDefault()}>
                         <div className="mb-1">
-                            <SelectItem itemSelected={setItem} />
+                            <SelectItem manufacturer={manufacturer} itemSelected={setItem} />
                         </div>
                         <div>
                             <label htmlFor="txtPrice" className="form-label">Craft price</label>

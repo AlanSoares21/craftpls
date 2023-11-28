@@ -4,6 +4,11 @@ export interface IStandardPaginationParams {
     count: number;
 }
 
+export interface IListPriceParams extends IStandardPaginationParams {
+    itemId?: number
+    resourcesOf?: number
+}
+
 export interface IStandardList<T> {
     start: number;
     count: number;
@@ -32,9 +37,19 @@ export interface IItem {
     asset?: IAsset;
 }
 
+export interface ICraftResource {
+    id: number
+    amount: number
+    resourceId: number
+    resource: IItem
+    itemId: number
+    item: IItem
+  }
+
 export interface IItemPrice {
     id: string;
     price: number;
+    totalPrice: number;
     itemId: IItem['id'];
     item: IItem;
     manufacturerId: string;

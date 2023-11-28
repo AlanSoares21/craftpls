@@ -1,7 +1,9 @@
 import React, { useCallback, useEffect, useState } from "react"
 import Pagination from "./Pagination"
-import { listItems } from "./api";
-import { IFilterItems, IItem, IListItemsParams } from "./interfaces";
+import { listItemResources, listItems, listPrices } from "./api";
+import { ICraftResource, IFilterItems, IItem, IListItemsParams } from "./interfaces";
+import { Button, Image, Row, Stack, Table } from "react-bootstrap";
+import { getAssetUrl } from "./utils";
 
 interface ISelectItemProps {
     itemSelected(item: IItem): void;
@@ -152,19 +154,42 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
 }
 
 export interface IItemSelectedProps {
-    itemSelected(item?: IItem): void;
+    itemSelected(item?: IItem): void
+    manufacturer: string
 }
 
-const ItemSelected: React.FC<IItemSelectedProps> = ({itemSelected}) => {
+const ItemSelected: React.FC<IItemSelectedProps> = ({
+    itemSelected, manufacturer
+}) => {
     const [item, setItem] = useState<IItem>();
+    const [missingResources, setMissingResources] = 
+        useState<ICraftResource[]>([]);
+
+    const checkResources = useCallback(async (itemToCheck: IItem) => {
+        const listResources = listItemResources(itemToCheck.id);
+        const resourcesPrices = await listPrices(manufacturer, {
+            start: 0, 
+            count: 10,
+            resourcesOf: itemToCheck.id
+        });
+        const resources = await listResources;
+        const missing = resources.data
+            .filter(r => !resourcesPrices.data
+                .some(p => p.itemId === r.resourceId)
+            );
+        setMissingResources(missing);
+    }, [manufacturer, setMissingResources]);
+
+    const handleSelectItem = useCallback((item: IItem) => {
+        checkResources(item)
+        setItem(item)
+        itemSelected(item)
+    }, [checkResources, setItem, itemSelected]);
 
     return <div>
         {
             item === undefined &&
-            <SelectItem itemSelected={i => {
-                setItem(i)
-                itemSelected(i)
-            }} />
+            <SelectItem itemSelected={handleSelectItem} />
         }
         {
             item !== undefined &&
@@ -188,6 +213,35 @@ const ItemSelected: React.FC<IItemSelectedProps> = ({itemSelected}) => {
                         Change Item
                     </button>
                 </div>
+                {
+                    missingResources.length > 0 &&
+                    <Stack>
+                        <div>You should add prices to {missingResources.length} items before add a price to this item</div>
+                        <Table>
+                            <thead>
+                                <tr>
+                                    <th colSpan={4}>The follow resources are missing a price</th>    
+                                </tr>
+                                <tr>
+                                    <th>Icon</th>
+                                    <th>Name</th>
+                                    <th>Level</th>
+                                    <th>Amount</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {missingResources.map(r => (
+                                    <tr key={r.id} onClick={() => handleSelectItem(r.resource)}>
+                                        <td>{r.resource.asset && <Image src={getAssetUrl(r.resource.asset)} />}</td>
+                                        <td>{r.resource.name}</td>
+                                        <td>{r.resource.level}</td>
+                                        <td>{r.amount}</td>
+                                    </tr>
+                                ))}
+                            </tbody>
+                        </Table>
+                    </Stack>
+                }
             </>
         }
     </div>

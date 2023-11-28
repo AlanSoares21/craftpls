@@ -63,7 +63,7 @@ const ListPrices: React.FC<IListPricesProps> = ({
             <p>{errorMessage}</p>
         }
         <div className="row justify-content-start mb-1">
-            <div className="col-4 col-sm-1">
+            <div className="col-md-1 col-sm-2">
                 <button 
                     className="btn btn-primary" 
                     type='button'
@@ -72,7 +72,7 @@ const ListPrices: React.FC<IListPricesProps> = ({
                     Refresh
                 </button>
             </div>
-            <div className="col-1 col-sm-1">
+            <div className="col-1">
                 <UpdatePriceModal
                     id={updatePriceModalId}
                     manufacturer={manufacturer}
@@ -106,7 +106,8 @@ const ListPrices: React.FC<IListPricesProps> = ({
                             <th>Icon</th>
                             <th>Name</th>
                             <th>Level</th>
-                            <th>Price</th>
+                            <th>Total Price</th>
+                            <th>Craft Price</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -122,6 +123,7 @@ const ListPrices: React.FC<IListPricesProps> = ({
                             <td><img src={import.meta.env.VITE_AssetsUrl + '/' + v.item.asset?.endpoint} /></td>
                             <td>{v.item.name}</td>
                             <td>{v.item.level}</td>
+                            <td>{v.totalPrice}</td>
                             <td>{v.price}</td>
                         </tr>))
                     }

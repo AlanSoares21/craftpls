@@ -93,7 +93,7 @@ public class PricesController : BaseApiController
     so its necessary check the first element of CraftItemsPrices
 */
 #if DEBUG
-            manufacturer.CraftItemsPrices.ElementAt(0).ItemId == priceData.itemId
+            manufacturer.CraftItemsPrices[0].ItemId == priceData.itemId
 #endif
         ) {
             _logger.LogError("Manufacturer {m} already set a price for item {item}", 
@@ -116,10 +116,12 @@ public class PricesController : BaseApiController
         if (item.Resources.Count > 0) {
             int? resourcePrices = _db.CraftItemsPrices
                 .Include(p => p.Item)
-                    .ThenInclude(i => i.ResourceFor.Where(r => r.ItemId == item.Id))
-                .Where(p => p.Item.ResourceFor
+                    .ThenInclude(i => i.ResourceFor
+                        .Where(r => r.ItemId == item.Id)
+                    )
+                .Where(p => p.ManufacturerId == manufacturer.Id && p.Item.ResourceFor
                     .Where(r => r.ItemId == item.Id).Count() > 0
-                ).Sum(p => p.TotalPrice * p.Item.ResourceFor.ElementAt(0).Amount);
+                ).Sum(p => p.TotalPrice * p.Item.ResourceFor.Where(r => r.ItemId == item.Id).Sum(r => r.Amount));
             if (resourcePrices is not null && resourcePrices.Value > 0)
                 totalPrice += resourcePrices.Value;
             else {

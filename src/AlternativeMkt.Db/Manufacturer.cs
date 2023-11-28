@@ -22,9 +22,9 @@ public partial class Manufacturer
 
     public DateTime? DeletedAt { get; set; }
 
-    public virtual ICollection<CraftItemsPrice> CraftItemsPrices { get; set; } = new List<CraftItemsPrice>();
+    public virtual List<CraftItemsPrice> CraftItemsPrices { get; set; } = new List<CraftItemsPrice>();
 
-    public virtual ICollection<Request> Requests { get; set; } = new List<Request>();
+    public virtual List<Request> Requests { get; set; } = new List<Request>();
 
     public virtual User User { get; set; } = null!;
     
