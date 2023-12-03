@@ -1,4 +1,4 @@
-import { IAddCraftResource, IApiError, ICraftResource, IItem, IListItemsParams, IStandardList } from "./interfaces";
+import { IAddCraftResource, IApiError, ICraftResource, IItem, IListItemsParams, IStandardList, IUpdateCraftResource } from "./interfaces";
 import { isApiError } from "./typeCheck";
 
 const baseUrl = import.meta.env.VITE_ApiUrl;
@@ -71,16 +71,35 @@ export async function addItemResource(data: IAddCraftResource) {
 
 export async function deleteItemResource(data: ICraftResource) {
     return fetch(
-            `${baseUrl}/CraftResources/${data.id}`, 
-            { 
-                headers: defaultHeaders, 
-                method: 'DELETE', 
-                body: JSON.stringify(data) 
-            }
-        )
-        .then(async r => {
-            if (r.status === 204)
-                return true;
-            return handleError(r);
-        });
+        `${baseUrl}/CraftResources/${data.id}`, 
+        { 
+            headers: defaultHeaders, 
+            method: 'DELETE', 
+            body: JSON.stringify(data) 
+        }
+    )
+    .then(async r => {
+        if (r.status === 204)
+            return true;
+        return handleError(r);
+    });
+}
+
+export async function updateItemResource(
+    id: ICraftResource['id'], 
+    data: IUpdateCraftResource
+) {
+    return fetch(
+        `${baseUrl}/CraftResources/${id}`, 
+        { 
+            headers: defaultHeaders, 
+            method: 'PUT', 
+            body: JSON.stringify(data) 
+        }
+    )
+    .then(async r => {
+        if (r.status === 204)
+            return true;
+        return handleError(r);
+    });
 }

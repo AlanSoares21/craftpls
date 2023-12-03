@@ -46,7 +46,11 @@ export interface ICraftResource {
     resource: IItem
     itemId: number
     item: IItem
-  }
+}
+
+export interface IUpdateCraftResource { 
+    amount: number
+}
 
 export interface IAsset {
     id: number

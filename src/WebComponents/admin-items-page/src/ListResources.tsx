@@ -5,6 +5,7 @@ import { useCallback, useEffect, useState } from "react";
 import { deleteItemResource, listItemResources } from "./api";
 import { isApiError } from "./typeCheck";
 import AddResourceModal from "./AddResourceModal";
+import UpdateResourceModal from "./UpdateResourceModal";
 
 export interface IListResourcesProps {
     item: IItem
@@ -16,6 +17,7 @@ const ListResources: React.FC<IListResourcesProps> = ({
 }) => {
     const [openAddModal, setOpenAddModal] = useState(false);
     const [resources, setResources] = useState<ICraftResource[]>([]);
+    const [resourceToUpdate, setResourceToUpdate] = useState<ICraftResource>();
 
     const searchResources = useCallback(() => {
         listItemResources(item.id)
@@ -82,11 +84,24 @@ const ListResources: React.FC<IListResourcesProps> = ({
                         <td>{r.resource.name}</td>
                         <td>{r.resource.level}</td>
                         <td>{r.amount}</td>
-                        <td><Badge 
-                            bg='danger' 
-                            onClick={() => deleteResource(r)}>
-                            X
-                        </Badge></td>
+                        <td>
+                            <Row>
+                                <Col md='auto'>
+                                    <Button 
+                                        variant='warning' 
+                                        onClick={() => setResourceToUpdate(r)}>
+                                        Update
+                                    </Button>
+                                </Col>
+                                <Col md='auto'>
+                                    <Button
+                                        variant='danger' 
+                                        onClick={() => deleteResource(r)}>
+                                        Delete
+                                    </Button>
+                                </Col>
+                            </Row>
+                        </td>
                     </tr>))}
                 </tbody>
             </Table>
@@ -98,6 +113,15 @@ const ListResources: React.FC<IListResourcesProps> = ({
             onSuccess={() => {
                 setOpenAddModal(false)
                 searchResources()
+            }}
+        />
+        <UpdateResourceModal 
+            open={resourceToUpdate !== undefined}
+            craftResource={resourceToUpdate}
+            onClose={() => setResourceToUpdate(undefined)}
+            onSubmit={() => {
+                searchResources();
+                setResourceToUpdate(undefined);
             }}
         />
     </Container>);
