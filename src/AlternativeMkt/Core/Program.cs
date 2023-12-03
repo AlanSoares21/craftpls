@@ -3,6 +3,7 @@ using System.Text.Json.Serialization;
 using AlternativeMkt;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
+using AlternativeMkt.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 
@@ -26,6 +27,8 @@ builder.Services.AddControllersWithViews()
 builder.Services.AddDbContext<MktDbContext>();
 
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<ICraftResourceService, CraftResourceService>();
+builder.Services.AddScoped<IPriceService, PriceService>();
 builder.Services.AddScoped<ServerConfig>();
 builder.Services.AddScoped<IDateTools, DateTools>();
 

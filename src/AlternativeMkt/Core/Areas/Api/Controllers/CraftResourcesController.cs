@@ -4,6 +4,7 @@ using AlternativeMkt.Api.Models;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
+using AlternativeMkt.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -16,13 +17,16 @@ public class CraftResourcesController: BaseApiController
     MktDbContext _db;
     ILogger<CraftResourcesController> _logger;
     IAuthService _auth;
+    ICraftResourceService _resourceService;
     public CraftResourcesController(
         MktDbContext db,
         ILogger<CraftResourcesController> logger,
-        IAuthService auth) {
+        IAuthService auth,
+        ICraftResourceService craftResourceService) {
         _db = db;
         _logger = logger;
         _auth = auth;
+        _resourceService = craftResourceService;
     }
 
     // TODO:: impedir de adicionar recursos quando o item já tem preços cadastrados ou
@@ -103,45 +107,58 @@ public class CraftResourcesController: BaseApiController
         );
     }
 
-    /*
-
-    [HttpPost("{id}")]
-    public IActionResult Update(int id, [FromBody] AddResource resourceData) {
-        var resource = _db.CraftResources.Where(r => r.Id == id).Single();
-
-        resource.Amount 
-        pega a diferenca do q era pro q vai ser;
-
-        atualiza a quantidade
-
-        atualiza os preços para bater com a nova quantidade;
-        
-        CraftItem item = ;
-        prices = _db.CraftItemsPrices.Where(p => p.ItemId == item.Id);
-        altera do price a mudança na quantidade de resource
-
-        _db.SaveChangesAsync()
-        return Created();
+    [HttpPut("{id}")]
+    public async Task<IActionResult> Update(int id, [FromBody] UpdateResource resourceData) {
+        User user = _auth.GetUser(User.Claims);
+        var craftResource = await _db.CraftResources
+            .Include(r => r.Item)
+            .Where(r => r.Id == id)
+            .SingleOrDefaultAsync();
+        if (craftResource is null) {
+            _logger.LogError("User {user} tried update craft resource {id} but the record could not be found in the database", 
+                user.Id,
+                id
+            );
+            return NotFound(new ApiError($"Craft resource {id} could not be found in the database"));
+        }
+        _logger.LogInformation("User {user} is updating craft resource {id} - amount: {amount}", 
+            user.Id,
+            craftResource.Id,
+            resourceData.amount
+        );
+        craftResource.Amount = resourceData.amount;
+        await _resourceService.UpdateResource(craftResource);
+        _logger.LogInformation("Craft resource {id} updated by user {user} - amount: {amount}", 
+            craftResource.Id,
+            user.Id,
+            resourceData.amount
+        );
+        return NoContent();
     }
-    */
 
     [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(int id) {
         User user = _auth.GetUser(User.Claims);
-        string logPrefix = $"User {user} tried delete craft resource {id}";
         var craftResource = await _db.CraftResources
+            .Include(r => r.Item)
             .Where(r => r.Id == id)
             .SingleOrDefaultAsync();
-        
         if (craftResource is null) {
-            _logger.LogError("{prefix} but the record could not be found in the database", 
-                logPrefix
+            _logger.LogError("User {user} tried delete craft resource {id} but the record could not be found in the database", 
+                user.Id,
+                id
             );
             return NotFound(new ApiError($"Craft resource {id} could not be found in the database"));
         }
-        // TODO:: adicionar lógica para remover o valor do resource dos preços antigos
-        _db.CraftResources.Remove(craftResource);
-        await _db.SaveChangesAsync();
+        _logger.LogInformation("User {user} is deleting craft resource {id}", 
+            user.Id,
+            craftResource.Id
+        );
+        await _resourceService.DeleteResource(craftResource);
+        _logger.LogInformation("Craft resource {id} deleted by user {user}", 
+            craftResource.Id,
+            user.Id
+        );
         return NoContent();
     }
 }
