@@ -9,7 +9,12 @@ namespace AlternativeMkt.Tests.Api.Controllers;
 public class PricesUtils
 {
     protected PricesController GetController(MktDbContext context, IAuthService auth) {
-        var controller = new PricesController(context, GetLogger(), auth);
+        var controller = new PricesController(
+            context, 
+            GetLogger(), 
+            auth,
+            new PriceServiceBuilder().Build()
+        );
         Utils.SetControllerClaims(controller);
         return controller;
     }

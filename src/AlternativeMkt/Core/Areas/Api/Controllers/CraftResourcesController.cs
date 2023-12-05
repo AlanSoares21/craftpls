@@ -84,8 +84,7 @@ public class CraftResourcesController: BaseApiController
             resource.ItemId,
             resource.Amount
         );
-        await _db.CraftResources.AddAsync(resource);
-        await _db.SaveChangesAsync();
+        await _resourceService.AddResource(resource);
         _logger.LogInformation("User {user} added item {resource} as a resource to item {item} with the amount {amount} - resource id: {id}",
             user.Id,
             resource.ResourceId,

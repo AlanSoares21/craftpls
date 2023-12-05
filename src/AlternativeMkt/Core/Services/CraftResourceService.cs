@@ -14,6 +14,13 @@ public class CraftResourceService : ICraftResourceService
         _priceService = priceService;
     }
 
+    public async Task AddResource(CraftResource resource)
+    {
+        await _db.CraftResources.AddAsync(resource);
+        await UpdatePricesForItem(resource.ItemId);
+        await _db.SaveChangesAsync();
+    }
+
     public async Task DeleteResource(CraftResource resource)
     {
         _db.CraftResources.Remove(resource);

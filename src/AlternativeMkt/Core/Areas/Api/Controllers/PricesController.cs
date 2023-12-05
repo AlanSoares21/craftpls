@@ -1,8 +1,10 @@
+using System.Linq.Expressions;
 using System.Text.Json;
 using AlternativeMkt.Api.Models;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
+using AlternativeMkt.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -13,17 +15,20 @@ namespace AlternativeMkt.Api.Controllers;
 [Authorize]
 public class PricesController : BaseApiController
 {
-    readonly MktDbContext _db;
-    readonly ILogger<PricesController> _logger;
-    readonly IAuthService _auth;
+    MktDbContext _db;
+    ILogger<PricesController> _logger;
+    IAuthService _auth;
+    IPriceService _priceService;
     public PricesController(
         MktDbContext db,
         ILogger<PricesController> logger,
-        IAuthService auth
+        IAuthService auth,
+        IPriceService priceService
     ) {
         _db = db;
         _logger = logger;
         _auth = auth;
+        _priceService = priceService;
     }
 
     [Route("{manufacturerId}")]
@@ -37,26 +42,29 @@ public class PricesController : BaseApiController
         };
         list.Data = _db.CraftItemsPrices
             .Include(p => p.Item.Asset)
-            .Where(p => 
-                p.ManufacturerId == manufacturerId 
-                && p.DeletedAt == null
-                && (
-                    query.itemId == null 
-                    || p.ItemId == query.itemId
-                ) && (
-                    query.resourcesOf == null
-                    || p.Item.ResourceFor.Where(r => r.ItemId == query.resourcesOf).Count() > 0 
-                )
-            )
+            .Where(FilterPrices(query, manufacturerId))
             .Skip(query.start)
             .Take(query.count)
             .ToList();
         list.Count = list.Data.Count;
-        list.Total = _db.CraftItemsPrices.Where(p => 
+        list.Total = _db.CraftItemsPrices
+            .Where(FilterPrices(query, manufacturerId))
+            .Count();
+        return Ok(list);
+    }
+
+    Expression<Func<CraftItemsPrice, bool>> FilterPrices(
+        ListPricesParams query, Guid manufacturerId) {
+        return p => 
             p.ManufacturerId == manufacturerId 
             && p.DeletedAt == null
-        ).Count();
-        return Ok(list);
+            && (
+                query.itemId == null 
+                || p.ItemId == query.itemId
+            ) && (
+                query.resourcesOf == null
+                || p.Item.ResourceFor.Where(r => r.ItemId == query.resourcesOf).Count() > 0 
+            );
     }
     
     [HttpPost]
@@ -160,10 +168,7 @@ public class PricesController : BaseApiController
             user.Id,
             data.price
         );
-        var itemPrice = await _db.CraftItemsPrices
-            .Include(p => p.Manufacturer)
-            .Where(p => p.Id == priceId)
-            .SingleOrDefaultAsync();
+        var itemPrice = await SearchPrice(priceId);
         if (itemPrice is null) {
             _logger.LogInformation("item price with id {id} not found",
                 priceId
@@ -208,4 +213,58 @@ public class PricesController : BaseApiController
         return NoContent();
     }
 
+    [Route("{priceId}/checkResources")]
+    [HttpPut]
+    public async Task<IActionResult> CheckResources(Guid priceId) {
+        var user = _auth.GetUser(User.Claims);
+        _logger.LogInformation("Checking resources of price {id} for user {Id}",
+            priceId,
+            user.Id
+        );
+        var itemPrice = await SearchPrice(priceId);
+        string logPrefix = $"User {user.Id} tried to check resources of price {priceId}";
+        if (itemPrice is null) { 
+            _logger.LogError("{prefix} but the price has not been found", logPrefix);
+            return BadRequest(new ApiError($"Price {priceId} not found"));
+        }
+        if (itemPrice.Manufacturer.Userid != user.Id) {
+            _logger.LogError("{prefix} but the manufacturer {id} is owned by other user", 
+                logPrefix,
+                itemPrice.ManufacturerId
+            );
+            return Unauthorized(new ApiError($"You can only check resources for your own items prices"));
+        }
+        try {
+            _logger.LogInformation("Checking resources of price {price} for user {user}",
+                itemPrice.Id,
+                user.Id
+            );
+            await _priceService.CheckResourcesChanged(itemPrice);
+            _logger.LogInformation("Resources checked for price {price} by user {user}",
+                itemPrice.Id,
+                user.Id
+            );
+            return NoContent();
+        } catch(ServiceException ex) {
+            _logger.LogError("{prefix} but an service exception ocurred. Message: {message}", logPrefix, ex.Message);
+            return BadRequest(new ApiError(ex.Message));
+        } catch (Exception ex) {
+            _logger.LogError("{prefix} but a exception ocurred. Message: {message} \n Stack: {stack}", 
+                logPrefix, 
+                ex.Message,
+                ex.StackTrace
+            );
+            return StatusCode(
+                StatusCodes.Status500InternalServerError, 
+                new ApiError("Unexpected error ocurred. Try again later.")
+            );
+        }
+    }
+
+    Task<CraftItemsPrice?> SearchPrice(Guid priceId) {
+        return _db.CraftItemsPrices
+            .Include(p => p.Manufacturer)
+            .Where(p => p.Id == priceId && p.DeletedAt == null)
+            .SingleOrDefaultAsync();
+    }
 }

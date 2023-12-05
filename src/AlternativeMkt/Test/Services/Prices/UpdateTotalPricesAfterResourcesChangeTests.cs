@@ -3,7 +3,7 @@ using AlternativeMkt.Services;
 
 namespace AlternativeMkt.Tests.Services;
 
-public class UpdateTotalPricesAfterResourcesChangeTests
+public class UpdateTotalPricesAfterResourcesChangeTests: PricesUtils
 {
     [Fact]
     public async Task Update_Total_Prices_Of_An_Item_After_A_Resource_Been_Deleted() {
@@ -156,35 +156,5 @@ public class UpdateTotalPricesAfterResourcesChangeTests
         mockDb.Verify(db => db.SaveChangesAsync(It.IsAny<CancellationToken>()), Times.Once());
     }
 
-    CraftResource GetCraftResource(
-        int craftRersourceId, 
-        CraftItem item, 
-        CraftItem resourceItem) {    
-        CraftResource craftResource = new() {
-            Id = craftRersourceId,
-            Amount = 1,
-            ItemId = item.Id,
-            Item = item,
-            ResourceId = resourceItem.Id,
-            Resource = resourceItem
-        };
-        resourceItem.ResourceFor.Add(craftResource);
-        item.Resources.Add(craftResource);
-        return craftResource;
-    }
-
-    CraftItemsPrice GetPrice(int price, int totalPrice, CraftItem item, Manufacturer manufacturer) {
-        CraftItemsPrice craftPrice = new() {
-            Id = Guid.NewGuid(),
-            Manufacturer = manufacturer,
-            ManufacturerId = manufacturer.Id,
-            Item = item,
-            ItemId = item.Id,
-            Price = price,
-            TotalPrice = totalPrice
-        };
-        item.Prices.Add(craftPrice);
-        manufacturer.CraftItemsPrices.Add(craftPrice);
-        return craftPrice;
-    }
+    
 }
