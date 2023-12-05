@@ -2,7 +2,7 @@ import React, { useCallback, useEffect, useState } from "react"
 import Pagination from "./Pagination"
 import { listItemResources, listItems, listPrices } from "./api";
 import { ICraftResource, IFilterItems, IItem, IItemPrice, IListItemsParams } from "./interfaces";
-import { Button, Image, Row, Stack, Table } from "react-bootstrap";
+import { Image, Stack, Table } from "react-bootstrap";
 import { getAssetUrl } from "./utils";
 
 interface ISelectItemProps {

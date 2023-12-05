@@ -1,9 +1,9 @@
-import axios from 'axios'
+import axios, { AxiosError } from 'axios'
 import { 
-    IAddItemPrice, ICraftResource, IItem, IItemPrice, 
+    IAddItemPrice, IApiError, ICraftResource, IItem, IItemPrice, 
     IListItemsParams, 
     IListPriceParams, 
-    IStandardList, IStandardPaginationParams, 
+    IStandardList,
     IUpdateItemPrice 
 } from './interfaces';
 
@@ -50,4 +50,18 @@ export function updatePrice(priceId: string, data: IUpdateItemPrice) {
         data,
         {headers: authHeaders})
         .then(r => r.data);
+}
+
+export function checkPriceResources(priceId: string) {
+    return api.put(
+        `${url}/Prices/${priceId}/checkResources`,
+        {},
+        {headers: authHeaders})
+        .then(() => true)
+        .catch((error: AxiosError<IApiError>) => {
+            console.log('error on check resources', error)
+            if (error.response === undefined)
+                return {message: `Unkowed error on checking resources. Status: ${error.status}`} as IApiError
+            return error.response.data
+        });
 }

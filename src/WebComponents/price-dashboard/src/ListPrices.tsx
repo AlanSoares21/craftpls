@@ -3,6 +3,8 @@ import * as api from './api';
 import { IItemPrice, IStandardPaginationParams } from "./interfaces";
 import Pagination from "./Pagination";
 import UpdatePriceModal from "./UpdatePriceModal";
+import CheckResourcesModal from "./CheckResourcesModal";
+import { Badge } from "react-bootstrap";
 
 const updatePriceModalId = "updatePriceModal";
 
@@ -16,6 +18,8 @@ const ListPrices: React.FC<IListPricesProps> = ({
     const [pricesToEdit, setPricesToEdit] = useState<{
         [id: string]: IItemPrice
     }>({})
+
+    const [pricesToCheckResource, setPriceToCheckResource] = useState<IItemPrice>()
 
     const addOrRemovePriceToEdit = useCallback((price: IItemPrice) => {
         setPricesToEdit(old => {
@@ -73,14 +77,6 @@ const ListPrices: React.FC<IListPricesProps> = ({
                 </button>
             </div>
             <div className="col-1">
-                <UpdatePriceModal
-                    id={updatePriceModalId}
-                    manufacturer={manufacturer}
-                    itemsPrices={pricesToEdit}
-                    onUpdate={() => {
-                        searchPrices(pagination)
-                    }}
-                />
                 <button 
                     className="btn btn-secondary" 
                     type='button'
@@ -108,6 +104,7 @@ const ListPrices: React.FC<IListPricesProps> = ({
                             <th>Level</th>
                             <th>Total Price</th>
                             <th>Craft Price</th>
+                            <th>Status</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -125,6 +122,17 @@ const ListPrices: React.FC<IListPricesProps> = ({
                             <td>{v.item.level}</td>
                             <td>{v.totalPrice}</td>
                             <td>{v.price}</td>
+                            <td>
+                                {
+                                    v.resourcesChanged && 
+                                    <Badge 
+                                        bg='warning'
+                                        onClick={() => setPriceToCheckResource(v)}
+                                    >
+                                        Click to check resources
+                                    </Badge>
+                                }
+                            </td>
                         </tr>))
                     }
                     </tbody>
@@ -143,6 +151,22 @@ const ListPrices: React.FC<IListPricesProps> = ({
                 />
             </div>
         </div>
+        <CheckResourcesModal 
+            open={pricesToCheckResource !== undefined}
+            onClose={() => setPriceToCheckResource(undefined)}
+            onSuccess={() => setPriceToCheckResource(undefined)}
+            changePrice={setPriceToCheckResource}
+            manufacturer={manufacturer}
+            price={pricesToCheckResource}
+        />
+        <UpdatePriceModal
+            id={updatePriceModalId}
+            manufacturer={manufacturer}
+            itemsPrices={pricesToEdit}
+            onUpdate={() => {
+                searchPrices(pagination)
+            }}
+        />
     </section>
 }
 

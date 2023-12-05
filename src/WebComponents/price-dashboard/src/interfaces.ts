@@ -47,12 +47,13 @@ export interface ICraftResource {
   }
 
 export interface IItemPrice {
-    id: string;
-    price: number;
-    totalPrice: number;
-    itemId: IItem['id'];
-    item: IItem;
-    manufacturerId: string;
+    id: string
+    price: number
+    totalPrice: number
+    itemId: IItem['id']
+    item: IItem
+    manufacturerId: string
+    resourcesChanged: boolean
 }
 
 export interface IAddItemPrice {
@@ -63,4 +64,8 @@ export interface IAddItemPrice {
 
 export interface IUpdateItemPrice {
     price: number;
+}
+
+export interface IApiError {
+    message: string
 }
