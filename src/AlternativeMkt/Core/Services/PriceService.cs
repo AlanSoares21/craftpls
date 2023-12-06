@@ -1,5 +1,6 @@
 
 using AlternativeMkt.Db;
+using AlternativeMkt.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace AlternativeMkt.Services;
@@ -96,13 +97,13 @@ public class PriceService : IPriceService
         {
             var price = prices[i];
             price.TotalPrice =  price.Price + 
-                ResourcersTotalPriceFor(price.ItemId, price.ManufacturerId);
+                ResourcesTotalPriceFor(price.ItemId, price.ManufacturerId);
             price.ResourcesChanged = true;
         }
         await _db.SaveChangesAsync();
     }
 
-    int ResourcersTotalPriceFor(int itemId, Guid manufacturerId)
+    int ResourcesTotalPriceFor(int itemId, Guid manufacturerId)
     {
         int? resourcesPricesSum = _db.CraftItemsPrices
             .Where(p => 
@@ -120,5 +121,56 @@ public class PriceService : IPriceService
             return 0;
         }
         return resourcesPricesSum.Value;
+    }
+    
+
+    public async Task AddPrice(AddItemPrice priceData)
+    {
+        var item = _db.CraftItems
+            .Include(i => i.Prices
+                .Where(p => p.ManufacturerId == priceData.manufacturerId
+                    && p.DeletedAt == null
+                )
+            )
+            .Include(i => i.Resources)
+                .ThenInclude(r => r.Resource)
+                    .ThenInclude(ri => ri.Prices
+                        .Where(p => 
+                            p.ManufacturerId == priceData.manufacturerId
+                            && p.DeletedAt == null
+                        )
+                )
+            .Where(i => i.Id == priceData.itemId)
+            .SingleOrDefault();
+        if (item is null)
+            throw new ServiceException($"Item {priceData.itemId} not found");
+        if (item.Prices.Count > 0)
+            throw new ServiceException($"You already has added a price for this item");
+        AllResourcesHavePrices(item);
+        CraftItemsPrice itemsPrice = new() {
+            ItemId = priceData.itemId,
+            ManufacturerId = priceData.manufacturerId,
+            Price = priceData.price,
+            TotalPrice = ResourcesTotalPrice(item.Resources) + priceData.price
+        };
+        await _db.CraftItemsPrices.AddAsync(itemsPrice);
+        await _db.SaveChangesAsync();
+    }
+
+    void AllResourcesHavePrices(CraftItem item) {
+        var resources = item.Resources.Select(r => r.Resource);
+        var missingResource = resources
+            .FirstOrDefault(i => i.Prices.Count == 0);
+        if (missingResource is not null)
+            throw new ServiceException($"The price for the resource {missingResource.Name}({missingResource.Id}) is missing.");
+    }
+
+    int ResourcesTotalPrice(IEnumerable<CraftResource> craftResources) {
+        int? result = craftResources.Sum(r => 
+            r.Amount * r.Resource.Prices.ElementAt(0).TotalPrice
+        );
+        if (result is null)
+            return 0;
+        return result.Value;
     }
 }

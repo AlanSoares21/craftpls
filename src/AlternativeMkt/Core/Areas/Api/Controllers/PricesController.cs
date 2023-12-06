@@ -4,6 +4,7 @@ using AlternativeMkt.Api.Models;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
+using AlternativeMkt.Models;
 using AlternativeMkt.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -94,66 +95,32 @@ public class PricesController : BaseApiController
             );
             return NotFound(new ApiError($"Manufacturer {priceData.manufacturerId} not found"));
         }
-        // check if already exists a price for this item
-        if (manufacturer.CraftItemsPrices.Count > 0 && 
-/*
-    OBS: when mocking entity framework the include method dont work as at runtime, 
-    so its necessary check the first element of CraftItemsPrices
-*/
-#if DEBUG
-            manufacturer.CraftItemsPrices[0].ItemId == priceData.itemId
-#endif
-        ) {
-            _logger.LogError("Manufacturer {m} already set a price for item {item}", 
-                priceData.manufacturerId,
-                priceData.itemId
-            );
-            return BadRequest(new ApiError($"You have alredy set a price for this item {manufacturer.CraftItemsPrices.ElementAt(0).ItemId}"));
-        }
-        CraftItem? item = _db.CraftItems
-            .Include(i => i.Resources)
-            .Where(i => i.Id == priceData.itemId).SingleOrDefault();
-        if (item is null) {
-            _logger.LogInformation("User {user} tried to add price to item {id}, but could not found the item in the db", 
+        try {
+            await _priceService.AddPrice(priceData);
+            _logger.LogInformation("Item price added for user {u} - data: {data}",
                 user.Id,
-                priceData.itemId
+                dataAsJson
             );
-            return BadRequest(new ApiError($"Item {priceData.itemId} not found in db"));
+            return Created("/", priceData);
+        } catch(ServiceException ex) {
+            _logger.LogError("Error on trying add new price - user: {user} - price data: {data} - error: {message}",
+                user.Id,
+                dataAsJson,
+                ex.Message
+            );
+            return BadRequest(new ApiError(ex.Message));
+        } catch(Exception ex) {
+            _logger.LogCritical("Unhandled error on trying add new price - user: {user} - price data: {data} - error: {message} \n {stack}",
+                user.Id,
+                dataAsJson,
+                ex.Message,
+                ex.StackTrace
+            );
+            return StatusCode(
+                StatusCodes.Status500InternalServerError,
+                new ApiError("Unhandled error. Try again later.")
+            );
         }
-        int totalPrice = priceData.price;
-        if (item.Resources.Count > 0) {
-            int? resourcePrices = _db.CraftItemsPrices
-                .Include(p => p.Item)
-                    .ThenInclude(i => i.ResourceFor
-                        .Where(r => r.ItemId == item.Id)
-                    )
-                .Where(p => p.ManufacturerId == manufacturer.Id && p.Item.ResourceFor
-                    .Where(r => r.ItemId == item.Id).Count() > 0
-                ).Sum(p => p.TotalPrice * p.Item.ResourceFor.Where(r => r.ItemId == item.Id).Sum(r => r.Amount));
-            if (resourcePrices is not null && resourcePrices.Value > 0)
-                totalPrice += resourcePrices.Value;
-            else {
-                _logger.LogError("User {user} tried to set price to item {item}, but have not added prices to item resources - data: {data}",
-                    user.Id,
-                    item.Id,
-                    dataAsJson
-                );
-                return BadRequest(new ApiError("Add prices to item resources before add a price to it"));
-            }
-        }
-        CraftItemsPrice itemsPrice = new() {
-            ItemId = priceData.itemId,
-            ManufacturerId = priceData.manufacturerId,
-            Price = priceData.price,
-            TotalPrice = totalPrice
-        };
-        await _db.CraftItemsPrices.AddAsync(itemsPrice);
-        await _db.SaveChangesAsync();
-        _logger.LogInformation("Item price added for user {u} - data: {data}",
-            user.Id,
-            dataAsJson
-        );
-        return Created("/", priceData);
     }
 
     [Route("{priceId}")]
