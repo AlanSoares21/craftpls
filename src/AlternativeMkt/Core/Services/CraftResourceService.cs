@@ -17,8 +17,8 @@ public class CraftResourceService : ICraftResourceService
     public async Task AddResource(CraftResource resource)
     {
         await _db.CraftResources.AddAsync(resource);
-        await UpdatePricesForItem(resource.ItemId);
         await _db.SaveChangesAsync();
+        await UpdatePricesForItem(resource.ItemId);
     }
 
     public async Task DeleteResource(CraftResource resource)

@@ -106,6 +106,8 @@ public class PriceService : IPriceService
     int ResourcesTotalPriceFor(int itemId, Guid manufacturerId)
     {
         int? resourcesPricesSum = _db.CraftItemsPrices
+            .Include(p => p.Item)
+                .ThenInclude(i => i.ResourceFor.Where(r => r.ItemId == itemId))
             .Where(p => 
                 p.ManufacturerId == manufacturerId && 
                 p.DeletedAt == null && 
