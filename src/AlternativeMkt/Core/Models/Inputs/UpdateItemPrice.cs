@@ -1,4 +1,4 @@
-namespace AlternativeMkt.Api.Models;
+namespace AlternativeMkt.Models;
 
 public class UpdateItemPrice
 {

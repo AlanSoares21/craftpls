@@ -8,9 +8,12 @@ namespace AlternativeMkt.Services;
 public class PriceService : IPriceService
 {
     MktDbContext _db;
+    ILogger<PriceService> _logger;
     public PriceService(
-        MktDbContext db) {
+        MktDbContext db,
+        ILogger<PriceService> logger) {
         _db = db;
+        _logger = logger;
     }
 
     public async Task CheckResourcesChanged(CraftItemsPrice price)
@@ -96,11 +99,15 @@ public class PriceService : IPriceService
         for (int i = 0; i < prices.Count; i++)
         {
             var price = prices[i];
-            price.TotalPrice =  price.Price + 
-                ResourcesTotalPriceFor(price.ItemId, price.ManufacturerId);
+            FixTotalPrice(price);
             price.ResourcesChanged = true;
         }
         await _db.SaveChangesAsync();
+    }
+    void FixTotalPrice(CraftItemsPrice price)
+    {
+        price.TotalPrice =  price.Price + 
+                ResourcesTotalPriceFor(price.ItemId, price.ManufacturerId);
     }
 
     int ResourcesTotalPriceFor(int itemId, Guid manufacturerId)
@@ -174,5 +181,69 @@ public class PriceService : IPriceService
         if (result is null)
             return 0;
         return result.Value;
+    }
+
+    public async Task UpdatePrice(
+        CraftItemsPrice price, 
+        UpdateItemPrice priceData)
+    {
+        /*
+            Obs: you probably dont need to use the FixTotalPrice function,
+            you could get the difference in the total price and 
+            apply this difference in the craft items prices that rely
+            on the updated item price
+            (you probably could do the same where the FixTotalPrice is originally used)
+        */
+        price.TotalPrice = price.TotalPrice - price.Price + priceData.price;
+        price.Price = priceData.price;
+        _db.CraftItemsPrices.Update(price);
+        await _db.SaveChangesAsync();
+        var resources = GetCraftResourcesByItemResourceId(
+            price.ItemId, 
+            price.ManufacturerId
+        ).ToList();
+        _logger.LogInformation("Updating prices for the resource {itemId} - manufacturer: {manufacturer} - Count: {count}",
+            price.ItemId,
+            price.ManufacturerId,
+            resources.Count
+        );
+        for (int i = 0; i < resources.Count; i++) {
+            if (resources[i].Item.Prices.Count > 0) {
+                var resourcePrice = resources[i].Item
+                    .Prices.ElementAt(0);
+                FixTotalPrice(resourcePrice);
+                _db.CraftItemsPrices.Update(resourcePrice);
+                var itemResources = GetCraftResourcesByItemResourceId(
+                    resourcePrice.ItemId,
+                    resourcePrice.ManufacturerId
+                );
+                resources.AddRange(itemResources);
+                await _db.SaveChangesAsync();
+            }
+            else 
+                _logger.LogInformation("Manufacturer {manufacturer} dont have a price for {itemId}",
+                    price.ManufacturerId,
+                    resources[i].ItemId
+                );
+        }
+        _logger.LogInformation("While updating price {priceId}, {count} items total prices was updated - manufacturer: {manufacturer}",
+            price.Id,
+            resources.Count,
+            price.ManufacturerId
+        );
+    }
+
+    IQueryable<CraftResource> GetCraftResourcesByItemResourceId(
+        int itemResourceId,
+        Guid manufacturerId) {
+        return _db.CraftResources
+            .Include(r => r.Item)
+                .ThenInclude(i => i.Prices
+                    .Where(p => 
+                        p.ManufacturerId == manufacturerId
+                        && p.DeletedAt == null
+                    )
+                )
+            .Where(r => r.ResourceId == itemResourceId);
     }
 }

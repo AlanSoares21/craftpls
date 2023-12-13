@@ -74,6 +74,8 @@ const CheckResourcesModal: React.FC<ICheckResourcesModalProps> = ({
                             />
                         </Col>
                         <Col>{price.item.name}</Col>
+                        <Col>Craft Price: {price.price}</Col>
+                        <Col><b>Total Price: {price.totalPrice}</b></Col>
                     </Row>
                 }
                 {

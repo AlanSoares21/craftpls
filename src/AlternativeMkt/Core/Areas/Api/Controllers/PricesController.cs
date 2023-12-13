@@ -150,34 +150,43 @@ public class PricesController : BaseApiController
             );
             return Unauthorized(new ApiError("You dont own this craft item price"));
         }
-        _logger.LogInformation("Updating price of {priceId} - old price: {old} - new price: {price} - user: {user}",
-            itemPrice.Id,
-            itemPrice.Price,
-            data.price,
-            user.Id
-        );
-        itemPrice.Price = data.price;
-        DateTime updatedAt = new(DateTime.UtcNow.Ticks);
-        var result = await _db.CraftItemsPrices
-            .Where(p => p.Id == itemPrice.Id)
-            .ExecuteUpdateAsync(st => st
-                .SetProperty(p => p.UpdatedAt, updatedAt)
-                .SetProperty(p => p.Price, data.price)
-            );
-        if (result == 0) {
-            _logger.LogError("Fail to update item price {priceid} - price: {price} - user: {user}",
+        try {
+            _logger.LogInformation("Updating price of {priceId} - old price: {old} - new price: {price} - user: {user}",
                 itemPrice.Id,
                 itemPrice.Price,
+                data.price,
                 user.Id
             );
-            return BadRequest(new ApiError("Fail on update item price. No changes made"));
+            await _priceService.UpdatePrice(itemPrice, data);
+            _logger.LogInformation("Updated item price {priceId} for user {u} - new price: {price}",
+                itemPrice.Id,
+                user.Id,
+                itemPrice.Price
+            );
+            return NoContent();
         }
-        _logger.LogInformation("Updated item price {priceId} for user {u} - new price: {price}",
-            itemPrice.Id,
-            user.Id,
-            itemPrice.Price
-        );
-        return NoContent();
+        catch (ServiceException ex) {
+            _logger.LogError("Error when user {user} tried to update price {price} - new price: {prcie} - error: {error}",
+                user.Id,
+                itemPrice.Id,
+                data.price,
+                ex.Message
+            );
+            return BadRequest(new ApiError(ex.Message));
+        }
+        catch (Exception ex) {
+            _logger.LogCritical("Unkowed error when user {user} tried to update price {price} - new price: {prcie} - error: {error} - {stack}",
+                user.Id,
+                itemPrice.Id,
+                data.price,
+                ex.Message,
+                ex.StackTrace
+            );
+            return StatusCode(
+                StatusCodes.Status500InternalServerError, 
+                new ApiError(ex.Message)
+            );
+        }
     }
 
     [Route("{priceId}/checkResources")]
