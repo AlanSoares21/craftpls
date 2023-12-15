@@ -35,8 +35,15 @@ public class ItemsController: BaseApiController
 
     Expression<Func<CraftItem, bool>> FiltreItems(ListItemsParams query) {
         return i => 
-        (query.name == null || i.Name != null && i.Name.StartsWith(query.name)) &&
-        
+        (
+            query.name == null || 
+            i.Name != null && 
+            EF.Functions.ILike(
+                i.Name,
+                $"%{query.name}%"
+            )
+        ) 
+        &&
         (
             query.level == null && 
                 (query.maxLevel == null || query.maxLevel != null && query.maxLevel >= i.Level) 

@@ -12,7 +12,9 @@
         {
             <div class="col mb-1">
                 <div class="card" style="width: 12rem;">
-                    <img src=@config["AssetsUrl"]/@item.Asset.Endpoint class="card-img-top"/>
+                    @if (@item.Asset is not null) {
+                        <img src=@config["AssetsUrl"]/@item.Asset.Endpoint class="card-img-top"/>
+                    }
                     <div class="card-body">
                         <h5 class="card-title">@item.Name</h5>
                         <p class="card-text">Level: @item.Level</p>

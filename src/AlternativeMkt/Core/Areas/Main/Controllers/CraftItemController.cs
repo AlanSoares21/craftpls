@@ -16,7 +16,10 @@ public class CraftItemController: BaseController
         return View(
             _db.CraftItems.Include("Asset").Where(i => 
                 i.Name != null 
-                && i.Name.Contains(searchTerm)
+                && EF.Functions.ILike(
+                    i.Name,
+                    $"%{searchTerm}%"
+                )
             ).ToList()
         );
     }
