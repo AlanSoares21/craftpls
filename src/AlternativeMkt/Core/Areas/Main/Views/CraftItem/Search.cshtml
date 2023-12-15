@@ -1,14 +1,22 @@
 @inject IConfiguration config
 @using AlternativeMkt.Db
+@using AlternativeMkt.Api.Models;
 
-@model List<CraftItem>
+@model StandardList<CraftItem>
+
+@{
+    ListItemsParams query = (ListItemsParams)ViewData["CraftItemQuery"];
+    double currentPage = (Model.Start + 1) / Model.Count + 1;
+    int next =  Model.Start + Model.Count;
+    int previous =  Model.Start - Model.Count;
+}
 
 <section class="container">
     <div class="row mb-2">
-        <vc:search-bar value=@ViewData["CraftItemSearched"] />
+        <vc:search-bar value=@query.name />
     </div>
     <div class="row">
-        @foreach (CraftItem item in Model)
+        @foreach (CraftItem item in Model.Data)
         {
             <div class="col mb-1">
                 <div class="card" style="width: 12rem;">
@@ -31,4 +39,55 @@
             </div>
         }
     </div>
+    <nav class="row justify-content-center">
+        <div class="col-4"> 
+            <ul class="pagination">
+                @if (previous < 0) {
+                    <li class="page-item disabled">
+                        <a class="page-link">Previous</a>
+                    </li>
+                } else {
+                    <li class="page-item">
+                        <a 
+                            class="page-link" 
+                            asp-route-name=@query.name 
+                            asp-route-start=@previous
+                        >
+                            Previous
+                        </a>
+                    </li>
+                }
+                
+                <li class="page-item">
+                    <a 
+                        class="page-link" 
+                        asp-route-name=@query.name 
+                        asp-route-start=@query.start 
+                    >
+                        @currentPage
+                    </a>
+                </li>
+                
+                @if (next >= Model.Total) {
+                    <li class="page-item disabled">
+                        <a class="page-link">Next</a>
+                    </li>
+                } else {
+                    <li class="page-item">
+                        <a 
+                            class="page-link" 
+                            asp-route-name=@query.name 
+                            asp-route-start=@next
+                        >
+                            Next
+                        </a>
+                    </li>
+                }
+            </ul>
+        </div>
+        <div class="w-100"></div>
+        <div class="col-4">
+            @Model.Total items found for "@query.name".
+        </div>
+    </nav>
 </section>

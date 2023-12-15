@@ -1,5 +1,8 @@
 
+using AlternativeMkt.Admin.Models;
+using AlternativeMkt.Api.Models;
 using AlternativeMkt.Db;
+using AlternativeMkt.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -7,20 +10,19 @@ namespace AlternativeMkt.Main.Controllers;
 
 public class CraftItemController: BaseController
 {
-    private MktDbContext _db;
-    public CraftItemController(MktDbContext db) {
+    MktDbContext _db;
+    ICraftItemService _craftItemService;
+    public CraftItemController(
+        MktDbContext db,
+        ICraftItemService craftItemService) {
         _db = db;
+        _craftItemService = craftItemService;
     }
-    public async Task<IActionResult> Search(string searchTerm = "") {
-        ViewData["CraftItemSearched"] = searchTerm;
+    public async Task<IActionResult> Search(
+        [FromQuery] ListItemsParams query) {
+        ViewData["CraftItemQuery"] = query;
         return View(
-            _db.CraftItems.Include("Asset").Where(i => 
-                i.Name != null 
-                && EF.Functions.ILike(
-                    i.Name,
-                    $"%{searchTerm}%"
-                )
-            ).ToList()
+            _craftItemService.SearchItems(query)
         );
     }
 }

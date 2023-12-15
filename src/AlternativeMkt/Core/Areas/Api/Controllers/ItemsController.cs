@@ -1,6 +1,7 @@
 using System.Linq.Expressions;
 using AlternativeMkt.Api.Models;
 using AlternativeMkt.Db;
+using AlternativeMkt.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -10,47 +11,18 @@ namespace AlternativeMkt.Api.Controllers;
 [Authorize]
 public class ItemsController: BaseApiController
 {
-    readonly MktDbContext _db;
-    public ItemsController(MktDbContext db) {
+    MktDbContext _db;
+    ICraftItemService _craftItemService;
+    public ItemsController(
+        MktDbContext db,
+        ICraftItemService craftItemService) {
         _db = db;
+        _craftItemService = craftItemService;
     }
 
     [HttpGet]
     public IActionResult ListItems([FromQuery] ListItemsParams query) {
-        StandardList<CraftItem> list = new() {
-            Start = query.start
-        };
-        list.Data = _db.CraftItems
-            .Include(i => i.Asset)
-            .Where(FiltreItems(query))
-            .OrderBy(i => i.Id)
-            .Skip(query.start)
-            .Take(query.count)
-            .ToList();
-        list.Count = list.Data.Count;
-        list.Total = _db.CraftItems.Where(FiltreItems(query))
-            .Count();
-        return Ok(list);
-    }
-
-    Expression<Func<CraftItem, bool>> FiltreItems(ListItemsParams query) {
-        return i => 
-        (
-            query.name == null || 
-            i.Name != null && 
-            EF.Functions.ILike(
-                i.Name,
-                $"%{query.name}%"
-            )
-        ) 
-        &&
-        (
-            query.level == null && 
-                (query.maxLevel == null || query.maxLevel != null && query.maxLevel >= i.Level) 
-                && (query.minLevel == null || query.minLevel != null && query.minLevel <= i.Level)
-            ||
-            query.level != null && query.level == i.Level 
-        );
+        return Ok(_craftItemService.SearchItems(query));
     }
 
     [HttpGet("{itemId}/resources")]

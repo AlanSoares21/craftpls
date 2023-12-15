@@ -1,12 +1,12 @@
 @inject IViewLocalizer text
 
 <div class="col-auto">
-    <form class="row" asp-controller="CraftItem" asp-action="Search" >
+    <form class="row" method="get" asp-controller="CraftItem" asp-action="Search" >
         <div class="col-sm">
             <label class="form-label">@text["SearchBarPlaceholder"]</label>
         </div>
         <div class="col-auto">
-            <input class="form-control" name="searchTerm" type="text" value=@ViewData["CraftItemSearched"] />
+            <input class="form-control" name="name" type="text" value=@ViewData["CraftItemSearched"] />
         </div>
     </form>
 </div>
