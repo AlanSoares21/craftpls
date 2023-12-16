@@ -10,4 +10,4 @@ insert into servers values
 (11, 'Emerald - LE'), (12, 'Emerald - SE'),
 (13, 'Sapphire - LE'), (14, 'Sapphire - SE');
 
-
+insert into roles (name) values ('admin'), ('dev');
