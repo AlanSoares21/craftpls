@@ -27,7 +27,12 @@ public class SearchController : BaseController {
                 .ThenInclude(m => m.Server)
             .Include(p => p.Manufacturer)
                 .ThenInclude(m => m.User)
-            .Where(p => !p.Manufacturer.Hide && p.ItemId == item.Id && p.DeletedAt == null)
+            .Where(p => 
+                !p.Manufacturer.Hide 
+                && p.ItemId == item.Id 
+                && p.ResourcesChanged == false 
+                && p.DeletedAt == null
+            )
             .ToList();
         for (int i = 0; i < prices.Count; i++)
         {
