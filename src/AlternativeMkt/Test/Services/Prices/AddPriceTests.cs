@@ -164,6 +164,60 @@ public class AddPriceTests: PricesUtils
         );
     }
 
+    [Fact]
+    public async void Update_Total_Price_Of_Items_That_Rely_On_The_New_Price() 
+    {
+        Manufacturer manufacturer = new() {Id = Guid.NewGuid()};
+        CraftItem item = new() {Id = 123};
+        CraftItemsPrice itemPrice = GetPrice(price: 10, totalPrice: 10,
+            item, manufacturer
+        );
+        CraftItem resourceItem = new() {Id = 321};
+        CraftResource resource = GetCraftResource(1, item, resourceItem);
+        resource.Amount = 2;
+        itemPrice.ResourcesChanged = true;
+        var mockPrices = MktDbContextBuilder
+            .MockDbSet(new List<CraftItemsPrice>() {itemPrice});
+        var mockDb = new MktDbContextBuilder()
+            .WithItems(new List<CraftItem>() {item, resourceItem})
+            .WithResources(new List<CraftResource>() {resource})
+            .WithItemsPrices(mockPrices)
+            .WithManufacturers(new List<Manufacturer>() {manufacturer})
+            .Build();
+        IPriceService service = new PriceServiceBuilder()
+            .WithDb(mockDb.Object)
+            .Build();
+        AddItemPrice newPrice = new() {
+            itemId = resourceItem.Id,
+            manufacturerId = manufacturer.Id,
+            price = 3
+        };
+        await service.AddPrice(newPrice);
+        mockPrices.Verify(
+            p => p.AddAsync(
+                It.Is(PriceMatchInputData(newPrice)), 
+                It.IsAny<CancellationToken>()
+            ), 
+            Times.Once()
+        );
+        mockPrices.Verify(
+            p => p.AddAsync(
+                It.Is(TotalPriceEqual(newPrice.price)), 
+                It.IsAny<CancellationToken>()
+            ), 
+            Times.Once()
+        );
+        mockPrices.Verify(p => p.Update(itemPrice), Times.Once());
+        Assert.Equal(
+            newPrice.price * resource.Amount + itemPrice.Price, 
+            itemPrice.TotalPrice
+        );
+        mockDb.Verify(
+            d => d.SaveChangesAsync(It.IsAny<CancellationToken>()),
+            Times.Exactly(2)
+        );
+    }
+
     void PriceAddedInDb(Mock<MktDbContext> mockDb, 
         Mock<DbSet<CraftItemsPrice>> mockPrices,
         AddItemPrice inputData) {

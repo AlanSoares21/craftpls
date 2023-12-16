@@ -156,14 +156,17 @@ public class PriceService : IPriceService
         if (item.Prices.Count > 0)
             throw new ServiceException($"You already has added a price for this item");
         AllResourcesHavePrices(item);
-        CraftItemsPrice itemsPrice = new() {
-            ItemId = priceData.itemId,
+        CraftItemsPrice itemPrice = new() {
+            ItemId = item.Id,
+            Item = item,
             ManufacturerId = priceData.manufacturerId,
             Price = priceData.price,
             TotalPrice = ResourcesTotalPrice(item.Resources) + priceData.price
         };
-        await _db.CraftItemsPrices.AddAsync(itemsPrice);
+
+        await _db.CraftItemsPrices.AddAsync(itemPrice);
         await _db.SaveChangesAsync();
+        await UpdateDependentsPrices(itemPrice.ItemId, itemPrice.ManufacturerId);
     }
 
     void AllResourcesHavePrices(CraftItem item) {
@@ -198,13 +201,15 @@ public class PriceService : IPriceService
         price.Price = priceData.price;
         _db.CraftItemsPrices.Update(price);
         await _db.SaveChangesAsync();
-        var resources = GetCraftResourcesByItemResourceId(
-            price.ItemId, 
-            price.ManufacturerId
-        ).ToList();
+        await UpdateDependentsPrices(price.ItemId, price.ManufacturerId);
+    }
+
+    async Task UpdateDependentsPrices(int itemId, Guid manufacturerId) {
+        var resources = GetCraftResourcesByItemResourceId(itemId, manufacturerId)
+            .ToList();
         _logger.LogInformation("Updating prices for the resource {itemId} - manufacturer: {manufacturer} - Count: {count}",
-            price.ItemId,
-            price.ManufacturerId,
+            itemId,
+            manufacturerId,
             resources.Count
         );
         for (int i = 0; i < resources.Count; i++) {
@@ -222,14 +227,14 @@ public class PriceService : IPriceService
             }
             else 
                 _logger.LogInformation("Manufacturer {manufacturer} dont have a price for {itemId}",
-                    price.ManufacturerId,
+                    manufacturerId,
                     resources[i].ItemId
                 );
         }
-        _logger.LogInformation("While updating price {priceId}, {count} items total prices was updated - manufacturer: {manufacturer}",
-            price.Id,
-            resources.Count,
-            price.ManufacturerId
+        _logger.LogInformation("While updating prices from manufacturer {manufacturerId} for the reosurce {itemId}, {count} items total prices was updated",
+            manufacturerId,
+            itemId,
+            resources.Count
         );
     }
 

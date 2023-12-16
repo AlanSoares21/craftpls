@@ -93,6 +93,10 @@ public class MktDbContextBuilder
         var data = new InMemoryAsyncEnumerable<T>(list.AsQueryable());
         var mockDbSet = new Mock<DbSet<T>>();
         SetQueryableForDbSet(data, mockDbSet);
+        mockDbSet.Setup(d => d.AddAsync(It.IsAny<T>(), It.IsAny<CancellationToken>()))
+            .Callback((T value, CancellationToken _) => {
+                list.Add(value);
+            });
         return mockDbSet;
     }
 
