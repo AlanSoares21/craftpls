@@ -117,10 +117,9 @@ public class AccountController: BaseController
             authorizationService.AuthorizeAsync(User, "AdminAccess");
         var authData = _auth.GetUser(User.Claims);
         var userData = await _db.Users
-            .SingleAsync(u => u.Id == authData.Id);
-        userData.GameAccounts = _db.GameAccounts
-            .Include(g => g.Server)
-            .ToList();
+            .Include(u => u.GameAccounts)
+                .ThenInclude(g => g.Server)
+            .SingleOrDefaultAsync(u => u.Id == authData.Id);
         if (userData is null)
             throw new Exception("User data ta nulo");
         if (userData.GameAccounts is null)
