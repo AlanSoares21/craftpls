@@ -29,21 +29,49 @@ public class RequestController: BaseController
     [AllowAnonymous]
     public IActionResult Open(Guid id) {
         var price = _db.CraftItemsPrices
-            .Where(p => p.Id == id)
+            .Include(p => p.Item)
+                .ThenInclude(i => i.Asset)
+            .Include(p => p.Manufacturer)
+                .ThenInclude(m => m.Server)
+                    .ThenInclude(s => s.GameAccounts
+                        .Where(a => a.Server.Manufacturers
+                            .Any(m => m.Userid == a.UserId)
+                        )
+                    )
+            .Where(p => p.Id == id 
+                && p.DeletedAt == null 
+                && !p.ResourcesChanged
+            )
             .SingleOrDefault();
         if (price is null)
             return View("Error", "Price not found");
+        var resources = _db.CraftResources
+            .Include(r => r.Resource)
+                .ThenInclude(i => i.Asset)
+            .Include(r => r.Resource.Prices
+                .Where(p => p.ManufacturerId == price.ManufacturerId
+                    && p.DeletedAt == null
+                    && !p.ResourcesChanged
+                )
+            )
+            .Where(r => r.ItemId == price.ItemId)
+            .ToList();
+        price.Item.Resources = resources;
         return View("Open", price);
     }
 
     [Authorize]
-    public async Task<IActionResult> New([FromBody] NewRequest requestData) {
+    public async Task<IActionResult> New([Bind("PriceId")] NewRequest requestData) {
         // pegar dados do usuario
         var user = _auth.GetUser(User.Claims);
         // verificar se o item price tem um registro no db
         var price = _db.CraftItemsPrices
             .Include(p => p.Item)
-            .Where(p => p.Id == requestData.PriceId)
+            .Where(p => 
+                p.Id == requestData.PriceId
+                && p.DeletedAt == null
+                && !p.ResourcesChanged    
+            )
             .SingleOrDefault();
         if (price is null) {
             _logger.LogError("User {user} tried request item with price {price}, but the price could not be found in the db",
@@ -78,6 +106,15 @@ public class RequestController: BaseController
     public IActionResult List() {
         User user = _auth.GetUser(User.Claims);
         var requests = _db.Requests
+            .Include(r => r.Manufacturer)
+                .ThenInclude(m => m.Server)
+                    .ThenInclude(s => s.GameAccounts
+                        .Where(a => a.Server.Manufacturers
+                            .Any(m => m.Userid == a.UserId)
+                        )
+                    )
+            .Include(r => r.Item)
+                .ThenInclude(i => i.Asset)
             .Where(r => r.RequesterId == user.Id && r.DeletedAt == null)
             .OrderBy(r => r.CreatedAt)
             .ToList();

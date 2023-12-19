@@ -29,4 +29,5 @@ public class ServerConfig
     public int DevRoleId => int.Parse("" + _configuration["Roles:Dev"]);
     public string? PriceDashboardJs => _configuration["PriceDashboardJs"];
     public string? AdminItemsPageJs => _configuration["AdminItemsPageJs"];
+    public string? AssetsUrl => _configuration["AssetsUrl"];
 }

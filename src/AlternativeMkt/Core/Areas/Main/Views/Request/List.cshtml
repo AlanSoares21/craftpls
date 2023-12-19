@@ -1,0 +1,26 @@
+@inject ServerConfig config
+@model List<Request>
+
+<section class="row justify-content-around">
+    @foreach (var request in Model)
+    {
+        <div class="col-md-5 col-sm-7 mb-3 shadow p-3">
+            @if (request.Item.Asset != null) {
+                <image src="@config.AssetsUrl/@request.Item.Asset.Endpoint" />
+            }
+            <h4>@request.Item.Name</h4>
+            <h6>Level: @request.Item.Level</h6>
+            <h6>Price: @request.Price</h6>
+            @request.Manufacturer.Server.Name
+            @foreach (var account in request.Manufacturer.Server.GameAccounts)
+            {
+                <span class="badge bg-warning">@account.Name</span>
+            }
+            <a
+                class="btn btn-primary"
+            >
+                Details
+            </a>
+        </div>
+    }
+</section>

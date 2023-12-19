@@ -1,11 +1,11 @@
-@inject IConfiguration config
+@inject ServerConfig config
 @using AlternativeMkt.Db
 @model SearchItemPrices
 
 <section class="row">
     <div class="col-4">
         <div class="card" style="width: 12rem;">
-            <img src=@config["AssetsUrl"]/@Model.Item.Asset.Endpoint class="card-img-top"/>
+            <img src=@config.AssetsUrl/@Model.Item.Asset.Endpoint class="card-img-top"/>
             <div class="card-body">
                 <h5 class="card-title">@Model.Item.Name</h5>
                 <p class="card-text">Level: @Model.Item.Level</p>
@@ -19,8 +19,8 @@
                 <a
                     class="list-group-item list-group-item-action"
                     asp-controller="Request"
-                    asp-action="Item" 
-                    asp-route-id="@itemPrice.ItemId"
+                    asp-action="Open" 
+                    asp-route-id="@itemPrice.Id"
                     asp-route-manufacturerId="@itemPrice.ManufacturerId"
                 >
                     <p>Server: @itemPrice.Manufacturer.Server.Name</p>
