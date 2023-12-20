@@ -1,8 +1,10 @@
-
+using System.Linq.Expressions;
 using System.Text.Json;
+using AlternativeMkt.Api.Models;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
+using AlternativeMkt.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -157,5 +159,30 @@ public class ManufacturerController: BaseController
     }
     
     public IActionResult Prices(Guid id) => View();
-    public IActionResult Requests(Guid id) => View();
+    public IActionResult Requests(Guid id, [FromQuery] ListRequestParams query) {
+        StandardList<Request> result = new() {
+            Start = query.start,
+            Count = query.count
+        };
+        result.Data = _db.Requests
+            .Include(r => r.Item)
+                .ThenInclude(i => i.Asset)
+            .Include(r => r.Requester)
+            .Where(FilterRequests(id, query))
+            .Skip(query.start)
+            .Take(query.count)
+            .OrderByDescending(r => r.CreatedAt)
+            .ToList();
+        result.Total = _db.Requests
+            .Where(FilterRequests(id, query))
+            .Count();
+        return View(result);
+    }
+
+    Expression<Func<Request, bool>> FilterRequests(Guid manufacturer, 
+        ListRequestParams query
+    ) {
+        return r => r.ManufacturerId == manufacturer
+            && r.DeletedAt == null;
+    }
 }

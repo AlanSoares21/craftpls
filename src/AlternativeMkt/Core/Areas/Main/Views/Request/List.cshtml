@@ -1,5 +1,8 @@
 @inject ServerConfig config
 @model List<Request>
+@{
+    ViewData["Title"] = "Requests";  
+}
 
 <section class="row justify-content-around">
     @foreach (var request in Model)

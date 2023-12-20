@@ -130,7 +130,6 @@ public class RequestController: BaseController
         return View(request);
     }
 
-    [HttpPut]
     [Authorize]
     public async Task<IActionResult> Cancel(Guid id) {
         User user = _auth.GetUser(User.Claims);
@@ -160,7 +159,6 @@ public class RequestController: BaseController
         return RedirectToAction("Show", id);
     }
 
-    [HttpPut]
     [Authorize]
     public async Task<IActionResult> Accept(Guid id) {
         User user = _auth.GetUser(User.Claims);
@@ -191,17 +189,87 @@ public class RequestController: BaseController
             );
             return View("Error", "You can not accept a cancelled request");
         }
-        request.Cancelled = _date.UtcNow();
+        if (request.Accepted is not null) {
+            _logger.LogWarning("User {user} tried accept request {id}, but the request was accepted in {d}", 
+                user.Id,
+                id,
+                request.Accepted
+            );
+            return View("Error", "You can not accept an already accepted request");
+        }
+        if (request.Refused is not null) {
+            _logger.LogWarning("User {user} tried accept request {id}, but the request was refused at {d}", 
+                user.Id,
+                id,
+                request.Refused
+            );
+            return View("Error", "You can not accept a refused request");
+        }
+        request.Accepted = _date.UtcNow();
+        request.UpdatedAt = request.Accepted;
         _db.Requests.Update(request);
         await _db.SaveChangesAsync();
-        return RedirectToAction("Requests", "Manufacturer", request.ManufacturerId);
+        return RedirectToAction("Requests", "Manufacturer", new {Id = request.ManufacturerId});
     }
 
-    [HttpPut]
+    [Authorize]
+    public async Task<IActionResult> Refuse(Guid id) {
+        User user = _auth.GetUser(User.Claims);
+        var request = _db.Requests
+            .Include(r => r.Manufacturer)
+            .Where(r => r.Id == id && r.DeletedAt == null)
+            .SingleOrDefault();
+        if (request is null) {
+            _logger.LogInformation("User {user} tried refuse request {id}, but the request is not in the database", 
+                user.Id,
+                id
+            );
+            return View("Error", "Request not found");
+        }
+        if (request.Manufacturer.Userid != user.Id) {
+            _logger.LogWarning("User {user} tried refuse request {id}, but the manufacturer is {manufacturer}", 
+                user.Id,
+                id,
+                request.ManufacturerId
+            );
+            return View("Error", "You can not refuse a request when you is not the manufacturer");
+        }
+        if (request.Cancelled is not null) {
+            _logger.LogInformation("User {user} tried refuse request {id}, but the request was cancelled in {d}", 
+                user.Id,
+                id,
+                request.Cancelled
+            );
+            return View("Error", "You can not refuse a cancelled request");
+        }
+        if (request.Accepted is not null) {
+            _logger.LogWarning("User {user} tried refuse request {id}, but the request was accepted in {d}", 
+                user.Id,
+                id,
+                request.Accepted
+            );
+            return View("Error", "You can not refuse an accepted request");
+        }
+        if (request.Refused is not null) {
+            _logger.LogWarning("User {user} tried refuse request {id}, but the request already was refused at {d}", 
+                user.Id,
+                id,
+                request.Refused
+            );
+            return View("Error", "You can not refuse a refused request");
+        }
+        request.Refused = _date.UtcNow();
+        request.UpdatedAt = request.Refused;
+        _db.Requests.Update(request);
+        await _db.SaveChangesAsync();
+        return RedirectToAction("Requests", "Manufacturer", new {Id = request.ManufacturerId});
+    }
+
     [Authorize]
     public async Task<IActionResult> Finished(Guid id) {
         User user = _auth.GetUser(User.Claims);
         var request = _db.Requests
+            .Include(r => r.Manufacturer)
             .Where(r => r.Id == id && r.DeletedAt == null)
             .SingleOrDefault();
         if (request is null) {
@@ -211,7 +279,7 @@ public class RequestController: BaseController
             );
             return View("Error", "Request not found");
         }
-        if (request.RequesterId != user.Id && request.ManufacturerId != user.Id) {
+        if (request.RequesterId != user.Id && request.Manufacturer.Userid != user.Id) {
             _logger.LogError("User {id} is not involved in request {id} but tried finish it",
                 user.Id,
                 id
@@ -219,11 +287,25 @@ public class RequestController: BaseController
             return View("Error", "You can not finish this request");
         }
         if (request.Cancelled is not null) {
-            _logger.LogError("User {id} tried to finish request {id} but the request is cancelled",
+            _logger.LogError("User {id} tried to finish request {id} but the request was cancelled",
                 user.Id,
                 id
             );
             return View("Error", "The request is cancelled");
+        }
+        if (request.Refused is not null) {
+            _logger.LogError("User {id} tried to finish request {id} but the request was refused",
+                user.Id,
+                id
+            );
+            return View("Error", "The manufacturer refused this request");
+        }
+        if (request.Accepted is null) {
+            _logger.LogError("User {id} tried to finish request {id} but the request is not accepted yet",
+                user.Id,
+                id
+            );
+            return View("Error", "The manufacturer needs accept this request");
         }
         var finishedAt = _date.UtcNow();
         request.UpdatedAt = finishedAt;
@@ -234,7 +316,10 @@ public class RequestController: BaseController
         
         _db.Requests.Update(request);
         await _db.SaveChangesAsync();
-        return RedirectToAction("Requests", "Manufacturer", id);
+        if (request.RequesterId == user.Id)
+            return RedirectToAction("List");
+
+        return RedirectToAction("Requests", "Manufacturer", new {Id = request.ManufacturerId});
     }
     
     Request? SearchUserRequest(User user, Guid requestId) {

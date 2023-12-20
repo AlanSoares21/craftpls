@@ -1,3 +1,16 @@
+@using AlternativeMkt.Api.Models
+@inject ServerConfig config
+
+@model StandardList<Request>
+
+@{
+    ViewData["Title"] = "Manufacturer Requests";
+    string timeZoneId = ""; 
+    if (!Context.Request.Cookies.TryGetValue("UserTimezoneId", out timeZoneId)) {
+        timeZoneId = "UTC";
+    }
+    TimeZoneInfo userTz = TimeZoneInfo.FindSystemTimeZoneById(timeZoneId);
+}
 <!-- 
     list open requests
         permitir aceitar ou recusar esses
@@ -5,3 +18,105 @@
         permitir finalizar
     list requests already closed
  -->
+<section
+    class="row justify-content-between"
+>
+    @foreach (var request in Model.Data)
+    {
+        <div class="col-md-5 col-sm-11 shadow p-2 mb-2">
+            <div class="row mb-2">
+                <div class="col-2">
+                    <img src="@config.AssetsUrl/@request.Item.Asset.Endpoint" />
+                </div>
+
+                <div class="col-auto">
+                    @request.Item.Name
+                </div>
+
+                <div class="col">
+                    Level: @request.Item.Level
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col-6">
+                    Requested by 
+                    <span class="badge bg-warning">@request.Requester.Name</span> 
+                    at @TimeZoneInfo.ConvertTimeFromUtc(request.CreatedAt.Value, userTz).ToString("yyyy/MM/dd HH:mm")
+                    
+                </div>
+                <div class="col-4">
+                    Craft price: @request.Price
+                </div>
+            </div>
+            
+            <div>
+            @{
+                if (request.Refused != null) {
+                    <div class="alet alert-info">You refused this request at 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.Refused.Value, userTz).ToString("yyyy/MM/dd HH:mm")
+                    </div>
+                }
+                else if (request.Cancelled != null) {
+                    <div class="alet alert-danger">Cancelled by the requester at 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.Cancelled.Value, userTz).ToString("yyyy/MM/dd HH:mm")
+                    </div>
+                }
+                else if (request.FinishedByManufacturer != null) {
+                    <div class="alet alert-warning">Waiting requester confirmation to finish this request. Finished by you at 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.FinishedByManufacturer.Value, userTz).ToString("yyyy/MM/dd HH:mm")
+                    </div>
+                }
+                else if (request.FinishedByRequester != null) {
+                    <div class="alet alert-success">Request finished at 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.FinishedByRequester.Value, userTz).ToString("yyyy/MM/dd HH:mm")
+                    </div>
+                }
+                else if (request.Accepted == null && request.Refused == null) {
+                    <a 
+                        asp-action="Accept"
+                        asp-controller="Request"
+                        asp-route-id=@request.Id
+                        class="btn btn-success"
+                    >
+                        Accept
+                    </a>
+                    <a 
+                        asp-action="Refuse"
+                        asp-controller="Request"
+                        asp-route-id=@request.Id
+                        class="btn btn-danger"
+                    >
+                        Refuse
+                    </a>
+                }
+                else if (request.Accepted != null && request.FinishedByManufacturer == null) {
+                    <div class="alet alert-info">You accepted this request at 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.Accepted.Value, userTz).ToString("yyyy/MM/dd HH:mm")
+                    </div>
+                    <a 
+                        asp-action="Finished"
+                        asp-controller="Request"
+                        asp-route-id=@request.Id
+                        class="btn btn-success"
+                    >
+                        Finish this request
+                    </a>
+                }
+            
+            }
+            </div>
+            @* <div class="col-6">
+                
+                requester can -> @request.Cancelled
+                manufacturer can -> @request.Accepted
+                manufacturer can -> @request.Refused
+                
+                @request.FinishedByManufacturer
+                @request.FinishedByRequester
+            </div>
+            <div class="col-4">
+                Craft price: @request.Price
+            </div> *@
+        </div>
+    }
+</section>

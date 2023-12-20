@@ -39,7 +39,13 @@
     <div class="row mt-2">
         <div class="col">
             <a asp-controller="Manufacturer" asp-action="" class="btn btn-primary">Manufacturer Dashboard</a>
-            <a class="btn btn-primary">Requests</a>
+            <a 
+                asp-controller="Request"
+                asp-action="List"
+                class="btn btn-primary"
+            >
+                Requests
+            </a>
             @if ((bool)ViewData["AdminAccess"]) {
                 <a class="btn btn-primary" asp-area="admin" asp-controller="Home" asp-action="">Go to admin page</a>
             }
