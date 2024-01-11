@@ -105,8 +105,8 @@ public class RequestController: BaseController
 
     [Authorize]
     public IActionResult List([FromQuery]StandardPaginationParams query) {
-        // if (query.count < 1)
-            query.count = 2;
+        if (query.count < 1)
+            query.count = 10;
         User user = _auth.GetUser(User.Claims);
         StandardList<Request> requests = new() {
             Start = query.start,

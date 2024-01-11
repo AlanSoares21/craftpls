@@ -132,7 +132,7 @@
                     </a>
                 </li>
             }
-            @if (last > 0) {
+            @if (last > 0 && Model.Total > Model.Count) {
                 <li class="page-item">
                     <a class="page-link" asp-route-start=@last>
                         Last
