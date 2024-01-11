@@ -61,14 +61,14 @@
                         @TimeZoneInfo.ConvertTimeFromUtc(request.Cancelled.Value, userTz).ToString("yyyy/MM/dd HH:mm")
                     </div>
                 }
-                else if (request.FinishedByManufacturer != null) {
-                    <div class="alet alert-warning">Waiting requester confirmation to finish this request. Finished by you at 
-                        @TimeZoneInfo.ConvertTimeFromUtc(request.FinishedByManufacturer.Value, userTz).ToString("yyyy/MM/dd HH:mm")
-                    </div>
-                }
                 else if (request.FinishedByRequester != null) {
                     <div class="alet alert-success">Request finished at 
                         @TimeZoneInfo.ConvertTimeFromUtc(request.FinishedByRequester.Value, userTz).ToString("yyyy/MM/dd HH:mm")
+                    </div>
+                }
+                else if (request.FinishedByManufacturer != null) {
+                    <div class="alet alert-warning">Waiting requester confirmation to finish this request. Finished by you at 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.FinishedByManufacturer.Value, userTz).ToString("yyyy/MM/dd HH:mm")
                     </div>
                 }
                 else if (request.Accepted == null && request.Refused == null) {

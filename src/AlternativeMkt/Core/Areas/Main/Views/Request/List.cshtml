@@ -1,11 +1,28 @@
+@using AlternativeMkt.Api.Models
 @inject ServerConfig config
-@model List<Request>
+@inject IViewLocalizer text
+
+@model StandardList<Request>
 @{
-    ViewData["Title"] = "Requests";  
+    StandardPaginationParams query = (StandardPaginationParams)ViewData["Query"];
+    ViewData["Title"] = "Requests";
+    int current = query.start / query.count + 1;
+    int next = query.start + query.count;
+    int previous = query.start - query.count;
+    if (current == 1 && previous < 0)
+        previous = 0;
+    int last = (Model.Total - Model.Count) + Model.Total % Model.Count;
+
+    string timeZoneId = ""; 
+    if (!Context.Request.Cookies.TryGetValue("UserTimezoneId", out timeZoneId)) {
+        timeZoneId = "UTC";
+    }
+    TimeZoneInfo userTz = TimeZoneInfo.FindSystemTimeZoneById(timeZoneId);
+    const string datePattern = "yyyy/MM/dd HH:mm";
 }
 
 <section class="row justify-content-around">
-    @foreach (var request in Model)
+    @foreach (var request in Model.Data)
     {
         <div class="col-md-5 col-sm-7 mb-3 shadow p-3">
             @if (request.Item.Asset != null) {
@@ -19,11 +36,116 @@
             {
                 <span class="badge bg-warning">@account.Name</span>
             }
-            <a
-                class="btn btn-primary"
-            >
-                Details
-            </a>
+            <h6>@text["RequestedAt"] 
+                @TimeZoneInfo.ConvertTimeFromUtc(request.CreatedAt.Value, userTz).ToString(datePattern)
+            </h6>
+            <div>
+            @{
+                if (request.Refused != null) {
+                    <div class="alet alert-info">@text["Refused"]
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.Refused.Value, userTz).ToString(datePattern)
+                    </div>
+                }
+                else if (request.Cancelled != null) {
+                    <div class="alet alert-danger">@text["Cancelled"]
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.Cancelled.Value, userTz).ToString(datePattern)
+                    </div>
+                }
+                else if (request.FinishedByRequester != null) {
+                    <div class="alet alert-success">@text["Finished"]
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.FinishedByRequester.Value, userTz).ToString(datePattern)
+                    </div>
+                }
+                else if (request.FinishedByManufacturer != null) {
+                    <div class="alet alert-warning mb-2">@text["FinishedByManufacturer"] 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.FinishedByManufacturer.Value, userTz).ToString(datePattern)
+                    </div>
+                    <a 
+                        asp-action="Finished"
+                        asp-controller="Request"
+                        asp-route-id=@request.Id
+                        class="btn btn-success"
+                    >
+                        @text["FinishBtn"]
+                    </a>
+                }
+                else if (request.Accepted == null && request.Refused == null) {
+                    <div class="alet alert-info mb-2">
+                        @text["WatingManufacturerAccept"]
+                    </div>
+                    <a 
+                        asp-action="Cancel"
+                        asp-controller="Request"
+                        asp-route-id=@request.Id
+                        class="btn btn-danger"
+                    >
+                        @text["CancelBtn"]
+                    </a>
+                }
+                else if (request.Accepted != null && request.FinishedByManufacturer == null) {
+                    <div class="alet alert-info">@text["ManufacturerAccepted"] 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.Accepted.Value, userTz).ToString(datePattern)
+                    </div>
+                }
+            }
+            </div>
         </div>
     }
 </section>
+<div class="row justify-content-center">
+<div class="col-md-5 col-sm-7">
+    <nav>
+        <ul class="pagination">
+            <li class="page-item">
+                <a asp-route-start="0" class="page-link">
+                    First
+                </a>
+            </li>
+            @if (current != 1) {
+                <li class="page-item">
+                        <a class="page-link" asp-route-start=@previous>
+                            Previous
+                        </a>
+                </li>
+            } else {
+                <li class="page-item disabled">
+                    <a class="page-link">
+                        Previous
+                    </a>
+                </li>
+            }
+            <li class="page-item active">
+                <a class="page-link" asp-route-start=@query.start>
+                    @current
+                </a>
+            </li>
+            @if (next <= Model.Total) {
+                <li class="page-item">
+                    <a class="page-link" asp-route-start=@next>
+                        Next
+                    </a>
+                </li>
+            } else {
+                <li class="page-item disabled">
+                    <a class="page-link">
+                        Next
+                    </a>
+                </li>
+            }
+            @if (last > 0) {
+                <li class="page-item">
+                    <a class="page-link" asp-route-start=@last>
+                        Last
+                    </a>
+                </li>
+            } else {
+                <li class="page-item disabled">
+                    <a class="page-link">
+                        Last
+                    </a>
+                </li>
+            }
+        </ul>
+    </nav>
+</div>
+</div>

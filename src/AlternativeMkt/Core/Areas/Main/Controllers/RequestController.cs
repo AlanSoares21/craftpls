@@ -1,5 +1,6 @@
 
 using System.Runtime.CompilerServices;
+using AlternativeMkt.Api.Models;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
@@ -103,9 +104,16 @@ public class RequestController: BaseController
     }
 
     [Authorize]
-    public IActionResult List() {
+    public IActionResult List([FromQuery]StandardPaginationParams query) {
+        // if (query.count < 1)
+            query.count = 2;
         User user = _auth.GetUser(User.Claims);
-        var requests = _db.Requests
+        StandardList<Request> requests = new() {
+            Start = query.start,
+            Count = query.count
+        };
+        requests.Count = query.count;
+        requests.Data = _db.Requests
             .Include(r => r.Manufacturer)
                 .ThenInclude(m => m.Server)
                     .ThenInclude(s => s.GameAccounts
@@ -115,9 +123,15 @@ public class RequestController: BaseController
                     )
             .Include(r => r.Item)
                 .ThenInclude(i => i.Asset)
+            .OrderByDescending(r => r.CreatedAt)
             .Where(r => r.RequesterId == user.Id && r.DeletedAt == null)
-            .OrderBy(r => r.CreatedAt)
+            .Skip(query.start)
+            .Take(query.count)
             .ToList();
+        requests.Total = _db.Requests
+            .Where(r => r.RequesterId == user.Id && r.DeletedAt == null)
+            .Count();
+        ViewData["Query"] = query;
         return View(requests);
     }
 
@@ -156,7 +170,7 @@ public class RequestController: BaseController
         _db.Requests.Update(request);
         await _db.SaveChangesAsync();
         
-        return RedirectToAction("Show", id);
+        return RedirectToAction("List");
     }
 
     [Authorize]
