@@ -1,5 +1,6 @@
 @using AlternativeMkt.Api.Models
 @inject ServerConfig config
+@inject IViewLocalizer text
 
 @model StandardList<Request>
 
@@ -10,6 +11,7 @@
         timeZoneId = "UTC";
     }
     TimeZoneInfo userTz = TimeZoneInfo.FindSystemTimeZoneById(timeZoneId);
+    string datePattern = "yyyy/MM/dd HH:mm";
 }
 <!-- 
     list open requests
@@ -23,58 +25,52 @@
 >
     @foreach (var request in Model.Data)
     {
-        <div class="col-md-5 col-sm-11 shadow p-2 mb-2">
-            <div class="row mb-2">
-                <div class="col-2">
-                    <img src="@config.AssetsUrl/@request.Item.Asset.Endpoint" />
-                </div>
+        <div class="col-md-5 col-sm-11 shadow p-3 mb-2">
+            @if (request.Item.Asset != null) {
+                <img src="@config.AssetsUrl/@request.Item.Asset.Endpoint" />
+            }
+            <h4>@request.Item.Name</h4>
 
-                <div class="col-auto">
-                    @request.Item.Name
-                </div>
+            <h6>Level: @request.Item.Level</h6>
 
-                <div class="col">
-                    Level: @request.Item.Level
-                </div>
-            </div>
-            <div class="row mb-2">
-                <div class="col-6">
-                    Requested by 
-                    @{
-                        if (request.Requester != null && request.Requester.GameAccounts != null)
-                            foreach (GameAccount account in request.Requester.GameAccounts.Where(g => g.ServerId == request.Manufacturer.ServerId)) 
-                            {
-                                <span class="badge bg-warning">@account.Name</span>    
-                            }
-                    }
-                    at @TimeZoneInfo.ConvertTimeFromUtc(request.CreatedAt.Value, userTz).ToString("yyyy/MM/dd HH:mm")
-                    
-                </div>
-                <div class="col-4">
-                    Craft price: @request.Price
-                </div>
-            </div>
+            <h6>Price: @request.Price</h6>
+
+            <h6>
+                @text["RequestedBy"]
+                @{
+                    if (request.Requester != null && request.Requester.GameAccounts != null)
+                        foreach (GameAccount account in request.Requester.GameAccounts.Where(g => g.ServerId == request.Manufacturer.ServerId)) 
+                        {
+                            <span class="badge bg-warning">@account.Name</span>    
+                        }
+                }
+                @text["RequestedAt"] @TimeZoneInfo.ConvertTimeFromUtc(request.CreatedAt.Value, userTz).ToString(datePattern)
+            </h6>
             
             <div>
             @{
                 if (request.Refused != null) {
-                    <div class="alet alert-info">You refused this request at 
-                        @TimeZoneInfo.ConvertTimeFromUtc(request.Refused.Value, userTz).ToString("yyyy/MM/dd HH:mm")
+                    <div class="alet alert-info">
+                        @text["Refused"] 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.Refused.Value, userTz).ToString(datePattern)
                     </div>
                 }
                 else if (request.Cancelled != null) {
-                    <div class="alet alert-danger">Cancelled by the requester at 
-                        @TimeZoneInfo.ConvertTimeFromUtc(request.Cancelled.Value, userTz).ToString("yyyy/MM/dd HH:mm")
+                    <div class="alet alert-danger">
+                        @text["Cancelled"] 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.Cancelled.Value, userTz).ToString(datePattern)
                     </div>
                 }
                 else if (request.FinishedByRequester != null) {
-                    <div class="alet alert-success">Request finished at 
-                        @TimeZoneInfo.ConvertTimeFromUtc(request.FinishedByRequester.Value, userTz).ToString("yyyy/MM/dd HH:mm")
+                    <div class="alet alert-success">
+                        @text["Finished"] 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.FinishedByRequester.Value, userTz).ToString(datePattern)
                     </div>
                 }
                 else if (request.FinishedByManufacturer != null) {
-                    <div class="alet alert-warning">Waiting requester confirmation to finish this request. Finished by you at 
-                        @TimeZoneInfo.ConvertTimeFromUtc(request.FinishedByManufacturer.Value, userTz).ToString("yyyy/MM/dd HH:mm")
+                    <div class="alet alert-warning">
+                        @text["FinishedByManufacturer"] 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.FinishedByManufacturer.Value, userTz).ToString(datePattern)
                     </div>
                 }
                 else if (request.Accepted == null && request.Refused == null) {
@@ -84,7 +80,7 @@
                         asp-route-id=@request.Id
                         class="btn btn-success"
                     >
-                        Accept
+                        @text["AcceptBtn"]
                     </a>
                     <a 
                         asp-action="Refuse"
@@ -92,12 +88,12 @@
                         asp-route-id=@request.Id
                         class="btn btn-danger"
                     >
-                        Refuse
+                        @text["RefuseBtn"]
                     </a>
                 }
                 else if (request.Accepted != null && request.FinishedByManufacturer == null) {
-                    <div class="alet alert-info">You accepted this request at 
-                        @TimeZoneInfo.ConvertTimeFromUtc(request.Accepted.Value, userTz).ToString("yyyy/MM/dd HH:mm")
+                    <div class="alet alert-info">@text["AcceptedWarning"] 
+                        @TimeZoneInfo.ConvertTimeFromUtc(request.Accepted.Value, userTz).ToString(datePattern)
                     </div>
                     <a 
                         asp-action="Finished"
@@ -105,24 +101,11 @@
                         asp-route-id=@request.Id
                         class="btn btn-success"
                     >
-                        Finish this request
+                        @text["FinishBtn"]
                     </a>
                 }
-            
             }
             </div>
-            @* <div class="col-6">
-                
-                requester can -> @request.Cancelled
-                manufacturer can -> @request.Accepted
-                manufacturer can -> @request.Refused
-                
-                @request.FinishedByManufacturer
-                @request.FinishedByRequester
-            </div>
-            <div class="col-4">
-                Craft price: @request.Price
-            </div> *@
         </div>
     }
 </section>
