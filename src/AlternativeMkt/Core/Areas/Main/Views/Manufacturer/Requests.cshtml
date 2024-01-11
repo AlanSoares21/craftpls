@@ -40,7 +40,13 @@
             <div class="row mb-2">
                 <div class="col-6">
                     Requested by 
-                    <span class="badge bg-warning">@request.Requester.Name</span> 
+                    @{
+                        if (request.Requester != null && request.Requester.GameAccounts != null)
+                            foreach (GameAccount account in request.Requester.GameAccounts.Where(g => g.ServerId == request.Manufacturer.ServerId)) 
+                            {
+                                <span class="badge bg-warning">@account.Name</span>    
+                            }
+                    }
                     at @TimeZoneInfo.ConvertTimeFromUtc(request.CreatedAt.Value, userTz).ToString("yyyy/MM/dd HH:mm")
                     
                 </div>

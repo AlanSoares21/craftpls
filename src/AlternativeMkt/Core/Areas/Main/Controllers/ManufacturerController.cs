@@ -165,9 +165,15 @@ public class ManufacturerController: BaseController
             Count = query.count
         };
         result.Data = _db.Requests
+            .Include(r => r.Manufacturer)
             .Include(r => r.Item)
                 .ThenInclude(i => i.Asset)
             .Include(r => r.Requester)
+                .ThenInclude(u => u.GameAccounts
+                    .Where(g => g.DeletedAt == null && g.User.Requests
+                        .Any(r => r.Manufacturer.ServerId == g.ServerId)
+                    )
+                )
             .Where(FilterRequests(id, query))
             .Skip(query.start)
             .Take(query.count)
