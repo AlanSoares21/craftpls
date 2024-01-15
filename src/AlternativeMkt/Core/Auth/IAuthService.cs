@@ -5,10 +5,10 @@ namespace AlternativeMkt.Auth;
 
 public interface IAuthService
 {
-    string CreateAccessToken(User user);
+    string CreateAccessToken(User user, out DateTime expiresIn);
     string CreateRefreshToken();
     Task StoreRefreshToken(Guid userId, string refreshToken);
-    Guid GetUsernameFromAccessToken(string accessToken);
+    User GetUserFromAccessToken(string accessToken);
     Task<UserAuthData> GetUserAuthenticated(Guid userId);
     User GetUser(IEnumerable<Claim> claims);
 }

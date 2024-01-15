@@ -98,7 +98,10 @@ public class AccountController: BaseController
             user = await _db.Users.SingleAsync(u => u.Email == email);
             redirectTo = Url.Action("Profile") + "";
         }
-        Response.Cookies.Append("Identifier", _auth.CreateAccessToken(user));
+        string refreshToken = _auth.CreateRefreshToken();
+        await _auth.StoreRefreshToken(user.Id, refreshToken);
+        string accessToken = _auth.CreateAccessToken(user, out DateTime expiresIn);
+        SetUserCookies(accessToken, refreshToken, expiresIn);
         return Redirect(redirectTo);
     }
 
@@ -108,6 +111,62 @@ public class AccountController: BaseController
         });
         await _db.SaveChangesAsync();
     }
+
+    public async Task<ActionResult> RefreshLogin([FromQuery] string? endpoint) {
+        if (Request.Cookies["Authenticated"] != "y")
+            return Redirect("/");
+        if (endpoint != null) {
+            if (
+                Request.Cookies.TryGetValue("Identifier", out string? accessToken) && accessToken != null &&
+                Request.Cookies.TryGetValue("Reauth", out string? refreshToken) && refreshToken != null
+            ) {
+                try {
+                    User userData = _auth.GetUserFromAccessToken(accessToken);
+                    _logger.LogTrace("Reauth user {email} ({id}) from endpoint {endpoint}", 
+                        userData.Email, 
+                        userData.Id, 
+                        endpoint
+                    );
+                    UserAuthData authData = await _auth.GetUserAuthenticated(userData.Id);
+                    if (authData.RefreshToken != refreshToken) {
+                        ViewData["ErrorMessage"] = "You can not get new access with this refresh token";
+                        return View("Error");
+                    }
+                    if (authData.RefreshTokenExpiryTime < DateTime.UtcNow) {
+                        ViewData["ErrorMessage"] = "Your session expired.";
+                        return View("Error");
+                    }
+                    string newAccessToken = _auth.CreateAccessToken(userData, out DateTime expiresIn);
+                    await _auth.StoreRefreshToken(userData.Id, refreshToken);
+                    SetUserCookies(newAccessToken, refreshToken, expiresIn);
+                    _logger.LogTrace("Redirecting user {email}({id}) to {endpoint}", 
+                        userData.Email,
+                        userData.Id,
+                        endpoint
+                    );
+                    return Redirect(endpoint);
+                }
+                catch (Exception ex) {
+                    _logger.LogError("Error while trying to re authenticate a user. Error: {message} \n {stack}",
+                        ex.Message,
+                        ex.StackTrace
+                    );
+                }
+            }
+            else
+                _logger.LogInformation("Authentication cookies not found.");
+        }
+        Response.Cookies.Append("Authenticated", "n");
+        return Redirect("/");
+    }
+
+    void SetUserCookies(string access_token, string refreshToken, DateTime accessTokenExpiresIn) {
+        Response.Cookies.Append("Identifier", access_token);
+        Response.Cookies.Append("Reauth", refreshToken);
+        Response.Cookies.Append("ExpiresIn", accessTokenExpiresIn.ToString());
+        Response.Cookies.Append("Authenticated", "y");
+    }
+
 
     [Authorize]
     public async Task<IActionResult> Profile(

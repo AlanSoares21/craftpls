@@ -33,10 +33,11 @@ public class LoginController: BaseApiController
             return NotFound(new ApiError($"User {data.email} not found"));
         if (!user.Roles.Any(r => r.RoleId == _config.DevRoleId))
             return Unauthorized(new ApiError($"User {data.email} dont have permisson to login in the api"));
-        var accessToken = _auth.CreateAccessToken(user);
+        var accessToken = _auth.CreateAccessToken(user, out DateTime expiresIn);
         return Ok(new {
             access_token = accessToken,
-            user = user
+            user,
+            expiresIn
         });
     }
 }

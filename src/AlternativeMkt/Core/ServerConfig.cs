@@ -23,6 +23,8 @@ public class ServerConfig
         _SecondsAuthTokenExpireIsEmpty() ?
         _SecondsAuthTokenExpireDefault :
         int.Parse("" + _configuration["Jwt:SecondsAuthTokenExpire"]);
+    
+    public int SecondsRefreshTokenExpire => 1800;
 
     public string AllowedOrigin => "" + _configuration["Jwt:AllowedOrigin"];
     public int AdminRoleId => int.Parse("" + _configuration["Roles:Admin"]);

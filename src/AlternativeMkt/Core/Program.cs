@@ -1,8 +1,10 @@
+using System.Net;
 using System.Security.Claims;
 using System.Text.Json.Serialization;
 using AlternativeMkt;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
+using AlternativeMkt.Middlewares;
 using AlternativeMkt.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
@@ -32,6 +34,7 @@ builder.Services.AddScoped<IPriceService, PriceService>();
 builder.Services.AddScoped<ICraftItemService, CraftItemService>();
 builder.Services.AddScoped<ServerConfig>();
 builder.Services.AddScoped<IDateTools, DateTools>();
+builder.Services.AddScoped<AuthMiddleware>();
 
 var config = new ServerConfig(builder.Configuration);
 string adminRoleId = config.AdminRoleId.ToString();
@@ -57,7 +60,6 @@ builder.Services.AddAuthorization(options => {
     });
 });
 
-
 builder.Services
     .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
@@ -73,7 +75,7 @@ builder.Services
             LifetimeValidator = (before, expires, token, parameters) => expires > DateTime.UtcNow,
             ValidIssuer = config.Issuer,
             ValidAudience = config.Audience,
-            NameClaimType = ClaimTypes.NameIdentifier
+            NameClaimType = ClaimTypes.NameIdentifier,
         };
         options.Events = new JwtBearerEvents
         {
@@ -95,6 +97,8 @@ builder.Services
     });
 
 var app = builder.Build();
+
+app.UseMiddleware<AuthMiddleware>();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

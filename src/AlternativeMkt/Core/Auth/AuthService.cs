@@ -35,24 +35,9 @@ public class AuthService: IAuthService
         UserAuthData user = new() {
             Id = userId,
             RefreshToken = refreshToken,
-            RefreshTokenExpiryTime = DateTime.Now.AddHours(1)
+            RefreshTokenExpiryTime = DateTime.UtcNow.AddSeconds(_config.SecondsRefreshTokenExpire)
         };
         await _cache.SetStringAsync(userId.ToString(), JsonSerializer.Serialize(user));
-    }
-
-    public async Task<string> NewAccessToken(User user, string refreshToken)
-    {
-        var json = await _cache.GetStringAsync(user.Id.ToString());
-        if (json is null || json.Length == 0)
-            throw new KeyNotFoundException($"Not found key ${user.Id} in the cache");
-        var userAuthData = JsonSerializer.Deserialize<UserAuthData>(json);
-        if (userAuthData is null)
-            throw new Exception($"On deserializing cache entry returned an null reference. cache entry: {json}. user: {user.Id}");
-        if (userAuthData.RefreshToken != refreshToken)
-            throw new Exception($"refresh token {userAuthData.RefreshToken} registered to user {user.Id} is different than {refreshToken}");
-        if (userAuthData.RefreshTokenExpiryTime < DateTime.UtcNow)
-            throw new SecurityTokenExpiredException($"refresh token to user {user.Id} expired {userAuthData.RefreshTokenExpiryTime}");
-        return CreateAccessToken(user);
     }
 
     public async Task<UserAuthData> GetUserAuthenticated(Guid userId)
@@ -66,7 +51,7 @@ public class AuthService: IAuthService
         return user;
     }
 
-    public string CreateAccessToken(User user)
+    public string CreateAccessToken(User user, out DateTime expiresIn)
     {
         List<Claim> claims = new() { 
             new(ClaimTypes.Sid, user.Id.ToString()),
@@ -79,15 +64,16 @@ public class AuthService: IAuthService
             foreach (var userRole in user.Roles)
                 claims.Add(new(ClaimTypes.Role, userRole.RoleId.ToString()));
         }
-        return new JwtSecurityTokenHandler().WriteToken(JwtToken(claims));
+        expiresIn = DateTime.UtcNow
+            .AddSeconds(_config.SecondsAuthTokenExpire);
+        return new JwtSecurityTokenHandler().WriteToken(JwtToken(claims, expiresIn));
     }
 
-    JwtSecurityToken JwtToken(List<Claim> claims) => new JwtSecurityToken(
+    JwtSecurityToken JwtToken(List<Claim> claims, DateTime expires) => new JwtSecurityToken(
         _config.Issuer, 
         _config.Audience, 
         claims, 
-        expires: DateTime.UtcNow
-            .AddSeconds(_config.SecondsAuthTokenExpire), 
+        expires: expires, 
         signingCredentials: GetSigningCredentials()
     );
 
@@ -99,22 +85,22 @@ public class AuthService: IAuthService
     SymmetricSecurityKey GetSecurityKey() => 
         new SymmetricSecurityKey(_config.SecretKey);
 
-    public Guid GetUsernameFromAccessToken(string accessToken)
+    public User GetUserFromAccessToken(string accessToken)
     {
         var tokenHandler = new JwtSecurityTokenHandler();
         if (!tokenHandler.CanReadToken(accessToken))
             throw new Exception($"Not possible read token {accessToken}");
-        var validationParameters = GetValidationParameters();
-        ClaimsPrincipal principal = tokenHandler.ValidateToken(
-            accessToken, 
-            validationParameters, 
-            out SecurityToken token
-        );
-        Claim? claim = principal
-            .FindFirst(c => c.Type == ClaimTypes.NameIdentifier);
-        if (claim is null)
-            throw new Exception($"{ClaimTypes.NameIdentifier} is null on token {accessToken}");
-        return Guid.Parse(claim.Value);
+        var validationParameters = new TokenValidationParameters() {
+            ValidateIssuer = true,
+            ValidateIssuerSigningKey = true,
+            ValidateAudience = true,
+            ValidAudience = _config.Audience,
+            ValidIssuer = _config.Issuer,
+            IssuerSigningKey = GetSecurityKey(),
+            RequireExpirationTime = true
+        };
+        var r = tokenHandler.ReadJwtToken(accessToken);
+        return GetUser(r.Claims);
     }
 
     TokenValidationParameters GetValidationParameters() =>
