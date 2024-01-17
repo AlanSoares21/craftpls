@@ -7,6 +7,7 @@ using AlternativeMkt.Db;
 using AlternativeMkt.Middlewares;
 using AlternativeMkt.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 
 const string CorsPolicyName = "CorsDefault";
@@ -114,6 +115,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseAuthentication();
 
 app.UseCors(CorsPolicyName);
 

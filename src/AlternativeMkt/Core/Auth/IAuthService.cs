@@ -10,5 +10,6 @@ public interface IAuthService
     Task StoreRefreshToken(Guid userId, string refreshToken);
     User GetUserFromAccessToken(string accessToken);
     Task<UserAuthData> GetUserAuthenticated(Guid userId);
+    IEnumerable<Claim> GetClaimsFromAccessToken(string accessToken);
     User GetUser(IEnumerable<Claim> claims);
 }

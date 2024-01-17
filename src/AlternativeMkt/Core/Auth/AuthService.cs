@@ -85,22 +85,18 @@ public class AuthService: IAuthService
     SymmetricSecurityKey GetSecurityKey() => 
         new SymmetricSecurityKey(_config.SecretKey);
 
-    public User GetUserFromAccessToken(string accessToken)
+    public IEnumerable<Claim> GetClaimsFromAccessToken(string accessToken)
     {
         var tokenHandler = new JwtSecurityTokenHandler();
         if (!tokenHandler.CanReadToken(accessToken))
             throw new Exception($"Not possible read token {accessToken}");
-        var validationParameters = new TokenValidationParameters() {
-            ValidateIssuer = true,
-            ValidateIssuerSigningKey = true,
-            ValidateAudience = true,
-            ValidAudience = _config.Audience,
-            ValidIssuer = _config.Issuer,
-            IssuerSigningKey = GetSecurityKey(),
-            RequireExpirationTime = true
-        };
         var r = tokenHandler.ReadJwtToken(accessToken);
-        return GetUser(r.Claims);
+        return r.Claims;
+    }
+
+    public User GetUserFromAccessToken(string accessToken)
+    {
+        return GetUser(GetClaimsFromAccessToken(accessToken));
     }
 
     TokenValidationParameters GetValidationParameters() =>
