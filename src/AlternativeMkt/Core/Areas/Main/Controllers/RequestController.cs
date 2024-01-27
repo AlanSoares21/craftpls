@@ -4,12 +4,14 @@ using AlternativeMkt.Api.Models;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace AlternativeMkt.Main.Controllers;
 
+[Authorize(JwtBearerDefaults.AuthenticationScheme)]
 public class RequestController: BaseController
 {
     MktDbContext _db;
@@ -60,8 +62,7 @@ public class RequestController: BaseController
         price.Item.Resources = resources;
         return View("Open", price);
     }
-
-    [Authorize]
+    
     public async Task<IActionResult> New([Bind("PriceId")] NewRequest requestData) {
         // pegar dados do usuario
         var user = _auth.GetUser(User.Claims);
@@ -102,8 +103,7 @@ public class RequestController: BaseController
         await _db.SaveChangesAsync();
         return RedirectToAction("List");
     }
-
-    [Authorize]
+    
     public IActionResult List([FromQuery]StandardPaginationParams query) {
         if (query.count < 1)
             query.count = 10;
@@ -134,8 +134,7 @@ public class RequestController: BaseController
         ViewData["Query"] = query;
         return View(requests);
     }
-
-    [Authorize]
+    
     public IActionResult Show(Guid id) {
         User user = _auth.GetUser(User.Claims);
         Request? request = SearchUserRequest(user, id);
@@ -144,7 +143,6 @@ public class RequestController: BaseController
         return View(request);
     }
 
-    [Authorize]
     public async Task<IActionResult> Cancel(Guid id) {
         User user = _auth.GetUser(User.Claims);
         Request? request = SearchUserRequest(user, id);
@@ -173,7 +171,6 @@ public class RequestController: BaseController
         return RedirectToAction("List");
     }
 
-    [Authorize]
     public async Task<IActionResult> Accept(Guid id) {
         User user = _auth.GetUser(User.Claims);
         var request = _db.Requests
@@ -226,7 +223,6 @@ public class RequestController: BaseController
         return RedirectToAction("Requests", "Manufacturer", new {Id = request.ManufacturerId});
     }
 
-    [Authorize]
     public async Task<IActionResult> Refuse(Guid id) {
         User user = _auth.GetUser(User.Claims);
         var request = _db.Requests
@@ -279,7 +275,6 @@ public class RequestController: BaseController
         return RedirectToAction("Requests", "Manufacturer", new {Id = request.ManufacturerId});
     }
 
-    [Authorize]
     public async Task<IActionResult> Finished(Guid id) {
         User user = _auth.GetUser(User.Claims);
         var request = _db.Requests

@@ -2,13 +2,14 @@ using System.Linq.Expressions;
 using AlternativeMkt.Api.Models;
 using AlternativeMkt.Db;
 using AlternativeMkt.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace AlternativeMkt.Api.Controllers;
 
-[Authorize]
+[Authorize(JwtBearerDefaults.AuthenticationScheme)]
 public class ItemsController: BaseApiController
 {
     MktDbContext _db;

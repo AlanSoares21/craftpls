@@ -5,13 +5,14 @@ using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
 using AlternativeMkt.Models;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace AlternativeMkt.Main.Controllers;
 
-[Authorize]
+[Authorize(JwtBearerDefaults.AuthenticationScheme)]
 public class ManufacturerController: BaseController
 {
     ILogger<ManufacturerController> _logger;

@@ -1,13 +1,14 @@
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace AlternativeMkt.Main.Controllers;
 
-[Authorize]
+[Authorize(JwtBearerDefaults.AuthenticationScheme)]
 public class GameAccountController: BaseController
 {
     readonly MktDbContext _db;

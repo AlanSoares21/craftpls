@@ -6,6 +6,7 @@ using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
 using AlternativeMkt.Models;
 using AlternativeMkt.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -13,7 +14,7 @@ using Microsoft.EntityFrameworkCore;
 namespace AlternativeMkt.Api.Controllers;
 
 
-[Authorize]
+[Authorize(JwtBearerDefaults.AuthenticationScheme)]
 public class PricesController : BaseApiController
 {
     MktDbContext _db;

@@ -51,13 +51,14 @@ builder.Services.AddCors(options => {
 
 
 builder.Services.AddAuthorization(options => {
-    options.AddPolicy("AdminAccess", policy => {
-        policy.RequireRole(adminRoleId);
-    });
     options.AddPolicy(JwtBearerDefaults.AuthenticationScheme, policy =>
     {
         policy.AddAuthenticationSchemes(JwtBearerDefaults.AuthenticationScheme);
-        policy.RequireClaim(ClaimTypes.NameIdentifier);
+        policy.RequireClaim(ClaimTypes.Sid);
+    });
+    options.AddPolicy("AdminAccess", policy => {
+        policy.AddAuthenticationSchemes("AdminAccess");
+        policy.RequireRole(adminRoleId);
     });
 });
 

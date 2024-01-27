@@ -5,6 +5,7 @@ using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
 using AlternativeMkt.Main.Models.Google;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Http.Extensions;
@@ -121,7 +122,7 @@ public class AccountController: BaseController
     }
 
 
-    [Authorize]
+    [Authorize(JwtBearerDefaults.AuthenticationScheme)]
     public async Task<IActionResult> Profile(
         [FromServices] IAuthorizationService authorizationService
     ) {
@@ -141,7 +142,7 @@ public class AccountController: BaseController
         return View(userData);
     }
 
-    [Authorize]
+    [Authorize(JwtBearerDefaults.AuthenticationScheme)]
     public IActionResult EditProfile() {
         _logger.LogInformation(
             "Edit profile of {name}", 
@@ -157,7 +158,7 @@ public class AccountController: BaseController
     }
 
     [HttpPost]
-    [Authorize]
+    [Authorize(JwtBearerDefaults.AuthenticationScheme)]
     public async Task<IActionResult> Edit([Bind("name")] EditUser data) {
         _logger.LogInformation(
             "Editing profile data of {id}", 
