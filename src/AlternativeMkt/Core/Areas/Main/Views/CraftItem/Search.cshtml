@@ -5,10 +5,12 @@
 @model StandardList<CraftItem>
 
 @{
-    ListItemsParams query = (ListItemsParams)ViewData["CraftItemQuery"];
-    double currentPage = (Model.Start + 1) / Model.Count + 1;
-    int next =  Model.Start + Model.Count;
-    int previous =  Model.Start - Model.Count;
+    ListItemsParams? query = (ListItemsParams?)ViewData["CraftItemQuery"];
+    if (query is null)
+        query = new ListItemsParams();
+    double currentPage = (query.start + 1) / query.count + 1;
+    int next =  query.start + query.count;
+    int previous =  query.start - query.count;
 }
 
 <section class="container">
