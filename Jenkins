@@ -1,0 +1,19 @@
+pipeline {
+	agent any
+	stages {
+		stage('Deploy') {
+			environment {
+				DbUser = credentials("DbUser")
+				DbPassword = credentials("DbPassword")
+				GoogleClientId = credentials("GoogleClientId")
+				GoogleSecret = credentials("GoogleSecret")
+				AssetsUrl = credentials("AssetsUrl")
+				SiteUrl = credentials("SiteUrl")
+				JwtSecret = credentials("JwtSecret")
+			}
+			steps {
+				sh './deploy.sh'
+			}
+		}
+	}
+}
