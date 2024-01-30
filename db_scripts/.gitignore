@@ -6,3 +6,4 @@ __pycache__
 data/icons
 data/icons_cache
 sameNameAndLevel.json
+get-sha/
