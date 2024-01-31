@@ -61,8 +61,10 @@ public class AuthService: IAuthService
         if (user.Name is not null)
             claims.Add(new(ClaimTypes.Name, user.Name));
         if (user.Roles.Count > 0) {
-            foreach (var userRole in user.Roles)
-                claims.Add(new(ClaimTypes.Role, userRole.RoleId.ToString()));
+            foreach (var userRole in user.Roles) {
+                if (userRole.RoleId == _config.AdminRoleId)
+                    claims.Add(new(ClaimTypes.Role, "admin"));
+            }
         }
         expiresIn = DateTime.UtcNow
             .AddSeconds(_config.SecondsAuthTokenExpire);
@@ -110,7 +112,9 @@ public class AuthService: IAuthService
         };
 
     public User GetUser(IEnumerable<Claim> claims) {
-        User user = new();
+        User user = new() {
+            Roles = new()
+        };
         foreach(var claim in claims)
         {
             if(claim.Type == ClaimTypes.Sid)
@@ -119,6 +123,8 @@ public class AuthService: IAuthService
                 user.Email = claim.Value;
             else if (claim.Type == ClaimTypes.Name)
                 user.Name = claim.Value;
+            if (claim.Type == ClaimTypes.Role && claim.Value == "admin")
+                user.Roles.Add(new() { RoleId = _config.AdminRoleId });
         }
         return user;
     }

@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace AlternativeMkt.Api.Controllers;
 
-[Authorize(Policy = "AdminAccess")]
+[Authorize(Roles = "admin")]
 public class CraftResourcesController: BaseApiController
 {
     MktDbContext _db;

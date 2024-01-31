@@ -7,7 +7,6 @@ using AlternativeMkt.Db;
 using AlternativeMkt.Middlewares;
 using AlternativeMkt.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 
 const string CorsPolicyName = "CorsDefault";
@@ -58,7 +57,7 @@ builder.Services.AddAuthorization(options => {
     });
     options.AddPolicy("AdminAccess", policy => {
         policy.AddAuthenticationSchemes("AdminAccess");
-        policy.RequireRole(adminRoleId);
+        policy.RequireRole("admin");
     });
 });
 

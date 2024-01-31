@@ -1,5 +1,6 @@
 
 using System.Globalization;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
@@ -7,7 +8,10 @@ using Microsoft.AspNetCore.Mvc.Filters;
 namespace AlternativeMkt.Admin.Controllers;
 
 [Area("admin")]
-[Authorize(Policy = "AdminAccess")]
+[Authorize(
+    AuthenticationSchemes= JwtBearerDefaults.AuthenticationScheme, 
+    Roles = "admin")
+]
 public abstract class BaseAdminController : Controller
 {
     public override void OnActionExecuting(
