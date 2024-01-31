@@ -100,7 +100,7 @@ echo "end build site image"
 # config server env variables
 
 echo "creating site config"
-echo -e "Roles:Dev=2\nRoles:Admin=1\nJwt:Secret=$JwtSecret\nJwt:SecondsAuthTokenExpire=60\nJwt:Issuer=$SiteUrl\nJwt:Audience=$SiteUrl\nJwt:AllowedOrigin=$SiteUrl\nGoogle:ClientSecret=$GoogleSecret\nGoogle:ClientId=$GoogleClientId\nClientOrigin=$SiteUrl\nConnectionStrings:MainDb=$ConnString\nPriceDashboardJs=$PriceDashboardJs\nAdminItemPageJs=$AdminItemPageJs\nAssetsUrl=$AssetsUrl" > .env.production
+echo -e "Roles:Dev=2\nRoles:Admin=1\nJwt:Secret=$JwtSecret\nJwt:SecondsAuthTokenExpire=60\nJwt:Issuer=$SiteUrl\nJwt:Audience=$SiteUrl\nJwt:AllowedOrigin=$SiteUrl\nGoogle:ClientSecret=$GoogleSecret\nGoogle:ClientId=$GoogleClientId\nClientOrigin=$SiteUrl\nConnectionStrings:MainDb=$ConnString\nPriceDashboardJs=$PriceDashboardJs\nAdminItemPageJs=$AdminItemsPageJs\nAssetsUrl=$AssetsUrl" > .env.production
 
 AltMktContainerName="altmkt-site"
 AltMktHost="altmkt"
