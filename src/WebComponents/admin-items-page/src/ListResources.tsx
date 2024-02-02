@@ -49,7 +49,10 @@ const ListResources: React.FC<IListResourcesProps> = ({
     return (<Container>
         <Row className="mb-2">
             <Col xs={2}>
-                <Image src={getAssetUrl(item.asset)} width='100%' />
+                {
+                    item.asset !== undefined &&
+                    <Image src={getAssetUrl(item.asset)} width='100%' />
+                }
             </Col>
             <Col>
                 <Row>
@@ -80,7 +83,12 @@ const ListResources: React.FC<IListResourcesProps> = ({
                 </thead>
                 <tbody>
                     {resources.map(r => (<tr key={r.id}>
-                        <td><Image src={getAssetUrl(r.resource.asset)} /></td>
+                        <td>
+                            {
+                                r.resource.asset !== undefined &&
+                                <Image src={getAssetUrl(r.resource.asset)} />
+                            }
+                        </td>
                         <td>{r.resource.name}</td>
                         <td>{r.resource.level}</td>
                         <td>{r.amount}</td>

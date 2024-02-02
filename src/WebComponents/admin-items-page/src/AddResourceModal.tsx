@@ -65,7 +65,12 @@ const AddResourceModal: React.FC<IAddResourceModalProps> = ({
                     <SelectItem itemSelected={setResource} />
                 :
                     <>
-                        <Col xs={1}><Image src={getAssetUrl(resourceSelected.asset)} /></Col>
+                        <Col xs={1}>
+                            {
+                                resourceSelected.asset !== undefined &&
+                                <Image src={getAssetUrl(resourceSelected.asset)} />
+                            }
+                        </Col>
                         <Col>
                             <Stack>
                                 <Row>

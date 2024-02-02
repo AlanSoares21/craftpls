@@ -29,14 +29,14 @@ export interface IItem {
     id: number
     name: string
     level: number
-    categoryId: number
-    category: any
-    assetId: number
+    categoryId?: number
+    category?: any
+    assetId?: number
     // prices: any[]
     resources: ICraftResource[]
     resourceFor: ICraftResource[]
     // requests: any[]
-    asset: IAsset
+    asset?: IAsset
 }
 
 export interface ICraftResource {

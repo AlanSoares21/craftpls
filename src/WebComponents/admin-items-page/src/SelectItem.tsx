@@ -62,7 +62,12 @@ const SelectItem : React.FC<ISelectItemProps> = ({
                         <tbody>
                             {items.map(i => 
                                 (<tr className='mb-2' key={i.id}>
-                                    <td><Image src={getAssetUrl(i.asset)}/></td>
+                                    <td>
+                                        {
+                                            i.asset !== undefined &&
+                                            <Image src={getAssetUrl(i.asset)}/>
+                                        }
+                                    </td>
                                     <td>{i.name}</td>
                                     <td>{i.level}</td>
                                     <td><Button variant='success' onClick={() => itemSelected(i)}>Select</Button></td>
