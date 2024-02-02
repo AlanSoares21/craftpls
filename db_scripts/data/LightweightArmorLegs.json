@@ -12,7 +12,7 @@
             "id": 666,
             "level": 1,
             "icon": 1676,
-            "name": "Beginner High Shoes",
+            "name": "Novice's High Shoes",
             "itemType": 8,
             "color": 0
         },
@@ -20,7 +20,7 @@
             "id": 679,
             "level": 1,
             "icon": 1692,
-            "name": "Beginner High Shoes",
+            "name": "Novice's High Shoes",
             "itemType": 8,
             "color": 0
         },
@@ -52,7 +52,7 @@
             "id": 892,
             "level": 5,
             "icon": 1713,
-            "name": "Plain Boots",
+            "name": "Plain High Boots",
             "itemType": 8,
             "color": 1
         },
@@ -60,7 +60,7 @@
             "id": 893,
             "level": 5,
             "icon": 1728,
-            "name": "Coarse Boots",
+            "name": "Coarse High Boots",
             "itemType": 8,
             "color": 1
         },
@@ -92,7 +92,7 @@
             "id": 988,
             "level": 10,
             "icon": 1716,
-            "name": "Boots of Fighter",
+            "name": "Fighter's High Boots",
             "itemType": 8,
             "color": 2
         },
@@ -100,7 +100,7 @@
             "id": 1038,
             "level": 9,
             "icon": 1719,
-            "name": "Leather Shoes of Hunter",
+            "name": "Hunter's Leather Boots",
             "itemType": 8,
             "color": 3
         },
@@ -108,7 +108,7 @@
             "id": 1039,
             "level": 9,
             "icon": 1713,
-            "name": "Leather Shoes of Guardian",
+            "name": "Guardian's Leather Boots",
             "itemType": 8,
             "color": 3
         },
@@ -148,7 +148,7 @@
             "id": 2140,
             "level": 14,
             "icon": 1676,
-            "name": "Good-looking High Boots",
+            "name": "Good-Looking High Boots",
             "itemType": 8,
             "color": 0
         },
@@ -172,7 +172,7 @@
             "id": 2266,
             "level": 15,
             "icon": 1704,
-            "name": "Polished boots",
+            "name": "Polished High Boots",
             "itemType": 8,
             "color": 2
         },
@@ -180,7 +180,7 @@
             "id": 2310,
             "level": 15,
             "icon": 1713,
-            "name": "High Boots of Berengar's shadow",
+            "name": "High Boots of Berengar's Shadow",
             "itemType": 8,
             "color": 4
         },
@@ -292,7 +292,7 @@
             "id": 5787,
             "level": 6,
             "icon": 1725,
-            "name": "High Boots of Beginner Gladiator",
+            "name": "High Boots of Novice Gladiator",
             "itemType": 8,
             "color": 3
         },
@@ -332,7 +332,7 @@
             "id": 6426,
             "level": 17,
             "icon": 1684,
-            "name": "Star Pilgrim's High Boots",
+            "name": "High Boots of Star Pilgrims",
             "itemType": 8,
             "color": 3
         },
@@ -340,7 +340,7 @@
             "id": 6430,
             "level": 17,
             "icon": 1684,
-            "name": "Star Pilgrim's Mocassins",
+            "name": "Mocassins of Star Pilgrims",
             "itemType": 8,
             "color": 3
         },
@@ -348,7 +348,7 @@
             "id": 6484,
             "level": 18,
             "icon": 1704,
-            "name": "Killing Whisper Mocassins",
+            "name": "Killing Whisper Moccasins",
             "itemType": 8,
             "color": 4
         },
@@ -420,7 +420,7 @@
             "id": 14674,
             "level": 13,
             "icon": 1692,
-            "name": "Tough Leather Mocassins",
+            "name": "Tough Leather Moccasins",
             "itemType": 8,
             "color": 1
         },
@@ -508,7 +508,7 @@
             "id": 14996,
             "level": 19,
             "icon": 1728,
-            "name": "Provocator's High Boots",
+            "name": "Instigator's High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -572,7 +572,7 @@
             "id": 16963,
             "level": 21,
             "icon": 3270,
-            "name": "Boots of the Lord of Borea",
+            "name": "High Boots of the Lord of Borea",
             "itemType": 8,
             "color": 4
         },
@@ -580,7 +580,7 @@
             "id": 17252,
             "level": 21,
             "icon": 1716,
-            "name": "Boots of the Elusive One",
+            "name": "High Boots of the Elusive One",
             "itemType": 8,
             "color": 3
         },
@@ -596,7 +596,7 @@
             "id": 17639,
             "level": 6,
             "icon": 3360,
-            "name": "Boots of Greatness",
+            "name": "High Boots of Greatness",
             "itemType": 8,
             "color": 4
         },
@@ -604,7 +604,7 @@
             "id": 17643,
             "level": 10,
             "icon": 3360,
-            "name": "Boots of Greatness",
+            "name": "High Boots of Greatness",
             "itemType": 8,
             "color": 4
         },
@@ -612,7 +612,7 @@
             "id": 17647,
             "level": 14,
             "icon": 3360,
-            "name": "Boots of Greatness",
+            "name": "High Boots of Greatness",
             "itemType": 8,
             "color": 4
         },
@@ -620,7 +620,7 @@
             "id": 17651,
             "level": 16,
             "icon": 3360,
-            "name": "Boots of Greatness",
+            "name": "High Boots of Greatness",
             "itemType": 8,
             "color": 4
         },
@@ -628,7 +628,7 @@
             "id": 17655,
             "level": 18,
             "icon": 3360,
-            "name": "Boots of Greatness",
+            "name": "High Boots of Greatness",
             "itemType": 8,
             "color": 4
         },
@@ -636,7 +636,7 @@
             "id": 17659,
             "level": 20,
             "icon": 3360,
-            "name": "Boots of Greatness",
+            "name": "High Boots of Greatness",
             "itemType": 8,
             "color": 4
         },
@@ -644,7 +644,7 @@
             "id": 17663,
             "level": 22,
             "icon": 3360,
-            "name": "Boots of Greatness",
+            "name": "High Boots of Greatness",
             "itemType": 8,
             "color": 4
         },
@@ -652,7 +652,7 @@
             "id": 17667,
             "level": 24,
             "icon": 3360,
-            "name": "Boots of Greatness",
+            "name": "High Boots of Greatness",
             "itemType": 8,
             "color": 4
         },
@@ -660,7 +660,7 @@
             "id": 17671,
             "level": 26,
             "icon": 3360,
-            "name": "Boots of Greatness",
+            "name": "High Boots of Greatness",
             "itemType": 8,
             "color": 4
         },
@@ -716,7 +716,7 @@
             "id": 18445,
             "level": 10,
             "icon": 3512,
-            "name": "Eternal Life Boots",
+            "name": "High Boots of Eternal Life",
             "itemType": 8,
             "color": 3
         },
@@ -732,7 +732,7 @@
             "id": 18453,
             "level": 14,
             "icon": 3512,
-            "name": "Iron Health Boots",
+            "name": "High Boots of Iron Health",
             "itemType": 8,
             "color": 3
         },
@@ -764,7 +764,7 @@
             "id": 18469,
             "level": 22,
             "icon": 3512,
-            "name": "Infinite Reliability High Boots",
+            "name": "High Boots of Infinite Reliability",
             "itemType": 8,
             "color": 3
         },
@@ -836,7 +836,7 @@
             "id": 18504,
             "level": 12,
             "icon": 1713,
-            "name": "Excellent Boots",
+            "name": "Excellent High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -860,7 +860,7 @@
             "id": 18520,
             "level": 22,
             "icon": 1716,
-            "name": "Divine Protection High Boots",
+            "name": "High Boots of Divine Protection",
             "itemType": 8,
             "color": 3
         },
@@ -900,7 +900,7 @@
             "id": 19215,
             "level": 23,
             "icon": 1725,
-            "name": "Boots of the Tree Guard",
+            "name": "High Shoes of the Tree Guard",
             "itemType": 8,
             "color": 3
         },
@@ -908,7 +908,7 @@
             "id": 19231,
             "level": 25,
             "icon": 1725,
-            "name": "Shoes of the Soldier Mechanic",
+            "name": "High Shoes of the Soldier Mechanic",
             "itemType": 8,
             "color": 3
         },
@@ -996,7 +996,7 @@
             "id": 22218,
             "level": 6,
             "icon": 4219,
-            "name": "Winter High Shoes of Iceman",
+            "name": "Iceman's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -1004,7 +1004,7 @@
             "id": 22219,
             "level": 6,
             "icon": 4219,
-            "name": "Winter High Boots of Iceman",
+            "name": "Iceman's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1012,7 +1012,7 @@
             "id": 22242,
             "level": 10,
             "icon": 4219,
-            "name": "Winter High Shoes of Ragnar",
+            "name": "Ragnar's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -1020,7 +1020,7 @@
             "id": 22243,
             "level": 10,
             "icon": 4219,
-            "name": "Winter High Boots of Ragnar",
+            "name": "Ragnar's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1028,7 +1028,7 @@
             "id": 22266,
             "level": 12,
             "icon": 4219,
-            "name": "Winter High Shoes of Frosty Fang",
+            "name": "Frosty Fang's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -1036,7 +1036,7 @@
             "id": 22267,
             "level": 12,
             "icon": 4219,
-            "name": "Winter High Boots of Frosty Fang",
+            "name": "Frosty Fang's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1044,7 +1044,7 @@
             "id": 22290,
             "level": 14,
             "icon": 4219,
-            "name": "Winter High Shoes of Mastodon",
+            "name": "Mastodon's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -1052,7 +1052,7 @@
             "id": 22291,
             "level": 14,
             "icon": 4219,
-            "name": "Winter High Boots of Mastodon",
+            "name": "Mastodon's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1060,7 +1060,7 @@
             "id": 22332,
             "level": 18,
             "icon": 4219,
-            "name": "Winter High Shoes of Kerula",
+            "name": "Kerula's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -1068,7 +1068,7 @@
             "id": 22333,
             "level": 18,
             "icon": 4219,
-            "name": "Winter High Boots of Kerula",
+            "name": "Kerula's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1076,7 +1076,7 @@
             "id": 22338,
             "level": 16,
             "icon": 4219,
-            "name": "Winter High Shoes of Taron",
+            "name": "Taron's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -1084,7 +1084,7 @@
             "id": 22339,
             "level": 16,
             "icon": 4219,
-            "name": "Winter High Boots of Taron",
+            "name": "Taron's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1092,7 +1092,7 @@
             "id": 22362,
             "level": 20,
             "icon": 4219,
-            "name": "Winter High Shoes of Gimir",
+            "name": "Gimir's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -1100,7 +1100,7 @@
             "id": 22363,
             "level": 20,
             "icon": 4219,
-            "name": "Winter High Boots of Gimir",
+            "name": "Gimir's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1108,7 +1108,7 @@
             "id": 22386,
             "level": 22,
             "icon": 4219,
-            "name": "Winter High Shoes of Flavius",
+            "name": "Flavius's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -1116,7 +1116,7 @@
             "id": 22387,
             "level": 22,
             "icon": 4219,
-            "name": "Winter High Boots of Flavius",
+            "name": "Flavius's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1124,7 +1124,7 @@
             "id": 22410,
             "level": 24,
             "icon": 4219,
-            "name": "Winter High Shoes of Ruberius",
+            "name": "Ruberius's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -1132,7 +1132,7 @@
             "id": 22411,
             "level": 24,
             "icon": 4219,
-            "name": "Winter High Boots of Ruberius",
+            "name": "Ruberius's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1140,7 +1140,7 @@
             "id": 22434,
             "level": 26,
             "icon": 4219,
-            "name": "Winter High Shoes of Mortis",
+            "name": "Mortis's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -1148,7 +1148,7 @@
             "id": 22435,
             "level": 26,
             "icon": 4219,
-            "name": "Winter High Boots of Mortis",
+            "name": "Mortis's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1156,7 +1156,7 @@
             "id": 23320,
             "level": 20,
             "icon": 4453,
-            "name": "Boots of Warriors of the Sacred Forest",
+            "name": "High Boots of Sacred Forest Warriors",
             "itemType": 8,
             "color": 4
         },
@@ -1164,7 +1164,7 @@
             "id": 23324,
             "level": 20,
             "icon": 4452,
-            "name": "High Shoes of Warriors of the Dominant Coalition",
+            "name": "High Shoes of Dominant Coalition Warriors",
             "itemType": 8,
             "color": 4
         },
@@ -1172,7 +1172,7 @@
             "id": 23328,
             "level": 22,
             "icon": 4453,
-            "name": "Boots of Warriors of the Pyramid Valley",
+            "name": "High Boots of Pyramid Valley Warriors",
             "itemType": 8,
             "color": 4
         },
@@ -1180,7 +1180,7 @@
             "id": 23332,
             "level": 22,
             "icon": 4452,
-            "name": "High Shoes of Warriors of the Mighty Alliance",
+            "name": "High Shoes of Mighty Alliance Warriors",
             "itemType": 8,
             "color": 4
         },
@@ -1188,7 +1188,7 @@
             "id": 23336,
             "level": 24,
             "icon": 4453,
-            "name": "Boots of Warriors of the Black Oak Forest",
+            "name": "High Boots of Black Oak Forest Warriors",
             "itemType": 8,
             "color": 4
         },
@@ -1196,7 +1196,7 @@
             "id": 23340,
             "level": 24,
             "icon": 4452,
-            "name": "High Shoes of Warriors of the Legendary Brotherhood",
+            "name": "High Shoes of Legendary Brotherhood Warriors",
             "itemType": 8,
             "color": 4
         },
@@ -1204,7 +1204,7 @@
             "id": 23344,
             "level": 26,
             "icon": 4453,
-            "name": "Boots of Warriors of the Flying Islands",
+            "name": "High Boots of Flying Islands Warriors",
             "itemType": 8,
             "color": 4
         },
@@ -1212,7 +1212,7 @@
             "id": 23348,
             "level": 26,
             "icon": 4452,
-            "name": "High Shoes of Warriors of the Immortal Order",
+            "name": "High Shoes of Immortal Order Warriors",
             "itemType": 8,
             "color": 4
         },
@@ -1220,7 +1220,7 @@
             "id": 23503,
             "level": 25,
             "icon": 1719,
-            "name": "Boots of the Forest Warriors",
+            "name": "High Boots of the Forest Warriors",
             "itemType": 8,
             "color": 3
         },
@@ -1228,7 +1228,7 @@
             "id": 23532,
             "level": 27,
             "icon": 1725,
-            "name": "Boots of the Engineer Warrior",
+            "name": "High Boots of the Engineer Warrior",
             "itemType": 8,
             "color": 3
         },
@@ -1332,7 +1332,7 @@
             "id": 23872,
             "level": 28,
             "icon": 3360,
-            "name": "Boots of Greatness",
+            "name": "High Boots of Greatness",
             "itemType": 8,
             "color": 4
         },
@@ -1364,7 +1364,7 @@
             "id": 24174,
             "level": 16,
             "icon": 4579,
-            "name": "Tricks of Red-haired Chuck",
+            "name": "Tricks of Red-Haired Chuck",
             "itemType": 8,
             "color": 3
         },
@@ -1372,7 +1372,7 @@
             "id": 24176,
             "level": 20,
             "icon": 4579,
-            "name": "Tricks of Red-haired Chuck",
+            "name": "Tricks of Red-Haired Chuck",
             "itemType": 8,
             "color": 3
         },
@@ -1380,7 +1380,7 @@
             "id": 24178,
             "level": 28,
             "icon": 4579,
-            "name": "Tricks of Red-haired Chuck",
+            "name": "Tricks of Red-Haired Chuck",
             "itemType": 8,
             "color": 3
         },
@@ -1428,7 +1428,7 @@
             "id": 24239,
             "level": 14,
             "icon": 4579,
-            "name": "Tricks of Red-haired Chuck",
+            "name": "Tricks of Red-Haired Chuck",
             "itemType": 8,
             "color": 3
         },
@@ -1436,7 +1436,7 @@
             "id": 24240,
             "level": 18,
             "icon": 4579,
-            "name": "Tricks of Red-haired Chuck",
+            "name": "Tricks of Red-Haired Chuck",
             "itemType": 8,
             "color": 3
         },
@@ -1444,7 +1444,7 @@
             "id": 24241,
             "level": 22,
             "icon": 4579,
-            "name": "Tricks of Red-haired Chuck",
+            "name": "Tricks of Red-Haired Chuck",
             "itemType": 8,
             "color": 3
         },
@@ -1452,7 +1452,7 @@
             "id": 24242,
             "level": 24,
             "icon": 4579,
-            "name": "Tricks of Red-haired Chuck",
+            "name": "Tricks of Red-Haired Chuck",
             "itemType": 8,
             "color": 3
         },
@@ -1460,7 +1460,7 @@
             "id": 24243,
             "level": 26,
             "icon": 4579,
-            "name": "Tricks of Red-haired Chuck",
+            "name": "Tricks of Red-Haired Chuck",
             "itemType": 8,
             "color": 3
         },
@@ -1468,7 +1468,7 @@
             "id": 24415,
             "level": 28,
             "icon": 4219,
-            "name": "Winter Boots of the Snow General",
+            "name": "Snow General's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -1476,7 +1476,7 @@
             "id": 24419,
             "level": 28,
             "icon": 4219,
-            "name": "Winter High Boots of the Snow General",
+            "name": "Snow General's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1492,7 +1492,7 @@
             "id": 24457,
             "level": 10,
             "icon": 4624,
-            "name": "All-Destroying Boots of Ragnar",
+            "name": "Ragnar's Devastating High Shoes",
             "itemType": 8,
             "color": 4
         },
@@ -1500,7 +1500,7 @@
             "id": 24461,
             "level": 10,
             "icon": 4624,
-            "name": "Unmatched High Boots of Ragnar",
+            "name": "Ragnar's Unmatched High Boots",
             "itemType": 8,
             "color": 4
         },
@@ -1508,7 +1508,7 @@
             "id": 24569,
             "level": 12,
             "icon": 4624,
-            "name": "All-Destroying Boots of Frosty Fang",
+            "name": "Frosty Fang's Devastating High Shoes",
             "itemType": 8,
             "color": 4
         },
@@ -1516,7 +1516,7 @@
             "id": 24570,
             "level": 14,
             "icon": 4624,
-            "name": "All-Destroying Boots of Mastodon",
+            "name": "Mastodon's Devastating High Shoes",
             "itemType": 8,
             "color": 4
         },
@@ -1524,7 +1524,7 @@
             "id": 24571,
             "level": 16,
             "icon": 4624,
-            "name": "All-Destroying Boots of Taron",
+            "name": "Taron's Devastating High Shoes",
             "itemType": 8,
             "color": 4
         },
@@ -1532,7 +1532,7 @@
             "id": 24572,
             "level": 18,
             "icon": 4624,
-            "name": "All-Destroying Boots of Kerula",
+            "name": "Kerula's Devastating High Shoes",
             "itemType": 8,
             "color": 4
         },
@@ -1540,7 +1540,7 @@
             "id": 24573,
             "level": 20,
             "icon": 4624,
-            "name": "All-Destroying Boots of Gimir",
+            "name": "Gimir's Devastating High Shoes",
             "itemType": 8,
             "color": 4
         },
@@ -1548,7 +1548,7 @@
             "id": 24574,
             "level": 22,
             "icon": 4624,
-            "name": "All-Destroying Boots of Flavius",
+            "name": "Flavius's Devastating High Shoes",
             "itemType": 8,
             "color": 4
         },
@@ -1556,7 +1556,7 @@
             "id": 24575,
             "level": 24,
             "icon": 4624,
-            "name": "All-Destroying Boots of Ruberius",
+            "name": "Ruberius's Devastating High Shoes",
             "itemType": 8,
             "color": 4
         },
@@ -1564,7 +1564,7 @@
             "id": 24576,
             "level": 26,
             "icon": 4624,
-            "name": "All-Destroying Boots of Mortis",
+            "name": "Mortis's Devastating High Shoes",
             "itemType": 8,
             "color": 4
         },
@@ -1572,7 +1572,7 @@
             "id": 24577,
             "level": 28,
             "icon": 4624,
-            "name": "All-Destroying Boots of the Snow General",
+            "name": "Snow General's Devastating High Shoes",
             "itemType": 8,
             "color": 4
         },
@@ -1580,7 +1580,7 @@
             "id": 24605,
             "level": 12,
             "icon": 4624,
-            "name": "Unsurpassed High Boots of Frosty Fang",
+            "name": "Frosty Fang's Unsurpassed High Boots",
             "itemType": 8,
             "color": 4
         },
@@ -1588,7 +1588,7 @@
             "id": 24606,
             "level": 14,
             "icon": 4624,
-            "name": "Unsurpassed High Boots of Mastodon",
+            "name": "Mastodon's Unsurpassed High Boots",
             "itemType": 8,
             "color": 4
         },
@@ -1596,7 +1596,7 @@
             "id": 24607,
             "level": 16,
             "icon": 4624,
-            "name": "Unsurpassed High Boots of Taron",
+            "name": "Taron's Unsurpassed High Boots",
             "itemType": 8,
             "color": 4
         },
@@ -1604,7 +1604,7 @@
             "id": 24608,
             "level": 18,
             "icon": 4624,
-            "name": "Unsurpassed High Boots of Kerula",
+            "name": "Kerula's Unsurpassed High Boots",
             "itemType": 8,
             "color": 4
         },
@@ -1612,7 +1612,7 @@
             "id": 24609,
             "level": 20,
             "icon": 4624,
-            "name": "Unsurpassed High Boots of Gimir",
+            "name": "Gimir's Unsurpassed High Boots",
             "itemType": 8,
             "color": 4
         },
@@ -1620,7 +1620,7 @@
             "id": 24610,
             "level": 22,
             "icon": 4624,
-            "name": "Unsurpassed High Boots of Flavius",
+            "name": "Flavius's Unsurpassed High Boots",
             "itemType": 8,
             "color": 4
         },
@@ -1628,7 +1628,7 @@
             "id": 24611,
             "level": 24,
             "icon": 4624,
-            "name": "Unsurpassed High Boots of Ruberius",
+            "name": "Ruberius's Unsurpassed High Boots",
             "itemType": 8,
             "color": 4
         },
@@ -1636,7 +1636,7 @@
             "id": 24612,
             "level": 26,
             "icon": 4624,
-            "name": "Unsurpassed High Boots of Mortis",
+            "name": "Mortis's Unsurpassed High Boots",
             "itemType": 8,
             "color": 4
         },
@@ -1644,7 +1644,7 @@
             "id": 24613,
             "level": 28,
             "icon": 4624,
-            "name": "Unsurpassed High Boots of the Snow General",
+            "name": "Snow General's Unsurpassed High Boots",
             "itemType": 8,
             "color": 4
         },
@@ -1676,7 +1676,7 @@
             "id": 25926,
             "level": 20,
             "icon": 4452,
-            "name": "High Shoes of Assassins of the Dominant Coalition",
+            "name": "High Shoes of Dominant Coalition Assassins",
             "itemType": 8,
             "color": 4
         },
@@ -1684,7 +1684,7 @@
             "id": 25930,
             "level": 22,
             "icon": 4452,
-            "name": "High Shoes of Assassins of the Mighty Alliance",
+            "name": "High Shoes of Mighty Alliance Assassins",
             "itemType": 8,
             "color": 4
         },
@@ -1692,7 +1692,7 @@
             "id": 25934,
             "level": 24,
             "icon": 4452,
-            "name": "High Shoes of Assassins of the Legendary Brotherhood",
+            "name": "High Shoes of Legendary Brotherhood Assassins",
             "itemType": 8,
             "color": 4
         },
@@ -1700,7 +1700,7 @@
             "id": 25938,
             "level": 26,
             "icon": 4452,
-            "name": "High Shoes of Assassins of the Immortal Order",
+            "name": "High Shoes of Immortal Order Assassins",
             "itemType": 8,
             "color": 4
         },
@@ -1740,7 +1740,7 @@
             "id": 26512,
             "level": 29,
             "icon": 1716,
-            "name": "High Boots of the Legendary Assassin",
+            "name": "High Boots of Legendary Assassin",
             "itemType": 8,
             "color": 3
         },
@@ -1748,7 +1748,7 @@
             "id": 26513,
             "level": 29,
             "icon": 1716,
-            "name": "High Shoes of the Legendary Assassin",
+            "name": "High Shoes of Legendary Assassin",
             "itemType": 8,
             "color": 3
         },
@@ -1764,7 +1764,7 @@
             "id": 27178,
             "level": 30,
             "icon": 4579,
-            "name": "Tricks of Red-haired Chuck",
+            "name": "Tricks of Red-Haired Chuck",
             "itemType": 8,
             "color": 3
         },
@@ -1772,7 +1772,7 @@
             "id": 27961,
             "level": 30,
             "icon": 4219,
-            "name": "Winter High Shoes of Chernobog",
+            "name": "Chernobog's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -1780,7 +1780,7 @@
             "id": 27965,
             "level": 30,
             "icon": 4219,
-            "name": "Winter High Boots of Chernobog",
+            "name": "Chernobog's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1868,7 +1868,7 @@
             "id": 28118,
             "level": 30,
             "icon": 4624,
-            "name": "All-Destroying Boots of Chernobog",
+            "name": "Chernobog's Devastating High Shoes",
             "itemType": 8,
             "color": 4
         },
@@ -1876,7 +1876,7 @@
             "id": 28122,
             "level": 30,
             "icon": 4624,
-            "name": "Unsurpassed High Boots of Chernobog",
+            "name": "Chernobog's Unsurpassed High Boots",
             "itemType": 8,
             "color": 4
         },
@@ -1884,7 +1884,7 @@
             "id": 28337,
             "level": 30,
             "icon": 3360,
-            "name": "Boots of Greatness",
+            "name": "High Boots of Greatness",
             "itemType": 8,
             "color": 4
         },
@@ -1940,7 +1940,7 @@
             "id": 29492,
             "level": 20,
             "icon": 4453,
-            "name": "Boots of Assassins of the Sacred Forest",
+            "name": "High Boots of Sacred Forest Assassins",
             "itemType": 8,
             "color": 4
         },
@@ -1948,7 +1948,7 @@
             "id": 29496,
             "level": 22,
             "icon": 4453,
-            "name": "Boots of Assassins of the Pyramid Valley",
+            "name": "High Boots of Pyramid Valley Assassins",
             "itemType": 8,
             "color": 4
         },
@@ -1956,7 +1956,7 @@
             "id": 29500,
             "level": 24,
             "icon": 4453,
-            "name": "Boots of Assassins of the Black Oak Forest",
+            "name": "High Boots of Black Oak Forest Assassins",
             "itemType": 8,
             "color": 4
         },
@@ -1964,7 +1964,7 @@
             "id": 29504,
             "level": 26,
             "icon": 4453,
-            "name": "Boots of Assassins of the Flying Islands",
+            "name": "High Boots of Flying Islands Assassins",
             "itemType": 8,
             "color": 4
         },
@@ -1972,7 +1972,7 @@
             "id": 29508,
             "level": 28,
             "icon": 4453,
-            "name": "Boots of Assassins of the Ship Graveyard",
+            "name": "High Boots of Ship Graveyard Assassins",
             "itemType": 8,
             "color": 4
         },
@@ -1980,7 +1980,7 @@
             "id": 29512,
             "level": 28,
             "icon": 4453,
-            "name": "Boots of Warriors of the Ship Graveyard",
+            "name": "High Boots of Ship Graveyard Warriors",
             "itemType": 8,
             "color": 4
         },
@@ -1988,7 +1988,7 @@
             "id": 29516,
             "level": 28,
             "icon": 4452,
-            "name": "High Shoes of Warriors of the Imperious Clan",
+            "name": "High Shoes of Imperious Clan Warriors",
             "itemType": 8,
             "color": 4
         },
@@ -1996,7 +1996,7 @@
             "id": 29520,
             "level": 28,
             "icon": 4452,
-            "name": "High Shoes of Assassins of the Imperious Clan",
+            "name": "High Shoes of Imperious Clan Assassins",
             "itemType": 8,
             "color": 4
         },
@@ -2004,7 +2004,7 @@
             "id": 29746,
             "level": 7,
             "icon": 1719,
-            "name": "High Boots of Recruit",
+            "name": "Recruit's High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -2012,7 +2012,7 @@
             "id": 29751,
             "level": 7,
             "icon": 1713,
-            "name": "High Shoes of Recruit",
+            "name": "Recruit's High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -2020,7 +2020,7 @@
             "id": 29756,
             "level": 11,
             "icon": 1719,
-            "name": "High Boots of Mercenary",
+            "name": "Hireling's High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -2028,7 +2028,7 @@
             "id": 29761,
             "level": 11,
             "icon": 1713,
-            "name": "High Shoes of Mercenary",
+            "name": "Hireling's High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -2036,7 +2036,7 @@
             "id": 32050,
             "level": 30,
             "icon": 4453,
-            "name": "High Boots of the Warriors of the Pirate Archipelago",
+            "name": "High Boots of Pirate Archipelago Warriors",
             "itemType": 8,
             "color": 4
         },
@@ -2044,7 +2044,7 @@
             "id": 32054,
             "level": 30,
             "icon": 4453,
-            "name": "High Boots of the Assassins of the Pirate Archipelago",
+            "name": "High Boots of Pirate Archipelago Assassins",
             "itemType": 8,
             "color": 4
         },
@@ -2052,7 +2052,7 @@
             "id": 32058,
             "level": 30,
             "icon": 4452,
-            "name": "Boots of the Warriors of the Unbreakable Alliance",
+            "name": "High Shoes of Unbreakable Alliance Warriors",
             "itemType": 8,
             "color": 4
         },
@@ -2060,7 +2060,7 @@
             "id": 32062,
             "level": 30,
             "icon": 4452,
-            "name": "Boots of the Assassins of the Unbreakable Alliance",
+            "name": "High Shoes of Unbreakable Alliance Assassins",
             "itemType": 8,
             "color": 4
         },
@@ -2188,7 +2188,7 @@
             "id": 33277,
             "level": 32,
             "icon": 4579,
-            "name": "Tricks of Red-haired Chuck",
+            "name": "Tricks of Red-Haired Chuck",
             "itemType": 8,
             "color": 3
         },
@@ -2196,7 +2196,7 @@
             "id": 33856,
             "level": 32,
             "icon": 4219,
-            "name": "Winter High Shoes of Titan",
+            "name": "Titan's Winter High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -2204,7 +2204,7 @@
             "id": 33860,
             "level": 32,
             "icon": 4219,
-            "name": "Winter High Boots of Titan",
+            "name": "Titan's Winter High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -2228,7 +2228,7 @@
             "id": 33904,
             "level": 32,
             "icon": 4624,
-            "name": "All-Destroying Boots of Titan",
+            "name": "Titan's Devastating High Shoes",
             "itemType": 8,
             "color": 4
         },
@@ -2236,7 +2236,7 @@
             "id": 33908,
             "level": 32,
             "icon": 4624,
-            "name": "Unmatched High Boots of Titan",
+            "name": "Titan's Unmatched High Boots",
             "itemType": 8,
             "color": 4
         },
@@ -2260,7 +2260,7 @@
             "id": 34497,
             "level": 32,
             "icon": 3512,
-            "name": "High Boots of the Ominous Requiem",
+            "name": "High Boots of Ominous Requiem",
             "itemType": 8,
             "color": 3
         },
@@ -2284,7 +2284,7 @@
             "id": 34953,
             "level": 32,
             "icon": 3360,
-            "name": "Boots of Greatness",
+            "name": "High Boots of Greatness",
             "itemType": 8,
             "color": 4
         },
@@ -2300,7 +2300,7 @@
             "id": 35100,
             "level": 22,
             "icon": 6180,
-            "name": "Boots of the Guards of the Forest\u2019s Heart",
+            "name": "High Boots of Guards of Forest\u2019s Heart",
             "itemType": 8,
             "color": 4
         },
@@ -2308,7 +2308,7 @@
             "id": 35104,
             "level": 24,
             "icon": 6180,
-            "name": "Boots of the Guards of the Jaguar\u2019s Den",
+            "name": "High Boots of Guards of Jaguar\u2019s Den",
             "itemType": 8,
             "color": 4
         },
@@ -2316,7 +2316,7 @@
             "id": 35108,
             "level": 26,
             "icon": 6180,
-            "name": "Boots of the Guards of the Dragon Ness",
+            "name": "High Boots of Guards of Dragon Ness",
             "itemType": 8,
             "color": 4
         },
@@ -2324,7 +2324,7 @@
             "id": 35112,
             "level": 28,
             "icon": 6180,
-            "name": "Boots of the Guards of the Sky Sanctuary",
+            "name": "High Boots of Sky Sanctuary Guards",
             "itemType": 8,
             "color": 4
         },
@@ -2332,7 +2332,7 @@
             "id": 35116,
             "level": 30,
             "icon": 6180,
-            "name": "Boots of the Guards of the Sea Turtle",
+            "name": "High Boots of Guards of Sea Turtle",
             "itemType": 8,
             "color": 4
         },
@@ -2340,7 +2340,7 @@
             "id": 35149,
             "level": 32,
             "icon": 5799,
-            "name": "Enchanted Boots of Eternity",
+            "name": "Enchanted High Boots of Eternity",
             "itemType": 8,
             "color": 4
         },
@@ -2348,7 +2348,7 @@
             "id": 35153,
             "level": 32,
             "icon": 5800,
-            "name": "Polar Boots of Fierceness",
+            "name": "Polar High Boots of Fierceness",
             "itemType": 8,
             "color": 4
         },
@@ -2356,7 +2356,7 @@
             "id": 35286,
             "level": 31,
             "icon": 1719,
-            "name": "Boots of the Pirate Warrior",
+            "name": "High Boots of the Pirate Warrior",
             "itemType": 8,
             "color": 3
         },
@@ -2364,7 +2364,7 @@
             "id": 35290,
             "level": 31,
             "icon": 1719,
-            "name": "Boots of the Pirate Assassin",
+            "name": "High Shoes of the Pirate Assassin",
             "itemType": 8,
             "color": 3
         },
@@ -2372,7 +2372,7 @@
             "id": 35638,
             "level": 18,
             "icon": 1704,
-            "name": "Death Grip Boots",
+            "name": "Death Grip High Shoes",
             "itemType": 8,
             "color": 4
         }

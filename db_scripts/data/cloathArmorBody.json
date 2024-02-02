@@ -4,7 +4,7 @@
             "id": 658,
             "level": 1,
             "icon": 1515,
-            "name": "Beginner Clothing",
+            "name": "Beginner's Clothing",
             "itemType": 2,
             "color": 0
         },
@@ -124,7 +124,7 @@
             "id": 2296,
             "level": 15,
             "icon": 1539,
-            "name": "Vestment of Berengar's Light",
+            "name": "Vestments of Berengar's Light",
             "itemType": 2,
             "color": 4
         },
@@ -132,7 +132,7 @@
             "id": 2297,
             "level": 15,
             "icon": 1512,
-            "name": "Uniform of Berengar's Fury",
+            "name": "Robe of Berengar's Fury",
             "itemType": 2,
             "color": 4
         },
@@ -140,7 +140,7 @@
             "id": 2349,
             "level": 15,
             "icon": 1875,
-            "name": "Sorcerer's Vestment",
+            "name": "Sorcerer's Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -572,7 +572,7 @@
             "id": 5772,
             "level": 8,
             "icon": 1539,
-            "name": "Mantle of Beginner Sorcerer",
+            "name": "Mantle of Novice Sorcerer",
             "itemType": 2,
             "color": 3
         },
@@ -660,7 +660,7 @@
             "id": 8055,
             "level": 9,
             "icon": 1524,
-            "name": "Master's Vestment",
+            "name": "Master's Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -700,7 +700,7 @@
             "id": 8156,
             "level": 8,
             "icon": 1542,
-            "name": "Vestment of Beginner Sorcerer",
+            "name": "Vestments of Novice Sorcerer",
             "itemType": 2,
             "color": 3
         },
@@ -708,7 +708,7 @@
             "id": 8159,
             "level": 8,
             "icon": 1524,
-            "name": "Vestment of Young Sorcerer",
+            "name": "Vestments of Young Sorcerer",
             "itemType": 2,
             "color": 3
         },
@@ -740,7 +740,7 @@
             "id": 8302,
             "level": 12,
             "icon": 1515,
-            "name": "Adorned Vestment",
+            "name": "Adorned Vestments",
             "itemType": 2,
             "color": 1
         },
@@ -748,7 +748,7 @@
             "id": 8333,
             "level": 15,
             "icon": 1533,
-            "name": "Noble Vestment",
+            "name": "Noble Vestments",
             "itemType": 2,
             "color": 2
         },
@@ -772,7 +772,7 @@
             "id": 8375,
             "level": 13,
             "icon": 1521,
-            "name": "Light Vestment",
+            "name": "Light Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -812,7 +812,7 @@
             "id": 8472,
             "level": 1,
             "icon": 1533,
-            "name": "Novice's Vestment",
+            "name": "Novice Vestments",
             "itemType": 2,
             "color": 2
         },
@@ -820,7 +820,7 @@
             "id": 8475,
             "level": 1,
             "icon": 1524,
-            "name": "Novice's Vestment",
+            "name": "Novice Vestments",
             "itemType": 2,
             "color": 2
         },
@@ -852,7 +852,7 @@
             "id": 9076,
             "level": 18,
             "icon": 1524,
-            "name": "Impenetrable Shroud Vestment",
+            "name": "Impenetrable Shroud Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -1084,7 +1084,7 @@
             "id": 13820,
             "level": 17,
             "icon": 1521,
-            "name": "Abaris' Vestment",
+            "name": "Abaris' Vestments",
             "itemType": 2,
             "color": 2
         },
@@ -1196,7 +1196,7 @@
             "id": 14943,
             "level": 20,
             "icon": 1545,
-            "name": "Wild Magic Dress",
+            "name": "Wild Magic Robe",
             "itemType": 2,
             "color": 4
         },
@@ -1204,7 +1204,7 @@
             "id": 14947,
             "level": 20,
             "icon": 1518,
-            "name": "Vestment of Star Wisdom",
+            "name": "Vestments of Star Wisdom",
             "itemType": 2,
             "color": 4
         },
@@ -1276,7 +1276,7 @@
             "id": 16965,
             "level": 21,
             "icon": 3263,
-            "name": "Vestment of the Forefather of the Dragons",
+            "name": "Vestments of the Forefather of the Dragons",
             "itemType": 2,
             "color": 4
         },
@@ -1284,7 +1284,7 @@
             "id": 17245,
             "level": 21,
             "icon": 1545,
-            "name": "Lord's Vestment",
+            "name": "Lord's Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -1372,7 +1372,7 @@
             "id": 18365,
             "level": 10,
             "icon": 3504,
-            "name": "Eternal Life Garment",
+            "name": "Garment of Eternal Life",
             "itemType": 2,
             "color": 3
         },
@@ -1420,7 +1420,7 @@
             "id": 18389,
             "level": 22,
             "icon": 3504,
-            "name": "Infinite Reliability Garment",
+            "name": "Garment of Infinite Reliability",
             "itemType": 2,
             "color": 3
         },
@@ -1524,7 +1524,7 @@
             "id": 18439,
             "level": 22,
             "icon": 1524,
-            "name": "Divine Protection Garment",
+            "name": "Garment of Divine Protection",
             "itemType": 2,
             "color": 3
         },
@@ -1708,7 +1708,7 @@
             "id": 22204,
             "level": 6,
             "icon": 4226,
-            "name": "Winter Vestments of Iceman",
+            "name": "Iceman's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -1716,7 +1716,7 @@
             "id": 22205,
             "level": 6,
             "icon": 4226,
-            "name": "Winter Smock of Iceman",
+            "name": "Iceman's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -1724,7 +1724,7 @@
             "id": 22228,
             "level": 10,
             "icon": 4226,
-            "name": "Winter Vestments of Ragnar",
+            "name": "Ragnar's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -1732,7 +1732,7 @@
             "id": 22229,
             "level": 10,
             "icon": 4226,
-            "name": "Winter Smock of Ragnar",
+            "name": "Ragnar's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -1740,7 +1740,7 @@
             "id": 22252,
             "level": 12,
             "icon": 4226,
-            "name": "Winter Vestments of Frosty Fang",
+            "name": "Frosty Fang's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -1748,7 +1748,7 @@
             "id": 22253,
             "level": 12,
             "icon": 4226,
-            "name": "Winter Smock of Frosty Fang",
+            "name": "Frosty Fang's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -1756,7 +1756,7 @@
             "id": 22276,
             "level": 14,
             "icon": 4226,
-            "name": "Winter Vestments of Mastodon",
+            "name": "Mastodon's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -1764,7 +1764,7 @@
             "id": 22277,
             "level": 14,
             "icon": 4226,
-            "name": "Winter Smock of Mastodon",
+            "name": "Mastodon's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -1772,7 +1772,7 @@
             "id": 22300,
             "level": 16,
             "icon": 4226,
-            "name": "Winter Vestments of Taron",
+            "name": "Taron's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -1780,7 +1780,7 @@
             "id": 22301,
             "level": 16,
             "icon": 4226,
-            "name": "Winter Smock of Taron",
+            "name": "Taron's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -1788,7 +1788,7 @@
             "id": 22318,
             "level": 18,
             "icon": 4226,
-            "name": "Winter Vestments of Kerula",
+            "name": "Kerula's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -1796,7 +1796,7 @@
             "id": 22319,
             "level": 18,
             "icon": 4226,
-            "name": "Winter Smock of Kerula",
+            "name": "Kerula's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -1804,7 +1804,7 @@
             "id": 22348,
             "level": 20,
             "icon": 4226,
-            "name": "Winter Vestments of Gimir",
+            "name": "Gimir's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -1812,7 +1812,7 @@
             "id": 22349,
             "level": 20,
             "icon": 4226,
-            "name": "Winter Smock of Gimir",
+            "name": "Gimir's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -1820,7 +1820,7 @@
             "id": 22372,
             "level": 22,
             "icon": 4226,
-            "name": "Winter Vestments of Flavius",
+            "name": "Flavius's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -1828,7 +1828,7 @@
             "id": 22373,
             "level": 22,
             "icon": 4226,
-            "name": "Winter Smock of Flavius",
+            "name": "Flavius's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -1836,7 +1836,7 @@
             "id": 22396,
             "level": 24,
             "icon": 4226,
-            "name": "Winter Vestments of Ruberius",
+            "name": "Ruberius's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -1844,7 +1844,7 @@
             "id": 22397,
             "level": 24,
             "icon": 4226,
-            "name": "Winter Smock of Ruberius",
+            "name": "Ruberius's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -1852,7 +1852,7 @@
             "id": 22420,
             "level": 26,
             "icon": 4226,
-            "name": "Winter Vestments of Mortis",
+            "name": "Mortis's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -1860,7 +1860,7 @@
             "id": 22421,
             "level": 26,
             "icon": 4226,
-            "name": "Winter Smock of Mortis",
+            "name": "Mortis's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -1868,7 +1868,7 @@
             "id": 23350,
             "level": 20,
             "icon": 4461,
-            "name": "Vestments of Mages of the Sacred Forest",
+            "name": "Vestments of Sacred Forest Mages",
             "itemType": 2,
             "color": 4
         },
@@ -1876,7 +1876,7 @@
             "id": 23354,
             "level": 20,
             "icon": 4460,
-            "name": "Smock of Mages of the Dominant Coalition",
+            "name": "Smock of Dominant Coalition Mages",
             "itemType": 2,
             "color": 4
         },
@@ -1884,7 +1884,7 @@
             "id": 23358,
             "level": 22,
             "icon": 4461,
-            "name": "Vestments of Mages of the Pyramid Valley",
+            "name": "Vestments of Pyramid Valley Mages",
             "itemType": 2,
             "color": 4
         },
@@ -1892,7 +1892,7 @@
             "id": 23362,
             "level": 22,
             "icon": 4460,
-            "name": "Smock of Mages of the Mighty Alliance",
+            "name": "Smock of Mighty Alliance Mages",
             "itemType": 2,
             "color": 4
         },
@@ -1900,7 +1900,7 @@
             "id": 23366,
             "level": 24,
             "icon": 4461,
-            "name": "Vestments of Mages of the Black Oak Forest",
+            "name": "Vestments of Black Oak Forest Mages",
             "itemType": 2,
             "color": 4
         },
@@ -1908,7 +1908,7 @@
             "id": 23370,
             "level": 24,
             "icon": 4460,
-            "name": "Smock of Mages of the Legendary Brotherhood",
+            "name": "Smock of Legendary Brotherhood Mages",
             "itemType": 2,
             "color": 4
         },
@@ -1916,7 +1916,7 @@
             "id": 23374,
             "level": 26,
             "icon": 4461,
-            "name": "Vestments of Mages of the Flying Islands",
+            "name": "Vestments of Flying Islands Mages",
             "itemType": 2,
             "color": 4
         },
@@ -1924,7 +1924,7 @@
             "id": 23378,
             "level": 26,
             "icon": 4460,
-            "name": "Smock of Mages of the Immortal Order",
+            "name": "Smock of Immortal Order Mages",
             "itemType": 2,
             "color": 4
         },
@@ -2052,7 +2052,7 @@
             "id": 24405,
             "level": 28,
             "icon": 4226,
-            "name": "Winter Vestments of the Snow General",
+            "name": "Snow General's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -2060,7 +2060,7 @@
             "id": 24409,
             "level": 28,
             "icon": 4226,
-            "name": "Winter Smock of the Snow General",
+            "name": "Snow General's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -2076,7 +2076,7 @@
             "id": 24447,
             "level": 10,
             "icon": 4628,
-            "name": "All-Mighty Vestments of Ragnar",
+            "name": "Ragnar's Almighty Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -2084,7 +2084,7 @@
             "id": 24451,
             "level": 10,
             "icon": 4628,
-            "name": "Mighty Smock of Ragnar",
+            "name": "Ragnar's Mighty Smock",
             "itemType": 2,
             "color": 4
         },
@@ -2092,7 +2092,7 @@
             "id": 24479,
             "level": 12,
             "icon": 4628,
-            "name": "All-Mighty Vestments of Frosty Fang",
+            "name": "Frosty Fang's Almighty Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -2100,7 +2100,7 @@
             "id": 24480,
             "level": 14,
             "icon": 4628,
-            "name": "All-Mighty Vestments of Mastodon",
+            "name": "Mastodon's Almighty Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -2108,7 +2108,7 @@
             "id": 24481,
             "level": 16,
             "icon": 4628,
-            "name": "All-Mighty Vestments of Taron",
+            "name": "Taron's Almighty Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -2116,7 +2116,7 @@
             "id": 24482,
             "level": 18,
             "icon": 4628,
-            "name": "All-Mighty Vestments of Kerula",
+            "name": "Kerula's Almighty Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -2124,7 +2124,7 @@
             "id": 24483,
             "level": 20,
             "icon": 4628,
-            "name": "All-Mighty Vestments of Gimir",
+            "name": "Gimir's Almighty Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -2132,7 +2132,7 @@
             "id": 24484,
             "level": 22,
             "icon": 4628,
-            "name": "All-Mighty Vestments of Flavius",
+            "name": "Flavius's Almighty Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -2140,7 +2140,7 @@
             "id": 24485,
             "level": 24,
             "icon": 4628,
-            "name": "All-Mighty Vestments of Ruberius",
+            "name": "Ruberius's Almighty Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -2148,7 +2148,7 @@
             "id": 24486,
             "level": 26,
             "icon": 4628,
-            "name": "All-Mighty Vestments of Mortis",
+            "name": "Mortis's Almighty Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -2156,7 +2156,7 @@
             "id": 24487,
             "level": 28,
             "icon": 4628,
-            "name": "All-Mighty Vestments of the Snow General",
+            "name": "Snow General's Almighty Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -2164,7 +2164,7 @@
             "id": 24515,
             "level": 12,
             "icon": 4628,
-            "name": "Mighty Smock of Frosty Fang",
+            "name": "Frosty Fang's Mighty Smock",
             "itemType": 2,
             "color": 4
         },
@@ -2172,7 +2172,7 @@
             "id": 24516,
             "level": 14,
             "icon": 4628,
-            "name": "Mighty Smock of Mastodon",
+            "name": "Mastodon's Mighty Smock",
             "itemType": 2,
             "color": 4
         },
@@ -2180,7 +2180,7 @@
             "id": 24517,
             "level": 16,
             "icon": 4628,
-            "name": "Mighty Smock of Taron",
+            "name": "Taron's Mighty Smock",
             "itemType": 2,
             "color": 4
         },
@@ -2188,7 +2188,7 @@
             "id": 24518,
             "level": 18,
             "icon": 4628,
-            "name": "Mighty Smock of Kerula",
+            "name": "Kerula's Mighty Smock",
             "itemType": 2,
             "color": 4
         },
@@ -2196,7 +2196,7 @@
             "id": 24519,
             "level": 20,
             "icon": 4628,
-            "name": "Mighty Smock of Gimir",
+            "name": "Gimir's Mighty Smock",
             "itemType": 2,
             "color": 4
         },
@@ -2204,7 +2204,7 @@
             "id": 24520,
             "level": 22,
             "icon": 4628,
-            "name": "Mighty Smock of Flavius",
+            "name": "Flavius's Mighty Smock",
             "itemType": 2,
             "color": 4
         },
@@ -2212,7 +2212,7 @@
             "id": 24521,
             "level": 24,
             "icon": 4628,
-            "name": "Mighty Smock of Ruberius",
+            "name": "Ruberius's Mighty Smock",
             "itemType": 2,
             "color": 4
         },
@@ -2220,7 +2220,7 @@
             "id": 24522,
             "level": 26,
             "icon": 4628,
-            "name": "Mighty Smock of Mortis",
+            "name": "Mortis's Mighty Smock",
             "itemType": 2,
             "color": 4
         },
@@ -2228,7 +2228,7 @@
             "id": 24523,
             "level": 28,
             "icon": 4628,
-            "name": "Mighty Smock of the Snow General",
+            "name": "Snow General's Mighty Smock",
             "itemType": 2,
             "color": 4
         },
@@ -2236,7 +2236,7 @@
             "id": 25230,
             "level": 28,
             "icon": 1524,
-            "name": "Vestment of Insight",
+            "name": "Garment of Insight",
             "itemType": 2,
             "color": 2
         },
@@ -2244,7 +2244,7 @@
             "id": 25235,
             "level": 28,
             "icon": 1539,
-            "name": "Vestment of Sinister Visions",
+            "name": "Garment of Sinister Visions",
             "itemType": 2,
             "color": 3
         },
@@ -2252,7 +2252,7 @@
             "id": 25240,
             "level": 28,
             "icon": 3504,
-            "name": "Vestment of Sheer Emptiness",
+            "name": "Garment of Sheer Emptiness",
             "itemType": 2,
             "color": 3
         },
@@ -2260,7 +2260,7 @@
             "id": 25908,
             "level": 20,
             "icon": 4460,
-            "name": "Smock of Charmers of the Dominant Coalition",
+            "name": "Smock of Dominant Coalition Charmers",
             "itemType": 2,
             "color": 4
         },
@@ -2268,7 +2268,7 @@
             "id": 25912,
             "level": 22,
             "icon": 4460,
-            "name": "Smock of Charmers of the Mighty Alliance",
+            "name": "Smock of Mighty Alliance Charmers",
             "itemType": 2,
             "color": 4
         },
@@ -2276,7 +2276,7 @@
             "id": 25916,
             "level": 24,
             "icon": 4460,
-            "name": "Smock of Charmers of the Legendary Brotherhood",
+            "name": "Smock of Legendary Brotherhood Charmers",
             "itemType": 2,
             "color": 4
         },
@@ -2284,7 +2284,7 @@
             "id": 25919,
             "level": 26,
             "icon": 4460,
-            "name": "Smock of Charmers of the Immortal Order",
+            "name": "Smock of Immortal Order Charmers",
             "itemType": 2,
             "color": 4
         },
@@ -2308,7 +2308,7 @@
             "id": 26499,
             "level": 29,
             "icon": 1539,
-            "name": "Vestments of the Legendary Arcanomancer",
+            "name": "Vestments of Legendary Arcanomancer",
             "itemType": 2,
             "color": 3
         },
@@ -2316,7 +2316,7 @@
             "id": 26500,
             "level": 29,
             "icon": 1539,
-            "name": "Smock of the Legendary Arcanomancer",
+            "name": "Smock of Legendary Arcanomancer",
             "itemType": 2,
             "color": 3
         },
@@ -2468,7 +2468,7 @@
             "id": 27951,
             "level": 30,
             "icon": 4226,
-            "name": "Winter Vestments of Chernobog",
+            "name": "Chernobog's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -2476,7 +2476,7 @@
             "id": 27955,
             "level": 30,
             "icon": 4226,
-            "name": "Winter Smock of Chernobog",
+            "name": "Chernobog's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -2564,7 +2564,7 @@
             "id": 28108,
             "level": 30,
             "icon": 4628,
-            "name": "All-Mighty Vestments of Chernobog",
+            "name": "Chernobog's Almighty Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -2572,7 +2572,7 @@
             "id": 28112,
             "level": 30,
             "icon": 4628,
-            "name": "Mighty Smock of Chernobog",
+            "name": "Chernobog's Mighty Smock",
             "itemType": 2,
             "color": 4
         },
@@ -2620,7 +2620,7 @@
             "id": 29402,
             "level": 32,
             "icon": 5338,
-            "name": "Hoodie of the Sacred Sign",
+            "name": "Smock of the Sacred Sign",
             "itemType": 2,
             "color": 4
         },
@@ -2628,7 +2628,7 @@
             "id": 29406,
             "level": 32,
             "icon": 5338,
-            "name": "Hoodie of Invisible Knowledge",
+            "name": "Smock of Invisible Knowledge",
             "itemType": 2,
             "color": 4
         },
@@ -2636,7 +2636,7 @@
             "id": 29458,
             "level": 20,
             "icon": 4461,
-            "name": "Vestments of Charmers of the Sacred Forest",
+            "name": "Vestments of Sacred Forest Charmers",
             "itemType": 2,
             "color": 4
         },
@@ -2644,7 +2644,7 @@
             "id": 29462,
             "level": 22,
             "icon": 4461,
-            "name": "Vestments of Charmers of the Pyramid Valley",
+            "name": "Vestments of Pyramid Valley Charmers",
             "itemType": 2,
             "color": 4
         },
@@ -2652,7 +2652,7 @@
             "id": 29466,
             "level": 24,
             "icon": 4461,
-            "name": "Vestments of Charmers of the Black Oak Forest",
+            "name": "Vestments of Black Oak Forest Charmers",
             "itemType": 2,
             "color": 4
         },
@@ -2660,7 +2660,7 @@
             "id": 29470,
             "level": 26,
             "icon": 4461,
-            "name": "Vestments of Charmers of the Flying Islands",
+            "name": "Vestments of Flying Islands Charmers",
             "itemType": 2,
             "color": 4
         },
@@ -2668,7 +2668,7 @@
             "id": 29474,
             "level": 28,
             "icon": 4461,
-            "name": "Vestments of Charmers of the Ship Graveyard",
+            "name": "Vestments of Ship Graveyard Charmers",
             "itemType": 2,
             "color": 4
         },
@@ -2676,7 +2676,7 @@
             "id": 29478,
             "level": 28,
             "icon": 4461,
-            "name": "Vestments of Mages of the Ship Graveyard",
+            "name": "Vestments of Ship Graveyard Mages",
             "itemType": 2,
             "color": 4
         },
@@ -2684,7 +2684,7 @@
             "id": 29482,
             "level": 28,
             "icon": 4460,
-            "name": "Smock of Mages of the Imperious Clan",
+            "name": "Smock of Imperious Clan Mages",
             "itemType": 2,
             "color": 4
         },
@@ -2692,7 +2692,7 @@
             "id": 29486,
             "level": 28,
             "icon": 4460,
-            "name": "Smock of Charmers of the Imperious Clan",
+            "name": "Smock of Imperious Clan Charmers",
             "itemType": 2,
             "color": 4
         },
@@ -2700,7 +2700,7 @@
             "id": 29724,
             "level": 7,
             "icon": 1530,
-            "name": "Smock of Recruit",
+            "name": "Recruit's Smock",
             "itemType": 2,
             "color": 3
         },
@@ -2708,7 +2708,7 @@
             "id": 29729,
             "level": 7,
             "icon": 1530,
-            "name": "Vestments of Recruit",
+            "name": "Recruit's Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -2716,7 +2716,7 @@
             "id": 29734,
             "level": 11,
             "icon": 1530,
-            "name": "Smock of Mercenary",
+            "name": "Hireling's Smock",
             "itemType": 2,
             "color": 3
         },
@@ -2724,7 +2724,7 @@
             "id": 29739,
             "level": 11,
             "icon": 1530,
-            "name": "Vestments of Mercenary",
+            "name": "Hireling's Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -2732,7 +2732,7 @@
             "id": 32032,
             "level": 30,
             "icon": 4461,
-            "name": "Garb of the Mages of the Pirate Archipelago",
+            "name": "Vestments of Pirate Archipelago Mages",
             "itemType": 2,
             "color": 4
         },
@@ -2740,7 +2740,7 @@
             "id": 32036,
             "level": 30,
             "icon": 4461,
-            "name": "Garb of the Spellweavers of the Pirate Archipelago",
+            "name": "Vestments of Pirate Archipelago Spellweavers",
             "itemType": 2,
             "color": 4
         },
@@ -2756,7 +2756,7 @@
             "id": 32044,
             "level": 30,
             "icon": 4460,
-            "name": "Smock of the Spellweavers of the Unbreakable Alliance",
+            "name": "Smock of Unbreakable Alliance Spellweavers",
             "itemType": 2,
             "color": 4
         },
@@ -2796,7 +2796,7 @@
             "id": 32096,
             "level": 26,
             "icon": 5807,
-            "name": "Witch's Robe of Eternity",
+            "name": "Witch's Smock of Eternity",
             "itemType": 2,
             "color": 4
         },
@@ -2836,7 +2836,7 @@
             "id": 32116,
             "level": 22,
             "icon": 5808,
-            "name": "Northern Robe of Vehemence",
+            "name": "Northern Smock of Vehemence",
             "itemType": 2,
             "color": 4
         },
@@ -2908,7 +2908,7 @@
             "id": 33846,
             "level": 32,
             "icon": 4226,
-            "name": "Winter Vestments of Titan",
+            "name": "Titan's Winter Vestments",
             "itemType": 2,
             "color": 3
         },
@@ -2916,7 +2916,7 @@
             "id": 33850,
             "level": 32,
             "icon": 4226,
-            "name": "Winter Smock of Titan",
+            "name": "Titan's Winter Smock",
             "itemType": 2,
             "color": 3
         },
@@ -2940,7 +2940,7 @@
             "id": 33894,
             "level": 32,
             "icon": 4628,
-            "name": "All-Mighty Vestments of Titan",
+            "name": "Titan's Almighty Vestments",
             "itemType": 2,
             "color": 4
         },
@@ -2948,7 +2948,7 @@
             "id": 33898,
             "level": 32,
             "icon": 4628,
-            "name": "Mighty Smock of Titan",
+            "name": "Titan's Mighty Smock",
             "itemType": 2,
             "color": 4
         },
@@ -2972,7 +2972,7 @@
             "id": 34490,
             "level": 32,
             "icon": 3504,
-            "name": "Garment of the Ominous Requiem",
+            "name": "Garment of Ominous Requiem",
             "itemType": 2,
             "color": 3
         },
@@ -3012,7 +3012,7 @@
             "id": 35078,
             "level": 22,
             "icon": 6184,
-            "name": "Vestment of the Wizards of the Forest\u2019s Heart",
+            "name": "Vestments of Wizards of Forest\u2019s Heart",
             "itemType": 2,
             "color": 4
         },
@@ -3020,7 +3020,7 @@
             "id": 35082,
             "level": 24,
             "icon": 6184,
-            "name": "Vestment of the Wizards of the Jaguar\u2019s Den",
+            "name": "Vestments of Wizards of Jaguar\u2019s Den",
             "itemType": 2,
             "color": 4
         },
@@ -3028,7 +3028,7 @@
             "id": 35086,
             "level": 26,
             "icon": 6184,
-            "name": "Vestment of the Wizards of the Dragon Ness",
+            "name": "Vestments of Wizards of Dragon Ness",
             "itemType": 2,
             "color": 4
         },
@@ -3036,7 +3036,7 @@
             "id": 35090,
             "level": 28,
             "icon": 6184,
-            "name": "Vestment of the Wizards of the Sky Sanctuary",
+            "name": "Vestments of Sky Sanctuary Wizards",
             "itemType": 2,
             "color": 4
         },
@@ -3044,7 +3044,7 @@
             "id": 35094,
             "level": 30,
             "icon": 6184,
-            "name": "Vestment of the Wizards of the Sea Turtle",
+            "name": "Vestments of Wizards of Sea Turtle",
             "itemType": 2,
             "color": 4
         },
@@ -3052,7 +3052,7 @@
             "id": 35139,
             "level": 32,
             "icon": 5807,
-            "name": "Witch's Robe of Eternity",
+            "name": "Witch's Smock of Eternity",
             "itemType": 2,
             "color": 4
         },
@@ -3060,7 +3060,7 @@
             "id": 35143,
             "level": 32,
             "icon": 5808,
-            "name": "Northern Robe of Fierceness",
+            "name": "Northern Smock of Fierceness",
             "itemType": 2,
             "color": 4
         },
@@ -3068,7 +3068,7 @@
             "id": 35276,
             "level": 31,
             "icon": 1539,
-            "name": "Vestment of the Pirate Mage",
+            "name": "Vestments of the Pirate Mage",
             "itemType": 2,
             "color": 3
         },
@@ -3076,7 +3076,7 @@
             "id": 35280,
             "level": 31,
             "icon": 1539,
-            "name": "Robe of the Pirate Spellweaver",
+            "name": "Smock of the Pirate Spellweaver",
             "itemType": 2,
             "color": 3
         }

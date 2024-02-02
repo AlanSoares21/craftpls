@@ -60,7 +60,7 @@
             "id": 3348,
             "level": 1,
             "icon": 1382,
-            "name": "Two-handed Sword",
+            "name": "Two-Handed Sword",
             "itemType": 0,
             "color": 0
         },
@@ -148,7 +148,7 @@
             "id": 13871,
             "level": 19,
             "icon": 1385,
-            "name": "Ruberius' Labris",
+            "name": "Ruberius's Labris",
             "itemType": 0,
             "color": 1
         },
@@ -228,7 +228,7 @@
             "id": 15322,
             "level": 21,
             "icon": 1388,
-            "name": "Enchanted Sword of the Lord",
+            "name": "Enchanted Sword of Lord",
             "itemType": 0,
             "color": 3
         },
@@ -316,7 +316,7 @@
             "id": 16136,
             "level": 8,
             "icon": 3131,
-            "name": "Spadone of Oath-breaker",
+            "name": "Spadone of Oathbreaker",
             "itemType": 0,
             "color": 3
         },
@@ -388,7 +388,7 @@
             "id": 17117,
             "level": 12,
             "icon": 1385,
-            "name": "Well-tried Sword",
+            "name": "Well-Worn Sword",
             "itemType": 0,
             "color": 2
         },
@@ -508,7 +508,7 @@
             "id": 17305,
             "level": 22,
             "icon": 1398,
-            "name": "All-Destroying Estoc",
+            "name": "Devastating Estoc",
             "itemType": 0,
             "color": 3
         },
@@ -644,7 +644,7 @@
             "id": 19963,
             "level": 6,
             "icon": 3083,
-            "name": "Longsword of the Blind Outlaw",
+            "name": "Longsword of Blind Outlaw",
             "itemType": 0,
             "color": 3
         },
@@ -660,7 +660,7 @@
             "id": 20026,
             "level": 20,
             "icon": 3083,
-            "name": "Longsword of the Damned Heir",
+            "name": "Longsword of Damned Heir",
             "itemType": 0,
             "color": 3
         },
@@ -668,7 +668,7 @@
             "id": 20039,
             "level": 22,
             "icon": 3083,
-            "name": "Longsword of the Distracted Apostate",
+            "name": "Longsword of Distracted Apostate",
             "itemType": 0,
             "color": 3
         },
@@ -684,7 +684,7 @@
             "id": 20077,
             "level": 26,
             "icon": 3083,
-            "name": "Longsword of the Bloody Earl",
+            "name": "Longsword of Bloody Earl",
             "itemType": 0,
             "color": 3
         },
@@ -724,7 +724,7 @@
             "id": 20362,
             "level": 26,
             "icon": 3131,
-            "name": "Spadone of the Descendant of the Titans",
+            "name": "Spadone of Titan's Descendant",
             "itemType": 0,
             "color": 3
         },
@@ -748,7 +748,7 @@
             "id": 20817,
             "level": 12,
             "icon": 3863,
-            "name": "Sword of the Four-Leaf Clover",
+            "name": "Sword of Four-Leaf Clover",
             "itemType": 0,
             "color": 2
         },
@@ -780,7 +780,7 @@
             "id": 20882,
             "level": 20,
             "icon": 3863,
-            "name": "Sword of the Arcane Valley",
+            "name": "Sword of Arcane Valley",
             "itemType": 0,
             "color": 2
         },
@@ -788,7 +788,7 @@
             "id": 20897,
             "level": 22,
             "icon": 3863,
-            "name": "Sword of the Forest Mystery",
+            "name": "Sword of Forest Mystery",
             "itemType": 0,
             "color": 2
         },
@@ -796,7 +796,7 @@
             "id": 20912,
             "level": 24,
             "icon": 3863,
-            "name": "Sword of the Blooming Island",
+            "name": "Sword of Blooming Island",
             "itemType": 0,
             "color": 2
         },
@@ -804,7 +804,7 @@
             "id": 20927,
             "level": 26,
             "icon": 3863,
-            "name": "Sword of the Emerald Tower",
+            "name": "Sword of Emerald Tower",
             "itemType": 0,
             "color": 2
         },
@@ -844,7 +844,7 @@
             "id": 21349,
             "level": 3,
             "icon": 1382,
-            "name": "Plain Two-handed Sword",
+            "name": "Plain Two-Handed Sword",
             "itemType": 0,
             "color": 2
         },
@@ -852,7 +852,7 @@
             "id": 21362,
             "level": 5,
             "icon": 1382,
-            "name": "Light Two-handed Sword",
+            "name": "Light Two-Handed Sword",
             "itemType": 0,
             "color": 2
         },
@@ -860,7 +860,7 @@
             "id": 21375,
             "level": 7,
             "icon": 1382,
-            "name": "Coarse Two-handed Sword",
+            "name": "Coarse Two-Handed Sword",
             "itemType": 0,
             "color": 2
         },
@@ -868,7 +868,7 @@
             "id": 21388,
             "level": 9,
             "icon": 1382,
-            "name": "Smooth Two-handed Sword",
+            "name": "Smooth Two-Handed Sword",
             "itemType": 0,
             "color": 2
         },
@@ -876,7 +876,7 @@
             "id": 21401,
             "level": 11,
             "icon": 1382,
-            "name": "Useful Two-handed Sword",
+            "name": "Useful Two-Handed Sword",
             "itemType": 0,
             "color": 2
         },
@@ -1068,7 +1068,7 @@
             "id": 23602,
             "level": 27,
             "icon": 3250,
-            "name": "Estoc of the Arena Lord",
+            "name": "Estoc of Arena Lord",
             "itemType": 0,
             "color": 3
         },
@@ -1084,7 +1084,7 @@
             "id": 24091,
             "level": 28,
             "icon": 3083,
-            "name": "Bastard of the Crazy King",
+            "name": "Bastard of Crazy King",
             "itemType": 0,
             "color": 3
         },
@@ -1108,7 +1108,7 @@
             "id": 25039,
             "level": 12,
             "icon": 4753,
-            "name": "Royal Sword of the Four-Leaf Clover",
+            "name": "Royal Sword of Four-Leaf Clover",
             "itemType": 0,
             "color": 3
         },
@@ -1140,7 +1140,7 @@
             "id": 25103,
             "level": 20,
             "icon": 4753,
-            "name": "Royal Sword of the Arcane Valley",
+            "name": "Royal Sword of Arcane Valley",
             "itemType": 0,
             "color": 3
         },
@@ -1148,7 +1148,7 @@
             "id": 25119,
             "level": 22,
             "icon": 4753,
-            "name": "Royal Sword of the Forest Mystery",
+            "name": "Royal Sword of Forest Mystery",
             "itemType": 0,
             "color": 3
         },
@@ -1156,7 +1156,7 @@
             "id": 25135,
             "level": 24,
             "icon": 4753,
-            "name": "Royal Sword of the Blooming Island",
+            "name": "Royal Sword of Blooming Island",
             "itemType": 0,
             "color": 3
         },
@@ -1164,7 +1164,7 @@
             "id": 25151,
             "level": 26,
             "icon": 4753,
-            "name": "Royal Sword of the Emerald Tower",
+            "name": "Royal Sword of Emerald Tower",
             "itemType": 0,
             "color": 3
         },
@@ -1212,7 +1212,7 @@
             "id": 25299,
             "level": 28,
             "icon": 3406,
-            "name": "Sword of the Bloody Radiance",
+            "name": "Sword of Bloody Radiance",
             "itemType": 0,
             "color": 3
         },
@@ -1252,7 +1252,7 @@
             "id": 26488,
             "level": 29,
             "icon": 3250,
-            "name": "Estoc of the Outstanding Gladiator",
+            "name": "Estoc of Outstanding Gladiator",
             "itemType": 0,
             "color": 3
         },
@@ -1412,7 +1412,7 @@
             "id": 29003,
             "level": 30,
             "icon": 4336,
-            "name": "Sword of Kingdom of Fortitude",
+            "name": "Sword of the Kingdom of Fortitude",
             "itemType": 0,
             "color": 3
         },
@@ -1428,7 +1428,7 @@
             "id": 29693,
             "level": 7,
             "icon": 1385,
-            "name": "Sword of Recruit",
+            "name": "Recruit's Sword",
             "itemType": 0,
             "color": 3
         },
@@ -1436,7 +1436,7 @@
             "id": 29714,
             "level": 11,
             "icon": 1385,
-            "name": "Sword of Mercenary",
+            "name": "Hireling's Sword",
             "itemType": 0,
             "color": 3
         },
@@ -1532,7 +1532,7 @@
             "id": 35263,
             "level": 31,
             "icon": 4902,
-            "name": "Sword of the Pirate Brotherhood",
+            "name": "Sword of Pirate Brotherhood",
             "itemType": 0,
             "color": 3
         },

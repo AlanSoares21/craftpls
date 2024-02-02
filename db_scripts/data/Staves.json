@@ -76,7 +76,7 @@
             "id": 2126,
             "level": 13,
             "icon": 1226,
-            "name": "Twisted Charge",
+            "name": "Twisted Cane",
             "itemType": 1,
             "color": 3
         },
@@ -204,7 +204,7 @@
             "id": 7975,
             "level": 7,
             "icon": 1226,
-            "name": "Long Stick",
+            "name": "Long Cane",
             "itemType": 1,
             "color": 1
         },
@@ -268,7 +268,7 @@
             "id": 8048,
             "level": 9,
             "icon": 1241,
-            "name": "Ancient Charge",
+            "name": "Ancient Cane",
             "itemType": 1,
             "color": 3
         },
@@ -316,7 +316,7 @@
             "id": 8175,
             "level": 15,
             "icon": 1229,
-            "name": "Luxurious Walking Stick",
+            "name": "Luxurious Walking Cane",
             "itemType": 1,
             "color": 3
         },
@@ -340,7 +340,7 @@
             "id": 8290,
             "level": 13,
             "icon": 1235,
-            "name": "Solid Walking Stick",
+            "name": "Solid Walking Cane",
             "itemType": 1,
             "color": 0
         },
@@ -348,7 +348,7 @@
             "id": 8291,
             "level": 13,
             "icon": 1226,
-            "name": "Tested Charge",
+            "name": "Tested Cane",
             "itemType": 1,
             "color": 0
         },
@@ -372,7 +372,7 @@
             "id": 8298,
             "level": 14,
             "icon": 1226,
-            "name": "Reinforced Walking Stick",
+            "name": "Reinforced Walking Cane",
             "itemType": 1,
             "color": 1
         },
@@ -492,7 +492,7 @@
             "id": 8370,
             "level": 15,
             "icon": 1229,
-            "name": "Forgotten Walking Stick",
+            "name": "Forgotten Walking Cane",
             "itemType": 1,
             "color": 3
         },
@@ -524,7 +524,7 @@
             "id": 8468,
             "level": 1,
             "icon": 2638,
-            "name": "Novice's Stick",
+            "name": "Novice's Cane",
             "itemType": 1,
             "color": 2
         },
@@ -556,7 +556,7 @@
             "id": 9072,
             "level": 17,
             "icon": 1235,
-            "name": "Stick of Abyss Zealot",
+            "name": "Cane of Abyss Zealot",
             "itemType": 1,
             "color": 2
         },
@@ -588,7 +588,7 @@
             "id": 9088,
             "level": 18,
             "icon": 1238,
-            "name": "Stick of Sudden Doom",
+            "name": "Cane of Sudden Doom",
             "itemType": 1,
             "color": 3
         },
@@ -740,7 +740,7 @@
             "id": 11150,
             "level": 17,
             "icon": 2632,
-            "name": "Astromancer Charge",
+            "name": "Astromancer's Cane",
             "itemType": 1,
             "color": 3
         },
@@ -828,7 +828,7 @@
             "id": 13159,
             "level": 4,
             "icon": 1241,
-            "name": "Vampire's Charge",
+            "name": "Vampire's Cane",
             "itemType": 1,
             "color": 2
         },
@@ -844,7 +844,7 @@
             "id": 13164,
             "level": 8,
             "icon": 1241,
-            "name": "Werewolf's Charge",
+            "name": "Werewolf's Cane",
             "itemType": 1,
             "color": 2
         },
@@ -908,7 +908,7 @@
             "id": 13181,
             "level": 14,
             "icon": 1241,
-            "name": "Headsman's Charge",
+            "name": "Headsman's Cane",
             "itemType": 1,
             "color": 2
         },
@@ -988,7 +988,7 @@
             "id": 13873,
             "level": 19,
             "icon": 2629,
-            "name": "Ruberius' Recade",
+            "name": "Ruberius's Recade",
             "itemType": 1,
             "color": 1
         },
@@ -996,7 +996,7 @@
             "id": 13874,
             "level": 19,
             "icon": 2629,
-            "name": "Ruberius' Stave",
+            "name": "Ruberius's Stave",
             "itemType": 1,
             "color": 1
         },
@@ -1004,7 +1004,7 @@
             "id": 13875,
             "level": 19,
             "icon": 2629,
-            "name": "Ruberius' Stick",
+            "name": "Ruberius's Cane",
             "itemType": 1,
             "color": 1
         },
@@ -1012,7 +1012,7 @@
             "id": 13876,
             "level": 19,
             "icon": 2629,
-            "name": "Ruberius' Staff",
+            "name": "Ruberius's Staff",
             "itemType": 1,
             "color": 1
         },
@@ -1020,7 +1020,7 @@
             "id": 13877,
             "level": 19,
             "icon": 2629,
-            "name": "Ruberius' Baton",
+            "name": "Ruberius's Baton",
             "itemType": 1,
             "color": 1
         },
@@ -1028,7 +1028,7 @@
             "id": 13878,
             "level": 19,
             "icon": 2629,
-            "name": "Reberius' Scepter",
+            "name": "Ruberius's Reberius' Scepter",
             "itemType": 1,
             "color": 1
         },
@@ -1116,7 +1116,7 @@
             "id": 14331,
             "level": 19,
             "icon": 2632,
-            "name": "Arcane Charge of Dexterity",
+            "name": "Arcane Cane of Dexterity",
             "itemType": 1,
             "color": 1
         },
@@ -1124,7 +1124,7 @@
             "id": 14332,
             "level": 20,
             "icon": 2632,
-            "name": "Arcane Charge of Meditation",
+            "name": "Arcane Cane of Meditation",
             "itemType": 1,
             "color": 1
         },
@@ -1156,7 +1156,7 @@
             "id": 14336,
             "level": 13,
             "icon": 1235,
-            "name": "Spellcharge of Retribution",
+            "name": "Cane of Retribution",
             "itemType": 1,
             "color": 2
         },
@@ -1164,7 +1164,7 @@
             "id": 14337,
             "level": 13,
             "icon": 1235,
-            "name": "Spellcharge of Power",
+            "name": "Cane of Power",
             "itemType": 1,
             "color": 2
         },
@@ -1172,7 +1172,7 @@
             "id": 14338,
             "level": 14,
             "icon": 1235,
-            "name": "Spellcharge of Dexterity",
+            "name": "Cane of Dexterity",
             "itemType": 1,
             "color": 2
         },
@@ -1180,7 +1180,7 @@
             "id": 14339,
             "level": 14,
             "icon": 1235,
-            "name": "Spellcharge of Life",
+            "name": "Cane of Life",
             "itemType": 1,
             "color": 2
         },
@@ -1268,7 +1268,7 @@
             "id": 14354,
             "level": 20,
             "icon": 2629,
-            "name": "Charge of Deep Lord",
+            "name": "Cane of Deep Lord",
             "itemType": 1,
             "color": 3
         },
@@ -1324,7 +1324,7 @@
             "id": 15102,
             "level": 20,
             "icon": 2632,
-            "name": "Charge of Damned Pilgrims",
+            "name": "Cane of Damned Pilgrims",
             "itemType": 1,
             "color": 3
         },
@@ -1348,7 +1348,7 @@
             "id": 15329,
             "level": 21,
             "icon": 2632,
-            "name": "Enchanted Baton of the Lord",
+            "name": "Enchanted Baton of Lord",
             "itemType": 1,
             "color": 3
         },
@@ -1356,7 +1356,7 @@
             "id": 15330,
             "level": 21,
             "icon": 2632,
-            "name": "Enchanted Staff of the Lord",
+            "name": "Enchanted Staff of Lord",
             "itemType": 1,
             "color": 3
         },
@@ -1484,7 +1484,7 @@
             "id": 16143,
             "level": 8,
             "icon": 3129,
-            "name": "Stick of Oath-breaker",
+            "name": "Stick of Oathbreaker",
             "itemType": 1,
             "color": 3
         },
@@ -1668,7 +1668,7 @@
             "id": 17271,
             "level": 22,
             "icon": 2632,
-            "name": "All-Destroying Scepter",
+            "name": "Devastating Scepter",
             "itemType": 1,
             "color": 3
         },
@@ -1676,7 +1676,7 @@
             "id": 17272,
             "level": 22,
             "icon": 2632,
-            "name": "All-Destroying Staff",
+            "name": "Devastating Staff",
             "itemType": 1,
             "color": 3
         },
@@ -1780,7 +1780,7 @@
             "id": 17285,
             "level": 20,
             "icon": 3404,
-            "name": "Charge of the Depth Lord",
+            "name": "Cane of the Depth Lord",
             "itemType": 1,
             "color": 3
         },
@@ -1804,7 +1804,7 @@
             "id": 17288,
             "level": 22,
             "icon": 3404,
-            "name": "Charge of Death Herald",
+            "name": "Cane of Death Herald",
             "itemType": 1,
             "color": 3
         },
@@ -2020,7 +2020,7 @@
             "id": 19969,
             "level": 6,
             "icon": 3081,
-            "name": "Staff of the Blind Outlaw",
+            "name": "Staff of Blind Outlaw",
             "itemType": 1,
             "color": 3
         },
@@ -2028,7 +2028,7 @@
             "id": 19970,
             "level": 6,
             "icon": 3081,
-            "name": "Scepter of the Blind Outlaw",
+            "name": "Scepter of Blind Outlaw",
             "itemType": 1,
             "color": 3
         },
@@ -2060,7 +2060,7 @@
             "id": 20032,
             "level": 20,
             "icon": 3081,
-            "name": "Staff of the Damned Heir",
+            "name": "Staff of Damned Heir",
             "itemType": 1,
             "color": 3
         },
@@ -2068,7 +2068,7 @@
             "id": 20033,
             "level": 20,
             "icon": 3081,
-            "name": "Scepter of the Damned Heir",
+            "name": "Scepter of Damned Heir",
             "itemType": 1,
             "color": 3
         },
@@ -2076,7 +2076,7 @@
             "id": 20045,
             "level": 22,
             "icon": 3081,
-            "name": "Staff of the Distracted Apostate",
+            "name": "Staff of Distracted Apostate",
             "itemType": 1,
             "color": 3
         },
@@ -2084,7 +2084,7 @@
             "id": 20046,
             "level": 22,
             "icon": 3081,
-            "name": "Scepter of the Distracted Apostate",
+            "name": "Scepter of Distracted Apostate",
             "itemType": 1,
             "color": 3
         },
@@ -2108,7 +2108,7 @@
             "id": 20083,
             "level": 26,
             "icon": 3081,
-            "name": "Staff of the Bloody Earl",
+            "name": "Staff of Bloody Earl",
             "itemType": 1,
             "color": 3
         },
@@ -2116,7 +2116,7 @@
             "id": 20084,
             "level": 26,
             "icon": 3081,
-            "name": "Scepter of the Bloody Earl",
+            "name": "Scepter of Bloody Earl",
             "itemType": 1,
             "color": 3
         },
@@ -2284,7 +2284,7 @@
             "id": 20368,
             "level": 26,
             "icon": 3128,
-            "name": "Staff of the Descendant of the Titans",
+            "name": "Staff of Titan's Descendant",
             "itemType": 1,
             "color": 3
         },
@@ -2292,7 +2292,7 @@
             "id": 20369,
             "level": 26,
             "icon": 3129,
-            "name": "Stick of the Descendant of the Titans",
+            "name": "Stick of Titan's Descendant",
             "itemType": 1,
             "color": 3
         },
@@ -2300,7 +2300,7 @@
             "id": 20370,
             "level": 26,
             "icon": 3129,
-            "name": "Baton of the Descendant of the Titans",
+            "name": "Baton of Titan's Descendant",
             "itemType": 1,
             "color": 3
         },
@@ -2316,7 +2316,7 @@
             "id": 20795,
             "level": 6,
             "icon": 3865,
-            "name": "Stick of the Green Hill",
+            "name": "Cane of the Green Hill",
             "itemType": 1,
             "color": 2
         },
@@ -2340,7 +2340,7 @@
             "id": 20810,
             "level": 10,
             "icon": 3865,
-            "name": "Walking Stick of the Heath Meadow",
+            "name": "Walking Cane of the Heath Meadow",
             "itemType": 1,
             "color": 2
         },
@@ -2356,7 +2356,7 @@
             "id": 20824,
             "level": 12,
             "icon": 3865,
-            "name": "Staff of the Four-Leaf Clover",
+            "name": "Staff of Four-Leaf Clover",
             "itemType": 1,
             "color": 2
         },
@@ -2364,7 +2364,7 @@
             "id": 20825,
             "level": 12,
             "icon": 3865,
-            "name": "Walking Stick of the Four-Leaf Clover",
+            "name": "Walking Cane of Four-Leaf Clover",
             "itemType": 1,
             "color": 2
         },
@@ -2372,7 +2372,7 @@
             "id": 20826,
             "level": 12,
             "icon": 3865,
-            "name": "Baton of the Four-Leaf Clover",
+            "name": "Baton of Four-Leaf Clover",
             "itemType": 1,
             "color": 2
         },
@@ -2388,7 +2388,7 @@
             "id": 20840,
             "level": 14,
             "icon": 3865,
-            "name": "Walking Stick of the Spring Symphony",
+            "name": "Walking Cane of the Spring Symphony",
             "itemType": 1,
             "color": 2
         },
@@ -2412,7 +2412,7 @@
             "id": 20860,
             "level": 16,
             "icon": 3865,
-            "name": "Walking Stick of the Happy Month",
+            "name": "Walking Cane of the Happy Month",
             "itemType": 1,
             "color": 2
         },
@@ -2436,7 +2436,7 @@
             "id": 20875,
             "level": 18,
             "icon": 3865,
-            "name": "Walking Stick of the Singing Oak Forest",
+            "name": "Walking Cane of the Singing Oak Forest",
             "itemType": 1,
             "color": 2
         },
@@ -2452,7 +2452,7 @@
             "id": 20889,
             "level": 20,
             "icon": 3865,
-            "name": "Staff of the Arcane Valley",
+            "name": "Staff of Arcane Valley",
             "itemType": 1,
             "color": 2
         },
@@ -2460,7 +2460,7 @@
             "id": 20890,
             "level": 20,
             "icon": 3865,
-            "name": "Charge of the Arcane Valley",
+            "name": "Cane of Arcane Valley",
             "itemType": 1,
             "color": 2
         },
@@ -2468,7 +2468,7 @@
             "id": 20891,
             "level": 20,
             "icon": 3865,
-            "name": "Baton of the Arcane Valley",
+            "name": "Baton of Arcane Valley",
             "itemType": 1,
             "color": 2
         },
@@ -2476,7 +2476,7 @@
             "id": 20904,
             "level": 22,
             "icon": 3865,
-            "name": "Staff of the Forest Mystery",
+            "name": "Staff of Forest Mystery",
             "itemType": 1,
             "color": 2
         },
@@ -2484,7 +2484,7 @@
             "id": 20905,
             "level": 22,
             "icon": 3865,
-            "name": "Charge of the Forest Mystery",
+            "name": "Cane of Forest Mystery",
             "itemType": 1,
             "color": 2
         },
@@ -2492,7 +2492,7 @@
             "id": 20906,
             "level": 22,
             "icon": 3865,
-            "name": "Baton of the Forest Mystery",
+            "name": "Baton of Forest Mystery",
             "itemType": 1,
             "color": 2
         },
@@ -2500,7 +2500,7 @@
             "id": 20919,
             "level": 24,
             "icon": 3865,
-            "name": "Staff of the Blooming Island",
+            "name": "Staff of Blooming Island",
             "itemType": 1,
             "color": 2
         },
@@ -2508,7 +2508,7 @@
             "id": 20920,
             "level": 24,
             "icon": 3865,
-            "name": "Charge of the Blooming Island",
+            "name": "Cane of Blooming Island",
             "itemType": 1,
             "color": 2
         },
@@ -2516,7 +2516,7 @@
             "id": 20921,
             "level": 24,
             "icon": 3865,
-            "name": "Baton of the Blooming Island",
+            "name": "Baton of Blooming Island",
             "itemType": 1,
             "color": 2
         },
@@ -2524,7 +2524,7 @@
             "id": 20934,
             "level": 26,
             "icon": 3865,
-            "name": "Staff of the Emerald Tower",
+            "name": "Staff of Emerald Tower",
             "itemType": 1,
             "color": 2
         },
@@ -2532,7 +2532,7 @@
             "id": 20935,
             "level": 26,
             "icon": 3865,
-            "name": "Charge of the Emerald Tower",
+            "name": "Cane of Emerald Tower",
             "itemType": 1,
             "color": 2
         },
@@ -2540,7 +2540,7 @@
             "id": 20936,
             "level": 26,
             "icon": 3865,
-            "name": "Baton of the Emerald Tower",
+            "name": "Baton of Emerald Tower",
             "itemType": 1,
             "color": 2
         },
@@ -2596,7 +2596,7 @@
             "id": 21050,
             "level": 26,
             "icon": 3404,
-            "name": "Charge of Cruel Demolisher",
+            "name": "Cane of Cruel Demolisher",
             "itemType": 1,
             "color": 3
         },
@@ -2660,7 +2660,7 @@
             "id": 21442,
             "level": 1,
             "icon": 2638,
-            "name": "Novice's Stick",
+            "name": "Novice's Cane",
             "itemType": 1,
             "color": 2
         },
@@ -3196,7 +3196,7 @@
             "id": 23608,
             "level": 27,
             "icon": 3251,
-            "name": "Baton of the Arena Lord",
+            "name": "Baton of Arena Lord",
             "itemType": 1,
             "color": 3
         },
@@ -3204,7 +3204,7 @@
             "id": 23609,
             "level": 27,
             "icon": 3252,
-            "name": "Scepter of the Arena Lord",
+            "name": "Scepter of Arena Lord",
             "itemType": 1,
             "color": 3
         },
@@ -3236,7 +3236,7 @@
             "id": 24097,
             "level": 28,
             "icon": 3081,
-            "name": "Staff of the Crazy King",
+            "name": "Staff of Crazy King",
             "itemType": 1,
             "color": 3
         },
@@ -3244,7 +3244,7 @@
             "id": 24098,
             "level": 28,
             "icon": 3081,
-            "name": "Scepter of the Crazy King",
+            "name": "Scepter of Crazy King",
             "itemType": 1,
             "color": 3
         },
@@ -3252,7 +3252,7 @@
             "id": 24099,
             "level": 28,
             "icon": 3081,
-            "name": "Baton of the Crazy King",
+            "name": "Baton of Crazy King",
             "itemType": 1,
             "color": 3
         },
@@ -3260,7 +3260,7 @@
             "id": 24103,
             "level": 6,
             "icon": 3081,
-            "name": "Baton of the Blind Outlaw",
+            "name": "Baton of Blind Outlaw",
             "itemType": 1,
             "color": 3
         },
@@ -3308,7 +3308,7 @@
             "id": 24121,
             "level": 20,
             "icon": 3081,
-            "name": "Baton of the Damned Heir",
+            "name": "Baton of Damned Heir",
             "itemType": 1,
             "color": 3
         },
@@ -3316,7 +3316,7 @@
             "id": 24124,
             "level": 22,
             "icon": 3081,
-            "name": "Baton of the Distracted Apostate",
+            "name": "Baton of Distracted Apostate",
             "itemType": 1,
             "color": 3
         },
@@ -3332,7 +3332,7 @@
             "id": 24130,
             "level": 26,
             "icon": 3081,
-            "name": "Baton of the Bloody Earl",
+            "name": "Baton of Bloody Earl",
             "itemType": 1,
             "color": 3
         },
@@ -3388,7 +3388,7 @@
             "id": 25046,
             "level": 12,
             "icon": 4752,
-            "name": "Royal Staff of the Four-Leaf Clover",
+            "name": "Royal Staff of Four-Leaf Clover",
             "itemType": 1,
             "color": 3
         },
@@ -3396,7 +3396,7 @@
             "id": 25047,
             "level": 12,
             "icon": 4752,
-            "name": "Royal Cane of the Four-Leaf Clover",
+            "name": "Royal Cane of Four-Leaf Clover",
             "itemType": 1,
             "color": 3
         },
@@ -3404,7 +3404,7 @@
             "id": 25048,
             "level": 12,
             "icon": 4752,
-            "name": "Royal Baton of the Four-Leaf Clover",
+            "name": "Royal Baton of Four-Leaf Clover",
             "itemType": 1,
             "color": 3
         },
@@ -3484,7 +3484,7 @@
             "id": 25110,
             "level": 20,
             "icon": 4752,
-            "name": "Royal Staff of the Arcane Valley",
+            "name": "Royal Staff of Arcane Valley",
             "itemType": 1,
             "color": 3
         },
@@ -3492,7 +3492,7 @@
             "id": 25111,
             "level": 20,
             "icon": 4752,
-            "name": "Royal Cane of the Arcane Valley",
+            "name": "Royal Cane of Arcane Valley",
             "itemType": 1,
             "color": 3
         },
@@ -3500,7 +3500,7 @@
             "id": 25112,
             "level": 20,
             "icon": 4752,
-            "name": "Royal Baton of the Arcane Valley",
+            "name": "Royal Baton of Arcane Valley",
             "itemType": 1,
             "color": 3
         },
@@ -3508,7 +3508,7 @@
             "id": 25126,
             "level": 22,
             "icon": 4752,
-            "name": "Royal Staff of the Forest Mystery",
+            "name": "Royal Staff of Forest Mystery",
             "itemType": 1,
             "color": 3
         },
@@ -3516,7 +3516,7 @@
             "id": 25127,
             "level": 22,
             "icon": 4752,
-            "name": "Royal Cane of the Forest Mystery",
+            "name": "Royal Cane of Forest Mystery",
             "itemType": 1,
             "color": 3
         },
@@ -3524,7 +3524,7 @@
             "id": 25128,
             "level": 22,
             "icon": 4752,
-            "name": "Royal Baton of the Forest Mystery",
+            "name": "Royal Baton of Forest Mystery",
             "itemType": 1,
             "color": 3
         },
@@ -3532,7 +3532,7 @@
             "id": 25142,
             "level": 24,
             "icon": 4752,
-            "name": "Royal Staff of the Blooming Island",
+            "name": "Royal Staff of Blooming Island",
             "itemType": 1,
             "color": 3
         },
@@ -3540,7 +3540,7 @@
             "id": 25143,
             "level": 24,
             "icon": 4752,
-            "name": "Royal Cane of the Blooming Island",
+            "name": "Royal Cane of Blooming Island",
             "itemType": 1,
             "color": 3
         },
@@ -3548,7 +3548,7 @@
             "id": 25144,
             "level": 24,
             "icon": 4752,
-            "name": "Royal Baton of the Blooming Island",
+            "name": "Royal Baton of Blooming Island",
             "itemType": 1,
             "color": 3
         },
@@ -3556,7 +3556,7 @@
             "id": 25158,
             "level": 26,
             "icon": 4752,
-            "name": "Royal Staff of the Emerald Tower",
+            "name": "Royal Staff of Emerald Tower",
             "itemType": 1,
             "color": 3
         },
@@ -3564,7 +3564,7 @@
             "id": 25159,
             "level": 26,
             "icon": 4752,
-            "name": "Royal Cane of the Emerald Tower",
+            "name": "Royal Cane of Emerald Tower",
             "itemType": 1,
             "color": 3
         },
@@ -3572,7 +3572,7 @@
             "id": 25160,
             "level": 26,
             "icon": 4752,
-            "name": "Royal Baton of the Emerald Tower",
+            "name": "Royal Baton of Emerald Tower",
             "itemType": 1,
             "color": 3
         },
@@ -3684,7 +3684,7 @@
             "id": 25314,
             "level": 28,
             "icon": 3404,
-            "name": "Cane of the Bloody Radiance",
+            "name": "Cane of Bloody Radiance",
             "itemType": 1,
             "color": 3
         },
@@ -3692,7 +3692,7 @@
             "id": 25315,
             "level": 28,
             "icon": 3404,
-            "name": "Staff of the Bloody Radiance",
+            "name": "Staff of Bloody Radiance",
             "itemType": 1,
             "color": 3
         },
@@ -3780,7 +3780,7 @@
             "id": 26494,
             "level": 29,
             "icon": 3251,
-            "name": "Baton of the Outstanding Gladiator",
+            "name": "Baton of Outstanding Gladiator",
             "itemType": 1,
             "color": 3
         },
@@ -3788,7 +3788,7 @@
             "id": 26495,
             "level": 29,
             "icon": 3252,
-            "name": "Scepter of the Outstanding Gladiator",
+            "name": "Scepter of Outstanding Gladiator",
             "itemType": 1,
             "color": 3
         },
@@ -3796,7 +3796,7 @@
             "id": 26535,
             "level": 29,
             "icon": 3252,
-            "name": "Staff of the Outstanding Gladiator",
+            "name": "Staff of Outstanding Gladiator",
             "itemType": 1,
             "color": 3
         },
@@ -4236,7 +4236,7 @@
             "id": 27932,
             "level": 26,
             "icon": 3129,
-            "name": "Scepter of the Descendant of the Titans",
+            "name": "Scepter of Titan's Descendant",
             "itemType": 1,
             "color": 3
         },
@@ -4324,7 +4324,7 @@
             "id": 29009,
             "level": 30,
             "icon": 4338,
-            "name": "Staff of Kingdom of Fortitude",
+            "name": "Staff of the Kingdom of Fortitude",
             "itemType": 1,
             "color": 3
         },
@@ -4332,7 +4332,7 @@
             "id": 29010,
             "level": 30,
             "icon": 4338,
-            "name": "Scepter of Kingdom of Fortitude",
+            "name": "Scepter of the Kingdom of Fortitude",
             "itemType": 1,
             "color": 3
         },
@@ -4340,7 +4340,7 @@
             "id": 29011,
             "level": 30,
             "icon": 4338,
-            "name": "Baton of Kingdom of Fortitude",
+            "name": "Baton of the Kingdom of Fortitude",
             "itemType": 1,
             "color": 3
         },
@@ -4372,7 +4372,7 @@
             "id": 29705,
             "level": 7,
             "icon": 1229,
-            "name": "Staff of Recruit",
+            "name": "Recruit's Staff",
             "itemType": 1,
             "color": 3
         },
@@ -4380,7 +4380,7 @@
             "id": 29706,
             "level": 7,
             "icon": 1229,
-            "name": "Scepter of Recruit",
+            "name": "Recruit's Scepter",
             "itemType": 1,
             "color": 3
         },
@@ -4388,7 +4388,7 @@
             "id": 29720,
             "level": 11,
             "icon": 1229,
-            "name": "Staff of Mercenary",
+            "name": "Hireling's Staff",
             "itemType": 1,
             "color": 3
         },
@@ -4396,7 +4396,7 @@
             "id": 29721,
             "level": 11,
             "icon": 1229,
-            "name": "Scepter of Mercenary",
+            "name": "Hireling's Scepter",
             "itemType": 1,
             "color": 3
         },
@@ -4644,7 +4644,7 @@
             "id": 35270,
             "level": 31,
             "icon": 4900,
-            "name": "Staff of the Pirate Brotherhood",
+            "name": "Staff of Pirate Brotherhood",
             "itemType": 1,
             "color": 3
         },
@@ -4652,7 +4652,7 @@
             "id": 35271,
             "level": 31,
             "icon": 4900,
-            "name": "Scepter of the Pirate Brotherhood",
+            "name": "Scepter of Pirate Brotherhood",
             "itemType": 1,
             "color": 3
         },
@@ -4660,7 +4660,7 @@
             "id": 35272,
             "level": 31,
             "icon": 4900,
-            "name": "Baton of the Pirate Brotherhood",
+            "name": "Baton of Pirate Brotherhood",
             "itemType": 1,
             "color": 3
         }

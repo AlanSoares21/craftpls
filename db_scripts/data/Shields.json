@@ -68,7 +68,7 @@
             "id": 2289,
             "level": 15,
             "icon": 1202,
-            "name": "Well-tried Shield",
+            "name": "Well-Worn Shield",
             "itemType": 3,
             "color": 2
         },
@@ -84,7 +84,7 @@
             "id": 2345,
             "level": 14,
             "icon": 1199,
-            "name": "Siege shield",
+            "name": "Siege Shield",
             "itemType": 3,
             "color": 1
         },
@@ -100,7 +100,7 @@
             "id": 4536,
             "level": 1,
             "icon": 1193,
-            "name": "Shield of Beginner",
+            "name": "Novice's Shield",
             "itemType": 3,
             "color": 0
         },
@@ -412,7 +412,7 @@
             "id": 15331,
             "level": 21,
             "icon": 2614,
-            "name": "Enchanted Shield of the Lord",
+            "name": "Enchanted Shield of Lord",
             "itemType": 3,
             "color": 3
         },
@@ -500,7 +500,7 @@
             "id": 16144,
             "level": 8,
             "icon": 3126,
-            "name": "Shield of Oath-breaker",
+            "name": "Shield of Oathbreaker",
             "itemType": 3,
             "color": 3
         },
@@ -628,7 +628,7 @@
             "id": 17224,
             "level": 14,
             "icon": 1196,
-            "name": "Shield of Northern Chieftains",
+            "name": "Siege Shield of Northern Chieftains",
             "itemType": 3,
             "color": 3
         },
@@ -700,7 +700,7 @@
             "id": 17320,
             "level": 22,
             "icon": 1202,
-            "name": "All-Destroying Shield",
+            "name": "Devastating Shield",
             "itemType": 3,
             "color": 3
         },
@@ -836,7 +836,7 @@
             "id": 19971,
             "level": 6,
             "icon": 3079,
-            "name": "Shield of the Blind Outlaw",
+            "name": "Shield of Blind Outlaw",
             "itemType": 3,
             "color": 3
         },
@@ -852,7 +852,7 @@
             "id": 20034,
             "level": 20,
             "icon": 3079,
-            "name": "Shield of the Damned Heir",
+            "name": "Shield of Damned Heir",
             "itemType": 3,
             "color": 3
         },
@@ -860,7 +860,7 @@
             "id": 20047,
             "level": 22,
             "icon": 3079,
-            "name": "Shield of the Distracted Apostate",
+            "name": "Shield of Distracted Apostate",
             "itemType": 3,
             "color": 3
         },
@@ -876,7 +876,7 @@
             "id": 20085,
             "level": 26,
             "icon": 3079,
-            "name": "Shield of the Bloody Earl",
+            "name": "Shield of Bloody Earl",
             "itemType": 3,
             "color": 3
         },
@@ -988,7 +988,7 @@
             "id": 20371,
             "level": 26,
             "icon": 3126,
-            "name": "Combat Shield of the Descendant of the Titans",
+            "name": "Combat Shield of Titan's Descendant",
             "itemType": 3,
             "color": 3
         },
@@ -996,7 +996,7 @@
             "id": 20372,
             "level": 26,
             "icon": 3126,
-            "name": "Attack Shield of the Descendant of the Titans",
+            "name": "Attack Shield of Titan's Descendant",
             "itemType": 3,
             "color": 3
         },
@@ -1020,7 +1020,7 @@
             "id": 20827,
             "level": 12,
             "icon": 3861,
-            "name": "Shield of the Four-Leaf Clover",
+            "name": "Shield of Four-Leaf Clover",
             "itemType": 3,
             "color": 2
         },
@@ -1052,7 +1052,7 @@
             "id": 20892,
             "level": 20,
             "icon": 3861,
-            "name": "Shield of the Arcane Valley",
+            "name": "Shield of Arcane Valley",
             "itemType": 3,
             "color": 2
         },
@@ -1060,7 +1060,7 @@
             "id": 20907,
             "level": 22,
             "icon": 3861,
-            "name": "Shield of the Forest Mystery",
+            "name": "Shield of Forest Mystery",
             "itemType": 3,
             "color": 2
         },
@@ -1068,7 +1068,7 @@
             "id": 20922,
             "level": 24,
             "icon": 3861,
-            "name": "Shield of the Blooming Island",
+            "name": "Shield of Blooming Island",
             "itemType": 3,
             "color": 2
         },
@@ -1076,7 +1076,7 @@
             "id": 20937,
             "level": 26,
             "icon": 3861,
-            "name": "Shield of the Emerald Tower",
+            "name": "Shield of Emerald Tower",
             "itemType": 3,
             "color": 2
         },
@@ -1356,7 +1356,7 @@
             "id": 23610,
             "level": 27,
             "icon": 3247,
-            "name": "Shield of the Arena Lord",
+            "name": "Shield of Arena Lord",
             "itemType": 3,
             "color": 3
         },
@@ -1372,7 +1372,7 @@
             "id": 24100,
             "level": 28,
             "icon": 3079,
-            "name": "Shield of the Crazy King",
+            "name": "Shield of Crazy King",
             "itemType": 3,
             "color": 3
         },
@@ -1404,7 +1404,7 @@
             "id": 25049,
             "level": 12,
             "icon": 4750,
-            "name": "Royal Shield of the Four-Leaf Clover",
+            "name": "Royal Shield of Four-Leaf Clover",
             "itemType": 3,
             "color": 3
         },
@@ -1436,7 +1436,7 @@
             "id": 25113,
             "level": 20,
             "icon": 4750,
-            "name": "Royal Shield of the Arcane Valley",
+            "name": "Royal Shield of Arcane Valley",
             "itemType": 3,
             "color": 3
         },
@@ -1444,7 +1444,7 @@
             "id": 25129,
             "level": 22,
             "icon": 4750,
-            "name": "Royal Shield of the Forest Mystery",
+            "name": "Royal Shield of Forest Mystery",
             "itemType": 3,
             "color": 3
         },
@@ -1452,7 +1452,7 @@
             "id": 25145,
             "level": 24,
             "icon": 4750,
-            "name": "Royal Shield of the Blooming Island",
+            "name": "Royal Shield of Blooming Island",
             "itemType": 3,
             "color": 3
         },
@@ -1460,7 +1460,7 @@
             "id": 25161,
             "level": 26,
             "icon": 4750,
-            "name": "Royal Shield of the Emerald Tower",
+            "name": "Royal Shield of Emerald Tower",
             "itemType": 3,
             "color": 3
         },
@@ -1508,7 +1508,7 @@
             "id": 25303,
             "level": 28,
             "icon": 3402,
-            "name": "Shield of the Bloody Radiance",
+            "name": "Shield of Bloody Radiance",
             "itemType": 3,
             "color": 3
         },
@@ -1548,7 +1548,7 @@
             "id": 26496,
             "level": 29,
             "icon": 3247,
-            "name": "Shield of the Outstanding Gladiator",
+            "name": "Shield of Outstanding Gladiator",
             "itemType": 3,
             "color": 3
         },
@@ -1716,7 +1716,7 @@
             "id": 29012,
             "level": 30,
             "icon": 4357,
-            "name": "Shield of Kingdom of Fortitude",
+            "name": "Shield of the Kingdom of Fortitude",
             "itemType": 3,
             "color": 3
         },
@@ -1732,7 +1732,7 @@
             "id": 29707,
             "level": 7,
             "icon": 1193,
-            "name": "Shield of Recruit",
+            "name": "Recruit's Shield",
             "itemType": 3,
             "color": 3
         },
@@ -1740,7 +1740,7 @@
             "id": 29722,
             "level": 11,
             "icon": 1193,
-            "name": "Shield of Mercenary",
+            "name": "Hireling's Shield",
             "itemType": 3,
             "color": 3
         },
@@ -1844,7 +1844,7 @@
             "id": 35273,
             "level": 31,
             "icon": 4895,
-            "name": "Siege Shield of the Pirate Brotherhood",
+            "name": "Siege Shield of Pirate Brotherhood",
             "itemType": 3,
             "color": 3
         },
@@ -1852,7 +1852,7 @@
             "id": 35274,
             "level": 31,
             "icon": 4895,
-            "name": "Battle Shield of the Pirate Brotherhood",
+            "name": "Combat Shield of Pirate Brotherhood",
             "itemType": 3,
             "color": 3
         }

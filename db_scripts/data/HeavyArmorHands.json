@@ -60,7 +60,7 @@
             "id": 2264,
             "level": 15,
             "icon": 1506,
-            "name": "Well-tried Vambraces",
+            "name": "Well-Worn Vambraces",
             "itemType": 7,
             "color": 2
         },
@@ -84,7 +84,7 @@
             "id": 2354,
             "level": 15,
             "icon": 1503,
-            "name": "Gloves of fighter",
+            "name": "Fighter's Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -196,7 +196,7 @@
             "id": 5791,
             "level": 11,
             "icon": 1506,
-            "name": "Gloves of Beginner Fighter",
+            "name": "Gloves of Novice Fighter",
             "itemType": 7,
             "color": 3
         },
@@ -204,7 +204,7 @@
             "id": 5808,
             "level": 5,
             "icon": 1506,
-            "name": "Gauntlets of Beginner Fighter",
+            "name": "Gauntlets of Novice Fighter",
             "itemType": 7,
             "color": 3
         },
@@ -244,7 +244,7 @@
             "id": 6479,
             "level": 18,
             "icon": 1453,
-            "name": "Plate Gauntlets of Divine Defence",
+            "name": "Plate Gauntlets of Divine Defense",
             "itemType": 7,
             "color": 4
         },
@@ -268,7 +268,7 @@
             "id": 13776,
             "level": 8,
             "icon": 1476,
-            "name": "Temptress's Chain Gloves",
+            "name": "Temptress's Chain Gauntlets",
             "itemType": 7,
             "color": 2
         },
@@ -284,7 +284,7 @@
             "id": 13806,
             "level": 16,
             "icon": 1441,
-            "name": "Abaris's Chain Gloves",
+            "name": "Abaris's Chain Gauntlets",
             "itemType": 7,
             "color": 2
         },
@@ -332,7 +332,7 @@
             "id": 14844,
             "level": 12,
             "icon": 1485,
-            "name": "Notched Gloves",
+            "name": "Notched Gauntlets",
             "itemType": 7,
             "color": 2
         },
@@ -348,7 +348,7 @@
             "id": 14853,
             "level": 17,
             "icon": 1497,
-            "name": "Mithril Gloves",
+            "name": "Mithril Gauntlets",
             "itemType": 7,
             "color": 2
         },
@@ -356,7 +356,7 @@
             "id": 14858,
             "level": 19,
             "icon": 1503,
-            "name": "Inferno Gloves",
+            "name": "Inferno Gauntlets",
             "itemType": 7,
             "color": 2
         },
@@ -604,7 +604,7 @@
             "id": 18523,
             "level": 10,
             "icon": 3515,
-            "name": "Eternal Life Vambraces",
+            "name": "Vambraces of Eternal Life",
             "itemType": 7,
             "color": 3
         },
@@ -652,7 +652,7 @@
             "id": 18547,
             "level": 22,
             "icon": 3515,
-            "name": "Infinite Reliability Vambraces",
+            "name": "Vambraces of Infinite Reliability",
             "itemType": 7,
             "color": 3
         },
@@ -668,7 +668,7 @@
             "id": 18557,
             "level": 14,
             "icon": 1500,
-            "name": "Mighty Mittens",
+            "name": "Mighty Gauntlets",
             "itemType": 7,
             "color": 2
         },
@@ -748,7 +748,7 @@
             "id": 18597,
             "level": 22,
             "icon": 1503,
-            "name": "Divine Protection Vambraces",
+            "name": "Vambraces of Divine Protection",
             "itemType": 7,
             "color": 3
         },
@@ -884,7 +884,7 @@
             "id": 22214,
             "level": 6,
             "icon": 4223,
-            "name": "Winter Vambraces of Iceman",
+            "name": "Iceman's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -892,7 +892,7 @@
             "id": 22215,
             "level": 6,
             "icon": 4223,
-            "name": "Winter Gauntlets of Iceman",
+            "name": "Iceman's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -900,7 +900,7 @@
             "id": 22238,
             "level": 10,
             "icon": 4223,
-            "name": "Winter Vambraces of Ragnar",
+            "name": "Ragnar's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -908,7 +908,7 @@
             "id": 22239,
             "level": 10,
             "icon": 4223,
-            "name": "Winter Gauntlets of Ragnar",
+            "name": "Ragnar's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -916,7 +916,7 @@
             "id": 22262,
             "level": 12,
             "icon": 4223,
-            "name": "Winter Vambraces of Frosty Fang",
+            "name": "Frosty Fang's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -924,7 +924,7 @@
             "id": 22263,
             "level": 12,
             "icon": 4223,
-            "name": "Winter Gauntlets of Frosty Fang",
+            "name": "Frosty Fang's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -932,7 +932,7 @@
             "id": 22286,
             "level": 14,
             "icon": 4223,
-            "name": "Winter Vambraces of Mastodon",
+            "name": "Mastodon's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -940,7 +940,7 @@
             "id": 22287,
             "level": 14,
             "icon": 4223,
-            "name": "Winter Gauntlets of Mastodon",
+            "name": "Mastodon's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -948,7 +948,7 @@
             "id": 22310,
             "level": 16,
             "icon": 4223,
-            "name": "Winter Vambraces of Taron",
+            "name": "Taron's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -956,7 +956,7 @@
             "id": 22311,
             "level": 16,
             "icon": 4223,
-            "name": "Winter Gauntlets of Taron",
+            "name": "Taron's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -964,7 +964,7 @@
             "id": 22328,
             "level": 18,
             "icon": 4223,
-            "name": "Winter Vambraces of Kerula",
+            "name": "Kerula's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -972,7 +972,7 @@
             "id": 22329,
             "level": 18,
             "icon": 4223,
-            "name": "Winter Gauntlets of Kerula",
+            "name": "Kerula's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -980,7 +980,7 @@
             "id": 22358,
             "level": 20,
             "icon": 4223,
-            "name": "Winter Vambraces of Gimir",
+            "name": "Gimir's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -988,7 +988,7 @@
             "id": 22359,
             "level": 20,
             "icon": 4223,
-            "name": "Winter Gauntlets of Gimir",
+            "name": "Gimir's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -996,7 +996,7 @@
             "id": 22382,
             "level": 22,
             "icon": 4223,
-            "name": "Winter Vambraces of Flavius",
+            "name": "Flavius's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -1004,7 +1004,7 @@
             "id": 22383,
             "level": 22,
             "icon": 4223,
-            "name": "Winter Gauntlets of Flavius",
+            "name": "Flavius's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1012,7 +1012,7 @@
             "id": 22406,
             "level": 24,
             "icon": 4223,
-            "name": "Winter Vambraces of Ruberius",
+            "name": "Ruberius's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -1020,7 +1020,7 @@
             "id": 22407,
             "level": 24,
             "icon": 4223,
-            "name": "Winter Gauntlets of Ruberius",
+            "name": "Ruberius's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1028,7 +1028,7 @@
             "id": 22430,
             "level": 26,
             "icon": 4223,
-            "name": "Winter Vambraces of Mortis",
+            "name": "Mortis's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -1036,7 +1036,7 @@
             "id": 22431,
             "level": 26,
             "icon": 4223,
-            "name": "Winter Gauntlets of Mortis",
+            "name": "Mortis's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1044,7 +1044,7 @@
             "id": 23383,
             "level": 20,
             "icon": 4458,
-            "name": "Vambraces of Defenders of the Sacred Forest",
+            "name": "Vambraces of Sacred Forest Defenders",
             "itemType": 7,
             "color": 4
         },
@@ -1052,7 +1052,7 @@
             "id": 23387,
             "level": 20,
             "icon": 4459,
-            "name": "Gauntlets of Defenders of the Dominant Coalition",
+            "name": "Gauntlets of Dominant Coalition Defenders",
             "itemType": 7,
             "color": 4
         },
@@ -1060,7 +1060,7 @@
             "id": 23391,
             "level": 22,
             "icon": 4458,
-            "name": "Vambraces of Defenders of the Pyramid Valley",
+            "name": "Vambraces of Pyramid Valley Defenders",
             "itemType": 7,
             "color": 4
         },
@@ -1068,7 +1068,7 @@
             "id": 23395,
             "level": 22,
             "icon": 4459,
-            "name": "Gauntlets of Defenders of the Mighty Alliance",
+            "name": "Gauntlets of Mighty Alliance Defenders",
             "itemType": 7,
             "color": 4
         },
@@ -1076,7 +1076,7 @@
             "id": 23399,
             "level": 24,
             "icon": 4458,
-            "name": "Vambraces of Defenders of the Black Oak Forest",
+            "name": "Vambraces of Black Oak Forest Defenders",
             "itemType": 7,
             "color": 4
         },
@@ -1084,7 +1084,7 @@
             "id": 23403,
             "level": 24,
             "icon": 4459,
-            "name": "Gauntlets of Defenders of the Legendary Brotherhood",
+            "name": "Gauntlets of Legendary Brotherhood Defenders",
             "itemType": 7,
             "color": 4
         },
@@ -1092,7 +1092,7 @@
             "id": 23407,
             "level": 26,
             "icon": 4458,
-            "name": "Vambraces of Defenders of the Flying Islands",
+            "name": "Vambraces of Flying Islands Defenders",
             "itemType": 7,
             "color": 4
         },
@@ -1100,7 +1100,7 @@
             "id": 23411,
             "level": 26,
             "icon": 4459,
-            "name": "Gauntlets of Defenders of the Immortal Order",
+            "name": "Gauntlets of Immortal Order Defenders",
             "itemType": 7,
             "color": 4
         },
@@ -1108,7 +1108,7 @@
             "id": 23506,
             "level": 25,
             "icon": 1500,
-            "name": "Gauntlets of the Forest Defenders",
+            "name": "Gauntlets of Forest Defenders",
             "itemType": 7,
             "color": 3
         },
@@ -1228,7 +1228,7 @@
             "id": 24422,
             "level": 28,
             "icon": 4223,
-            "name": "Winter Bracers of the Snow General",
+            "name": "Snow General's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -1236,7 +1236,7 @@
             "id": 24426,
             "level": 28,
             "icon": 4223,
-            "name": "Winter Gauntlets of the Snow General",
+            "name": "Snow General's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1252,7 +1252,7 @@
             "id": 24464,
             "level": 10,
             "icon": 4627,
-            "name": "Omnipotent Bracers of Ragnar",
+            "name": "Ragnar's Omnipotent Vambraces",
             "itemType": 7,
             "color": 4
         },
@@ -1260,7 +1260,7 @@
             "id": 24468,
             "level": 10,
             "icon": 4627,
-            "name": "Majestic Gauntlets of Ragnar",
+            "name": "Ragnar's Majestic Gauntlets",
             "itemType": 7,
             "color": 4
         },
@@ -1268,7 +1268,7 @@
             "id": 24632,
             "level": 12,
             "icon": 4627,
-            "name": "Omnipotent Bracers of Frosty Fang",
+            "name": "Frosty Fang's Omnipotent Vambraces",
             "itemType": 7,
             "color": 4
         },
@@ -1276,7 +1276,7 @@
             "id": 24633,
             "level": 14,
             "icon": 4627,
-            "name": "Omnipotent Bracers of Mastodon",
+            "name": "Mastodon's Omnipotent Vambraces",
             "itemType": 7,
             "color": 4
         },
@@ -1284,7 +1284,7 @@
             "id": 24634,
             "level": 16,
             "icon": 4627,
-            "name": "Omnipotent Bracers of Taron",
+            "name": "Taron's Omnipotent Vambraces",
             "itemType": 7,
             "color": 4
         },
@@ -1292,7 +1292,7 @@
             "id": 24635,
             "level": 18,
             "icon": 4627,
-            "name": "Omnipotent Bracers of Kerula",
+            "name": "Kerula's Omnipotent Vambraces",
             "itemType": 7,
             "color": 4
         },
@@ -1300,7 +1300,7 @@
             "id": 24636,
             "level": 20,
             "icon": 4627,
-            "name": "Omnipotent Bracers of Gimir",
+            "name": "Gimir's Omnipotent Vambraces",
             "itemType": 7,
             "color": 4
         },
@@ -1308,7 +1308,7 @@
             "id": 24637,
             "level": 22,
             "icon": 4627,
-            "name": "Omnipotent Bracers of Flavius",
+            "name": "Flavius's Omnipotent Vambraces",
             "itemType": 7,
             "color": 4
         },
@@ -1316,7 +1316,7 @@
             "id": 24638,
             "level": 24,
             "icon": 4627,
-            "name": "Omnipotent Bracers of Ruberius",
+            "name": "Ruberius's Omnipotent Vambraces",
             "itemType": 7,
             "color": 4
         },
@@ -1324,7 +1324,7 @@
             "id": 24639,
             "level": 26,
             "icon": 4627,
-            "name": "Omnipotent Bracers of Mortis",
+            "name": "Mortis's Omnipotent Vambraces",
             "itemType": 7,
             "color": 4
         },
@@ -1332,7 +1332,7 @@
             "id": 24640,
             "level": 28,
             "icon": 4627,
-            "name": "Omnipotent Bracers of the Snow General",
+            "name": "Snow General's Omnipotent Vambraces",
             "itemType": 7,
             "color": 4
         },
@@ -1340,7 +1340,7 @@
             "id": 24668,
             "level": 12,
             "icon": 4627,
-            "name": "Majestic Gauntlets of Frosty Fang",
+            "name": "Frosty Fang's Majestic Gauntlets",
             "itemType": 7,
             "color": 4
         },
@@ -1348,7 +1348,7 @@
             "id": 24669,
             "level": 14,
             "icon": 4627,
-            "name": "Majestic Gauntlets of Mastodon",
+            "name": "Mastodon's Majestic Gauntlets",
             "itemType": 7,
             "color": 4
         },
@@ -1356,7 +1356,7 @@
             "id": 24670,
             "level": 16,
             "icon": 4627,
-            "name": "Majestic Gauntlets of Taron",
+            "name": "Taron's Majestic Gauntlets",
             "itemType": 7,
             "color": 4
         },
@@ -1364,7 +1364,7 @@
             "id": 24671,
             "level": 18,
             "icon": 4627,
-            "name": "Majestic Gauntlets of Kerula",
+            "name": "Kerula's Majestic Gauntlets",
             "itemType": 7,
             "color": 4
         },
@@ -1372,7 +1372,7 @@
             "id": 24672,
             "level": 20,
             "icon": 4627,
-            "name": "Majestic Gauntlets of Gimir",
+            "name": "Gimir's Majestic Gauntlets",
             "itemType": 7,
             "color": 4
         },
@@ -1380,7 +1380,7 @@
             "id": 24673,
             "level": 22,
             "icon": 4627,
-            "name": "Majestic Gauntlets of Flavius",
+            "name": "Flavius's Majestic Gauntlets",
             "itemType": 7,
             "color": 4
         },
@@ -1388,7 +1388,7 @@
             "id": 24674,
             "level": 24,
             "icon": 4627,
-            "name": "Majestic Gauntlets of Ruberius",
+            "name": "Ruberius's Majestic Gauntlets",
             "itemType": 7,
             "color": 4
         },
@@ -1396,7 +1396,7 @@
             "id": 24675,
             "level": 26,
             "icon": 4627,
-            "name": "Majestic Gauntlets of Mortis",
+            "name": "Mortis's Majestic Gauntlets",
             "itemType": 7,
             "color": 4
         },
@@ -1404,7 +1404,7 @@
             "id": 24676,
             "level": 28,
             "icon": 4627,
-            "name": "Majestic Gauntlets of the Snow General",
+            "name": "Snow General's Majestic Gauntlets",
             "itemType": 7,
             "color": 4
         },
@@ -1412,7 +1412,7 @@
             "id": 25261,
             "level": 28,
             "icon": 1503,
-            "name": "Bracers of Insight",
+            "name": "Vambraces of Insight",
             "itemType": 7,
             "color": 2
         },
@@ -1420,7 +1420,7 @@
             "id": 25266,
             "level": 28,
             "icon": 1503,
-            "name": "Bracers of Sinister Visions",
+            "name": "Vambraces of Sinister Visions",
             "itemType": 7,
             "color": 3
         },
@@ -1428,7 +1428,7 @@
             "id": 25271,
             "level": 28,
             "icon": 3515,
-            "name": "Bracers of Sheer Emptiness",
+            "name": "Vambraces of Sheer Emptiness",
             "itemType": 7,
             "color": 3
         },
@@ -1436,7 +1436,7 @@
             "id": 25941,
             "level": 20,
             "icon": 4459,
-            "name": "Gauntlets of Templars of the Dominant Coalition",
+            "name": "Gauntlets of Dominant Coalition Templars",
             "itemType": 7,
             "color": 4
         },
@@ -1444,7 +1444,7 @@
             "id": 25945,
             "level": 22,
             "icon": 4459,
-            "name": "Gauntlets of Templars of the Mighty Alliance",
+            "name": "Gauntlets of Mighty Alliance Templars",
             "itemType": 7,
             "color": 4
         },
@@ -1452,7 +1452,7 @@
             "id": 25949,
             "level": 24,
             "icon": 4459,
-            "name": "Gauntlets of Templars of the Legendary Brotherhood",
+            "name": "Gauntlets of Legendary Brotherhood Templars",
             "itemType": 7,
             "color": 4
         },
@@ -1460,7 +1460,7 @@
             "id": 25953,
             "level": 26,
             "icon": 4459,
-            "name": "Gauntlets of Templars of the Immortal Order",
+            "name": "Gauntlets of Immortal Order Templars",
             "itemType": 7,
             "color": 4
         },
@@ -1484,7 +1484,7 @@
             "id": 26519,
             "level": 29,
             "icon": 1500,
-            "name": "Gauntlets of the Legendary Templar",
+            "name": "Gauntlets of Legendary Templar",
             "itemType": 7,
             "color": 3
         },
@@ -1492,7 +1492,7 @@
             "id": 26520,
             "level": 29,
             "icon": 1500,
-            "name": "Vambraces of the Legendary Templar",
+            "name": "Vambraces of Legendary Templar",
             "itemType": 7,
             "color": 3
         },
@@ -1644,7 +1644,7 @@
             "id": 27968,
             "level": 30,
             "icon": 4223,
-            "name": "Winter Vambraces of Chernobog",
+            "name": "Chernobog's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -1652,7 +1652,7 @@
             "id": 27972,
             "level": 30,
             "icon": 4223,
-            "name": "Winter Gauntlets of Chernobog",
+            "name": "Chernobog's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1740,7 +1740,7 @@
             "id": 28125,
             "level": 30,
             "icon": 4627,
-            "name": "Omnipotent Bracers of Chernobog",
+            "name": "Chernobog's Omnipotent Vambraces",
             "itemType": 7,
             "color": 4
         },
@@ -1748,7 +1748,7 @@
             "id": 28129,
             "level": 30,
             "icon": 4627,
-            "name": "Majestic Gauntlets of Chernobog",
+            "name": "Chernobog's Majestic Gauntlets",
             "itemType": 7,
             "color": 4
         },
@@ -1812,7 +1812,7 @@
             "id": 29523,
             "level": 20,
             "icon": 4458,
-            "name": "Vambraces of Templars of the Sacred Forest",
+            "name": "Vambraces of Sacred Forest Templars",
             "itemType": 7,
             "color": 4
         },
@@ -1820,7 +1820,7 @@
             "id": 29527,
             "level": 22,
             "icon": 4458,
-            "name": "Vambraces of Templars of the Pyramid Valley",
+            "name": "Vambraces of Pyramid Valley Templars",
             "itemType": 7,
             "color": 4
         },
@@ -1828,7 +1828,7 @@
             "id": 29531,
             "level": 24,
             "icon": 4458,
-            "name": "Vambraces of Templars of the Black Oak Forest",
+            "name": "Vambraces of Black Oak Forest Templars",
             "itemType": 7,
             "color": 4
         },
@@ -1836,7 +1836,7 @@
             "id": 29535,
             "level": 26,
             "icon": 4458,
-            "name": "Vambraces of Templars of the Flying Islands",
+            "name": "Vambraces of Flying Islands Templars",
             "itemType": 7,
             "color": 4
         },
@@ -1844,7 +1844,7 @@
             "id": 29539,
             "level": 28,
             "icon": 4458,
-            "name": "Vambraces of Templars of the Ship Graveyard",
+            "name": "Vambraces of Ship Graveyard Templars",
             "itemType": 7,
             "color": 4
         },
@@ -1852,7 +1852,7 @@
             "id": 29543,
             "level": 28,
             "icon": 4458,
-            "name": "Vambraces of Defenders of the Ship Graveyard",
+            "name": "Vambraces of Ship Graveyard Defenders",
             "itemType": 7,
             "color": 4
         },
@@ -1860,7 +1860,7 @@
             "id": 29547,
             "level": 28,
             "icon": 4459,
-            "name": "Gauntlets of Defenders of the Imperious Clan",
+            "name": "Gauntlets of Imperious Clan Defenders",
             "itemType": 7,
             "color": 4
         },
@@ -1868,7 +1868,7 @@
             "id": 29551,
             "level": 28,
             "icon": 4459,
-            "name": "Gauntlets of Templars of the Imperious Clan",
+            "name": "Gauntlets of Imperious Clan Templars",
             "itemType": 7,
             "color": 4
         },
@@ -1876,7 +1876,7 @@
             "id": 29770,
             "level": 7,
             "icon": 1506,
-            "name": "Gauntlets of Recruit",
+            "name": "Recruit's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1884,7 +1884,7 @@
             "id": 29775,
             "level": 7,
             "icon": 1506,
-            "name": "Vambraces of Recruit",
+            "name": "Recruit's Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -1892,7 +1892,7 @@
             "id": 29780,
             "level": 11,
             "icon": 1506,
-            "name": "Gauntlets of Mercenary",
+            "name": "Hireling's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1900,7 +1900,7 @@
             "id": 29785,
             "level": 11,
             "icon": 1506,
-            "name": "Vambraces of Mercenary",
+            "name": "Hireling's Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -1908,7 +1908,7 @@
             "id": 32065,
             "level": 30,
             "icon": 4458,
-            "name": "Vambracers of the Defenders of the Pirate Archipelago",
+            "name": "Vambraces of Pirate Archipelago Defenders",
             "itemType": 7,
             "color": 4
         },
@@ -1916,7 +1916,7 @@
             "id": 32069,
             "level": 30,
             "icon": 4458,
-            "name": "Vambracers of the Templars of the Pirate Archipelago",
+            "name": "Vambraces of Pirate Archipelago Templars",
             "itemType": 7,
             "color": 4
         },
@@ -1924,7 +1924,7 @@
             "id": 32073,
             "level": 30,
             "icon": 4459,
-            "name": "Gauntlets of the Defenders of the Unbreakable Alliance",
+            "name": "Gauntlets of Unbreakable Alliance Defenders",
             "itemType": 7,
             "color": 4
         },
@@ -2084,7 +2084,7 @@
             "id": 33863,
             "level": 32,
             "icon": 4223,
-            "name": "Winter Vambraces of Titan",
+            "name": "Titan's Winter Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -2092,7 +2092,7 @@
             "id": 33867,
             "level": 32,
             "icon": 4223,
-            "name": "Winter Gauntlets of Titan",
+            "name": "Titan's Winter Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -2116,7 +2116,7 @@
             "id": 33911,
             "level": 32,
             "icon": 4627,
-            "name": "Omnipotent Bracers of Titan",
+            "name": "Titan's Omnipotent Vambraces",
             "itemType": 7,
             "color": 4
         },
@@ -2124,7 +2124,7 @@
             "id": 33915,
             "level": 32,
             "icon": 4627,
-            "name": "Majestic Gauntlets of Titan",
+            "name": "Titan's Majestic Gauntlets",
             "itemType": 7,
             "color": 4
         },
@@ -2148,7 +2148,7 @@
             "id": 34501,
             "level": 32,
             "icon": 3515,
-            "name": "Vambraces of the Ominous Requiem",
+            "name": "Vambraces of Ominous Requiem",
             "itemType": 7,
             "color": 3
         },
@@ -2188,7 +2188,7 @@
             "id": 35119,
             "level": 22,
             "icon": 6183,
-            "name": "Gauntlets of the Knights of the Forest\u2019s Heart",
+            "name": "Gauntlets of Forest\u2019s Heart Knights",
             "itemType": 7,
             "color": 4
         },
@@ -2196,7 +2196,7 @@
             "id": 35123,
             "level": 24,
             "icon": 6183,
-            "name": "Gauntlets of the Knights of the Jaguar\u2019s Den",
+            "name": "Gauntlets of Jaguar\u2019s Den Knights",
             "itemType": 7,
             "color": 4
         },
@@ -2204,7 +2204,7 @@
             "id": 35127,
             "level": 26,
             "icon": 6183,
-            "name": "Gauntlets of the Knights of the Dragon Ness",
+            "name": "Gauntlets of Dragon Ness Knights",
             "itemType": 7,
             "color": 4
         },
@@ -2212,7 +2212,7 @@
             "id": 35131,
             "level": 28,
             "icon": 6183,
-            "name": "Gauntlets of the Knights of the Sky Sanctuary",
+            "name": "Gauntlets of Sky Sanctuary Knights",
             "itemType": 7,
             "color": 4
         },
@@ -2220,7 +2220,7 @@
             "id": 35135,
             "level": 30,
             "icon": 6183,
-            "name": "Gauntlets of the Knights of the Sea Turtle",
+            "name": "Gauntlets of Sea Turtle Knights",
             "itemType": 7,
             "color": 4
         },
@@ -2228,7 +2228,7 @@
             "id": 35156,
             "level": 32,
             "icon": 5805,
-            "name": "The Witchcraft Gloves of Eternity",
+            "name": "The Witchcraft Gauntlets of Eternity",
             "itemType": 7,
             "color": 4
         },
@@ -2236,7 +2236,7 @@
             "id": 35160,
             "level": 32,
             "icon": 5806,
-            "name": "Arctic Gloves of Fierceness",
+            "name": "Arctic Gauntlets of Fierceness",
             "itemType": 7,
             "color": 4
         },

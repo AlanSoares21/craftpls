@@ -44,7 +44,7 @@
             "id": 2192,
             "level": 15,
             "icon": 992,
-            "name": "Well-tried Belt",
+            "name": "Well-Worn Belt",
             "itemType": 6,
             "color": 1
         },
@@ -52,7 +52,7 @@
             "id": 2193,
             "level": 13,
             "icon": 992,
-            "name": "Well-tried Girdle",
+            "name": "Well-Worn Girdle",
             "itemType": 6,
             "color": 1
         },
@@ -60,7 +60,7 @@
             "id": 2270,
             "level": 15,
             "icon": 995,
-            "name": "Good shoulder-belt",
+            "name": "Good Sword Belt",
             "itemType": 6,
             "color": 2
         },
@@ -76,7 +76,7 @@
             "id": 2319,
             "level": 15,
             "icon": 1001,
-            "name": "Graceful Mail Girdle",
+            "name": "Graceful Mail Belt",
             "itemType": 6,
             "color": 3
         },
@@ -84,7 +84,7 @@
             "id": 2360,
             "level": 15,
             "icon": 1004,
-            "name": "Girdle of fighter",
+            "name": "Fighter's Girdle",
             "itemType": 6,
             "color": 3
         },
@@ -108,7 +108,7 @@
             "id": 5793,
             "level": 4,
             "icon": 995,
-            "name": "Girdle of Beginner Fighter",
+            "name": "Girdle of Novice Fighter",
             "itemType": 6,
             "color": 3
         },
@@ -116,7 +116,7 @@
             "id": 5809,
             "level": 10,
             "icon": 995,
-            "name": "Durable Belt of Beginner Fighter",
+            "name": "Durable Girdle of Novice Fighter",
             "itemType": 6,
             "color": 3
         },
@@ -124,7 +124,7 @@
             "id": 6376,
             "level": 17,
             "icon": 992,
-            "name": "Star Pilgrim's Sword Belt",
+            "name": "Sword Belt of Star Pilgrims",
             "itemType": 6,
             "color": 3
         },
@@ -140,7 +140,7 @@
             "id": 13787,
             "level": 11,
             "icon": 992,
-            "name": "Sword Belt of Aquilon",
+            "name": "Aquilon's Sword Belt",
             "itemType": 6,
             "color": 2
         },
@@ -276,7 +276,7 @@
             "id": 16216,
             "level": 8,
             "icon": 3112,
-            "name": "Girdle of Oath-breaker",
+            "name": "Girdle of Oathbreaker",
             "itemType": 6,
             "color": 3
         },
@@ -372,7 +372,7 @@
             "id": 19207,
             "level": 23,
             "icon": 983,
-            "name": "Belt of the Templar",
+            "name": "Girdle of the Templar",
             "itemType": 6,
             "color": 3
         },
@@ -444,7 +444,7 @@
             "id": 20387,
             "level": 14,
             "icon": 3112,
-            "name": "Sword belt of the Toothy Hunter",
+            "name": "Sword Belt of Toothy Hunter",
             "itemType": 6,
             "color": 3
         },
@@ -516,7 +516,7 @@
             "id": 21433,
             "level": 3,
             "icon": 992,
-            "name": "Plain Heavy Belt",
+            "name": "Plain Heavy Girdle",
             "itemType": 6,
             "color": 2
         },
@@ -532,7 +532,7 @@
             "id": 22442,
             "level": 26,
             "icon": 3112,
-            "name": "Girdle of the Descendant of the Titans",
+            "name": "Girdle of Titan's Descendant",
             "itemType": 6,
             "color": 3
         },
@@ -540,7 +540,7 @@
             "id": 22443,
             "level": 26,
             "icon": 3112,
-            "name": "Sword Belt of the Descendant of the Titans",
+            "name": "Sword Belt of Titan's Descendant",
             "itemType": 6,
             "color": 3
         },
@@ -676,7 +676,7 @@
             "id": 23727,
             "level": 22,
             "icon": 995,
-            "name": "Divine Protection Sword Belt",
+            "name": "Sword Belt of Divine Protection",
             "itemType": 6,
             "color": 3
         },
@@ -700,7 +700,7 @@
             "id": 23730,
             "level": 10,
             "icon": 4531,
-            "name": "Eternal Life Sword Belt",
+            "name": "Sword Belt of Eternal Life",
             "itemType": 6,
             "color": 3
         },
@@ -748,7 +748,7 @@
             "id": 23736,
             "level": 22,
             "icon": 4531,
-            "name": "Infinite Reliability Sword Belt",
+            "name": "Sword Belt of Infinite Reliability",
             "itemType": 6,
             "color": 3
         },
@@ -844,7 +844,7 @@
             "id": 26523,
             "level": 29,
             "icon": 983,
-            "name": "Girdle of the Legendary Templar",
+            "name": "Girdle of Legendary Templar",
             "itemType": 6,
             "color": 3
         },
@@ -852,7 +852,7 @@
             "id": 28099,
             "level": 6,
             "icon": 3112,
-            "name": "Leather Belt of Cold-Bearing Spirit",
+            "name": "Leather Girdle of Cold-Bearing Spirit",
             "itemType": 6,
             "color": 3
         },
@@ -908,7 +908,7 @@
             "id": 29772,
             "level": 7,
             "icon": 995,
-            "name": "Girdle of Recruit",
+            "name": "Recruit's Girdle",
             "itemType": 6,
             "color": 3
         },
@@ -916,7 +916,7 @@
             "id": 29777,
             "level": 7,
             "icon": 995,
-            "name": "Sword Belt of Recruit",
+            "name": "Recruit's Sword Belt",
             "itemType": 6,
             "color": 3
         },
@@ -924,7 +924,7 @@
             "id": 29782,
             "level": 11,
             "icon": 995,
-            "name": "Girdle of Mercenary",
+            "name": "Hireling's Girdle",
             "itemType": 6,
             "color": 3
         },
@@ -932,7 +932,7 @@
             "id": 29787,
             "level": 11,
             "icon": 995,
-            "name": "Sword Belt of Mercenary",
+            "name": "Hireling's Sword Belt",
             "itemType": 6,
             "color": 3
         },
@@ -940,7 +940,7 @@
             "id": 31243,
             "level": 14,
             "icon": 3112,
-            "name": "Icy Girdle of Toothy Hunter",
+            "name": "Glacial Girdle of Toothy Hunter",
             "itemType": 6,
             "color": 3
         },
@@ -956,7 +956,7 @@
             "id": 31245,
             "level": 16,
             "icon": 3112,
-            "name": "Icy Girdle of the Rune Scald",
+            "name": "Glacial Girdle of the Rune Scald",
             "itemType": 6,
             "color": 3
         },
@@ -972,7 +972,7 @@
             "id": 31247,
             "level": 18,
             "icon": 3112,
-            "name": "Icy Girdle of the Immortal Wanderer",
+            "name": "Glacial Girdle of the Immortal Wanderer",
             "itemType": 6,
             "color": 3
         },
@@ -988,7 +988,7 @@
             "id": 31249,
             "level": 20,
             "icon": 3112,
-            "name": "Icy Girdle of the Snow Lady",
+            "name": "Glacial Girdle of the Snow Lady",
             "itemType": 6,
             "color": 3
         },
@@ -1004,7 +1004,7 @@
             "id": 31251,
             "level": 22,
             "icon": 3112,
-            "name": "Icy Girdle of Permafrost",
+            "name": "Glacial Girdle of Permafrost",
             "itemType": 6,
             "color": 3
         },
@@ -1020,7 +1020,7 @@
             "id": 31253,
             "level": 24,
             "icon": 3112,
-            "name": "Icy Girdle of the Ice Prince",
+            "name": "Glacial Girdle of the Ice Prince",
             "itemType": 6,
             "color": 3
         },
@@ -1036,7 +1036,7 @@
             "id": 31255,
             "level": 26,
             "icon": 3112,
-            "name": "Icy Girdle of the Descendant of the Titans",
+            "name": "Glacial Girdle of Titan's Descendant",
             "itemType": 6,
             "color": 3
         },
@@ -1044,7 +1044,7 @@
             "id": 31256,
             "level": 26,
             "icon": 3112,
-            "name": "Icy Sword Belt of the Descendant of the Titans",
+            "name": "Icy Sword Belt of Titan's Descendant",
             "itemType": 6,
             "color": 3
         },
@@ -1052,7 +1052,7 @@
             "id": 31257,
             "level": 28,
             "icon": 3112,
-            "name": "Icy Girdle of the Winter King",
+            "name": "Glacial Girdle of the Winter King",
             "itemType": 6,
             "color": 3
         },
@@ -1068,7 +1068,7 @@
             "id": 31259,
             "level": 30,
             "icon": 3112,
-            "name": "Icy Girdle of the Lord of Cold",
+            "name": "Glacial Girdle of the Lord of Cold",
             "itemType": 6,
             "color": 3
         },
@@ -1100,7 +1100,7 @@
             "id": 33815,
             "level": 32,
             "icon": 3112,
-            "name": "Icy Girdle of the Northern Lord",
+            "name": "Glacial Girdle of the Northern Lord",
             "itemType": 6,
             "color": 3
         },
@@ -1212,7 +1212,7 @@
             "id": 34503,
             "level": 32,
             "icon": 4531,
-            "name": "Sword Belt of the Ominous Requiem",
+            "name": "Sword Belt of Ominous Requiem",
             "itemType": 6,
             "color": 3
         },

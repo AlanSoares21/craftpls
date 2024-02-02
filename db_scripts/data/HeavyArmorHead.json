@@ -84,7 +84,7 @@
             "id": 2348,
             "level": 15,
             "icon": 1880,
-            "name": "Heaume of Fighter",
+            "name": "Fighter's Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -276,7 +276,7 @@
             "id": 5789,
             "level": 7,
             "icon": 1307,
-            "name": "Helmet of Beginner Fighter",
+            "name": "Helmet of Novice Fighter",
             "itemType": 5,
             "color": 3
         },
@@ -308,7 +308,7 @@
             "id": 6477,
             "level": 18,
             "icon": 1304,
-            "name": "Heaume of Divine Defence",
+            "name": "Heaume of Divine Defense",
             "itemType": 5,
             "color": 4
         },
@@ -356,7 +356,7 @@
             "id": 13782,
             "level": 10,
             "icon": 1880,
-            "name": "Heaume of Aquilon",
+            "name": "Aquilon's Heaume",
             "itemType": 5,
             "color": 2
         },
@@ -452,7 +452,7 @@
             "id": 14930,
             "level": 20,
             "icon": 1307,
-            "name": "Tophelm of the Dark Skies",
+            "name": "Heaume of the Dark Skies",
             "itemType": 5,
             "color": 4
         },
@@ -700,7 +700,7 @@
             "id": 18521,
             "level": 10,
             "icon": 3507,
-            "name": "Eternal Life Heaume",
+            "name": "Heaume of Eternal Life",
             "itemType": 5,
             "color": 3
         },
@@ -748,7 +748,7 @@
             "id": 18545,
             "level": 22,
             "icon": 3507,
-            "name": "Infinite Reliability Heaume",
+            "name": "Heaume of Infinite Reliability",
             "itemType": 5,
             "color": 3
         },
@@ -844,7 +844,7 @@
             "id": 18594,
             "level": 22,
             "icon": 1307,
-            "name": "Divine Protection Heaume",
+            "name": "Heaume of Divine Protection",
             "itemType": 5,
             "color": 3
         },
@@ -1044,7 +1044,7 @@
             "id": 22202,
             "level": 6,
             "icon": 4230,
-            "name": "Winter Heaume of Iceman",
+            "name": "Iceman's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1052,7 +1052,7 @@
             "id": 22203,
             "level": 6,
             "icon": 4230,
-            "name": "Winter Aventail of Iceman",
+            "name": "Iceman's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1060,7 +1060,7 @@
             "id": 22226,
             "level": 10,
             "icon": 4230,
-            "name": "Winter Heaume of Ragnar",
+            "name": "Ragnar's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1068,7 +1068,7 @@
             "id": 22227,
             "level": 10,
             "icon": 4230,
-            "name": "Winter Aventail of Ragnar",
+            "name": "Ragnar's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1076,7 +1076,7 @@
             "id": 22250,
             "level": 12,
             "icon": 4230,
-            "name": "Winter Heaume of Frosty Fang",
+            "name": "Frosty Fang's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1084,7 +1084,7 @@
             "id": 22251,
             "level": 12,
             "icon": 4230,
-            "name": "Winter Aventail of Frosty Fang",
+            "name": "Frosty Fang's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1092,7 +1092,7 @@
             "id": 22274,
             "level": 14,
             "icon": 4230,
-            "name": "Winter Heaume of Mastodon",
+            "name": "Mastodon's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1100,7 +1100,7 @@
             "id": 22275,
             "level": 14,
             "icon": 4230,
-            "name": "Winter Aventail of Mastodon",
+            "name": "Mastodon's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1108,7 +1108,7 @@
             "id": 22298,
             "level": 16,
             "icon": 4230,
-            "name": "Winter Heaume of Taron",
+            "name": "Taron's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1116,7 +1116,7 @@
             "id": 22299,
             "level": 16,
             "icon": 4230,
-            "name": "Winter Aventail of Taron",
+            "name": "Taron's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1124,7 +1124,7 @@
             "id": 22316,
             "level": 18,
             "icon": 4230,
-            "name": "Winter Heaume of Kerula",
+            "name": "Kerula's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1132,7 +1132,7 @@
             "id": 22317,
             "level": 18,
             "icon": 4230,
-            "name": "Winter Aventail of Kerula",
+            "name": "Kerula's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1140,7 +1140,7 @@
             "id": 22346,
             "level": 20,
             "icon": 4230,
-            "name": "Winter Heaume of Gimir",
+            "name": "Gimir's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1148,7 +1148,7 @@
             "id": 22347,
             "level": 20,
             "icon": 4230,
-            "name": "Winter Aventail of Gimir",
+            "name": "Gimir's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1156,7 +1156,7 @@
             "id": 22370,
             "level": 22,
             "icon": 4230,
-            "name": "Winter Heaume of Flavius",
+            "name": "Flavius's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1164,7 +1164,7 @@
             "id": 22371,
             "level": 22,
             "icon": 4230,
-            "name": "Winter Aventail of Flavius",
+            "name": "Flavius's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1172,7 +1172,7 @@
             "id": 22394,
             "level": 24,
             "icon": 4230,
-            "name": "Winter Heaume of Ruberius",
+            "name": "Ruberius's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1180,7 +1180,7 @@
             "id": 22395,
             "level": 24,
             "icon": 4230,
-            "name": "Winter Aventail of Ruberius",
+            "name": "Ruberius's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1188,7 +1188,7 @@
             "id": 22418,
             "level": 26,
             "icon": 4230,
-            "name": "Winter Heaume of Mortis",
+            "name": "Mortis's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1196,7 +1196,7 @@
             "id": 22419,
             "level": 26,
             "icon": 4230,
-            "name": "Winter Aventail of Mortis",
+            "name": "Mortis's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1204,7 +1204,7 @@
             "id": 23381,
             "level": 20,
             "icon": 4473,
-            "name": "Aventail of Defenders of the Sacred Forest",
+            "name": "Aventail of Sacred Forest Defenders",
             "itemType": 5,
             "color": 4
         },
@@ -1212,7 +1212,7 @@
             "id": 23385,
             "level": 20,
             "icon": 4474,
-            "name": "Heaume of Defenders of the Dominant Coalition",
+            "name": "Heaume of Dominant Coalition Defenders",
             "itemType": 5,
             "color": 4
         },
@@ -1220,7 +1220,7 @@
             "id": 23389,
             "level": 22,
             "icon": 4473,
-            "name": "Aventail of Defenders of the Pyramid Valley",
+            "name": "Aventail of Pyramid Valley Defenders",
             "itemType": 5,
             "color": 4
         },
@@ -1228,7 +1228,7 @@
             "id": 23393,
             "level": 22,
             "icon": 4474,
-            "name": "Heaume of Defenders of the Mighty Alliance",
+            "name": "Heaume of Mighty Alliance Defenders",
             "itemType": 5,
             "color": 4
         },
@@ -1236,7 +1236,7 @@
             "id": 23397,
             "level": 24,
             "icon": 4473,
-            "name": "Aventail of Defenders of the Black Oak Forest",
+            "name": "Aventail of Black Oak Forest Defenders",
             "itemType": 5,
             "color": 4
         },
@@ -1244,7 +1244,7 @@
             "id": 23401,
             "level": 24,
             "icon": 4474,
-            "name": "Heaume of Defenders of the Legendary Brotherhood",
+            "name": "Heaume of Legendary Brotherhood Defenders",
             "itemType": 5,
             "color": 4
         },
@@ -1252,7 +1252,7 @@
             "id": 23405,
             "level": 26,
             "icon": 4473,
-            "name": "Aventail of Defenders of the Flying Islands",
+            "name": "Aventail of Flying Islands Defenders",
             "itemType": 5,
             "color": 4
         },
@@ -1260,7 +1260,7 @@
             "id": 23409,
             "level": 26,
             "icon": 4474,
-            "name": "Heaume of Defenders of the Immortal Order",
+            "name": "Heaume of Immortal Order Defenders",
             "itemType": 5,
             "color": 4
         },
@@ -1268,7 +1268,7 @@
             "id": 23504,
             "level": 25,
             "icon": 1304,
-            "name": "Aventail of the Forest Defenders",
+            "name": "Aventail of Forest Defenders",
             "itemType": 5,
             "color": 3
         },
@@ -1436,7 +1436,7 @@
             "id": 24420,
             "level": 28,
             "icon": 4230,
-            "name": "Winter Heaume of the Snow General",
+            "name": "Snow General's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1444,7 +1444,7 @@
             "id": 24424,
             "level": 28,
             "icon": 4230,
-            "name": "Winter Aventail of the Snow General",
+            "name": "Snow General's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1460,7 +1460,7 @@
             "id": 24462,
             "level": 10,
             "icon": 4633,
-            "name": "Omnipotent Heaume of Ragnar",
+            "name": "Ragnar's Omnipotent Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1468,7 +1468,7 @@
             "id": 24466,
             "level": 10,
             "icon": 4633,
-            "name": "Majestic Aventail of Ragnar",
+            "name": "Ragnar's Majestic Aventail",
             "itemType": 5,
             "color": 4
         },
@@ -1476,7 +1476,7 @@
             "id": 24614,
             "level": 12,
             "icon": 4633,
-            "name": "Omnipotent Heaume of Frosty Fang",
+            "name": "Frosty Fang's Omnipotent Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1484,7 +1484,7 @@
             "id": 24615,
             "level": 14,
             "icon": 4633,
-            "name": "Omnipotent Heaume of Mastodon",
+            "name": "Mastodon's Omnipotent Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1492,7 +1492,7 @@
             "id": 24616,
             "level": 16,
             "icon": 4633,
-            "name": "Omnipotent Heaume of Taron",
+            "name": "Taron's Omnipotent Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1500,7 +1500,7 @@
             "id": 24617,
             "level": 18,
             "icon": 4633,
-            "name": "Omnipotent Heaume of Kerula",
+            "name": "Kerula's Omnipotent Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1508,7 +1508,7 @@
             "id": 24618,
             "level": 20,
             "icon": 4633,
-            "name": "Omnipotent Heaume of Gimir",
+            "name": "Gimir's Omnipotent Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1516,7 +1516,7 @@
             "id": 24619,
             "level": 22,
             "icon": 4633,
-            "name": "Omnipotent Heaume of Flavius",
+            "name": "Flavius's Omnipotent Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1524,7 +1524,7 @@
             "id": 24620,
             "level": 24,
             "icon": 4633,
-            "name": "Omnipotent Heaume of Ruberius",
+            "name": "Ruberius's Omnipotent Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1532,7 +1532,7 @@
             "id": 24621,
             "level": 26,
             "icon": 4633,
-            "name": "Omnipotent Heaume of Mortis",
+            "name": "Mortis's Omnipotent Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1540,7 +1540,7 @@
             "id": 24622,
             "level": 28,
             "icon": 4633,
-            "name": "Omnipotent Heaume of the Snow General",
+            "name": "Snow General's Omnipotent Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1548,7 +1548,7 @@
             "id": 24650,
             "level": 12,
             "icon": 4633,
-            "name": "Majestic Aventail of Frosty Fang",
+            "name": "Frosty Fang's Majestic Aventail",
             "itemType": 5,
             "color": 4
         },
@@ -1564,7 +1564,7 @@
             "id": 24652,
             "level": 16,
             "icon": 4633,
-            "name": "Majestic Aventail of Taron",
+            "name": "Taron's Majestic Aventail",
             "itemType": 5,
             "color": 4
         },
@@ -1572,7 +1572,7 @@
             "id": 24653,
             "level": 18,
             "icon": 4633,
-            "name": "Majestic Aventail of Kerula",
+            "name": "Kerula's Majestic Aventail",
             "itemType": 5,
             "color": 4
         },
@@ -1580,7 +1580,7 @@
             "id": 24654,
             "level": 20,
             "icon": 4633,
-            "name": "Majestic Aventail of Gimir",
+            "name": "Gimir's Majestic Aventail",
             "itemType": 5,
             "color": 4
         },
@@ -1588,7 +1588,7 @@
             "id": 24655,
             "level": 22,
             "icon": 4633,
-            "name": "Majestic Aventail of Flavius",
+            "name": "Flavius's Majestic Aventail",
             "itemType": 5,
             "color": 4
         },
@@ -1596,7 +1596,7 @@
             "id": 24656,
             "level": 24,
             "icon": 4633,
-            "name": "Majestic Aventail of Ruberius",
+            "name": "Ruberius's Majestic Aventail",
             "itemType": 5,
             "color": 4
         },
@@ -1604,7 +1604,7 @@
             "id": 24657,
             "level": 26,
             "icon": 4633,
-            "name": "Majestic Aventail of Mortis",
+            "name": "Mortis's Majestic Aventail",
             "itemType": 5,
             "color": 4
         },
@@ -1612,7 +1612,7 @@
             "id": 24658,
             "level": 28,
             "icon": 4633,
-            "name": "Majestic Aventail of the Snow General",
+            "name": "Snow General's Majestic Aventail",
             "itemType": 5,
             "color": 4
         },
@@ -1644,7 +1644,7 @@
             "id": 25940,
             "level": 20,
             "icon": 4474,
-            "name": "Heaume of Templars of the Dominant Coalition",
+            "name": "Heaume of Dominant Coalition Templars",
             "itemType": 5,
             "color": 4
         },
@@ -1652,7 +1652,7 @@
             "id": 25943,
             "level": 22,
             "icon": 4474,
-            "name": "Heaume of Templars of the Mighty Alliance",
+            "name": "Heaume of Mighty Alliance Templars",
             "itemType": 5,
             "color": 4
         },
@@ -1660,7 +1660,7 @@
             "id": 25948,
             "level": 24,
             "icon": 4474,
-            "name": "Heaume of Templars of the Legendary Brotherhood",
+            "name": "Heaume of Legendary Brotherhood Templars",
             "itemType": 5,
             "color": 4
         },
@@ -1668,7 +1668,7 @@
             "id": 25952,
             "level": 26,
             "icon": 4474,
-            "name": "Heaume of Templars of the Immortal Order",
+            "name": "Heaume of Immortal Order Templars",
             "itemType": 5,
             "color": 4
         },
@@ -1708,7 +1708,7 @@
             "id": 26515,
             "level": 29,
             "icon": 1307,
-            "name": "Heaume of the Legendary Templar",
+            "name": "Heaume of Legendary Templar",
             "itemType": 5,
             "color": 3
         },
@@ -1716,7 +1716,7 @@
             "id": 26516,
             "level": 29,
             "icon": 1307,
-            "name": "Aventail of the Legendary Templar",
+            "name": "Aventail of Legendary Templar",
             "itemType": 5,
             "color": 3
         },
@@ -1740,7 +1740,7 @@
             "id": 27966,
             "level": 30,
             "icon": 4230,
-            "name": "Winter Heaume of Chernobog",
+            "name": "Chernobog's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1748,7 +1748,7 @@
             "id": 27970,
             "level": 30,
             "icon": 4230,
-            "name": "Winter Aventail of Chernobog",
+            "name": "Chernobog's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1836,7 +1836,7 @@
             "id": 28123,
             "level": 30,
             "icon": 4633,
-            "name": "Omnipotent Heaume of Chernobog",
+            "name": "Chernobog's Almighty Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1844,7 +1844,7 @@
             "id": 28127,
             "level": 30,
             "icon": 4633,
-            "name": "Majestic Aventail of Chernobog",
+            "name": "Chernobog's Majestic Aventail",
             "itemType": 5,
             "color": 4
         },
@@ -1908,7 +1908,7 @@
             "id": 29521,
             "level": 20,
             "icon": 4473,
-            "name": "Aventail of Templars of the Sacred Forest",
+            "name": "Aventail of Sacred Forest Templars",
             "itemType": 5,
             "color": 4
         },
@@ -1916,7 +1916,7 @@
             "id": 29525,
             "level": 22,
             "icon": 4473,
-            "name": "Aventail of Templars of the Pyramid Valley",
+            "name": "Aventail of Pyramid Valley Templars",
             "itemType": 5,
             "color": 4
         },
@@ -1924,7 +1924,7 @@
             "id": 29529,
             "level": 24,
             "icon": 4473,
-            "name": "Aventail of Templars of the Black Oak Forest",
+            "name": "Aventail of Black Oak Forest Templars",
             "itemType": 5,
             "color": 4
         },
@@ -1932,7 +1932,7 @@
             "id": 29533,
             "level": 26,
             "icon": 4473,
-            "name": "Aventail of Templars of the Flying Islands",
+            "name": "Aventail of Flying Islands Templars",
             "itemType": 5,
             "color": 4
         },
@@ -1940,7 +1940,7 @@
             "id": 29537,
             "level": 28,
             "icon": 4473,
-            "name": "Aventail of Templars of the Ship Graveyard",
+            "name": "Aventail of Ship Graveyard Templars",
             "itemType": 5,
             "color": 4
         },
@@ -1948,7 +1948,7 @@
             "id": 29541,
             "level": 28,
             "icon": 4473,
-            "name": "Aventail of Defenders of the Ship Graveyard",
+            "name": "Aventail of Ship Graveyard Defenders",
             "itemType": 5,
             "color": 4
         },
@@ -1956,7 +1956,7 @@
             "id": 29545,
             "level": 28,
             "icon": 4474,
-            "name": "Heaume of Defenders of the Imperious Clan",
+            "name": "Heaume of Imperious Clan Defenders",
             "itemType": 5,
             "color": 4
         },
@@ -1964,7 +1964,7 @@
             "id": 29549,
             "level": 28,
             "icon": 4474,
-            "name": "Heaume of Templars of the Imperious Clan",
+            "name": "Heaume of Imperious Clan Templars",
             "itemType": 5,
             "color": 4
         },
@@ -1972,7 +1972,7 @@
             "id": 29768,
             "level": 7,
             "icon": 1283,
-            "name": "Aventail of Recruit",
+            "name": "Recruit's Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1980,7 +1980,7 @@
             "id": 29773,
             "level": 7,
             "icon": 1283,
-            "name": "Heaume of Recruit",
+            "name": "Recruit's Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -1988,7 +1988,7 @@
             "id": 29778,
             "level": 11,
             "icon": 1283,
-            "name": "Aventail of Mercenary",
+            "name": "Hireling's Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -1996,7 +1996,7 @@
             "id": 29783,
             "level": 11,
             "icon": 1283,
-            "name": "Heaume of Mercenary",
+            "name": "Hireling's Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -2004,7 +2004,7 @@
             "id": 32063,
             "level": 30,
             "icon": 4473,
-            "name": "Aventail of the Defenders of the Pirate Archipelago",
+            "name": "Aventail of Pirate Archipelago Defenders",
             "itemType": 5,
             "color": 4
         },
@@ -2012,7 +2012,7 @@
             "id": 32067,
             "level": 30,
             "icon": 4473,
-            "name": "Aventail of the Templars of the Pirate Archipelago",
+            "name": "Aventail of Pirate Archipelago Templars",
             "itemType": 5,
             "color": 4
         },
@@ -2020,7 +2020,7 @@
             "id": 32071,
             "level": 30,
             "icon": 4474,
-            "name": "Heaume of the Defenders of the Unbreakable Alliance",
+            "name": "Heaume of Unbreakable Alliance Defenders",
             "itemType": 5,
             "color": 4
         },
@@ -2164,7 +2164,7 @@
             "id": 33861,
             "level": 32,
             "icon": 4230,
-            "name": "Winter Heaume of Titan",
+            "name": "Titan's Winter Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -2172,7 +2172,7 @@
             "id": 33865,
             "level": 32,
             "icon": 4230,
-            "name": "Winter Aventail of Titan",
+            "name": "Titan's Winter Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -2196,7 +2196,7 @@
             "id": 33909,
             "level": 32,
             "icon": 4633,
-            "name": "Omnipotent Heaume of Titan",
+            "name": "Titan's Almighty Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -2204,7 +2204,7 @@
             "id": 33913,
             "level": 32,
             "icon": 4633,
-            "name": "Majestic Aventail of Titan",
+            "name": "Titan's Majestic Aventail",
             "itemType": 5,
             "color": 4
         },
@@ -2228,7 +2228,7 @@
             "id": 34499,
             "level": 32,
             "icon": 3507,
-            "name": "Heaume of the Ominous Requiem",
+            "name": "Heaume of Ominous Requiem",
             "itemType": 5,
             "color": 3
         },
@@ -2268,7 +2268,7 @@
             "id": 35117,
             "level": 22,
             "icon": 6189,
-            "name": "Heaume of the Knights of the Forest\u2019s Heart",
+            "name": "Heaume of Forest\u2019s Heart Knights",
             "itemType": 5,
             "color": 4
         },
@@ -2276,7 +2276,7 @@
             "id": 35121,
             "level": 24,
             "icon": 6189,
-            "name": "Heaume of the Knights of the Jaguar\u2019s Den",
+            "name": "Heaume of Jaguar\u2019s Den Knights",
             "itemType": 5,
             "color": 4
         },
@@ -2284,7 +2284,7 @@
             "id": 35125,
             "level": 26,
             "icon": 6189,
-            "name": "Heaume of the Knights of the Dragon Ness",
+            "name": "Heaume of Dragon Ness Knights",
             "itemType": 5,
             "color": 4
         },
@@ -2292,7 +2292,7 @@
             "id": 35129,
             "level": 28,
             "icon": 6189,
-            "name": "Heaume of the Knights of the Sky Sanctuary",
+            "name": "Heaume of Sky Sanctuary Knights",
             "itemType": 5,
             "color": 4
         },
@@ -2300,7 +2300,7 @@
             "id": 35133,
             "level": 30,
             "icon": 6189,
-            "name": "Heaume of the Knights of the Sea Turtle",
+            "name": "Heaume of Sea Turtle Knights",
             "itemType": 5,
             "color": 4
         },

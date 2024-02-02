@@ -4,7 +4,7 @@
             "id": 7965,
             "level": 3,
             "icon": 1361,
-            "name": "Amplified Crossbow",
+            "name": "Amplified Arbalest",
             "itemType": 1,
             "color": 1
         },
@@ -12,7 +12,7 @@
             "id": 7988,
             "level": 7,
             "icon": 1361,
-            "name": "Tested Crossbow",
+            "name": "Tested Arbalest",
             "itemType": 1,
             "color": 1
         },
@@ -20,7 +20,7 @@
             "id": 8029,
             "level": 10,
             "icon": 1361,
-            "name": "Deadly Crossbow",
+            "name": "Deadly Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -28,7 +28,7 @@
             "id": 8049,
             "level": 9,
             "icon": 1364,
-            "name": "Ancient Crossbow",
+            "name": "Ancient Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -36,7 +36,7 @@
             "id": 8148,
             "level": 9,
             "icon": 1367,
-            "name": "Flaming Crossbow",
+            "name": "Flaming Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -60,7 +60,7 @@
             "id": 8320,
             "level": 12,
             "icon": 1373,
-            "name": "Arbalest of Bodyguard",
+            "name": "Bodyguard's Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -108,7 +108,7 @@
             "id": 10428,
             "level": 13,
             "icon": 1361,
-            "name": "Tested Crossbow",
+            "name": "Tested Arbalest",
             "itemType": 1,
             "color": 0
         },
@@ -116,7 +116,7 @@
             "id": 10660,
             "level": 5,
             "icon": 2654,
-            "name": "Witch Arrowshooter",
+            "name": "Witch Arrow Shooter",
             "itemType": 1,
             "color": 2
         },
@@ -124,7 +124,7 @@
             "id": 10678,
             "level": 10,
             "icon": 2654,
-            "name": "Witch Arrowshooter",
+            "name": "Witch Arrow Shooter",
             "itemType": 1,
             "color": 2
         },
@@ -132,7 +132,7 @@
             "id": 10679,
             "level": 15,
             "icon": 2654,
-            "name": "Witch Arrowshooter",
+            "name": "Witch Arrow Shooter",
             "itemType": 1,
             "color": 2
         },
@@ -140,7 +140,7 @@
             "id": 11148,
             "level": 17,
             "icon": 1379,
-            "name": "Scout Arbalest",
+            "name": "Scout Arcuballista",
             "itemType": 1,
             "color": 3
         },
@@ -148,7 +148,7 @@
             "id": 11228,
             "level": 16,
             "icon": 1361,
-            "name": "Snowstorm Lockbow",
+            "name": "Snowstorm Crossbow",
             "itemType": 1,
             "color": 2
         },
@@ -164,7 +164,7 @@
             "id": 13179,
             "level": 14,
             "icon": 1373,
-            "name": "Headsman's Lockbow",
+            "name": "Headsman's Crossbow",
             "itemType": 1,
             "color": 2
         },
@@ -180,7 +180,7 @@
             "id": 13872,
             "level": 19,
             "icon": 1367,
-            "name": "Crossbow of Ruberius",
+            "name": "Ruberius's Arbalest",
             "itemType": 1,
             "color": 1
         },
@@ -188,7 +188,7 @@
             "id": 14460,
             "level": 11,
             "icon": 1361,
-            "name": "Wayfarer's Crossbow",
+            "name": "Wayfarer's Arbalest",
             "itemType": 1,
             "color": 1
         },
@@ -196,7 +196,7 @@
             "id": 14462,
             "level": 13,
             "icon": 1361,
-            "name": "Precision Crossbow",
+            "name": "Precision Arbalest",
             "itemType": 1,
             "color": 1
         },
@@ -204,7 +204,7 @@
             "id": 14463,
             "level": 15,
             "icon": 1361,
-            "name": "Precision Lockbow",
+            "name": "Precision Crossbow",
             "itemType": 1,
             "color": 1
         },
@@ -212,7 +212,7 @@
             "id": 14465,
             "level": 17,
             "icon": 1364,
-            "name": "Wayfarer's Arbalest",
+            "name": "Wayfarer's Arcuballista",
             "itemType": 1,
             "color": 1
         },
@@ -220,7 +220,7 @@
             "id": 14467,
             "level": 19,
             "icon": 1373,
-            "name": "Solid Crossbow",
+            "name": "Solid Arbalest",
             "itemType": 1,
             "color": 1
         },
@@ -228,7 +228,7 @@
             "id": 14470,
             "level": 11,
             "icon": 1358,
-            "name": "Steady Crossbow",
+            "name": "Steady Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -236,7 +236,7 @@
             "id": 14472,
             "level": 13,
             "icon": 1361,
-            "name": "Steady Lockbow",
+            "name": "Steady Crossbow",
             "itemType": 1,
             "color": 2
         },
@@ -244,7 +244,7 @@
             "id": 14474,
             "level": 14,
             "icon": 1361,
-            "name": "Ash-tree Crossbow",
+            "name": "Ash-tree Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -252,7 +252,7 @@
             "id": 14476,
             "level": 16,
             "icon": 1364,
-            "name": "Beechen Crossbow",
+            "name": "Beechen Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -260,7 +260,7 @@
             "id": 14478,
             "level": 18,
             "icon": 1364,
-            "name": "Yew Crossbow",
+            "name": "Yew Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -268,7 +268,7 @@
             "id": 14479,
             "level": 19,
             "icon": 1367,
-            "name": "Polished Crossbow",
+            "name": "Polished Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -276,7 +276,7 @@
             "id": 14481,
             "level": 20,
             "icon": 1367,
-            "name": "Expedition Lockbow",
+            "name": "Expedition Crossbow",
             "itemType": 1,
             "color": 2
         },
@@ -284,7 +284,7 @@
             "id": 14483,
             "level": 10,
             "icon": 1358,
-            "name": "Enchanted Crossbow of the Ent",
+            "name": "Enchanted Arbalest of the Ent",
             "itemType": 1,
             "color": 3
         },
@@ -292,7 +292,7 @@
             "id": 14485,
             "level": 12,
             "icon": 1361,
-            "name": "Crossbow of Full Moon",
+            "name": "Arbalest of Full Moon",
             "itemType": 1,
             "color": 3
         },
@@ -300,7 +300,7 @@
             "id": 14487,
             "level": 14,
             "icon": 1364,
-            "name": "Crossbow of Northern Chieftains",
+            "name": "Arbalest of Northern Chieftains",
             "itemType": 1,
             "color": 3
         },
@@ -308,7 +308,7 @@
             "id": 14489,
             "level": 16,
             "icon": 1367,
-            "name": "Crossbow of Frozen Fire",
+            "name": "Arbalest of Frozen Fire",
             "itemType": 1,
             "color": 3
         },
@@ -316,7 +316,7 @@
             "id": 14491,
             "level": 20,
             "icon": 1370,
-            "name": "Crossbow of Deep Lord",
+            "name": "Arbalest of Deep Lord",
             "itemType": 1,
             "color": 3
         },
@@ -324,7 +324,7 @@
             "id": 15012,
             "level": 19,
             "icon": 1373,
-            "name": "Provocator's Arbalest",
+            "name": "Instigator's Arcuballista",
             "itemType": 1,
             "color": 3
         },
@@ -332,7 +332,7 @@
             "id": 15101,
             "level": 20,
             "icon": 1379,
-            "name": "Crossbow of Damned Pilgrims",
+            "name": "Arbalest of Damned Pilgrims",
             "itemType": 1,
             "color": 3
         },
@@ -340,7 +340,7 @@
             "id": 15134,
             "level": 21,
             "icon": 1361,
-            "name": "Desecrate Crossbow",
+            "name": "Desecrate Arbalest",
             "itemType": 1,
             "color": 0
         },
@@ -348,7 +348,7 @@
             "id": 15328,
             "level": 21,
             "icon": 1364,
-            "name": "Enchanted Arrowshooter of the Lord",
+            "name": "Enchanted Arrow Shooter of Lord",
             "itemType": 1,
             "color": 3
         },
@@ -356,7 +356,7 @@
             "id": 15341,
             "level": 22,
             "icon": 1367,
-            "name": "Pontifices' Crossbow",
+            "name": "Pontifices' Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -364,7 +364,7 @@
             "id": 15353,
             "level": 23,
             "icon": 1361,
-            "name": "Soulless Saint's Arrowshooter",
+            "name": "Soulless Saint's Arrow Shooter",
             "itemType": 1,
             "color": 1
         },
@@ -372,7 +372,7 @@
             "id": 15847,
             "level": 4,
             "icon": 3075,
-            "name": "Midnight Hunter's Crossbow",
+            "name": "Midnight Hunter's Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -380,7 +380,7 @@
             "id": 15859,
             "level": 7,
             "icon": 3075,
-            "name": "Silent Maniac's Crossbow",
+            "name": "Silent Maniac's Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -388,7 +388,7 @@
             "id": 15871,
             "level": 10,
             "icon": 3075,
-            "name": "Crossbow of Still Heart",
+            "name": "Arbalest of Still Heart",
             "itemType": 1,
             "color": 3
         },
@@ -396,7 +396,7 @@
             "id": 15883,
             "level": 13,
             "icon": 3075,
-            "name": "Crossbow of Faceless Nightmare",
+            "name": "Arbalest of Faceless Nightmare",
             "itemType": 1,
             "color": 3
         },
@@ -404,7 +404,7 @@
             "id": 15895,
             "level": 16,
             "icon": 3075,
-            "name": "Crossbow of Sinful Call",
+            "name": "Arbalest of Sinful Call",
             "itemType": 1,
             "color": 3
         },
@@ -412,7 +412,7 @@
             "id": 15907,
             "level": 19,
             "icon": 3075,
-            "name": "Crossbow of Immortal Recluse",
+            "name": "Arbalest of Immortal Recluse",
             "itemType": 1,
             "color": 3
         },
@@ -420,7 +420,7 @@
             "id": 15919,
             "level": 21,
             "icon": 3075,
-            "name": "Crossbow of Overwhelming Fury",
+            "name": "Arbalest of Overwhelming Fury",
             "itemType": 1,
             "color": 3
         },
@@ -428,7 +428,7 @@
             "id": 16128,
             "level": 5,
             "icon": 3121,
-            "name": "Crossbow of the Holiday Thief",
+            "name": "Arbalest of the Holiday Thief",
             "itemType": 1,
             "color": 3
         },
@@ -436,7 +436,7 @@
             "id": 16141,
             "level": 8,
             "icon": 3121,
-            "name": "Crossbow of Oath-breaker",
+            "name": "Arbalest of Oathbreaker",
             "itemType": 1,
             "color": 3
         },
@@ -444,7 +444,7 @@
             "id": 16156,
             "level": 11,
             "icon": 3121,
-            "name": "Crossbow of Braincrasher",
+            "name": "Arbalest of Braincrasher",
             "itemType": 1,
             "color": 3
         },
@@ -452,7 +452,7 @@
             "id": 16169,
             "level": 14,
             "icon": 3121,
-            "name": "Crossbow of Toothy Hunter",
+            "name": "Arbalest of Toothy Hunter",
             "itemType": 1,
             "color": 3
         },
@@ -460,7 +460,7 @@
             "id": 16182,
             "level": 17,
             "icon": 3121,
-            "name": "Crossbow of Northern Whirl",
+            "name": "Arbalest of Northern Whirl",
             "itemType": 1,
             "color": 3
         },
@@ -468,7 +468,7 @@
             "id": 16195,
             "level": 20,
             "icon": 3121,
-            "name": "Crossbow of the Snow Lady",
+            "name": "Arbalest of the Snow Lady",
             "itemType": 1,
             "color": 3
         },
@@ -476,7 +476,7 @@
             "id": 16208,
             "level": 22,
             "icon": 3121,
-            "name": "Crossbow of Permafrost",
+            "name": "Arbalest of Permafrost",
             "itemType": 1,
             "color": 3
         },
@@ -484,7 +484,7 @@
             "id": 16912,
             "level": 21,
             "icon": 3246,
-            "name": "Crusher's Arbalest",
+            "name": "Crusher's Arcuballista",
             "itemType": 1,
             "color": 3
         },
@@ -492,7 +492,7 @@
             "id": 16977,
             "level": 22,
             "icon": 1373,
-            "name": "Arbalest of Northern Courage",
+            "name": "Arcuballista of Northern Courage",
             "itemType": 1,
             "color": 2
         },
@@ -508,7 +508,7 @@
             "id": 17235,
             "level": 12,
             "icon": 3398,
-            "name": "Arrow-shooter of Lunar Sickle",
+            "name": "Arrow Shooter of Lunar Sickle",
             "itemType": 1,
             "color": 3
         },
@@ -516,7 +516,7 @@
             "id": 17237,
             "level": 14,
             "icon": 3398,
-            "name": "Arrowshooter of Northern Lords",
+            "name": "Arrow Shooter of Northern Lords",
             "itemType": 1,
             "color": 3
         },
@@ -524,7 +524,7 @@
             "id": 17239,
             "level": 16,
             "icon": 3398,
-            "name": "Arrow-shooter of Chilled Flame",
+            "name": "Arrow Shooter of Chilled Flame",
             "itemType": 1,
             "color": 3
         },
@@ -532,7 +532,7 @@
             "id": 17241,
             "level": 18,
             "icon": 3398,
-            "name": "Arrow-shooter of Dead Silence",
+            "name": "Arrow Shooter of Dead Silence",
             "itemType": 1,
             "color": 3
         },
@@ -540,7 +540,7 @@
             "id": 17243,
             "level": 20,
             "icon": 3398,
-            "name": "Arrowshooter of the Depth Lord",
+            "name": "Arrow Shooter of the Depth Lord",
             "itemType": 1,
             "color": 3
         },
@@ -548,7 +548,7 @@
             "id": 17261,
             "level": 10,
             "icon": 1358,
-            "name": "Phantom Crossbow",
+            "name": "Phantom Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -556,7 +556,7 @@
             "id": 17262,
             "level": 12,
             "icon": 1358,
-            "name": "Well-tried Crossbow",
+            "name": "Well-Worn Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -564,7 +564,7 @@
             "id": 17290,
             "level": 22,
             "icon": 1367,
-            "name": "Horrifying Crossbow",
+            "name": "Horrifying Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -572,7 +572,7 @@
             "id": 17292,
             "level": 22,
             "icon": 1367,
-            "name": "All-Destroying Crossbow",
+            "name": "Devastating Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -580,7 +580,7 @@
             "id": 17294,
             "level": 22,
             "icon": 3398,
-            "name": "Arrow-shooter of Death Herald",
+            "name": "Arrow Shooter of Death Herald",
             "itemType": 1,
             "color": 3
         },
@@ -588,7 +588,7 @@
             "id": 17575,
             "level": 23,
             "icon": 3408,
-            "name": "Battle Arrow-shooter of Devastation",
+            "name": "Battle Arrow Shooter of Devastation",
             "itemType": 1,
             "color": 3
         },
@@ -596,7 +596,7 @@
             "id": 17949,
             "level": 5,
             "icon": 3075,
-            "name": "Night Puppeteer's Crossbow",
+            "name": "Night Puppeteer's Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -604,7 +604,7 @@
             "id": 17961,
             "level": 14,
             "icon": 3075,
-            "name": "Crossbow of Fatal Mistake",
+            "name": "Arbalest of Fatal Mistake",
             "itemType": 1,
             "color": 3
         },
@@ -612,7 +612,7 @@
             "id": 17973,
             "level": 18,
             "icon": 3075,
-            "name": "Crossbow of Deadly Game",
+            "name": "Arbalest of Deadly Game",
             "itemType": 1,
             "color": 3
         },
@@ -620,7 +620,7 @@
             "id": 17985,
             "level": 23,
             "icon": 3075,
-            "name": "Killer Puppet's Crossbow",
+            "name": "Killer Puppet's Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -628,7 +628,7 @@
             "id": 18285,
             "level": 10,
             "icon": 3121,
-            "name": "Crossbow of the Tribe Leader",
+            "name": "Arbalest of the Tribe Leader",
             "itemType": 1,
             "color": 3
         },
@@ -636,7 +636,7 @@
             "id": 18298,
             "level": 18,
             "icon": 3121,
-            "name": "Crossbow of the Immortal Wanderer",
+            "name": "Arbalest of the Immortal Wanderer",
             "itemType": 1,
             "color": 3
         },
@@ -644,7 +644,7 @@
             "id": 18311,
             "level": 23,
             "icon": 3121,
-            "name": "Bound Conqueror's Crossbow",
+            "name": "Bound Conqueror's Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -652,7 +652,7 @@
             "id": 18888,
             "level": 23,
             "icon": 3246,
-            "name": "Assassin's Arbalest",
+            "name": "Assassin's Arcuballista",
             "itemType": 1,
             "color": 3
         },
@@ -660,7 +660,7 @@
             "id": 18910,
             "level": 13,
             "icon": 1367,
-            "name": "Arbalest of Young Gladiator",
+            "name": "Arcuballista of Young Gladiator",
             "itemType": 1,
             "color": 3
         },
@@ -668,7 +668,7 @@
             "id": 19049,
             "level": 24,
             "icon": 1367,
-            "name": "Rune Crossbow",
+            "name": "Rune Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -676,7 +676,7 @@
             "id": 19051,
             "level": 24,
             "icon": 1367,
-            "name": "Crossbow of Liberator",
+            "name": "Arbalest of Liberator",
             "itemType": 1,
             "color": 3
         },
@@ -684,7 +684,7 @@
             "id": 19053,
             "level": 24,
             "icon": 3398,
-            "name": "Crossbow of Legendary Defender",
+            "name": "Arbalest of Legendary Defender",
             "itemType": 1,
             "color": 3
         },
@@ -692,7 +692,7 @@
             "id": 19275,
             "level": 25,
             "icon": 3619,
-            "name": "Technocrat's Arbalest",
+            "name": "Technocrat's Arcuballista",
             "itemType": 1,
             "color": 3
         },
@@ -700,7 +700,7 @@
             "id": 19287,
             "level": 25,
             "icon": 1367,
-            "name": "Arbalest of Revival",
+            "name": "Arcuballista of Revival",
             "itemType": 1,
             "color": 2
         },
@@ -708,7 +708,7 @@
             "id": 19968,
             "level": 6,
             "icon": 3075,
-            "name": "Crossbow of the Blind Outlaw",
+            "name": "Arbalest of Blind Outlaw",
             "itemType": 1,
             "color": 3
         },
@@ -716,7 +716,7 @@
             "id": 19993,
             "level": 12,
             "icon": 3075,
-            "name": "Crossbow of the Unsleeping Predator",
+            "name": "Arbalest of the Unsleeping Predator",
             "itemType": 1,
             "color": 3
         },
@@ -724,7 +724,7 @@
             "id": 20031,
             "level": 20,
             "icon": 3075,
-            "name": "Crossbow of the Damned Heir",
+            "name": "Arbalest of Damned Heir",
             "itemType": 1,
             "color": 3
         },
@@ -732,7 +732,7 @@
             "id": 20044,
             "level": 22,
             "icon": 3075,
-            "name": "Crossbow of the Distracted Apostate",
+            "name": "Arbalest of Distracted Apostate",
             "itemType": 1,
             "color": 3
         },
@@ -740,7 +740,7 @@
             "id": 20057,
             "level": 24,
             "icon": 3075,
-            "name": "Crossbow of the Night Visitor",
+            "name": "Arbalest of the Night Visitor",
             "itemType": 1,
             "color": 3
         },
@@ -748,7 +748,7 @@
             "id": 20082,
             "level": 26,
             "icon": 3075,
-            "name": "Crossbow of the Bloody Earl",
+            "name": "Arbalest of Bloody Earl",
             "itemType": 1,
             "color": 3
         },
@@ -756,7 +756,7 @@
             "id": 20277,
             "level": 6,
             "icon": 3121,
-            "name": "Arbalest of Cold-Bearing Spirit",
+            "name": "Arcuballista of Cold-Bearing Spirit",
             "itemType": 1,
             "color": 3
         },
@@ -764,7 +764,7 @@
             "id": 20286,
             "level": 10,
             "icon": 3121,
-            "name": "Arbalest of the Tribe Leader",
+            "name": "Arcuballista of the Tribe Leader",
             "itemType": 1,
             "color": 3
         },
@@ -772,7 +772,7 @@
             "id": 20298,
             "level": 12,
             "icon": 3121,
-            "name": "Arbalest of the Frozen Master",
+            "name": "Arcuballista of the Frozen Master",
             "itemType": 1,
             "color": 3
         },
@@ -780,7 +780,7 @@
             "id": 20307,
             "level": 14,
             "icon": 3121,
-            "name": "Arbalest of the Toothy Hunter",
+            "name": "Arcuballista of the Toothy Hunter",
             "itemType": 1,
             "color": 3
         },
@@ -788,7 +788,7 @@
             "id": 20319,
             "level": 16,
             "icon": 3121,
-            "name": "Arbalest of the Rune Scald",
+            "name": "Arcuballista of the Rune Scald",
             "itemType": 1,
             "color": 3
         },
@@ -796,7 +796,7 @@
             "id": 20328,
             "level": 18,
             "icon": 3121,
-            "name": "Arbalest of the Immortal Wanderer",
+            "name": "Arcuballista of the Immortal Wanderer",
             "itemType": 1,
             "color": 3
         },
@@ -804,7 +804,7 @@
             "id": 20334,
             "level": 20,
             "icon": 3121,
-            "name": "Arbalest of the Snow Lady",
+            "name": "Arcuballista of the Snow Lady",
             "itemType": 1,
             "color": 3
         },
@@ -812,7 +812,7 @@
             "id": 20340,
             "level": 22,
             "icon": 3121,
-            "name": "Arbalest of Permafrost",
+            "name": "Arcuballista of Permafrost",
             "itemType": 1,
             "color": 3
         },
@@ -820,7 +820,7 @@
             "id": 20352,
             "level": 24,
             "icon": 3121,
-            "name": "Arbalest of the Ice Prince",
+            "name": "Arcuballista of the Ice Prince",
             "itemType": 1,
             "color": 3
         },
@@ -828,7 +828,7 @@
             "id": 20367,
             "level": 26,
             "icon": 3121,
-            "name": "Arbalest of the Descendant of the Titans",
+            "name": "Arcuballista of Titan's Descendant",
             "itemType": 1,
             "color": 3
         },
@@ -836,7 +836,7 @@
             "id": 20793,
             "level": 6,
             "icon": 3872,
-            "name": "Crossbow of the Green Hill",
+            "name": "Arbalest of the Green Hill",
             "itemType": 1,
             "color": 2
         },
@@ -844,7 +844,7 @@
             "id": 20808,
             "level": 10,
             "icon": 3872,
-            "name": "Crossbow of the Heath Meadow",
+            "name": "Arbalest of the Heath Meadow",
             "itemType": 1,
             "color": 2
         },
@@ -852,7 +852,7 @@
             "id": 20823,
             "level": 12,
             "icon": 3872,
-            "name": "Crossbow of the Four-Leaf Clover",
+            "name": "Arbalest of Four-Leaf Clover",
             "itemType": 1,
             "color": 2
         },
@@ -860,7 +860,7 @@
             "id": 20838,
             "level": 14,
             "icon": 3872,
-            "name": "Crossbow of the Spring Symphony",
+            "name": "Arbalest of the Spring Symphony",
             "itemType": 1,
             "color": 2
         },
@@ -868,7 +868,7 @@
             "id": 20858,
             "level": 16,
             "icon": 3872,
-            "name": "Crossbow of the Happy Month",
+            "name": "Arbalest of the Happy Month",
             "itemType": 1,
             "color": 2
         },
@@ -876,7 +876,7 @@
             "id": 20873,
             "level": 18,
             "icon": 3872,
-            "name": "Crossbow of the Singing Oak Forest",
+            "name": "Arbalest of the Singing Oak Forest",
             "itemType": 1,
             "color": 2
         },
@@ -884,7 +884,7 @@
             "id": 20888,
             "level": 20,
             "icon": 3872,
-            "name": "Crossbow of the Arcane Valley",
+            "name": "Arbalest of Arcane Valley",
             "itemType": 1,
             "color": 2
         },
@@ -892,7 +892,7 @@
             "id": 20903,
             "level": 22,
             "icon": 3872,
-            "name": "Crossbow of the Forest Mystery",
+            "name": "Arbalest of Forest Mystery",
             "itemType": 1,
             "color": 2
         },
@@ -900,7 +900,7 @@
             "id": 20918,
             "level": 24,
             "icon": 3872,
-            "name": "Crossbow of the Blooming Island",
+            "name": "Arbalest of Blooming Island",
             "itemType": 1,
             "color": 2
         },
@@ -908,7 +908,7 @@
             "id": 20933,
             "level": 26,
             "icon": 3872,
-            "name": "Crossbow of the Emerald Tower",
+            "name": "Arbalest of Emerald Tower",
             "itemType": 1,
             "color": 2
         },
@@ -916,7 +916,7 @@
             "id": 21027,
             "level": 25,
             "icon": 3246,
-            "name": "Elusive Killer's Arbalest",
+            "name": "Elusive Killer's Arcuballista",
             "itemType": 1,
             "color": 3
         },
@@ -924,7 +924,7 @@
             "id": 21080,
             "level": 26,
             "icon": 1367,
-            "name": "Filth Crossbow",
+            "name": "Filth Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -932,7 +932,7 @@
             "id": 21082,
             "level": 26,
             "icon": 1367,
-            "name": "Crossbow of Soulbreaker",
+            "name": "Arbalest of Soulbreaker",
             "itemType": 1,
             "color": 3
         },
@@ -940,7 +940,7 @@
             "id": 21084,
             "level": 26,
             "icon": 3398,
-            "name": "Crossbow of Cruel Demolisher",
+            "name": "Arbalest of Cruel Demolisher",
             "itemType": 1,
             "color": 3
         },
@@ -948,7 +948,7 @@
             "id": 21232,
             "level": 1,
             "icon": 1376,
-            "name": "Novice's Crossbow",
+            "name": "Novice's Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -956,7 +956,7 @@
             "id": 21354,
             "level": 3,
             "icon": 1361,
-            "name": "Plain Crossbow",
+            "name": "Plain Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -964,7 +964,7 @@
             "id": 21367,
             "level": 5,
             "icon": 1361,
-            "name": "Light Crossbow",
+            "name": "Light Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -972,7 +972,7 @@
             "id": 21380,
             "level": 7,
             "icon": 1361,
-            "name": "Coarse Crossbow",
+            "name": "Coarse Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -980,7 +980,7 @@
             "id": 21393,
             "level": 9,
             "icon": 1361,
-            "name": "Smooth Crossbow",
+            "name": "Smooth Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -988,7 +988,7 @@
             "id": 21406,
             "level": 11,
             "icon": 1361,
-            "name": "Useful Crossbow",
+            "name": "Useful Arbalest",
             "itemType": 1,
             "color": 2
         },
@@ -996,7 +996,7 @@
             "id": 21537,
             "level": 1,
             "icon": 1376,
-            "name": "Crossbow",
+            "name": "Arbalest",
             "itemType": 1,
             "color": 0
         },
@@ -1004,7 +1004,7 @@
             "id": 21729,
             "level": 6,
             "icon": 4098,
-            "name": "Crossbow of Deep Slumber",
+            "name": "Arbalest of Deep Slumber",
             "itemType": 1,
             "color": 3
         },
@@ -1012,7 +1012,7 @@
             "id": 21744,
             "level": 10,
             "icon": 4098,
-            "name": "Crossbow of Somnolent Whispers",
+            "name": "Arbalest of Somnolent Whispers",
             "itemType": 1,
             "color": 3
         },
@@ -1020,7 +1020,7 @@
             "id": 21759,
             "level": 12,
             "icon": 4098,
-            "name": "Crossbow of Restless Dreaming",
+            "name": "Arbalest of Restless Dreaming",
             "itemType": 1,
             "color": 3
         },
@@ -1028,7 +1028,7 @@
             "id": 21774,
             "level": 14,
             "icon": 4098,
-            "name": "Crossbow of Black Oblivion",
+            "name": "Arbalest of Black Oblivion",
             "itemType": 1,
             "color": 3
         },
@@ -1036,7 +1036,7 @@
             "id": 21789,
             "level": 16,
             "icon": 4098,
-            "name": "Crossbow of Sinister Phantasms",
+            "name": "Arbalest of Sinister Phantasms",
             "itemType": 1,
             "color": 3
         },
@@ -1044,7 +1044,7 @@
             "id": 21804,
             "level": 18,
             "icon": 4098,
-            "name": "Crossbow of Dreadful Delusion",
+            "name": "Arbalest of Dreadful Delusion",
             "itemType": 1,
             "color": 3
         },
@@ -1052,7 +1052,7 @@
             "id": 21819,
             "level": 20,
             "icon": 4098,
-            "name": "Crossbow of Nocturnal Terror",
+            "name": "Arbalest of Nocturnal Terror",
             "itemType": 1,
             "color": 3
         },
@@ -1060,7 +1060,7 @@
             "id": 21834,
             "level": 22,
             "icon": 4098,
-            "name": "Crossbow of Incarnated Nightmares",
+            "name": "Arbalest of Incarnated Nightmares",
             "itemType": 1,
             "color": 3
         },
@@ -1068,7 +1068,7 @@
             "id": 21849,
             "level": 24,
             "icon": 4098,
-            "name": "Crossbow of Midnight Howl",
+            "name": "Arbalest of Midnight Howl",
             "itemType": 1,
             "color": 3
         },
@@ -1076,7 +1076,7 @@
             "id": 21864,
             "level": 26,
             "icon": 4098,
-            "name": "Crossbow of Suffocating Fear",
+            "name": "Arbalest of Suffocating Fear",
             "itemType": 1,
             "color": 3
         },
@@ -1084,7 +1084,7 @@
             "id": 22816,
             "level": 6,
             "icon": 4344,
-            "name": "Crossbow of the Kingdom of Daring",
+            "name": "Arbalest of the Kingdom of Daring",
             "itemType": 1,
             "color": 3
         },
@@ -1092,7 +1092,7 @@
             "id": 22831,
             "level": 10,
             "icon": 4344,
-            "name": "Crossbow of the Kingdom of Boldness",
+            "name": "Arbalest of the Kingdom of Boldness",
             "itemType": 1,
             "color": 3
         },
@@ -1100,7 +1100,7 @@
             "id": 22846,
             "level": 12,
             "icon": 4344,
-            "name": "Crossbow of the Kingdom of Devotion",
+            "name": "Arbalest of the Kingdom of Devotion",
             "itemType": 1,
             "color": 3
         },
@@ -1108,7 +1108,7 @@
             "id": 22861,
             "level": 14,
             "icon": 4344,
-            "name": "Crossbow of the Kingdom of Bravery",
+            "name": "Arbalest of the Kingdom of Bravery",
             "itemType": 1,
             "color": 3
         },
@@ -1116,7 +1116,7 @@
             "id": 22876,
             "level": 16,
             "icon": 4344,
-            "name": "Crossbow of the Kingdom of Magnanimity",
+            "name": "Arbalest of the Kingdom of Magnanimity",
             "itemType": 1,
             "color": 3
         },
@@ -1124,7 +1124,7 @@
             "id": 22891,
             "level": 18,
             "icon": 4344,
-            "name": "Crossbow of the Kingdom of Nobleness",
+            "name": "Arbalest of the Kingdom of Nobleness",
             "itemType": 1,
             "color": 3
         },
@@ -1132,7 +1132,7 @@
             "id": 22906,
             "level": 20,
             "icon": 4344,
-            "name": "Crossbow of the Kingdom of Justice",
+            "name": "Arbalest of the Kingdom of Justice",
             "itemType": 1,
             "color": 3
         },
@@ -1140,7 +1140,7 @@
             "id": 22921,
             "level": 22,
             "icon": 4344,
-            "name": "Crossbow of the Kingdom of Honor",
+            "name": "Arbalest of the Kingdom of Honor",
             "itemType": 1,
             "color": 3
         },
@@ -1148,7 +1148,7 @@
             "id": 22936,
             "level": 24,
             "icon": 4344,
-            "name": "Crossbow of the Kingdom of Valor",
+            "name": "Arbalest of the Kingdom of Valor",
             "itemType": 1,
             "color": 3
         },
@@ -1156,7 +1156,7 @@
             "id": 22951,
             "level": 26,
             "icon": 4344,
-            "name": "Crossbow of the Kingdom of Fearlessness",
+            "name": "Arbalest of the Kingdom of Fearlessness",
             "itemType": 1,
             "color": 3
         },
@@ -1164,7 +1164,7 @@
             "id": 23489,
             "level": 25,
             "icon": 3408,
-            "name": "Crossbow of Tree of the Seasons\u2019 Keepers",
+            "name": "Arbalest of Tree of the Seasons\u2019 Keepers",
             "itemType": 1,
             "color": 3
         },
@@ -1172,7 +1172,7 @@
             "id": 23558,
             "level": 27,
             "icon": 3619,
-            "name": "Crossbow of Technopolis Guards",
+            "name": "Arbalest of Technopolis Guards",
             "itemType": 1,
             "color": 3
         },
@@ -1180,7 +1180,7 @@
             "id": 23607,
             "level": 27,
             "icon": 3246,
-            "name": "Arbalest of the Arena Lord",
+            "name": "Arcuballista of Arena Lord",
             "itemType": 1,
             "color": 3
         },
@@ -1188,7 +1188,7 @@
             "id": 24081,
             "level": 28,
             "icon": 4098,
-            "name": "Crossbow of Impending Madness",
+            "name": "Arbalest of Impending Madness",
             "itemType": 1,
             "color": 3
         },
@@ -1196,7 +1196,7 @@
             "id": 24096,
             "level": 28,
             "icon": 3075,
-            "name": "Crossbow of the Crazy King",
+            "name": "Arbalest of Crazy King",
             "itemType": 1,
             "color": 3
         },
@@ -1204,7 +1204,7 @@
             "id": 24398,
             "level": 28,
             "icon": 3121,
-            "name": "Arbalest of the Winter King",
+            "name": "Arcuballista of the Winter King",
             "itemType": 1,
             "color": 3
         },
@@ -1212,7 +1212,7 @@
             "id": 25029,
             "level": 10,
             "icon": 4746,
-            "name": "Royal Crossbow of the Heath Meadow",
+            "name": "Royal Arbalest of the Heath Meadow",
             "itemType": 1,
             "color": 3
         },
@@ -1220,7 +1220,7 @@
             "id": 25045,
             "level": 12,
             "icon": 4746,
-            "name": "Royal Crossbow of the Four-Leaf Clover",
+            "name": "Royal Arbalest of Four-Leaf Clover",
             "itemType": 1,
             "color": 3
         },
@@ -1228,7 +1228,7 @@
             "id": 25061,
             "level": 14,
             "icon": 4746,
-            "name": "Royal Crossbow of the Spring Symphony",
+            "name": "Royal Arbalest of the Spring Symphony",
             "itemType": 1,
             "color": 3
         },
@@ -1236,7 +1236,7 @@
             "id": 25077,
             "level": 16,
             "icon": 4746,
-            "name": "Royal Crossbow of the Happy Month",
+            "name": "Royal Arbalest of the Happy Month",
             "itemType": 1,
             "color": 3
         },
@@ -1244,7 +1244,7 @@
             "id": 25093,
             "level": 18,
             "icon": 4746,
-            "name": "Royal Crossbow of the Singing Oak Forest",
+            "name": "Royal Arbalest of the Singing Oak Forest",
             "itemType": 1,
             "color": 3
         },
@@ -1252,7 +1252,7 @@
             "id": 25109,
             "level": 20,
             "icon": 4746,
-            "name": "Royal Crossbow of the Arcane Valley",
+            "name": "Royal Arbalest of Arcane Valley",
             "itemType": 1,
             "color": 3
         },
@@ -1260,7 +1260,7 @@
             "id": 25125,
             "level": 22,
             "icon": 4746,
-            "name": "Royal Crossbow of the Forest Mystery",
+            "name": "Royal Arbalest of Forest Mystery",
             "itemType": 1,
             "color": 3
         },
@@ -1268,7 +1268,7 @@
             "id": 25141,
             "level": 24,
             "icon": 4746,
-            "name": "Royal Crossbow of the Blooming Island",
+            "name": "Royal Arbalest of Blooming Island",
             "itemType": 1,
             "color": 3
         },
@@ -1276,7 +1276,7 @@
             "id": 25157,
             "level": 26,
             "icon": 4746,
-            "name": "Royal Crossbow of the Emerald Tower",
+            "name": "Royal Arbalest of Emerald Tower",
             "itemType": 1,
             "color": 3
         },
@@ -1284,7 +1284,7 @@
             "id": 25173,
             "level": 28,
             "icon": 4746,
-            "name": "Royal Crossbow of the Sun Fortress",
+            "name": "Royal Arbalest of the Sun Fortress",
             "itemType": 1,
             "color": 3
         },
@@ -1292,7 +1292,7 @@
             "id": 25188,
             "level": 28,
             "icon": 4344,
-            "name": "Crossbow of the Kingdom of Courage",
+            "name": "Arbalest of the Kingdom of Courage",
             "itemType": 1,
             "color": 3
         },
@@ -1300,7 +1300,7 @@
             "id": 25203,
             "level": 28,
             "icon": 3872,
-            "name": "Crossbow of the Sun Fortress",
+            "name": "Arbalest of the Sun Fortress",
             "itemType": 1,
             "color": 2
         },
@@ -1308,7 +1308,7 @@
             "id": 25305,
             "level": 28,
             "icon": 1367,
-            "name": "Crossbow of Scarlet Dawn",
+            "name": "Arbalest of Scarlet Dawn",
             "itemType": 1,
             "color": 2
         },
@@ -1316,7 +1316,7 @@
             "id": 25309,
             "level": 28,
             "icon": 1367,
-            "name": "Crossbow of Purple Sky",
+            "name": "Arbalest of Purple Sky",
             "itemType": 1,
             "color": 3
         },
@@ -1324,7 +1324,7 @@
             "id": 25313,
             "level": 28,
             "icon": 3398,
-            "name": "Crossbow of the Bloody Radiance",
+            "name": "Arbalest of Bloody Radiance",
             "itemType": 1,
             "color": 3
         },
@@ -1332,7 +1332,7 @@
             "id": 26289,
             "level": 30,
             "icon": 4889,
-            "name": "Crossbow of Lord of the Seas",
+            "name": "Arbalest of Lord of the Seas",
             "itemType": 1,
             "color": 3
         },
@@ -1340,7 +1340,7 @@
             "id": 26323,
             "level": 29,
             "icon": 4888,
-            "name": "Crossbow of Sea Tramps",
+            "name": "Arbalest of Sea Tramps",
             "itemType": 1,
             "color": 3
         },
@@ -1348,7 +1348,7 @@
             "id": 26440,
             "level": 30,
             "icon": 1373,
-            "name": "Arbalest of Gentlemen of Fortune",
+            "name": "Arcuballista of Gentlemen of Fortune",
             "itemType": 1,
             "color": 2
         },
@@ -1356,7 +1356,7 @@
             "id": 26480,
             "level": 29,
             "icon": 1367,
-            "name": "Crossbow of Sea Wolf",
+            "name": "Arbalest of Sea Wolf",
             "itemType": 1,
             "color": 2
         },
@@ -1364,7 +1364,7 @@
             "id": 26493,
             "level": 29,
             "icon": 3246,
-            "name": "Arbalest of the Outstanding Gladiator",
+            "name": "Arcuballista of Outstanding Gladiator",
             "itemType": 1,
             "color": 3
         },
@@ -1372,7 +1372,7 @@
             "id": 27116,
             "level": 30,
             "icon": 4098,
-            "name": "Crossbow of Monster Curse",
+            "name": "Arbalest of Monster Curse",
             "itemType": 1,
             "color": 3
         },
@@ -1380,7 +1380,7 @@
             "id": 27142,
             "level": 30,
             "icon": 3075,
-            "name": "Crossbow of Merciless Torturer",
+            "name": "Arbalest of Merciless Torturer",
             "itemType": 1,
             "color": 3
         },
@@ -1388,7 +1388,7 @@
             "id": 27735,
             "level": 6,
             "icon": 5167,
-            "name": "Crossbow of Piercing Cold",
+            "name": "Arbalest of Piercing Cold",
             "itemType": 1,
             "color": 3
         },
@@ -1396,7 +1396,7 @@
             "id": 27750,
             "level": 10,
             "icon": 5167,
-            "name": "Crossbow of Heavy Wind",
+            "name": "Arbalest of Heavy Wind",
             "itemType": 1,
             "color": 3
         },
@@ -1404,7 +1404,7 @@
             "id": 27765,
             "level": 12,
             "icon": 5167,
-            "name": "Crossbow of Frosty Darkness",
+            "name": "Arbalest of Frosty Darkness",
             "itemType": 1,
             "color": 3
         },
@@ -1412,7 +1412,7 @@
             "id": 27780,
             "level": 14,
             "icon": 5167,
-            "name": "Crossbow of Freezing Cold",
+            "name": "Arbalest of Freezing Cold",
             "itemType": 1,
             "color": 3
         },
@@ -1420,7 +1420,7 @@
             "id": 27795,
             "level": 16,
             "icon": 5167,
-            "name": "Crossbow of Arctic Frost",
+            "name": "Arbalest of Arctic Frost",
             "itemType": 1,
             "color": 3
         },
@@ -1428,7 +1428,7 @@
             "id": 27810,
             "level": 18,
             "icon": 5167,
-            "name": "Crossbow of Fierce Blizzard",
+            "name": "Arbalest of Fierce Blizzard",
             "itemType": 1,
             "color": 3
         },
@@ -1436,7 +1436,7 @@
             "id": 27825,
             "level": 20,
             "icon": 5167,
-            "name": "Crossbow of Northern Tornado",
+            "name": "Arbalest of Northern Tornado",
             "itemType": 1,
             "color": 3
         },
@@ -1444,7 +1444,7 @@
             "id": 27840,
             "level": 22,
             "icon": 5167,
-            "name": "Crossbow of Furious Northern Wind",
+            "name": "Arbalest of Furious Northern Wind",
             "itemType": 1,
             "color": 3
         },
@@ -1452,7 +1452,7 @@
             "id": 27855,
             "level": 24,
             "icon": 5167,
-            "name": "Crossbow of Sweeping Whirlwind",
+            "name": "Arbalest of Sweeping Whirlwind",
             "itemType": 1,
             "color": 3
         },
@@ -1460,7 +1460,7 @@
             "id": 27870,
             "level": 26,
             "icon": 5167,
-            "name": "Crossbow of Violent Blizzard",
+            "name": "Arbalest of Violent Blizzard",
             "itemType": 1,
             "color": 3
         },
@@ -1468,7 +1468,7 @@
             "id": 27885,
             "level": 28,
             "icon": 5167,
-            "name": "Crossbow of Snow Storm",
+            "name": "Arbalest of Snow Storm",
             "itemType": 1,
             "color": 3
         },
@@ -1476,7 +1476,7 @@
             "id": 27900,
             "level": 30,
             "icon": 5167,
-            "name": "Crossbow of Ice Storm",
+            "name": "Arbalest of Ice Storm",
             "itemType": 1,
             "color": 3
         },
@@ -1484,7 +1484,7 @@
             "id": 27917,
             "level": 30,
             "icon": 3121,
-            "name": "Arbalest of the Lord of Cold",
+            "name": "Arcuballista of the Lord of Cold",
             "itemType": 1,
             "color": 3
         },
@@ -1492,7 +1492,7 @@
             "id": 28878,
             "level": 30,
             "icon": 1367,
-            "name": "Crossbow of Purification",
+            "name": "Arbalest of Purification",
             "itemType": 1,
             "color": 2
         },
@@ -1500,7 +1500,7 @@
             "id": 28882,
             "level": 30,
             "icon": 1367,
-            "name": "Crossbow of Enlightenment",
+            "name": "Arbalest of Enlightenment",
             "itemType": 1,
             "color": 3
         },
@@ -1508,7 +1508,7 @@
             "id": 28886,
             "level": 30,
             "icon": 3398,
-            "name": "Crossbow of Catharsis",
+            "name": "Arbalest of Catharsis",
             "itemType": 1,
             "color": 3
         },
@@ -1516,7 +1516,7 @@
             "id": 28993,
             "level": 30,
             "icon": 4746,
-            "name": "Royal Crossbow of Enchanted Castle",
+            "name": "Royal Arbalest of Enchanted Castle",
             "itemType": 1,
             "color": 3
         },
@@ -1524,7 +1524,7 @@
             "id": 29008,
             "level": 30,
             "icon": 4344,
-            "name": "Crossbow of Kingdom of Fortitude",
+            "name": "Arbalest of the Kingdom of Fortitude",
             "itemType": 1,
             "color": 3
         },
@@ -1532,7 +1532,7 @@
             "id": 29024,
             "level": 30,
             "icon": 3872,
-            "name": "Crossbow of Enchanted Castle",
+            "name": "Arbalest of Enchanted Castle",
             "itemType": 1,
             "color": 2
         },
@@ -1540,7 +1540,7 @@
             "id": 29704,
             "level": 7,
             "icon": 1364,
-            "name": "Crossbow of Recruit",
+            "name": "Recruit's Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -1548,7 +1548,7 @@
             "id": 29719,
             "level": 11,
             "icon": 1364,
-            "name": "Crossbow of Mercenary",
+            "name": "Hireling's Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -1556,7 +1556,7 @@
             "id": 33126,
             "level": 32,
             "icon": 4098,
-            "name": "Crossbow of Emanating Madness",
+            "name": "Arbalest of Emanating Madness",
             "itemType": 1,
             "color": 3
         },
@@ -1564,7 +1564,7 @@
             "id": 33143,
             "level": 32,
             "icon": 3075,
-            "name": "Crossbow of Bloodthirsty Inquisitor",
+            "name": "Arbalest of Bloodthirsty Inquisitor",
             "itemType": 1,
             "color": 3
         },
@@ -1572,7 +1572,7 @@
             "id": 33639,
             "level": 32,
             "icon": 5167,
-            "name": "Crossbow of the Unbridled Hurricane",
+            "name": "Arbalest of the Unbridled Hurricane",
             "itemType": 1,
             "color": 3
         },
@@ -1580,7 +1580,7 @@
             "id": 33670,
             "level": 32,
             "icon": 3121,
-            "name": "Arbalest of the Northern Lord",
+            "name": "Arcuballista of the Northern Lord",
             "itemType": 1,
             "color": 3
         },
@@ -1588,7 +1588,7 @@
             "id": 34428,
             "level": 32,
             "icon": 1367,
-            "name": "Crossbow of Progress",
+            "name": "Arbalest of Progress",
             "itemType": 1,
             "color": 2
         },
@@ -1596,7 +1596,7 @@
             "id": 34442,
             "level": 32,
             "icon": 1367,
-            "name": "Crossbow of Development",
+            "name": "Arbalest of Development",
             "itemType": 1,
             "color": 3
         },
@@ -1604,7 +1604,7 @@
             "id": 34456,
             "level": 32,
             "icon": 3398,
-            "name": "Crossbow of Metamorphosis",
+            "name": "Arbalest of Metamorphosis",
             "itemType": 1,
             "color": 3
         },
@@ -1612,7 +1612,7 @@
             "id": 34536,
             "level": 32,
             "icon": 4344,
-            "name": "Crossbow of the Kingdom of Indestructibility",
+            "name": "Arbalest of the Kingdom of Indestructibility",
             "itemType": 1,
             "color": 3
         },
@@ -1620,7 +1620,7 @@
             "id": 34566,
             "level": 32,
             "icon": 4746,
-            "name": "Royal Crossbow of the Magic Bastion",
+            "name": "Royal Arbalest of the Magic Bastion",
             "itemType": 1,
             "color": 3
         },
@@ -1628,7 +1628,7 @@
             "id": 34584,
             "level": 32,
             "icon": 3872,
-            "name": "Crossbow of the Magic Bastion",
+            "name": "Arbalest of the Magic Bastion",
             "itemType": 1,
             "color": 2
         },
@@ -1636,7 +1636,7 @@
             "id": 34910,
             "level": 31,
             "icon": 3246,
-            "name": "Arbalest of the Greatest Secutor",
+            "name": "Arcuballista of the Greatest Secutor",
             "itemType": 1,
             "color": 3
         },
@@ -1644,7 +1644,7 @@
             "id": 35269,
             "level": 31,
             "icon": 4888,
-            "name": "Crossbow of the Pirate Brotherhood",
+            "name": "Arbalest of Pirate Brotherhood",
             "itemType": 1,
             "color": 3
         },
@@ -1652,7 +1652,7 @@
             "id": 35632,
             "level": 19,
             "icon": 1367,
-            "name": "Berengar's Crossbow",
+            "name": "Berengar's Arbalest",
             "itemType": 1,
             "color": 3
         }

@@ -36,7 +36,7 @@
             "id": 993,
             "level": 10,
             "icon": 1401,
-            "name": "High-quality Sword",
+            "name": "High-Quality Sword",
             "itemType": 0,
             "color": 2
         },
@@ -44,7 +44,7 @@
             "id": 1045,
             "level": 9,
             "icon": 1408,
-            "name": "Sword of Hunter",
+            "name": "Hunter's Sword",
             "itemType": 0,
             "color": 3
         },
@@ -316,7 +316,7 @@
             "id": 15004,
             "level": 19,
             "icon": 1405,
-            "name": "Provocator's Gladius",
+            "name": "Instigator's Gladius",
             "itemType": 0,
             "color": 3
         },
@@ -340,7 +340,7 @@
             "id": 15321,
             "level": 21,
             "icon": 1411,
-            "name": "Enchanted Estoc of the Lord",
+            "name": "Enchanted Estoc of Lord",
             "itemType": 0,
             "color": 3
         },
@@ -428,7 +428,7 @@
             "id": 16133,
             "level": 8,
             "icon": 3130,
-            "name": "Falchion of Oath-breaker",
+            "name": "Falchion of Oathbreaker",
             "itemType": 0,
             "color": 3
         },
@@ -492,7 +492,7 @@
             "id": 17108,
             "level": 12,
             "icon": 1405,
-            "name": "Well-tried Blade",
+            "name": "Well-Worn Blade",
             "itemType": 0,
             "color": 2
         },
@@ -612,7 +612,7 @@
             "id": 17304,
             "level": 22,
             "icon": 1411,
-            "name": "All-Destroying Blade",
+            "name": "Devastating Blade",
             "itemType": 0,
             "color": 3
         },
@@ -692,7 +692,7 @@
             "id": 18880,
             "level": 23,
             "icon": 3249,
-            "name": "Gladius of the Assassin",
+            "name": "Gladius of Assassin",
             "itemType": 0,
             "color": 3
         },
@@ -748,7 +748,7 @@
             "id": 19960,
             "level": 6,
             "icon": 3082,
-            "name": "Gladius of the Blind Outlaw",
+            "name": "Gladius of Blind Outlaw",
             "itemType": 0,
             "color": 3
         },
@@ -764,7 +764,7 @@
             "id": 20023,
             "level": 20,
             "icon": 3082,
-            "name": "Gladius of the Damned Heir",
+            "name": "Gladius of Damned Heir",
             "itemType": 0,
             "color": 3
         },
@@ -772,7 +772,7 @@
             "id": 20036,
             "level": 22,
             "icon": 3082,
-            "name": "Gladius of the Distracted Apostate",
+            "name": "Gladius of Distracted Apostate",
             "itemType": 0,
             "color": 3
         },
@@ -788,7 +788,7 @@
             "id": 20074,
             "level": 26,
             "icon": 3082,
-            "name": "Gladius of the Bloody Earl",
+            "name": "Gladius of Bloody Earl",
             "itemType": 0,
             "color": 3
         },
@@ -828,7 +828,7 @@
             "id": 20359,
             "level": 26,
             "icon": 3130,
-            "name": "Falchion of the Descendant of the Titans",
+            "name": "Falchion of Titan's Descendant",
             "itemType": 0,
             "color": 3
         },
@@ -852,7 +852,7 @@
             "id": 20814,
             "level": 12,
             "icon": 3864,
-            "name": "Blade of the Four-Leaf Clover",
+            "name": "Blade of Four-Leaf Clover",
             "itemType": 0,
             "color": 2
         },
@@ -884,7 +884,7 @@
             "id": 20879,
             "level": 20,
             "icon": 3864,
-            "name": "Blade of the Arcane Valley",
+            "name": "Blade of Arcane Valley",
             "itemType": 0,
             "color": 2
         },
@@ -892,7 +892,7 @@
             "id": 20894,
             "level": 22,
             "icon": 3864,
-            "name": "Blade of the Forest Mystery",
+            "name": "Blade of Forest Mystery",
             "itemType": 0,
             "color": 2
         },
@@ -900,7 +900,7 @@
             "id": 20909,
             "level": 24,
             "icon": 3864,
-            "name": "Blade of the Blooming Island",
+            "name": "Blade of Blooming Island",
             "itemType": 0,
             "color": 2
         },
@@ -908,7 +908,7 @@
             "id": 20924,
             "level": 26,
             "icon": 3864,
-            "name": "Blade of the Emerald Tower",
+            "name": "Blade of Emerald Tower",
             "itemType": 0,
             "color": 2
         },
@@ -1164,7 +1164,7 @@
             "id": 23598,
             "level": 27,
             "icon": 3249,
-            "name": "Gladius of the Arena Lord",
+            "name": "Gladius of Arena Lord",
             "itemType": 0,
             "color": 3
         },
@@ -1180,7 +1180,7 @@
             "id": 24087,
             "level": 28,
             "icon": 3082,
-            "name": "Gladius of the Crazy King",
+            "name": "Gladius of Crazy King",
             "itemType": 0,
             "color": 3
         },
@@ -1204,7 +1204,7 @@
             "id": 25035,
             "level": 12,
             "icon": 4754,
-            "name": "Royal Blade of the Four-Leaf Clover",
+            "name": "Royal Blade of Four-Leaf Clover",
             "itemType": 0,
             "color": 3
         },
@@ -1236,7 +1236,7 @@
             "id": 25099,
             "level": 20,
             "icon": 4754,
-            "name": "Royal Blade of the Arcane Valley",
+            "name": "Royal Blade of Arcane Valley",
             "itemType": 0,
             "color": 3
         },
@@ -1244,7 +1244,7 @@
             "id": 25115,
             "level": 22,
             "icon": 4754,
-            "name": "Royal Blade of the Forest Mystery",
+            "name": "Royal Blade of Forest Mystery",
             "itemType": 0,
             "color": 3
         },
@@ -1252,7 +1252,7 @@
             "id": 25131,
             "level": 24,
             "icon": 4754,
-            "name": "Royal Blade of the Blooming Island",
+            "name": "Royal Blade of Blooming Island",
             "itemType": 0,
             "color": 3
         },
@@ -1260,7 +1260,7 @@
             "id": 25147,
             "level": 26,
             "icon": 4754,
-            "name": "Royal Blade of the Emerald Tower",
+            "name": "Royal Blade of Emerald Tower",
             "itemType": 0,
             "color": 3
         },
@@ -1308,7 +1308,7 @@
             "id": 25295,
             "level": 28,
             "icon": 3405,
-            "name": "Blade of the Bloody Radiance",
+            "name": "Blade of Bloody Radiance",
             "itemType": 0,
             "color": 3
         },
@@ -1348,7 +1348,7 @@
             "id": 26484,
             "level": 29,
             "icon": 3249,
-            "name": "Gladius of the Outstanding Gladiator",
+            "name": "Gladius of Outstanding Gladiator",
             "itemType": 0,
             "color": 3
         },
@@ -1508,7 +1508,7 @@
             "id": 28999,
             "level": 30,
             "icon": 4337,
-            "name": "Blade of Kingdom of Fortitude",
+            "name": "Blade of the Kingdom of Fortitude",
             "itemType": 0,
             "color": 3
         },
@@ -1524,7 +1524,7 @@
             "id": 29689,
             "level": 7,
             "icon": 1408,
-            "name": "Blade of Recruit",
+            "name": "Recruit's Blade",
             "itemType": 0,
             "color": 3
         },
@@ -1532,7 +1532,7 @@
             "id": 29710,
             "level": 11,
             "icon": 1408,
-            "name": "Blade of Mercenary",
+            "name": "Hireling's Blade",
             "itemType": 0,
             "color": 3
         },
@@ -1628,7 +1628,7 @@
             "id": 35259,
             "level": 31,
             "icon": 4904,
-            "name": "Blade of the Pirate Brotherhood",
+            "name": "Blade of Pirate Brotherhood",
             "itemType": 0,
             "color": 3
         },

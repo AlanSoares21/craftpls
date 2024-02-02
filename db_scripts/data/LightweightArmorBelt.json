@@ -4,7 +4,7 @@
             "id": 854,
             "level": 2,
             "icon": 980,
-            "name": "Cheap Belt",
+            "name": "Cheap Girdle",
             "itemType": 6,
             "color": 0
         },
@@ -12,7 +12,7 @@
             "id": 855,
             "level": 2,
             "icon": 980,
-            "name": "Old Belt",
+            "name": "Old Girdle",
             "itemType": 6,
             "color": 0
         },
@@ -20,7 +20,7 @@
             "id": 886,
             "level": 2,
             "icon": 980,
-            "name": "Plain Belt",
+            "name": "Plain Girdle",
             "itemType": 6,
             "color": 1
         },
@@ -28,7 +28,7 @@
             "id": 887,
             "level": 2,
             "icon": 980,
-            "name": "Worn Belt",
+            "name": "Worn Girdle",
             "itemType": 6,
             "color": 1
         },
@@ -36,7 +36,7 @@
             "id": 922,
             "level": 7,
             "icon": 983,
-            "name": "Durable Belt",
+            "name": "Durable Girdle",
             "itemType": 6,
             "color": 1
         },
@@ -60,7 +60,7 @@
             "id": 981,
             "level": 9,
             "icon": 989,
-            "name": "Belt of Fighter",
+            "name": "Fighter's Belt",
             "itemType": 6,
             "color": 2
         },
@@ -68,7 +68,7 @@
             "id": 1032,
             "level": 9,
             "icon": 983,
-            "name": "Leather Girdle of Hunter",
+            "name": "Leather Hunter's Belt",
             "itemType": 6,
             "color": 3
         },
@@ -76,7 +76,7 @@
             "id": 1033,
             "level": 9,
             "icon": 983,
-            "name": "Leather Girdle of Guardian",
+            "name": "Leather Guardian's Belt",
             "itemType": 6,
             "color": 3
         },
@@ -92,7 +92,7 @@
             "id": 2031,
             "level": 12,
             "icon": 986,
-            "name": "Light Thong",
+            "name": "Light Girdle",
             "itemType": 6,
             "color": 2
         },
@@ -140,7 +140,7 @@
             "id": 2269,
             "level": 15,
             "icon": 983,
-            "name": "Polished belt",
+            "name": "Polished Girdle",
             "itemType": 6,
             "color": 2
         },
@@ -172,7 +172,7 @@
             "id": 5788,
             "level": 4,
             "icon": 980,
-            "name": "Baldric of Beginner Gladiator",
+            "name": "Baldric of Novice Gladiator",
             "itemType": 6,
             "color": 3
         },
@@ -180,7 +180,7 @@
             "id": 5807,
             "level": 10,
             "icon": 980,
-            "name": "Decorated Baldric of Beginner Gladiator",
+            "name": "Decorated Baldric of Novice Gladiator",
             "itemType": 6,
             "color": 3
         },
@@ -188,7 +188,7 @@
             "id": 6427,
             "level": 17,
             "icon": 968,
-            "name": "Star Pilgrim's Girdle",
+            "name": "Girdle of Star Pilgrims",
             "itemType": 6,
             "color": 3
         },
@@ -204,7 +204,7 @@
             "id": 13788,
             "level": 11,
             "icon": 995,
-            "name": "Girdle of Aquilon",
+            "name": "Aquilon's Girdle",
             "itemType": 6,
             "color": 2
         },
@@ -212,7 +212,7 @@
             "id": 14091,
             "level": 16,
             "icon": 980,
-            "name": "Loyal Guard's Thong",
+            "name": "Loyal Guard's Girdle",
             "itemType": 6,
             "color": 3
         },
@@ -276,7 +276,7 @@
             "id": 14705,
             "level": 19,
             "icon": 998,
-            "name": "Elemental Belt",
+            "name": "Elemental Girdle",
             "itemType": 6,
             "color": 2
         },
@@ -284,7 +284,7 @@
             "id": 14997,
             "level": 19,
             "icon": 992,
-            "name": "Provocator's Girdle",
+            "name": "Instigator's Girdle",
             "itemType": 6,
             "color": 3
         },
@@ -316,7 +316,7 @@
             "id": 15315,
             "level": 20,
             "icon": 974,
-            "name": "Belt of Ruthless Lord",
+            "name": "Girdle of Ruthless Lord",
             "itemType": 6,
             "color": 3
         },
@@ -332,7 +332,7 @@
             "id": 16215,
             "level": 8,
             "icon": 3111,
-            "name": "Belt of Oath-breaker",
+            "name": "Belt of Oathbreaker",
             "itemType": 6,
             "color": 3
         },
@@ -380,7 +380,7 @@
             "id": 16940,
             "level": 21,
             "icon": 980,
-            "name": "Belt of the Deadly Mystic",
+            "name": "Girdle of the Deadly Mystic",
             "itemType": 6,
             "color": 2
         },
@@ -388,7 +388,7 @@
             "id": 16945,
             "level": 21,
             "icon": 983,
-            "name": "Belt of the Fanatic Dream Walker",
+            "name": "Girdle of the Fanatic Dream Walker",
             "itemType": 6,
             "color": 2
         },
@@ -444,7 +444,7 @@
             "id": 19233,
             "level": 22,
             "icon": 992,
-            "name": "Belt of the Tree Guard",
+            "name": "Girdle of the Tree Guard",
             "itemType": 6,
             "color": 3
         },
@@ -460,7 +460,7 @@
             "id": 19262,
             "level": 23,
             "icon": 992,
-            "name": "Outcast's belt",
+            "name": "Outcast's Gridle",
             "itemType": 6,
             "color": 2
         },
@@ -468,7 +468,7 @@
             "id": 19263,
             "level": 25,
             "icon": 992,
-            "name": "Pariah's belt",
+            "name": "Pariah's Girdle",
             "itemType": 6,
             "color": 2
         },
@@ -596,7 +596,7 @@
             "id": 22440,
             "level": 26,
             "icon": 3111,
-            "name": "Belt of the Descendant of the Titans",
+            "name": "Belt of Titan's Descendant",
             "itemType": 6,
             "color": 3
         },
@@ -604,7 +604,7 @@
             "id": 22441,
             "level": 26,
             "icon": 3111,
-            "name": "Gurt of the Descendant of the Titans",
+            "name": "Gurt of Titan's Descendant",
             "itemType": 6,
             "color": 3
         },
@@ -740,7 +740,7 @@
             "id": 23700,
             "level": 22,
             "icon": 980,
-            "name": "Divine Protection Gurt",
+            "name": "Gurt of Divine Protection",
             "itemType": 6,
             "color": 3
         },
@@ -764,7 +764,7 @@
             "id": 23703,
             "level": 10,
             "icon": 4532,
-            "name": "Eternal Life Gurt",
+            "name": "Gurt of Eternal Life",
             "itemType": 6,
             "color": 3
         },
@@ -812,7 +812,7 @@
             "id": 23709,
             "level": 22,
             "icon": 4532,
-            "name": "Infinite Reliability Gurt",
+            "name": "Gurt of Infinite Reliability",
             "itemType": 6,
             "color": 3
         },
@@ -876,7 +876,7 @@
             "id": 26401,
             "level": 29,
             "icon": 986,
-            "name": "Belt of the Archipelago Privateers",
+            "name": "Belt of Archipelago Privateers",
             "itemType": 6,
             "color": 3
         },
@@ -884,7 +884,7 @@
             "id": 26402,
             "level": 29,
             "icon": 986,
-            "name": "Gurt of the Archipelago Privateers",
+            "name": "Gurt of Archipelago Privateers",
             "itemType": 6,
             "color": 3
         },
@@ -908,7 +908,7 @@
             "id": 26514,
             "level": 29,
             "icon": 980,
-            "name": "Baldric of the Legendary Assassin",
+            "name": "Baldric of Legendary Assassin",
             "itemType": 6,
             "color": 3
         },
@@ -972,7 +972,7 @@
             "id": 29747,
             "level": 7,
             "icon": 983,
-            "name": "Belt of Recruit",
+            "name": "Recruit's Belt",
             "itemType": 6,
             "color": 3
         },
@@ -980,7 +980,7 @@
             "id": 29752,
             "level": 7,
             "icon": 983,
-            "name": "Gurt of Recruit",
+            "name": "Recruit's Gurt",
             "itemType": 6,
             "color": 3
         },
@@ -988,7 +988,7 @@
             "id": 29757,
             "level": 11,
             "icon": 983,
-            "name": "Belt of Mercenary",
+            "name": "Hireling's Belt",
             "itemType": 6,
             "color": 3
         },
@@ -996,7 +996,7 @@
             "id": 29762,
             "level": 11,
             "icon": 983,
-            "name": "Gurt of Mercenary",
+            "name": "Hireling's Gurt",
             "itemType": 6,
             "color": 3
         },
@@ -1004,7 +1004,7 @@
             "id": 31225,
             "level": 14,
             "icon": 3111,
-            "name": "Icy Belt of Toothy Hunter",
+            "name": "Glacial Belt of Toothy Hunter",
             "itemType": 6,
             "color": 3
         },
@@ -1012,7 +1012,7 @@
             "id": 31226,
             "level": 14,
             "icon": 3111,
-            "name": "Icy Gurt of Toothy Hunter",
+            "name": "Glacial Gurt of Toothy Hunter",
             "itemType": 6,
             "color": 3
         },
@@ -1020,7 +1020,7 @@
             "id": 31227,
             "level": 16,
             "icon": 3111,
-            "name": "Icy Belt of the Rune Scald",
+            "name": "Glacial Belt of the Rune Scald",
             "itemType": 6,
             "color": 3
         },
@@ -1028,7 +1028,7 @@
             "id": 31228,
             "level": 16,
             "icon": 3111,
-            "name": "Icy Gurt of the Rune Scald",
+            "name": "Glacial Gurt of the Rune Scald",
             "itemType": 6,
             "color": 3
         },
@@ -1036,7 +1036,7 @@
             "id": 31229,
             "level": 18,
             "icon": 3111,
-            "name": "Icy Belt of the Immortal Wanderer",
+            "name": "Glacial Belt of the Immortal Wanderer",
             "itemType": 6,
             "color": 3
         },
@@ -1044,7 +1044,7 @@
             "id": 31230,
             "level": 18,
             "icon": 3111,
-            "name": "Icy Gurt of the Immortal Wanderer",
+            "name": "Glacial Gurt of the Immortal Wanderer",
             "itemType": 6,
             "color": 3
         },
@@ -1052,7 +1052,7 @@
             "id": 31231,
             "level": 20,
             "icon": 3111,
-            "name": "Icy Belt of the Snow Lady",
+            "name": "Glacial Belt of the Snow Lady",
             "itemType": 6,
             "color": 3
         },
@@ -1060,7 +1060,7 @@
             "id": 31232,
             "level": 20,
             "icon": 3111,
-            "name": "Icy Gurt of the Snow Lady",
+            "name": "Glacial Gurt of the Snow Lady",
             "itemType": 6,
             "color": 3
         },
@@ -1068,7 +1068,7 @@
             "id": 31233,
             "level": 22,
             "icon": 3111,
-            "name": "Icy Belt of Permafrost",
+            "name": "Glacial Belt of Permafrost",
             "itemType": 6,
             "color": 3
         },
@@ -1076,7 +1076,7 @@
             "id": 31234,
             "level": 22,
             "icon": 3111,
-            "name": "Icy Gurt of Permafrost",
+            "name": "Glacial Gurt of Permafrost",
             "itemType": 6,
             "color": 3
         },
@@ -1084,7 +1084,7 @@
             "id": 31235,
             "level": 24,
             "icon": 3111,
-            "name": "Icy Belt of the Ice Prince",
+            "name": "Glacial Belt of the Ice Prince",
             "itemType": 6,
             "color": 3
         },
@@ -1092,7 +1092,7 @@
             "id": 31236,
             "level": 24,
             "icon": 3111,
-            "name": "Icy Gurt of the Ice Prince",
+            "name": "Glacial Gurt of the Ice Prince",
             "itemType": 6,
             "color": 3
         },
@@ -1100,7 +1100,7 @@
             "id": 31237,
             "level": 26,
             "icon": 3111,
-            "name": "Icy Belt of the Descendant of the Titans",
+            "name": "Glacial Belt of Titan's Descendant",
             "itemType": 6,
             "color": 3
         },
@@ -1108,7 +1108,7 @@
             "id": 31238,
             "level": 26,
             "icon": 3111,
-            "name": "Icy Gurt of the Descendant of the Titans",
+            "name": "Glacial Gurt of Titan's Descendant",
             "itemType": 6,
             "color": 3
         },
@@ -1116,7 +1116,7 @@
             "id": 31239,
             "level": 28,
             "icon": 3111,
-            "name": "Icy Belt of the Winter King",
+            "name": "Glacial Belt of the Winter King",
             "itemType": 6,
             "color": 3
         },
@@ -1124,7 +1124,7 @@
             "id": 31240,
             "level": 28,
             "icon": 3111,
-            "name": "Icy Gurt of the Winter King",
+            "name": "Glacial Gurt of the Winter King",
             "itemType": 6,
             "color": 3
         },
@@ -1132,7 +1132,7 @@
             "id": 31241,
             "level": 30,
             "icon": 3111,
-            "name": "Icy Belt of the Lord of Cold",
+            "name": "Glacial Belt of the Lord of Cold",
             "itemType": 6,
             "color": 3
         },
@@ -1140,7 +1140,7 @@
             "id": 31242,
             "level": 30,
             "icon": 3111,
-            "name": "Icy Gurt of the Lord of Cold",
+            "name": "Glacial Gurt of the Lord of Cold",
             "itemType": 6,
             "color": 3
         },
@@ -1164,7 +1164,7 @@
             "id": 33810,
             "level": 32,
             "icon": 3111,
-            "name": "Icy Belt of the Northern Lord",
+            "name": "Glacial Belt of the Northern Lord",
             "itemType": 6,
             "color": 3
         },
@@ -1172,7 +1172,7 @@
             "id": 33811,
             "level": 32,
             "icon": 3111,
-            "name": "Icy Gurt of the Northern Lord",
+            "name": "Glacial Gurt of the Northern Lord",
             "itemType": 6,
             "color": 3
         },
@@ -1276,7 +1276,7 @@
             "id": 34498,
             "level": 32,
             "icon": 4532,
-            "name": "Gurt of the Ominous Requiem",
+            "name": "Gurt of Ominous Requiem",
             "itemType": 6,
             "color": 3
         },
@@ -1292,7 +1292,7 @@
             "id": 35240,
             "level": 31,
             "icon": 986,
-            "name": "Belt of the Rogue Traders of the Code",
+            "name": "Belt of Code Privateers",
             "itemType": 6,
             "color": 3
         },
@@ -1300,7 +1300,7 @@
             "id": 35241,
             "level": 31,
             "icon": 986,
-            "name": "Gurt of the Rogue Traders of the Code",
+            "name": "Gurt of Code Privateers",
             "itemType": 6,
             "color": 3
         },

@@ -1,6 +1,14 @@
 {
     "list": [
         {
+            "id": 33795,
+            "level": 25,
+            "icon": 5169,
+            "name": "Ice Queen's Legendary Cape",
+            "itemType": 4,
+            "color": 3
+        },
+        {
             "id": 894,
             "level": 5,
             "icon": 1550,
@@ -17,18 +25,10 @@
             "color": 1
         },
         {
-            "id": 33795,
-            "level": 25,
-            "icon": 5169,
-            "name": "Legendary Cape of Ice Queen",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 33801,
             "level": 25,
             "icon": 5168,
-            "name": "Legendary Cape of Aquilon",
+            "name": "Aquilon's Legendary Cape",
             "itemType": 4,
             "color": 3
         },
@@ -36,7 +36,7 @@
             "id": 33794,
             "level": 20,
             "icon": 5169,
-            "name": "Powerful Cape of Ice Queen",
+            "name": "Ice Queen's Powerful Cape",
             "itemType": 4,
             "color": 3
         },
@@ -44,7 +44,7 @@
             "id": 33800,
             "level": 20,
             "icon": 5168,
-            "name": "Powerful Cape of Aquilon",
+            "name": "Aquilon's Powerful Cape",
             "itemType": 4,
             "color": 3
         },
@@ -60,7 +60,7 @@
             "id": 33797,
             "level": 5,
             "icon": 5168,
-            "name": "Small Cape of Aquilon",
+            "name": "Aquilon's Lesser Cape",
             "itemType": 4,
             "color": 3
         },
@@ -68,7 +68,15 @@
             "id": 33799,
             "level": 15,
             "icon": 5168,
-            "name": "Great Cape of Aquilon",
+            "name": "Aquilon's Great Cape",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 33798,
+            "level": 10,
+            "icon": 5168,
+            "name": "Aquilon's Cape",
             "itemType": 4,
             "color": 3
         },
@@ -76,7 +84,7 @@
             "id": 2037,
             "level": 12,
             "icon": 1553,
-            "name": "Hard-wearing Cape",
+            "name": "Hard-Wearing Cape",
             "itemType": 4,
             "color": 2
         },
@@ -105,18 +113,10 @@
             "color": 1
         },
         {
-            "id": 33798,
-            "level": 10,
-            "icon": 5168,
-            "name": "Cape of Aquilon",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 33796,
             "level": 30,
             "icon": 5169,
-            "name": "All-Mighty Cape of Ice Queen",
+            "name": "Ice Queen's Almighty Cape",
             "itemType": 4,
             "color": 3
         },
@@ -124,7 +124,7 @@
             "id": 2038,
             "level": 12,
             "icon": 1553,
-            "name": "Hard-wearing Mantle",
+            "name": "Hard-Wearing Mantle",
             "itemType": 4,
             "color": 2
         },
@@ -132,7 +132,7 @@
             "id": 2105,
             "level": 13,
             "icon": 1556,
-            "name": "Light cloak",
+            "name": "Light Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -148,17 +148,9 @@
             "id": 2197,
             "level": 14,
             "icon": 1556,
-            "name": "High-quality Mantle",
+            "name": "High-Quality Mantle",
             "itemType": 4,
             "color": 1
-        },
-        {
-            "id": 33802,
-            "level": 30,
-            "icon": 5168,
-            "name": "All-Mighty Cape of Aquilon",
-            "itemType": 4,
-            "color": 3
         },
         {
             "id": 2034,
@@ -172,7 +164,7 @@
             "id": 2106,
             "level": 13,
             "icon": 1556,
-            "name": "Hard-wearing Cloak",
+            "name": "Hard-Wearing Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -180,7 +172,7 @@
             "id": 2271,
             "level": 15,
             "icon": 1563,
-            "name": "Expensive cape",
+            "name": "Expensive Cape",
             "itemType": 4,
             "color": 2
         },
@@ -188,7 +180,7 @@
             "id": 2320,
             "level": 15,
             "icon": 1556,
-            "name": "High-quality cloak",
+            "name": "High-Quality Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -197,6 +189,14 @@
             "level": 15,
             "icon": 1558,
             "name": "Graceful Cape",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 33802,
+            "level": 30,
+            "icon": 5168,
+            "name": "Aquilon's Almighty Cape",
             "itemType": 4,
             "color": 3
         },
@@ -212,7 +212,7 @@
             "id": 2101,
             "level": 13,
             "icon": 1556,
-            "name": "Tanned Leather mantle",
+            "name": "Tanned Leather Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -220,7 +220,7 @@
             "id": 2194,
             "level": 14,
             "icon": 1587,
-            "name": "Good-looking Cloak",
+            "name": "Good-Looking Cloak",
             "itemType": 4,
             "color": 1
         },
@@ -228,7 +228,7 @@
             "id": 2272,
             "level": 15,
             "icon": 1575,
-            "name": "High-quality Cape",
+            "name": "High-Quality Cape",
             "itemType": 4,
             "color": 2
         },
@@ -345,20 +345,20 @@
             "color": 3
         },
         {
-            "id": 1040,
-            "level": 9,
-            "icon": 1556,
-            "name": "Master's Cloak",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 8023,
             "level": 8,
             "icon": 1547,
             "name": "Durable Cloak",
             "itemType": 4,
             "color": 1
+        },
+        {
+            "id": 1040,
+            "level": 9,
+            "icon": 1556,
+            "name": "Master's Cloak",
+            "itemType": 4,
+            "color": 3
         },
         {
             "id": 8058,
@@ -460,7 +460,7 @@
             "id": 14013,
             "level": 10,
             "icon": 2825,
-            "name": "Bright Cape of Aquilon",
+            "name": "Aquilon's Bright Cape",
             "itemType": 4,
             "color": 3
         },
@@ -468,7 +468,7 @@
             "id": 14018,
             "level": 10,
             "icon": 2825,
-            "name": "Moon Cloak of Aquilon",
+            "name": "Aquilon's Moon Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -484,7 +484,7 @@
             "id": 14033,
             "level": 10,
             "icon": 2825,
-            "name": "Commander Mantle of Aquilon",
+            "name": "Aquilon's Commander Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -492,7 +492,7 @@
             "id": 14038,
             "level": 10,
             "icon": 2825,
-            "name": "Bloody Mantle of Aquilon",
+            "name": "Aquilon's Bloody Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -500,7 +500,7 @@
             "id": 14095,
             "level": 16,
             "icon": 1550,
-            "name": "Mantle of Unbreakable Defence",
+            "name": "Chlamys of Unbreakable Defense",
             "itemType": 4,
             "color": 3
         },
@@ -572,7 +572,7 @@
             "id": 13803,
             "level": 14,
             "icon": 1553,
-            "name": "Stormbreaker's Mantle",
+            "name": "Stormbreaker's Chlamys",
             "itemType": 4,
             "color": 2
         },
@@ -604,7 +604,7 @@
             "id": 14021,
             "level": 19,
             "icon": 2825,
-            "name": "Ruberius' Moon Cloak",
+            "name": "Ruberius's Moon Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -612,7 +612,7 @@
             "id": 14026,
             "level": 19,
             "icon": 2825,
-            "name": "Ruberius' Gloomy Cloak",
+            "name": "Ruberius's Gloomy Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -620,7 +620,7 @@
             "id": 14031,
             "level": 19,
             "icon": 2825,
-            "name": "Ruberius' Arcane Cape",
+            "name": "Ruberius's Arcane Cape",
             "itemType": 4,
             "color": 3
         },
@@ -628,7 +628,7 @@
             "id": 14036,
             "level": 19,
             "icon": 2825,
-            "name": "Ruberius' Commander Mantle",
+            "name": "Ruberius's Commander Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -636,7 +636,7 @@
             "id": 14041,
             "level": 19,
             "icon": 2825,
-            "name": "Ruberius' Bloody Mantle",
+            "name": "Ruberius's Bloody Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -705,22 +705,6 @@
             "color": 3
         },
         {
-            "id": 14027,
-            "level": 7,
-            "icon": 2825,
-            "name": "Temptress's Arcane Cape",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 14032,
-            "level": 7,
-            "icon": 2825,
-            "name": "Temptress's Commander Mantle",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 14037,
             "level": 7,
             "icon": 2825,
@@ -748,7 +732,7 @@
             "id": 14016,
             "level": 19,
             "icon": 2825,
-            "name": "Ruberius' Bright Cape",
+            "name": "Ruberius's Bright Cape",
             "itemType": 4,
             "color": 3
         },
@@ -757,6 +741,22 @@
             "level": 7,
             "icon": 2825,
             "name": "Temptress's Gloomy Cloak",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 14027,
+            "level": 7,
+            "icon": 2825,
+            "name": "Temptress's Arcane Cape",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 14032,
+            "level": 7,
+            "icon": 2825,
+            "name": "Temptress's Commander Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -801,22 +801,6 @@
             "color": 2
         },
         {
-            "id": 16580,
-            "level": 20,
-            "icon": 1569,
-            "name": "Cape of Azure Sky",
-            "itemType": 4,
-            "color": 2
-        },
-        {
-            "id": 16585,
-            "level": 20,
-            "icon": 3203,
-            "name": "Mantle of the Fiery Skies",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 16550,
             "level": 10,
             "icon": 1547,
@@ -829,14 +813,6 @@
             "level": 10,
             "icon": 3203,
             "name": "Avenger Mantle",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 16560,
-            "level": 12,
-            "icon": 3204,
-            "name": "Radiant Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -861,6 +837,46 @@
             "level": 18,
             "icon": 1575,
             "name": "Cloak of the Elements",
+            "itemType": 4,
+            "color": 2
+        },
+        {
+            "id": 16585,
+            "level": 20,
+            "icon": 3203,
+            "name": "Mantle of Fiery Skies",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 16560,
+            "level": 12,
+            "icon": 3204,
+            "name": "Radiant Chiton",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 16580,
+            "level": 20,
+            "icon": 1569,
+            "name": "Cape of Azure Sky",
+            "itemType": 4,
+            "color": 2
+        },
+        {
+            "id": 16558,
+            "level": 12,
+            "icon": 1556,
+            "name": "Chlamys of Pure Light",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 16563,
+            "level": 14,
+            "icon": 1563,
+            "name": "Hazy Cloak",
             "itemType": 4,
             "color": 2
         },
@@ -897,20 +913,20 @@
             "color": 3
         },
         {
-            "id": 16558,
+            "id": 16556,
             "level": 12,
             "icon": 1556,
-            "name": "Chlamys of Pure Light",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 16563,
-            "level": 14,
-            "icon": 1563,
-            "name": "Hazy Cloak",
+            "name": "Dark Cape",
             "itemType": 4,
             "color": 2
+        },
+        {
+            "id": 16561,
+            "level": 12,
+            "icon": 3203,
+            "name": "Radiant Mantle",
+            "itemType": 4,
+            "color": 3
         },
         {
             "id": 16566,
@@ -943,22 +959,6 @@
             "name": "Cloak of Azure Sky",
             "itemType": 4,
             "color": 2
-        },
-        {
-            "id": 16556,
-            "level": 12,
-            "icon": 1556,
-            "name": "Dark Cape",
-            "itemType": 4,
-            "color": 2
-        },
-        {
-            "id": 16561,
-            "level": 12,
-            "icon": 3203,
-            "name": "Radiant Mantle",
-            "itemType": 4,
-            "color": 3
         },
         {
             "id": 16559,
@@ -996,9 +996,17 @@
             "id": 16584,
             "level": 20,
             "icon": 3204,
-            "name": "Chiton of the Fiery Skies",
+            "name": "Chiton of Fiery Skies",
             "itemType": 4,
             "color": 3
+        },
+        {
+            "id": 16557,
+            "level": 12,
+            "icon": 1556,
+            "name": "Dark Cloak",
+            "itemType": 4,
+            "color": 2
         },
         {
             "id": 16562,
@@ -1015,14 +1023,6 @@
             "name": "Chiton of Serenity",
             "itemType": 4,
             "color": 3
-        },
-        {
-            "id": 16557,
-            "level": 12,
-            "icon": 1556,
-            "name": "Dark Cloak",
-            "itemType": 4,
-            "color": 2
         },
         {
             "id": 16577,
@@ -1081,10 +1081,18 @@
             "color": 3
         },
         {
+            "id": 16925,
+            "level": 16,
+            "icon": 3654,
+            "name": "Mantle of Greatness",
+            "itemType": 4,
+            "color": 3
+        },
+        {
             "id": 17446,
             "level": 22,
             "icon": 1572,
-            "name": "Bloody Fire Mantle",
+            "name": "Bloody Fire Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -1093,14 +1101,6 @@
             "level": 22,
             "icon": 1556,
             "name": "Cloak of Nature Strength",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 16925,
-            "level": 16,
-            "icon": 3654,
-            "name": "Cloak of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -1124,7 +1124,7 @@
             "id": 18001,
             "level": 18,
             "icon": 3062,
-            "name": "Cloak of the Full Moon",
+            "name": "Cloak of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -1140,7 +1140,7 @@
             "id": 18002,
             "level": 18,
             "icon": 3062,
-            "name": "Chlamys of the Full Moon",
+            "name": "Chlamys of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -1148,7 +1148,7 @@
             "id": 18000,
             "level": 18,
             "icon": 3062,
-            "name": "Cape of the Full Moon",
+            "name": "Cape of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -1156,7 +1156,7 @@
             "id": 17990,
             "level": 10,
             "icon": 3062,
-            "name": "Eclipse chlamys",
+            "name": "Chlamys of the Eclipse",
             "itemType": 4,
             "color": 3
         },
@@ -1164,7 +1164,7 @@
             "id": 18003,
             "level": 18,
             "icon": 3062,
-            "name": "Chiton of the Full Moon",
+            "name": "Chiton of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -1172,7 +1172,7 @@
             "id": 18944,
             "level": 26,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -1228,15 +1228,7 @@
             "id": 19575,
             "level": 6,
             "icon": 3653,
-            "name": "Contender's Cloak",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 19585,
-            "level": 10,
-            "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -1244,23 +1236,23 @@
             "id": 19580,
             "level": 20,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
         {
-            "id": 19583,
-            "level": 26,
+            "id": 19585,
+            "level": 10,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
         {
-            "id": 19588,
-            "level": 18,
+            "id": 19578,
+            "level": 16,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -1268,7 +1260,7 @@
             "id": 19590,
             "level": 22,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -1297,42 +1289,26 @@
             "color": 3
         },
         {
-            "id": 19578,
-            "level": 16,
+            "id": 19583,
+            "level": 26,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
         {
-            "id": 19240,
-            "level": 23,
-            "icon": 1556,
-            "name": "Cape of the Sacred Tree",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 19243,
-            "level": 25,
-            "icon": 1556,
-            "name": "Cape of the Mechanical Era",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 19586,
-            "level": 14,
+            "id": 19588,
+            "level": 18,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
         {
-            "id": 19591,
-            "level": 24,
+            "id": 19576,
+            "level": 10,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -1356,7 +1332,7 @@
             "id": 20063,
             "level": 24,
             "icon": 3062,
-            "name": "Chlamys of the Rebirth",
+            "name": "Chlamys of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -1369,10 +1345,10 @@
             "color": 3
         },
         {
-            "id": 19576,
-            "level": 10,
-            "icon": 3653,
-            "name": "Contender's Cloak",
+            "id": 19243,
+            "level": 25,
+            "icon": 1556,
+            "name": "Cape of the Mechanical Era",
             "itemType": 4,
             "color": 3
         },
@@ -1380,23 +1356,23 @@
             "id": 19581,
             "level": 22,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
         {
-            "id": 19241,
-            "level": 25,
-            "icon": 1556,
-            "name": "Mantle of the Mechanical Era",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 19589,
-            "level": 20,
+            "id": 19586,
+            "level": 14,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 19591,
+            "level": 24,
+            "icon": 3653,
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -1428,7 +1404,7 @@
             "id": 20061,
             "level": 24,
             "icon": 3062,
-            "name": "Cape of the Rebirth",
+            "name": "Cape of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -1441,10 +1417,18 @@
             "color": 3
         },
         {
+            "id": 19241,
+            "level": 25,
+            "icon": 1556,
+            "name": "Mantle of the Mechanical Era",
+            "itemType": 4,
+            "color": 3
+        },
+        {
             "id": 19579,
             "level": 18,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -1452,7 +1436,15 @@
             "id": 19584,
             "level": 6,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 19589,
+            "level": 20,
+            "icon": 3653,
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -1460,7 +1452,15 @@
             "id": 19577,
             "level": 14,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 19582,
+            "level": 24,
+            "icon": 3653,
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -1468,15 +1468,7 @@
             "id": 19587,
             "level": 16,
             "icon": 3653,
-            "name": "Contender's Cloak",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 19592,
-            "level": 26,
-            "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -1492,7 +1484,7 @@
             "id": 20064,
             "level": 24,
             "icon": 3062,
-            "name": "Chiton of the Rebirth",
+            "name": "Chiton of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -1505,10 +1497,10 @@
             "color": 3
         },
         {
-            "id": 19582,
-            "level": 24,
+            "id": 19592,
+            "level": 26,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -1524,7 +1516,7 @@
             "id": 20062,
             "level": 24,
             "icon": 3062,
-            "name": "Cloak of the Rebirth",
+            "name": "Cloak of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -1609,14 +1601,6 @@
             "color": 3
         },
         {
-            "id": 23425,
-            "level": 18,
-            "icon": 4464,
-            "name": "Cape of Beautiful Season",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 23428,
             "level": 18,
             "icon": 4464,
@@ -1673,6 +1657,14 @@
             "color": 3
         },
         {
+            "id": 23522,
+            "level": 25,
+            "icon": 1556,
+            "name": "Cape of the Tree of the Seasons",
+            "itemType": 4,
+            "color": 3
+        },
+        {
             "id": 23524,
             "level": 25,
             "icon": 1556,
@@ -1697,10 +1689,10 @@
             "color": 3
         },
         {
-            "id": 23522,
-            "level": 25,
-            "icon": 1556,
-            "name": "Cape of the Tree of the Seasons",
+            "id": 23425,
+            "level": 18,
+            "icon": 4464,
+            "name": "Cape of Beautiful Season",
             "itemType": 4,
             "color": 3
         },
@@ -1780,7 +1772,7 @@
             "id": 24150,
             "level": 28,
             "icon": 3062,
-            "name": "Almighty Mantle of Resurrection",
+            "name": "Almighty Chlamys of Resurrection",
             "itemType": 4,
             "color": 3
         },
@@ -1812,7 +1804,7 @@
             "id": 24149,
             "level": 28,
             "icon": 3062,
-            "name": "Mighty Mantle of Resurrection",
+            "name": "Mighty Chlamys of Resurrection",
             "itemType": 4,
             "color": 3
         },
@@ -1828,15 +1820,7 @@
             "id": 25445,
             "level": 28,
             "icon": 4464,
-            "name": "Mantle of the Legendary Period",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 25332,
-            "level": 28,
-            "icon": 1572,
-            "name": "Cape of Rebelliousness",
+            "name": "Chlamys of Legendary Period",
             "itemType": 4,
             "color": 3
         },
@@ -1845,6 +1829,14 @@
             "level": 28,
             "icon": 3204,
             "name": "Chiton of Stubbornness",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 25332,
+            "level": 28,
+            "icon": 1572,
+            "name": "Cape of Rebelliousness",
             "itemType": 4,
             "color": 3
         },
@@ -1860,7 +1852,15 @@
             "id": 25444,
             "level": 28,
             "icon": 4464,
-            "name": "Cape of the Legendary Period",
+            "name": "Cape of Legendary Period",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 25446,
+            "level": 28,
+            "icon": 4464,
+            "name": "Cloak of Legendary Period",
             "itemType": 4,
             "color": 3
         },
@@ -1889,18 +1889,10 @@
             "color": 3
         },
         {
-            "id": 25446,
-            "level": 28,
-            "icon": 4464,
-            "name": "Cloak of the Legendary Period",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 26368,
             "level": 29,
             "icon": 1590,
-            "name": "Cloak of Assassins of Sea Tramps",
+            "name": "Cloak of Sea Tramps Assassins",
             "itemType": 4,
             "color": 3
         },
@@ -1908,7 +1900,7 @@
             "id": 26428,
             "level": 28,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -1916,7 +1908,7 @@
             "id": 26366,
             "level": 29,
             "icon": 1590,
-            "name": "Cape of Charmers of Sea Tramps",
+            "name": "Cape of Sea Tramps Charmers",
             "itemType": 4,
             "color": 3
         },
@@ -1924,7 +1916,7 @@
             "id": 26367,
             "level": 29,
             "icon": 1590,
-            "name": "Cloak of Warriors of Sea Tramps",
+            "name": "Cloak of Sea Tramps Warriors",
             "itemType": 4,
             "color": 3
         },
@@ -1932,7 +1924,7 @@
             "id": 26423,
             "level": 28,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -1940,7 +1932,7 @@
             "id": 26369,
             "level": 29,
             "icon": 1590,
-            "name": "Chiton of Defenders of Sea Tramps",
+            "name": "Chiton of Sea Tramps Defenders",
             "itemType": 4,
             "color": 3
         },
@@ -1956,7 +1948,7 @@
             "id": 26365,
             "level": 29,
             "icon": 1590,
-            "name": "Cape of Mages of Sea Tramps",
+            "name": "Cape of Sea Tramps Mages",
             "itemType": 4,
             "color": 3
         },
@@ -1964,7 +1956,7 @@
             "id": 26370,
             "level": 29,
             "icon": 1590,
-            "name": "Chiton of Templars of Sea Tramps",
+            "name": "Chiton of Sea Tramps Templars",
             "itemType": 4,
             "color": 3
         },
@@ -2028,15 +2020,7 @@
             "id": 27165,
             "level": 30,
             "icon": 3062,
-            "name": "Almighty Mantle of Eternity",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 27943,
-            "level": 20,
-            "icon": 5169,
-            "name": "Mighty Cloak of Ice Queen",
+            "name": "Almighty Chlamys of Eternity",
             "itemType": 4,
             "color": 3
         },
@@ -2044,7 +2028,7 @@
             "id": 27944,
             "level": 25,
             "icon": 5169,
-            "name": "Legendary Cloak of Ice Queen",
+            "name": "Ice Queen's Legendary Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -2065,10 +2049,10 @@
             "color": 2
         },
         {
-            "id": 27945,
-            "level": 5,
-            "icon": 5168,
-            "name": "Small Cloak of Aquilon",
+            "id": 27943,
+            "level": 20,
+            "icon": 5169,
+            "name": "Ice Queen's Mighty Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -2076,7 +2060,7 @@
             "id": 27946,
             "level": 10,
             "icon": 5168,
-            "name": "Cloak of Aquilon",
+            "name": "Aquilon's Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -2097,18 +2081,18 @@
             "color": 2
         },
         {
-            "id": 10744,
-            "level": 15,
-            "icon": 1866,
-            "name": "Greater Fear Wings",
-            "itemType": 4,
-            "color": 2
-        },
-        {
             "id": 10712,
             "level": 5,
             "icon": 1866,
             "name": "Small Darkness Wings",
+            "itemType": 4,
+            "color": 2
+        },
+        {
+            "id": 10744,
+            "level": 15,
+            "icon": 1866,
+            "name": "Greater Fear Wings",
             "itemType": 4,
             "color": 2
         },
@@ -2164,7 +2148,7 @@
             "id": 29805,
             "level": 7,
             "icon": 1547,
-            "name": "Mantle of Recruit",
+            "name": "Recruit's Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -2172,7 +2156,7 @@
             "id": 29810,
             "level": 11,
             "icon": 1556,
-            "name": "Cloak of Mercenary",
+            "name": "Hireling's Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -2188,7 +2172,7 @@
             "id": 29807,
             "level": 7,
             "icon": 1553,
-            "name": "Chiton of Recruit",
+            "name": "Recruit's Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -2212,7 +2196,7 @@
             "id": 29804,
             "level": 7,
             "icon": 1556,
-            "name": "Cape of Recruit",
+            "name": "Recruit's Cape",
             "itemType": 4,
             "color": 3
         },
@@ -2220,7 +2204,7 @@
             "id": 29808,
             "level": 11,
             "icon": 1556,
-            "name": "Cape of Mercenary",
+            "name": "Hireling's Cape",
             "itemType": 4,
             "color": 3
         },
@@ -2236,7 +2220,7 @@
             "id": 29806,
             "level": 7,
             "icon": 1556,
-            "name": "Cloak of Recruit",
+            "name": "Recruit's Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -2244,7 +2228,7 @@
             "id": 29809,
             "level": 11,
             "icon": 1547,
-            "name": "Mantle of Mercenary",
+            "name": "Hireling's Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -2252,7 +2236,7 @@
             "id": 29811,
             "level": 11,
             "icon": 1553,
-            "name": "Chiton of Mercenary",
+            "name": "Hireling's Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -2261,14 +2245,6 @@
             "level": 5,
             "icon": 1866,
             "name": "Small Horror Wings",
-            "itemType": 4,
-            "color": 2
-        },
-        {
-            "id": 10726,
-            "level": 10,
-            "icon": 1866,
-            "name": "Horror Wings",
             "itemType": 4,
             "color": 2
         },
@@ -2300,7 +2276,7 @@
             "id": 30333,
             "level": 24,
             "icon": 3062,
-            "name": "Mysterious Chiton of the Rebirth",
+            "name": "Mysterious Chiton of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -2316,7 +2292,7 @@
             "id": 30383,
             "level": 18,
             "icon": 3062,
-            "name": "Mysterious Chlamys of the Full Moon",
+            "name": "Mysterious Chlamys of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -2325,6 +2301,14 @@
             "level": 5,
             "icon": 1866,
             "name": "Small Fear Wings",
+            "itemType": 4,
+            "color": 2
+        },
+        {
+            "id": 10726,
+            "level": 10,
+            "icon": 1866,
+            "name": "Horror Wings",
             "itemType": 4,
             "color": 2
         },
@@ -2388,7 +2372,7 @@
             "id": 30330,
             "level": 24,
             "icon": 3062,
-            "name": "Mysterious Cape of the Rebirth",
+            "name": "Mysterious Cape of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -2420,7 +2404,7 @@
             "id": 30384,
             "level": 18,
             "icon": 3062,
-            "name": "Mysterious Cloak of the Full Moon",
+            "name": "Mysterious Cloak of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -2428,7 +2412,7 @@
             "id": 30385,
             "level": 18,
             "icon": 3062,
-            "name": "Mysterious Chiton of the Full Moon",
+            "name": "Mysterious Chiton of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -2436,17 +2420,9 @@
             "id": 31204,
             "level": 30,
             "icon": 5538,
-            "name": "Ferocious Chlamys of Chernobog",
+            "name": "Chernobog's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
-        },
-        {
-            "id": 10727,
-            "level": 10,
-            "icon": 1866,
-            "name": "Fear Wings",
-            "itemType": 4,
-            "color": 2
         },
         {
             "id": 10745,
@@ -2476,7 +2452,7 @@
             "id": 30331,
             "level": 24,
             "icon": 3062,
-            "name": "Mysterious Chlamys of the Rebirth",
+            "name": "Mysterious Chlamys of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -2500,7 +2476,7 @@
             "id": 31205,
             "level": 30,
             "icon": 5538,
-            "name": "Ferocious Cloak of Chernobog",
+            "name": "Chernobog's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -2532,7 +2508,7 @@
             "id": 30332,
             "level": 24,
             "icon": 3062,
-            "name": "Mysterious Cloak of the Rebirth",
+            "name": "Mysterious Cloak of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -2548,7 +2524,7 @@
             "id": 30382,
             "level": 18,
             "icon": 3062,
-            "name": "Mysterious Cape of the Full Moon",
+            "name": "Mysterious Cape of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -2588,7 +2564,7 @@
             "id": 31206,
             "level": 30,
             "icon": 5538,
-            "name": "Ferocious Chiton of Chernobog",
+            "name": "Chernobog's Ferocious Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -2745,18 +2721,18 @@
             "color": 3
         },
         {
-            "id": 31984,
-            "level": 28,
-            "icon": 5699,
-            "name": "Magic Chiton of Courage",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 31979,
             "level": 18,
             "icon": 5699,
             "name": "Magic Chiton of Nobleness",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 31984,
+            "level": 28,
+            "icon": 5699,
+            "name": "Magic Chiton of Courage",
             "itemType": 4,
             "color": 3
         },
@@ -2956,7 +2932,7 @@
             "id": 32308,
             "level": 28,
             "icon": 4464,
-            "name": "Ancient Cape of the Legendary Period",
+            "name": "Ancient Cape of Legendary Period",
             "itemType": 4,
             "color": 3
         },
@@ -3060,7 +3036,7 @@
             "id": 32315,
             "level": 28,
             "icon": 4464,
-            "name": "Ancient Chlamys of the Legendary Period",
+            "name": "Ancient Chlamys of Legendary Period",
             "itemType": 4,
             "color": 3
         },
@@ -3084,7 +3060,7 @@
             "id": 32329,
             "level": 28,
             "icon": 4464,
-            "name": "Ancient Chiton of the Legendary Period",
+            "name": "Ancient Chiton of Legendary Period",
             "itemType": 4,
             "color": 3
         },
@@ -3108,7 +3084,7 @@
             "id": 32322,
             "level": 28,
             "icon": 4464,
-            "name": "Ancient Cloak of the Legendary Period",
+            "name": "Ancient Cloak of Legendary Period",
             "itemType": 4,
             "color": 3
         },
@@ -3124,7 +3100,7 @@
             "id": 33688,
             "level": 32,
             "icon": 5538,
-            "name": "Ferocious Cape of Titan",
+            "name": "Titan's Ferocious Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3132,7 +3108,7 @@
             "id": 33693,
             "level": 32,
             "icon": 5538,
-            "name": "Ferocious Chiton of Titan",
+            "name": "Titan's Ferocious Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -3140,7 +3116,7 @@
             "id": 33746,
             "level": 16,
             "icon": 5538,
-            "name": "Storm Cape of Taron",
+            "name": "Taron's Storm Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3148,7 +3124,7 @@
             "id": 33751,
             "level": 26,
             "icon": 5538,
-            "name": "Storm Cape of Mortis",
+            "name": "Mortis's Storm Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3156,7 +3132,7 @@
             "id": 33757,
             "level": 12,
             "icon": 5538,
-            "name": "Storm Cloak of Frosty Fang",
+            "name": "Frosty Fang's Storm Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3164,7 +3140,7 @@
             "id": 33762,
             "level": 22,
             "icon": 5538,
-            "name": "Storm Cloak of Flavius",
+            "name": "Flavius's Storm Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3172,7 +3148,7 @@
             "id": 33791,
             "level": 5,
             "icon": 5169,
-            "name": "Small Cape of Ice Queen",
+            "name": "Ice Queen's Lesser Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3180,7 +3156,7 @@
             "id": 33691,
             "level": 32,
             "icon": 5538,
-            "name": "Ferocious Cloak of Titan",
+            "name": "Titan's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3188,7 +3164,7 @@
             "id": 33744,
             "level": 12,
             "icon": 5538,
-            "name": "Storm Cape of Frosty Fang",
+            "name": "Frosty Fang's Storm Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3196,7 +3172,7 @@
             "id": 33749,
             "level": 22,
             "icon": 5538,
-            "name": "Storm Cape of Flavius",
+            "name": "Flavius's Storm Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3204,7 +3180,7 @@
             "id": 33755,
             "level": 6,
             "icon": 5538,
-            "name": "Storm Cloak of Iceman",
+            "name": "Iceman's Storm Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3212,7 +3188,7 @@
             "id": 33760,
             "level": 18,
             "icon": 5538,
-            "name": "Storm Cloak of Kerula",
+            "name": "Kerula's Storm Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3220,7 +3196,7 @@
             "id": 33765,
             "level": 28,
             "icon": 5538,
-            "name": "Storm Cloak of the Snow General",
+            "name": "Snow General's Storm Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3228,7 +3204,7 @@
             "id": 33692,
             "level": 32,
             "icon": 5538,
-            "name": "Storm Cloak of Titan",
+            "name": "Titan's Storm Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3236,7 +3212,7 @@
             "id": 33745,
             "level": 14,
             "icon": 5538,
-            "name": "Storm Cape of Mastodon",
+            "name": "Mastodon's Storm Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3244,7 +3220,7 @@
             "id": 33750,
             "level": 24,
             "icon": 5538,
-            "name": "Storm Cape of Ruberius",
+            "name": "Ruberius's Storm Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3252,7 +3228,7 @@
             "id": 33756,
             "level": 10,
             "icon": 5538,
-            "name": "Storm Cloak of Ragnar",
+            "name": "Ragnar's Storm Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3260,7 +3236,7 @@
             "id": 33761,
             "level": 20,
             "icon": 5538,
-            "name": "Storm Cloak of Gimir",
+            "name": "Gimir's Storm Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3268,7 +3244,7 @@
             "id": 33766,
             "level": 30,
             "icon": 5538,
-            "name": "Storm Cloak of Chernobog",
+            "name": "Chernobog's Storm Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3276,7 +3252,7 @@
             "id": 33690,
             "level": 32,
             "icon": 5538,
-            "name": "Ferocious Chlamys of Titan",
+            "name": "Titan's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -3284,7 +3260,7 @@
             "id": 33742,
             "level": 6,
             "icon": 5538,
-            "name": "Storm Cape of Iceman",
+            "name": "Iceman's Storm Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3292,7 +3268,7 @@
             "id": 33743,
             "level": 10,
             "icon": 5538,
-            "name": "Storm Cape of Ragnar",
+            "name": "Ragnar's Storm Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3300,7 +3276,7 @@
             "id": 33747,
             "level": 18,
             "icon": 5538,
-            "name": "Storm Cape of Kerula",
+            "name": "Kerula's Storm Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3308,7 +3284,7 @@
             "id": 33748,
             "level": 20,
             "icon": 5538,
-            "name": "Storm Cape of Gimir",
+            "name": "Gimir's Storm Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3316,7 +3292,7 @@
             "id": 33752,
             "level": 28,
             "icon": 5538,
-            "name": "Storm Cape of the Snow General",
+            "name": "Snow General's Storm Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3324,7 +3300,7 @@
             "id": 33758,
             "level": 14,
             "icon": 5538,
-            "name": "Storm Cloak of Mastodon",
+            "name": "Mastodon's Storm Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3332,7 +3308,7 @@
             "id": 33763,
             "level": 24,
             "icon": 5538,
-            "name": "Storm Cloak of Ruberius",
+            "name": "Ruberius's Storm Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3340,7 +3316,23 @@
             "id": 33792,
             "level": 10,
             "icon": 5169,
-            "name": "Cape of Ice Queen",
+            "name": "Ice Queen's Cape",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 33759,
+            "level": 16,
+            "icon": 5538,
+            "name": "Taron's Storm Cloak",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 33764,
+            "level": 26,
+            "icon": 5538,
+            "name": "Mortis's Storm Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3353,26 +3345,10 @@
             "color": 3
         },
         {
-            "id": 33759,
-            "level": 16,
-            "icon": 5538,
-            "name": "Storm Cloak of Taron",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 33764,
-            "level": 26,
-            "icon": 5538,
-            "name": "Storm Cloak of Mortis",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 33793,
             "level": 15,
             "icon": 5169,
-            "name": "Great Cape of Ice Queen",
+            "name": "Ice Queen's Great Cape",
             "itemType": 4,
             "color": 3
         },
@@ -3828,7 +3804,7 @@
             "id": 27939,
             "level": 30,
             "icon": 5168,
-            "name": "All-Mighty Cloak of Aquilon",
+            "name": "Aquilon's Almighty Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3836,7 +3812,7 @@
             "id": 15281,
             "level": 20,
             "icon": 1553,
-            "name": "Apostate Warchief's Mantle",
+            "name": "Apostate Warchief's Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -3844,15 +3820,7 @@
             "id": 27947,
             "level": 15,
             "icon": 5168,
-            "name": "Great Cloak of Aquilon",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 15283,
-            "level": 20,
-            "icon": 1575,
-            "name": "Apostate Warchief's Cape",
+            "name": "Aquilon's Great Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3865,6 +3833,14 @@
             "color": 3
         },
         {
+            "id": 15283,
+            "level": 20,
+            "icon": 1575,
+            "name": "Apostate Warchief's Cape",
+            "itemType": 4,
+            "color": 3
+        },
+        {
             "id": 15080,
             "level": 20,
             "icon": 1578,
@@ -3873,18 +3849,10 @@
             "color": 3
         },
         {
-            "id": 27941,
-            "level": 10,
-            "icon": 5169,
-            "name": "Cloak of Ice Queen",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 27942,
             "level": 15,
             "icon": 5169,
-            "name": "Great Cloak of Ice Queen",
+            "name": "Ice Queen's Great Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3893,6 +3861,14 @@
             "level": 30,
             "icon": 5699,
             "name": "Magic Chiton of Fortitude",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 27941,
+            "level": 10,
+            "icon": 5169,
+            "name": "Ice Queen's Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3916,7 +3892,7 @@
             "id": 27938,
             "level": 30,
             "icon": 5169,
-            "name": "All-Mighty Cloak of Ice Queen",
+            "name": "Ice Queen's Almighty Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -3985,18 +3961,18 @@
             "color": 3
         },
         {
-            "id": 15755,
-            "level": 17,
-            "icon": 3062,
-            "name": "Cape of Darkness",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 15758,
             "level": 17,
             "icon": 3062,
             "name": "Chiton of Darkness",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 15755,
+            "level": 17,
+            "icon": 3062,
+            "name": "Cape of Darkness",
             "itemType": 4,
             "color": 3
         },
@@ -4017,14 +3993,6 @@
             "color": 3
         },
         {
-            "id": 15794,
-            "level": 14,
-            "icon": 3062,
-            "name": "Chlamys of Shadow",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 15780,
             "level": 8,
             "icon": 3062,
@@ -4033,10 +4001,10 @@
             "color": 3
         },
         {
-            "id": 15792,
+            "id": 15794,
             "level": 14,
             "icon": 3062,
-            "name": "Cape of Shadow",
+            "name": "Chlamys of Shadow",
             "itemType": 4,
             "color": 3
         },
@@ -4045,6 +4013,14 @@
             "level": 20,
             "icon": 3062,
             "name": "Chlamys of Fear",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 15792,
+            "level": 14,
+            "icon": 3062,
+            "name": "Cape of Shadow",
             "itemType": 4,
             "color": 3
         },
@@ -4065,18 +4041,18 @@
             "color": 3
         },
         {
-            "id": 16554,
-            "level": 10,
-            "icon": 3204,
-            "name": "Avenger Chiton",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 16567,
             "level": 14,
             "icon": 3203,
             "name": "Storm Mantle",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 16554,
+            "level": 10,
+            "icon": 3204,
+            "name": "Avenger Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -4092,7 +4068,7 @@
             "id": 18945,
             "level": 26,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -4116,7 +4092,7 @@
             "id": 16920,
             "level": 22,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -4137,18 +4113,18 @@
             "color": 3
         },
         {
-            "id": 16924,
-            "level": 16,
-            "icon": 3654,
-            "name": "Cloak of Greatness",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 17988,
             "level": 10,
             "icon": 3062,
             "name": "Cape of the Eclipse",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 16924,
+            "level": 16,
+            "icon": 3654,
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -4164,7 +4140,7 @@
             "id": 16923,
             "level": 24,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -4188,7 +4164,7 @@
             "id": 31163,
             "level": 10,
             "icon": 5538,
-            "name": "Ferocious Cape of Ragnar",
+            "name": "Ragnar's Ferocious Cape",
             "itemType": 4,
             "color": 3
         },
@@ -4196,7 +4172,7 @@
             "id": 31169,
             "level": 12,
             "icon": 5538,
-            "name": "Ferocious Chiton of Frosty Fang",
+            "name": "Frosty Fang's Ferocious Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -4204,7 +4180,7 @@
             "id": 31175,
             "level": 16,
             "icon": 5538,
-            "name": "Ferocious Cape of Taron",
+            "name": "Taron's Ferocious Cape",
             "itemType": 4,
             "color": 3
         },
@@ -4212,7 +4188,7 @@
             "id": 31180,
             "level": 18,
             "icon": 5538,
-            "name": "Ferocious Chlamys of Kerula",
+            "name": "Kerula's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -4220,7 +4196,7 @@
             "id": 31186,
             "level": 20,
             "icon": 5538,
-            "name": "Ferocious Chiton of Gimir",
+            "name": "Gimir's Ferocious Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -4228,7 +4204,7 @@
             "id": 31187,
             "level": 22,
             "icon": 5538,
-            "name": "Ferocious Cape of Flavius",
+            "name": "Flavius's Ferocious Cape",
             "itemType": 4,
             "color": 3
         },
@@ -4236,7 +4212,7 @@
             "id": 31192,
             "level": 24,
             "icon": 5538,
-            "name": "Ferocious Chlamys of Ruberius",
+            "name": "Ruberius's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -4244,7 +4220,7 @@
             "id": 31193,
             "level": 24,
             "icon": 5538,
-            "name": "Ferocious Cloak of Ruberius",
+            "name": "Ruberius's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -4252,7 +4228,7 @@
             "id": 31198,
             "level": 26,
             "icon": 5538,
-            "name": "Ferocious Chiton of Mortis",
+            "name": "Mortis's Ferocious Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -4260,7 +4236,7 @@
             "id": 31199,
             "level": 28,
             "icon": 5538,
-            "name": "Ferocious Cape of the Snow General",
+            "name": "Snow General's Ferocious Cape",
             "itemType": 4,
             "color": 3
         },
@@ -4268,7 +4244,7 @@
             "id": 33172,
             "level": 32,
             "icon": 3062,
-            "name": "Almighty Mantle of Integrity",
+            "name": "Almighty Chlamys of Integrity",
             "itemType": 4,
             "color": 3
         },
@@ -4308,7 +4284,7 @@
             "id": 31160,
             "level": 6,
             "icon": 5538,
-            "name": "Ferocious Chlamys of Iceman",
+            "name": "Iceman's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -4316,7 +4292,7 @@
             "id": 31166,
             "level": 10,
             "icon": 5538,
-            "name": "Ferocious Cloak of Ragnar",
+            "name": "Ragnar's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -4324,7 +4300,7 @@
             "id": 31168,
             "level": 12,
             "icon": 5538,
-            "name": "Ferocious Chlamys of Frosty Fang",
+            "name": "Frosty Fang's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -4332,7 +4308,7 @@
             "id": 31172,
             "level": 14,
             "icon": 5538,
-            "name": "Ferocious Cloak of Mastodon",
+            "name": "Mastodon's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -4340,7 +4316,7 @@
             "id": 31174,
             "level": 14,
             "icon": 5538,
-            "name": "Ferocious Chiton of Mastodon",
+            "name": "Mastodon's Ferocious Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -4348,7 +4324,7 @@
             "id": 31170,
             "level": 12,
             "icon": 5538,
-            "name": "Ferocious Cloak of Frosty Fang",
+            "name": "Frosty Fang's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -4356,7 +4332,7 @@
             "id": 31176,
             "level": 16,
             "icon": 5538,
-            "name": "Ferocious Chlamys of Taron",
+            "name": "Taron's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -4364,7 +4340,7 @@
             "id": 31178,
             "level": 16,
             "icon": 5538,
-            "name": "Ferocious Chiton of Taron",
+            "name": "Taron's Ferocious Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -4372,7 +4348,7 @@
             "id": 31182,
             "level": 18,
             "icon": 5538,
-            "name": "Ferocious Chiton of Kerula",
+            "name": "Kerula's Ferocious Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -4380,7 +4356,7 @@
             "id": 31184,
             "level": 20,
             "icon": 5538,
-            "name": "Ferocious Chlamys of Gimir",
+            "name": "Gimir's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -4388,7 +4364,7 @@
             "id": 31188,
             "level": 22,
             "icon": 5538,
-            "name": "Ferocious Chlamys of Flavius",
+            "name": "Flavius's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -4396,7 +4372,7 @@
             "id": 31190,
             "level": 22,
             "icon": 5538,
-            "name": "Ferocious Chiton of Flavius",
+            "name": "Flavius's Ferocious Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -4404,7 +4380,7 @@
             "id": 31194,
             "level": 24,
             "icon": 5538,
-            "name": "Ferocious Chiton of Ruberius",
+            "name": "Ruberius's Ferocious Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -4412,7 +4388,7 @@
             "id": 31196,
             "level": 26,
             "icon": 5538,
-            "name": "Ferocious Chlamys of Mortis",
+            "name": "Mortis's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -4420,7 +4396,7 @@
             "id": 31200,
             "level": 28,
             "icon": 5538,
-            "name": "Ferocious Chlamys of the Snow General",
+            "name": "Snow General's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -4428,7 +4404,7 @@
             "id": 31202,
             "level": 28,
             "icon": 5538,
-            "name": "Ferocious Chiton of the Snow General",
+            "name": "Snow General's Ferocious Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -4473,18 +4449,18 @@
             "color": 3
         },
         {
-            "id": 30484,
-            "level": 10,
-            "icon": 5509,
-            "name": "Horrifying Cloak of the Eclipse",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 30494,
             "level": 16,
             "icon": 5509,
             "name": "Horrifying Cape of Nightmare",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 30484,
+            "level": 10,
+            "icon": 5509,
+            "name": "Horrifying Cloak of the Eclipse",
             "itemType": 4,
             "color": 3
         },
@@ -4516,7 +4492,7 @@
             "id": 31161,
             "level": 6,
             "icon": 5538,
-            "name": "Ferocious Cloak of Iceman",
+            "name": "Iceman's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -4524,7 +4500,7 @@
             "id": 31167,
             "level": 12,
             "icon": 5538,
-            "name": "Ferocious Cape of Frosty Fang",
+            "name": "Frosty Fang's Ferocious Cape",
             "itemType": 4,
             "color": 3
         },
@@ -4532,7 +4508,7 @@
             "id": 31173,
             "level": 14,
             "icon": 5538,
-            "name": "Ferocious Chlamys of Mastodon",
+            "name": "Mastodon's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -4540,7 +4516,7 @@
             "id": 31179,
             "level": 18,
             "icon": 5538,
-            "name": "Ferocious Cape of Kerula",
+            "name": "Kerula's Ferocious Cape",
             "itemType": 4,
             "color": 3
         },
@@ -4548,7 +4524,7 @@
             "id": 31191,
             "level": 24,
             "icon": 5538,
-            "name": "Ferocious Cape of Ruberius",
+            "name": "Ruberius's Ferocious Cape",
             "itemType": 4,
             "color": 3
         },
@@ -4556,7 +4532,7 @@
             "id": 31197,
             "level": 26,
             "icon": 5538,
-            "name": "Ferocious Cloak of Mortis",
+            "name": "Mortis's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -4572,7 +4548,23 @@
             "id": 31159,
             "level": 6,
             "icon": 5538,
-            "name": "Ferocious Cape of Iceman",
+            "name": "Iceman's Ferocious Cape",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 31165,
+            "level": 10,
+            "icon": 5538,
+            "name": "Ragnar's Ferocious Chiton",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 31171,
+            "level": 14,
+            "icon": 5538,
+            "name": "Mastodon's Ferocious Cape",
             "itemType": 4,
             "color": 3
         },
@@ -4625,26 +4617,10 @@
             "color": 3
         },
         {
-            "id": 31165,
-            "level": 10,
-            "icon": 5538,
-            "name": "Ferocious Chiton of Ragnar",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 31171,
-            "level": 14,
-            "icon": 5538,
-            "name": "Ferocious Cape of Mastodon",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 31177,
             "level": 16,
             "icon": 5538,
-            "name": "Ferocious Cloak of Taron",
+            "name": "Taron's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -4652,7 +4628,7 @@
             "id": 31183,
             "level": 20,
             "icon": 5538,
-            "name": "Ferocious Cape of Gimir",
+            "name": "Gimir's Ferocious Cape",
             "itemType": 4,
             "color": 3
         },
@@ -4660,7 +4636,7 @@
             "id": 31189,
             "level": 22,
             "icon": 5538,
-            "name": "Ferocious Cloak of Flavius",
+            "name": "Flavius's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -4668,7 +4644,7 @@
             "id": 31203,
             "level": 30,
             "icon": 5538,
-            "name": "Ferocious Cape of Chernobog",
+            "name": "Chernobog's Ferocious Cape",
             "itemType": 4,
             "color": 3
         },
@@ -4676,7 +4652,7 @@
             "id": 31195,
             "level": 26,
             "icon": 5538,
-            "name": "Ferocious Cape of Mortis",
+            "name": "Mortis's Ferocious Cape",
             "itemType": 4,
             "color": 3
         },
@@ -4708,7 +4684,7 @@
             "id": 30510,
             "level": 24,
             "icon": 5509,
-            "name": "Horrifying Cape of the Rebirth",
+            "name": "Horrifying Cape of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -4724,7 +4700,7 @@
             "id": 30512,
             "level": 24,
             "icon": 5509,
-            "name": "Horrifying Cloak of the Rebirth",
+            "name": "Horrifying Cloak of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -4820,7 +4796,7 @@
             "id": 29645,
             "level": 30,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -4836,7 +4812,7 @@
             "id": 33171,
             "level": 32,
             "icon": 3062,
-            "name": "Mighty Mantle of Integrity",
+            "name": "Mighty Chlamys of Integrity",
             "itemType": 4,
             "color": 3
         },
@@ -4876,7 +4852,7 @@
             "id": 33236,
             "level": 18,
             "icon": 3062,
-            "name": "Otherworldly Cape of the Full Moon",
+            "name": "Otherworldly Cape of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -4892,7 +4868,7 @@
             "id": 29638,
             "level": 30,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -4956,7 +4932,7 @@
             "id": 30513,
             "level": 24,
             "icon": 5509,
-            "name": "Horrifying Chiton of the Rebirth",
+            "name": "Horrifying Chiton of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -5004,7 +4980,7 @@
             "id": 29644,
             "level": 30,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -5028,7 +5004,7 @@
             "id": 30498,
             "level": 18,
             "icon": 5509,
-            "name": "Horrifying Cape of the Full Moon",
+            "name": "Horrifying Cape of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -5052,7 +5028,7 @@
             "id": 33243,
             "level": 24,
             "icon": 3062,
-            "name": "Otherworldly Cloak of the Rebirth",
+            "name": "Otherworldly Cloak of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -5060,7 +5036,7 @@
             "id": 29639,
             "level": 30,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5100,7 +5076,7 @@
             "id": 33237,
             "level": 18,
             "icon": 3062,
-            "name": "Otherworldly Cloak of the Full Moon",
+            "name": "Otherworldly Cloak of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -5108,7 +5084,7 @@
             "id": 33242,
             "level": 24,
             "icon": 3062,
-            "name": "Otherworldly Cape of the Rebirth",
+            "name": "Otherworldly Cape of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -5132,7 +5108,7 @@
             "id": 30501,
             "level": 18,
             "icon": 5509,
-            "name": "Horrifying Chiton of the Full Moon",
+            "name": "Horrifying Chiton of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -5140,7 +5116,7 @@
             "id": 30511,
             "level": 24,
             "icon": 5509,
-            "name": "Horrifying Chlamys of the Rebirth",
+            "name": "Horrifying Chlamys of Rebirth",
             "itemType": 4,
             "color": 3
         },
@@ -5149,22 +5125,6 @@
             "level": 32,
             "icon": 5509,
             "name": "Horrifying Chlamys of Integrity",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 30489,
-            "level": 12,
-            "icon": 5509,
-            "name": "Horrifying Chiton of the Curse",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 30499,
-            "level": 18,
-            "icon": 5509,
-            "name": "Horrifying Chlamys of the Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -5189,6 +5149,22 @@
             "level": 17,
             "icon": 1560,
             "name": "Black Cape of Abyss Zealot",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 30489,
+            "level": 12,
+            "icon": 5509,
+            "name": "Horrifying Chiton of the Curse",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 30499,
+            "level": 18,
+            "icon": 5509,
+            "name": "Horrifying Chlamys of Full Moon",
             "itemType": 4,
             "color": 3
         },
@@ -5236,7 +5212,7 @@
             "id": 12854,
             "level": 20,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5260,7 +5236,7 @@
             "id": 27940,
             "level": 5,
             "icon": 5169,
-            "name": "Small Cloak of Ice Queen",
+            "name": "Ice Queen's Lesser Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -5276,7 +5252,7 @@
             "id": 36772,
             "level": 16,
             "icon": 5538,
-            "name": "Storm Chlamys of Taron",
+            "name": "Taron's Storm Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -5284,7 +5260,7 @@
             "id": 36782,
             "level": 10,
             "icon": 5538,
-            "name": "Storm Chiton of Ragnar",
+            "name": "Ragnar's Storm Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -5292,7 +5268,7 @@
             "id": 36792,
             "level": 30,
             "icon": 5538,
-            "name": "Storm Chiton of Chernobog",
+            "name": "Chernobog's Storm Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -5300,7 +5276,7 @@
             "id": 36771,
             "level": 14,
             "icon": 5538,
-            "name": "Storm Chlamys of Mastodon",
+            "name": "Mastodon's Storm Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -5308,7 +5284,7 @@
             "id": 36768,
             "level": 6,
             "icon": 5538,
-            "name": "Storm Chlamys of Iceman",
+            "name": "Iceman's Storm Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -5316,7 +5292,7 @@
             "id": 36769,
             "level": 10,
             "icon": 5538,
-            "name": "Storm Chlamys of Ragnar",
+            "name": "Ragnar's Storm Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -5324,7 +5300,7 @@
             "id": 36778,
             "level": 28,
             "icon": 5538,
-            "name": "Storm Chlamys of the Snow General",
+            "name": "Snow General's Storm Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -5332,7 +5308,7 @@
             "id": 36779,
             "level": 30,
             "icon": 5538,
-            "name": "Storm Chlamys of Chernobog",
+            "name": "Chernobog's Storm Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -5340,7 +5316,7 @@
             "id": 36788,
             "level": 22,
             "icon": 5538,
-            "name": "Storm Chiton of Flavius",
+            "name": "Flavius's Storm Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -5348,7 +5324,7 @@
             "id": 31201,
             "level": 28,
             "icon": 5538,
-            "name": "Ferocious Cloak of the Snow General",
+            "name": "Snow General's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -5356,7 +5332,7 @@
             "id": 36773,
             "level": 18,
             "icon": 5538,
-            "name": "Storm Chlamys of Kerula",
+            "name": "Kerula's Storm Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -5388,7 +5364,7 @@
             "id": 36783,
             "level": 12,
             "icon": 5538,
-            "name": "Storm Chiton of Frosty Fang",
+            "name": "Frosty Fang's Storm Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -5396,7 +5372,7 @@
             "id": 36793,
             "level": 32,
             "icon": 5538,
-            "name": "Storm Chiton of Titan",
+            "name": "Titan's Storm Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -5404,7 +5380,7 @@
             "id": 36785,
             "level": 16,
             "icon": 5538,
-            "name": "Storm Chiton of Taron",
+            "name": "Taron's Storm Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -5412,7 +5388,7 @@
             "id": 36774,
             "level": 20,
             "icon": 5538,
-            "name": "Storm Chlamys of Gimir",
+            "name": "Gimir's Storm Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -5420,7 +5396,7 @@
             "id": 36784,
             "level": 14,
             "icon": 5538,
-            "name": "Storm Chiton of Mastodon",
+            "name": "Mastodon's Storm Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -5436,7 +5412,7 @@
             "id": 35224,
             "level": 28,
             "icon": 4464,
-            "name": "Sacred Cape of the Legendary Period",
+            "name": "Sacred Cape of Legendary Period",
             "itemType": 4,
             "color": 3
         },
@@ -5452,7 +5428,7 @@
             "id": 35317,
             "level": 31,
             "icon": 1590,
-            "name": "Chiton of the Templars of the Pirate Brotherhood",
+            "name": "Chiton of Pirate Brotherhood Templars",
             "itemType": 4,
             "color": 3
         },
@@ -5508,7 +5484,7 @@
             "id": 36777,
             "level": 26,
             "icon": 5538,
-            "name": "Storm Chlamys of Mortis",
+            "name": "Mortis's Storm Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -5516,7 +5492,7 @@
             "id": 36787,
             "level": 20,
             "icon": 5538,
-            "name": "Storm Chiton of Gimir",
+            "name": "Gimir's Storm Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -5532,7 +5508,7 @@
             "id": 35185,
             "level": 32,
             "icon": 4464,
-            "name": "Mantle of the Monumental Milestone",
+            "name": "Chlamys of the Monumental Milestone",
             "itemType": 4,
             "color": 3
         },
@@ -5572,7 +5548,7 @@
             "id": 35312,
             "level": 31,
             "icon": 1590,
-            "name": "Cape of the Sorcerers of the Pirate Brotherhood",
+            "name": "Cape of Pirate Brotherhood Sorcerers",
             "itemType": 4,
             "color": 3
         },
@@ -5580,7 +5556,7 @@
             "id": 35313,
             "level": 31,
             "icon": 1590,
-            "name": "Cape of the Spellweavers of the Pirate Brotherhood",
+            "name": "Cape of Pirate Brotherhood Spellweavers",
             "itemType": 4,
             "color": 3
         },
@@ -5588,7 +5564,7 @@
             "id": 36776,
             "level": 24,
             "icon": 5538,
-            "name": "Storm Chlamys of Ruberius",
+            "name": "Ruberius's Storm Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -5596,7 +5572,7 @@
             "id": 36786,
             "level": 18,
             "icon": 5538,
-            "name": "Storm Chiton of Kerula",
+            "name": "Kerula's Storm Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -5620,7 +5596,7 @@
             "id": 36770,
             "level": 12,
             "icon": 5538,
-            "name": "Storm Chlamys of Frosty Fang",
+            "name": "Frosty Fang's Storm Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -5628,7 +5604,7 @@
             "id": 36790,
             "level": 26,
             "icon": 5538,
-            "name": "Storm Chiton of Mortis",
+            "name": "Mortis's Storm Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -5636,7 +5612,7 @@
             "id": 35186,
             "level": 32,
             "icon": 4464,
-            "name": "Ancient Mantle of the Monumental Milestone",
+            "name": "Ancient Chlamys of the Monumental Milestone",
             "itemType": 4,
             "color": 3
         },
@@ -5652,7 +5628,7 @@
             "id": 35314,
             "level": 31,
             "icon": 1590,
-            "name": "Cloak of the Warriors of the Pirate Brotherhood",
+            "name": "Cloak of Pirate Brotherhood Warriors",
             "itemType": 4,
             "color": 3
         },
@@ -5660,7 +5636,7 @@
             "id": 36791,
             "level": 28,
             "icon": 5538,
-            "name": "Storm Chiton of the Snow General",
+            "name": "Snow General's Storm Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -5692,7 +5668,7 @@
             "id": 35232,
             "level": 28,
             "icon": 4464,
-            "name": "Sacred Cloak of the Legendary Period",
+            "name": "Sacred Cloak of Legendary Period",
             "itemType": 4,
             "color": 3
         },
@@ -5700,7 +5676,7 @@
             "id": 35315,
             "level": 31,
             "icon": 1590,
-            "name": "Cloak of the Assassins of the Pirate Brotherhood",
+            "name": "Cloak of Pirate Brotherhood Assassins",
             "itemType": 4,
             "color": 3
         },
@@ -5708,7 +5684,7 @@
             "id": 35316,
             "level": 31,
             "icon": 1590,
-            "name": "Chiton of the Defenders of the Pirate Brotherhood",
+            "name": "Chiton of Pirate Brotherhood Defenders",
             "itemType": 4,
             "color": 3
         },
@@ -5716,7 +5692,7 @@
             "id": 36789,
             "level": 24,
             "icon": 5538,
-            "name": "Storm Chiton of Ruberius",
+            "name": "Ruberius's Storm Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -5740,7 +5716,15 @@
             "id": 27949,
             "level": 25,
             "icon": 5168,
-            "name": "Legendary Cloak of Aquilon",
+            "name": "Aquilon's Legendary Cloak",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 8384,
+            "level": 13,
+            "icon": 1547,
+            "name": "Tanned Leather Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -5753,18 +5737,10 @@
             "color": 1
         },
         {
-            "id": 8384,
-            "level": 13,
-            "icon": 1547,
-            "name": "Tanned Leather Cloak",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 8347,
             "level": 12,
             "icon": 1556,
-            "name": "Travelling Mantle",
+            "name": "Traveling Mantle",
             "itemType": 4,
             "color": 2
         },
@@ -5772,7 +5748,7 @@
             "id": 27948,
             "level": 20,
             "icon": 5168,
-            "name": "Mighty Cloak of Aquilon",
+            "name": "Aquilon's Mighty Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -5780,7 +5756,7 @@
             "id": 8346,
             "level": 12,
             "icon": 1558,
-            "name": "Travelling Cloak",
+            "name": "Traveling Cloak",
             "itemType": 4,
             "color": 2
         },
@@ -5812,7 +5788,15 @@
             "id": 35654,
             "level": 32,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 35641,
+            "level": 19,
+            "icon": 1563,
+            "name": "Cape of Havenly Chambers",
             "itemType": 4,
             "color": 3
         },
@@ -5828,15 +5812,7 @@
             "id": 35647,
             "level": 32,
             "icon": 3654,
-            "name": "Cloak of Greatness",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 35641,
-            "level": 19,
-            "icon": 1563,
-            "name": "Cape of Havenly Chambers",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5844,15 +5820,7 @@
             "id": 35648,
             "level": 32,
             "icon": 3654,
-            "name": "Cloak of Greatness",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 35653,
-            "level": 32,
-            "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5860,7 +5828,7 @@
             "id": 12850,
             "level": 6,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5868,7 +5836,7 @@
             "id": 12859,
             "level": 20,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5876,7 +5844,7 @@
             "id": 12860,
             "level": 6,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5884,7 +5852,15 @@
             "id": 12861,
             "level": 10,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 35653,
+            "level": 32,
+            "icon": 3653,
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
@@ -5892,7 +5868,7 @@
             "id": 12790,
             "level": 10,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5900,7 +5876,7 @@
             "id": 12791,
             "level": 14,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5908,7 +5884,7 @@
             "id": 12793,
             "level": 20,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5916,7 +5892,7 @@
             "id": 12853,
             "level": 18,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5924,7 +5900,7 @@
             "id": 12862,
             "level": 14,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5932,7 +5908,7 @@
             "id": 12863,
             "level": 18,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5940,31 +5916,7 @@
             "id": 12864,
             "level": 20,
             "icon": 3654,
-            "name": "Cloak of Greatness",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 12855,
-            "level": 6,
-            "icon": 3654,
-            "name": "Cloak of Greatness",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 12856,
-            "level": 10,
-            "icon": 3654,
-            "name": "Cloak of Greatness",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 12857,
-            "level": 14,
-            "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -5972,7 +5924,31 @@
             "id": 12742,
             "level": 6,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 12855,
+            "level": 6,
+            "icon": 3654,
+            "name": "Mantle of Greatness",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 12856,
+            "level": 10,
+            "icon": 3654,
+            "name": "Mantle of Greatness",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 12857,
+            "level": 14,
+            "icon": 3654,
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -6009,6 +5985,14 @@
             "color": 0
         },
         {
+            "id": 15771,
+            "level": 22,
+            "icon": 3062,
+            "name": "Chiton of Darkmist",
+            "itemType": 4,
+            "color": 3
+        },
+        {
             "id": 15734,
             "level": 5,
             "icon": 3062,
@@ -6025,14 +6009,6 @@
             "color": 3
         },
         {
-            "id": 15771,
-            "level": 22,
-            "icon": 3062,
-            "name": "Chiton of Darkmist",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 16579,
             "level": 18,
             "icon": 3203,
@@ -6044,17 +6020,9 @@
             "id": 16921,
             "level": 24,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
-        },
-        {
-            "id": 10724,
-            "level": 10,
-            "icon": 1866,
-            "name": "Night Wings",
-            "itemType": 4,
-            "color": 2
         },
         {
             "id": 14006,
@@ -6068,7 +6036,7 @@
             "id": 14093,
             "level": 16,
             "icon": 1553,
-            "name": "Cape of Unbreakable Defence",
+            "name": "Cape of Unbreakable Defense",
             "itemType": 4,
             "color": 3
         },
@@ -6092,7 +6060,23 @@
             "id": 16922,
             "level": 22,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 10724,
+            "level": 10,
+            "icon": 1866,
+            "name": "Night Wings",
+            "itemType": 4,
+            "color": 2
+        },
+        {
+            "id": 9816,
+            "level": 18,
+            "icon": 2641,
+            "name": "Dragonslayer's Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -6108,7 +6092,7 @@
             "id": 12792,
             "level": 18,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -6116,15 +6100,7 @@
             "id": 14028,
             "level": 10,
             "icon": 2825,
-            "name": "Arcane Cape of Aquilon",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 15757,
-            "level": 17,
-            "icon": 3062,
-            "name": "Chlamys of Darkness",
+            "name": "Aquilon's Arcane Cape",
             "itemType": 4,
             "color": 3
         },
@@ -6137,10 +6113,10 @@
             "color": 3
         },
         {
-            "id": 9816,
-            "level": 18,
-            "icon": 2641,
-            "name": "Dragonslayer's Cloak",
+            "id": 15757,
+            "level": 17,
+            "icon": 3062,
+            "name": "Chlamys of Darkness",
             "itemType": 4,
             "color": 3
         },
@@ -6148,7 +6124,7 @@
             "id": 12858,
             "level": 18,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -6156,7 +6132,7 @@
             "id": 14094,
             "level": 16,
             "icon": 1563,
-            "name": "Cloak of Unbreakable Defence",
+            "name": "Cloak of Unbreakable Defense",
             "itemType": 4,
             "color": 3
         },
@@ -6196,7 +6172,7 @@
             "id": 17991,
             "level": 10,
             "icon": 3062,
-            "name": "Eclipse Chiton",
+            "name": "Chiton of the Eclipse",
             "itemType": 4,
             "color": 3
         },
@@ -6205,14 +6181,6 @@
             "level": 28,
             "icon": 3062,
             "name": "Mighty Chiton of Resurrection",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 19238,
-            "level": 23,
-            "icon": 1556,
-            "name": "Mantle of the Sacred Tree",
             "itemType": 4,
             "color": 3
         },
@@ -6241,6 +6209,22 @@
             "color": 3
         },
         {
+            "id": 19238,
+            "level": 23,
+            "icon": 1556,
+            "name": "Mantle of the Sacred Tree",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 25447,
+            "level": 28,
+            "icon": 4464,
+            "name": "Chiton of Legendary Period",
+            "itemType": 4,
+            "color": 3
+        },
+        {
             "id": 21140,
             "level": 26,
             "icon": 3203,
@@ -6249,18 +6233,10 @@
             "color": 3
         },
         {
-            "id": 25447,
+            "id": 26422,
             "level": 28,
-            "icon": 4464,
-            "name": "Chiton of the Legendary Period",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 27164,
-            "level": 30,
-            "icon": 3062,
-            "name": "Mighty Mantle of Eternity",
+            "icon": 3654,
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -6281,42 +6257,18 @@
             "color": 3
         },
         {
-            "id": 26422,
-            "level": 28,
-            "icon": 3654,
-            "name": "Cloak of Greatness",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 26429,
             "level": 28,
             "icon": 3653,
-            "name": "Contender's Cloak",
+            "name": "Contender's Mantle",
             "itemType": 4,
             "color": 3
         },
         {
-            "id": 30500,
-            "level": 18,
-            "icon": 5509,
-            "name": "Horrifying Cloak of the Full Moon",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 33230,
-            "level": 12,
+            "id": 27164,
+            "level": 30,
             "icon": 3062,
-            "name": "Otherworldly Cape of the Curse",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 36775,
-            "level": 22,
-            "icon": 5538,
-            "name": "Storm Chlamys of Flavius",
+            "name": "Mighty Chlamys of Eternity",
             "itemType": 4,
             "color": 3
         },
@@ -6329,10 +6281,26 @@
             "color": 3
         },
         {
-            "id": 30521,
-            "level": 28,
+            "id": 36775,
+            "level": 22,
+            "icon": 5538,
+            "name": "Flavius's Storm Chlamys",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 30500,
+            "level": 18,
             "icon": 5509,
-            "name": "Horrifying Chiton of Resurrection",
+            "name": "Horrifying Cloak of Full Moon",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 33230,
+            "level": 12,
+            "icon": 3062,
+            "name": "Otherworldly Cape of the Curse",
             "itemType": 4,
             "color": 3
         },
@@ -6340,15 +6308,7 @@
             "id": 31164,
             "level": 10,
             "icon": 5538,
-            "name": "Ferocious Chlamys of Ragnar",
-            "itemType": 4,
-            "color": 3
-        },
-        {
-            "id": 34647,
-            "level": 12,
-            "icon": 5699,
-            "name": "Bewitching Cloak of Devotion",
+            "name": "Ragnar's Ferocious Chlamys",
             "itemType": 4,
             "color": 3
         },
@@ -6361,10 +6321,26 @@
             "color": 3
         },
         {
+            "id": 34647,
+            "level": 12,
+            "icon": 5699,
+            "name": "Bewitching Cloak of Devotion",
+            "itemType": 4,
+            "color": 3
+        },
+        {
             "id": 36780,
             "level": 32,
             "icon": 5538,
-            "name": "Storm Chlamys of Titan",
+            "name": "Titan's Storm Chlamys",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 30521,
+            "level": 28,
+            "icon": 5509,
+            "name": "Horrifying Chiton of Resurrection",
             "itemType": 4,
             "color": 3
         },
@@ -6372,7 +6348,7 @@
             "id": 31181,
             "level": 18,
             "icon": 5538,
-            "name": "Ferocious Cloak of Kerula",
+            "name": "Kerula's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -6380,7 +6356,7 @@
             "id": 31185,
             "level": 20,
             "icon": 5538,
-            "name": "Ferocious Cloak of Gimir",
+            "name": "Gimir's Ferocious Cloak",
             "itemType": 4,
             "color": 3
         },
@@ -6409,18 +6385,10 @@
             "color": 3
         },
         {
-            "id": 31162,
-            "level": 6,
-            "icon": 5538,
-            "name": "Ferocious Chiton of Iceman",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 33753,
             "level": 30,
             "icon": 5538,
-            "name": "Storm Cape of Chernobog",
+            "name": "Chernobog's Storm Cape",
             "itemType": 4,
             "color": 3
         },
@@ -6436,7 +6404,15 @@
             "id": 36781,
             "level": 6,
             "icon": 5538,
-            "name": "Storm Chiton of Iceman",
+            "name": "Iceman's Storm Chiton",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 31162,
+            "level": 6,
+            "icon": 5538,
+            "name": "Iceman's Ferocious Chiton",
             "itemType": 4,
             "color": 3
         },
@@ -6468,7 +6444,7 @@
             "id": 12851,
             "level": 10,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -6476,7 +6452,7 @@
             "id": 12852,
             "level": 14,
             "icon": 3654,
-            "name": "Cloak of Greatness",
+            "name": "Mantle of Greatness",
             "itemType": 4,
             "color": 3
         },
@@ -6505,14 +6481,6 @@
             "color": 3
         },
         {
-            "id": 32312,
-            "level": 22,
-            "icon": 4464,
-            "name": "Ancient Chlamys of the Magical Era",
-            "itemType": 4,
-            "color": 3
-        },
-        {
             "id": 33168,
             "level": 32,
             "icon": 3062,
@@ -6521,12 +6489,44 @@
             "color": 3
         },
         {
+            "id": 32312,
+            "level": 22,
+            "icon": 4464,
+            "name": "Ancient Chlamys of the Magical Era",
+            "itemType": 4,
+            "color": 3
+        },
+        {
             "id": 33689,
             "level": 32,
             "icon": 5538,
-            "name": "Storm Cape of Titan",
+            "name": "Titan's Storm Cape",
             "itemType": 4,
             "color": 3
+        },
+        {
+            "id": 19240,
+            "level": 23,
+            "icon": 1556,
+            "name": "Cape of the Sacred Tree",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 27945,
+            "level": 5,
+            "icon": 5168,
+            "name": "Aquilon's Lesser Cloak",
+            "itemType": 4,
+            "color": 3
+        },
+        {
+            "id": 10727,
+            "level": 10,
+            "icon": 1866,
+            "name": "Fear Wings",
+            "itemType": 4,
+            "color": 2
         },
         {
             "id": 17447,

@@ -12,10 +12,10 @@ def commandForFile(itemType: str):
     ammountItems = len(items)
     lastIndex = ammountItems - 1
     for index in range(ammountItems):
+        item = items[index]
         level = int(item['level'])
         if level < 10 or level % 2 != 0:
             continue
-        item = items[index]
         name = itemNameToPostgresString(str(item['name']))
         command += "('" + name + "', " + str(item['level']) + ", " + str(itemTypeToCraftCategory[itemType]) + ")"
         if (index != lastIndex):

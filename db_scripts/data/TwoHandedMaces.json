@@ -4,7 +4,7 @@
             "id": 7989,
             "level": 7,
             "icon": 1085,
-            "name": "Heavy Hammer",
+            "name": "Heavy Warhammer",
             "itemType": 0,
             "color": 1
         },
@@ -68,7 +68,7 @@
             "id": 9068,
             "level": 17,
             "icon": 1085,
-            "name": "Hammer of Abyss Zealot",
+            "name": "Warhammer of Abyss Zealot",
             "itemType": 0,
             "color": 2
         },
@@ -76,7 +76,7 @@
             "id": 9085,
             "level": 18,
             "icon": 1088,
-            "name": "Hammer of Sudden Doom",
+            "name": "Warhammer of Sudden Doom",
             "itemType": 0,
             "color": 3
         },
@@ -84,7 +84,7 @@
             "id": 10427,
             "level": 13,
             "icon": 1079,
-            "name": "Tested Hammer",
+            "name": "Tested Warhammer",
             "itemType": 0,
             "color": 0
         },
@@ -92,7 +92,7 @@
             "id": 11145,
             "level": 17,
             "icon": 1094,
-            "name": "Champion Maul",
+            "name": "Champion's Maul",
             "itemType": 0,
             "color": 3
         },
@@ -140,7 +140,7 @@
             "id": 14436,
             "level": 18,
             "icon": 1094,
-            "name": "Hewing Hammer",
+            "name": "Hewing Warhammer",
             "itemType": 0,
             "color": 2
         },
@@ -236,7 +236,7 @@
             "id": 16138,
             "level": 8,
             "icon": 3122,
-            "name": "Maul of Oath-breaker",
+            "name": "Maul of Oathbreaker",
             "itemType": 0,
             "color": 3
         },
@@ -292,7 +292,7 @@
             "id": 16974,
             "level": 22,
             "icon": 1094,
-            "name": "Sledgehammer of Northern Courage",
+            "name": "Maul of Northern Courage",
             "itemType": 0,
             "color": 2
         },
@@ -300,7 +300,7 @@
             "id": 17106,
             "level": 12,
             "icon": 1085,
-            "name": "Well-tried Hammer",
+            "name": "Well-Worn Warhammer",
             "itemType": 0,
             "color": 2
         },
@@ -316,7 +316,7 @@
             "id": 17131,
             "level": 16,
             "icon": 1085,
-            "name": "Sparkling Hammer",
+            "name": "Sparkling Warhammer",
             "itemType": 0,
             "color": 2
         },
@@ -324,7 +324,7 @@
             "id": 17132,
             "level": 20,
             "icon": 1094,
-            "name": "Ashen Hammer",
+            "name": "Ashen Warhammer",
             "itemType": 0,
             "color": 2
         },
@@ -388,7 +388,7 @@
             "id": 17198,
             "level": 16,
             "icon": 3399,
-            "name": "Hammer of Chilled Flame",
+            "name": "Warhammer of Chilled Flame",
             "itemType": 0,
             "color": 3
         },
@@ -396,7 +396,7 @@
             "id": 17206,
             "level": 18,
             "icon": 3399,
-            "name": "Hammer of Dead Silence",
+            "name": "Warhammer of Dead Silence",
             "itemType": 0,
             "color": 3
         },
@@ -412,7 +412,7 @@
             "id": 17299,
             "level": 22,
             "icon": 1085,
-            "name": "Horrifying Hammer",
+            "name": "Horrifying Warhammer",
             "itemType": 0,
             "color": 2
         },
@@ -420,7 +420,7 @@
             "id": 17309,
             "level": 22,
             "icon": 1085,
-            "name": "All-Destroying Morgenstern",
+            "name": "Devastating Morgenstern",
             "itemType": 0,
             "color": 3
         },
@@ -556,7 +556,7 @@
             "id": 19025,
             "level": 24,
             "icon": 1085,
-            "name": "Rune hammer",
+            "name": "Rune Warhammer",
             "itemType": 0,
             "color": 2
         },
@@ -564,7 +564,7 @@
             "id": 19033,
             "level": 24,
             "icon": 1085,
-            "name": "Hammer of Liberator",
+            "name": "Warhammer of Liberator",
             "itemType": 0,
             "color": 3
         },
@@ -572,7 +572,7 @@
             "id": 19041,
             "level": 24,
             "icon": 3399,
-            "name": "Hammer of Legendary Defender",
+            "name": "Warhammer of Legendary Defender",
             "itemType": 0,
             "color": 3
         },
@@ -596,7 +596,7 @@
             "id": 19965,
             "level": 6,
             "icon": 3076,
-            "name": "Morgenstern of the Blind Outlaw",
+            "name": "Morgenstern of Blind Outlaw",
             "itemType": 0,
             "color": 3
         },
@@ -612,7 +612,7 @@
             "id": 20028,
             "level": 20,
             "icon": 3076,
-            "name": "Morgenstern of the Damned Heir",
+            "name": "Morgenstern of Damned Heir",
             "itemType": 0,
             "color": 3
         },
@@ -620,7 +620,7 @@
             "id": 20041,
             "level": 22,
             "icon": 3076,
-            "name": "Morgenstern of the Distracted Apostate",
+            "name": "Morgenstern of Distracted Apostate",
             "itemType": 0,
             "color": 3
         },
@@ -636,7 +636,7 @@
             "id": 20079,
             "level": 26,
             "icon": 3076,
-            "name": "Morgenstern of the Bloody Earl",
+            "name": "Morgenstern of Bloody Earl",
             "itemType": 0,
             "color": 3
         },
@@ -644,7 +644,7 @@
             "id": 20274,
             "level": 6,
             "icon": 3122,
-            "name": "Hammer of Cold-Bearing Spirit",
+            "name": "Warhammer of Cold-Bearing Spirit",
             "itemType": 0,
             "color": 3
         },
@@ -652,7 +652,7 @@
             "id": 20283,
             "level": 10,
             "icon": 3122,
-            "name": "Hammer of the Tribe Leader",
+            "name": "Warhammer of the Tribe Leader",
             "itemType": 0,
             "color": 3
         },
@@ -660,7 +660,7 @@
             "id": 20295,
             "level": 12,
             "icon": 3122,
-            "name": "Hammer of the Frozen Master",
+            "name": "Warhammer of the Frozen Master",
             "itemType": 0,
             "color": 3
         },
@@ -668,7 +668,7 @@
             "id": 20304,
             "level": 14,
             "icon": 3122,
-            "name": "Hammer of the Toothy Hunter",
+            "name": "Warhammer of the Toothy Hunter",
             "itemType": 0,
             "color": 3
         },
@@ -676,7 +676,7 @@
             "id": 20316,
             "level": 16,
             "icon": 3122,
-            "name": "Hammer of the Rune Scald",
+            "name": "Warhammer of the Rune Scald",
             "itemType": 0,
             "color": 3
         },
@@ -684,7 +684,7 @@
             "id": 20325,
             "level": 18,
             "icon": 3122,
-            "name": "Hammer of the Immortal Wanderer",
+            "name": "Warhammer of the Immortal Wanderer",
             "itemType": 0,
             "color": 3
         },
@@ -692,7 +692,7 @@
             "id": 20331,
             "level": 20,
             "icon": 3122,
-            "name": "Hammer of the Snow Lady",
+            "name": "Warhammer of the Snow Lady",
             "itemType": 0,
             "color": 3
         },
@@ -700,7 +700,7 @@
             "id": 20337,
             "level": 22,
             "icon": 3122,
-            "name": "Hammer of Permafrost",
+            "name": "Warhammer of Permafrost",
             "itemType": 0,
             "color": 3
         },
@@ -708,7 +708,7 @@
             "id": 20349,
             "level": 24,
             "icon": 3122,
-            "name": "Hammer of the Ice Prince",
+            "name": "Warhammer of the Ice Prince",
             "itemType": 0,
             "color": 3
         },
@@ -716,7 +716,7 @@
             "id": 20364,
             "level": 26,
             "icon": 3122,
-            "name": "Hammer of the Descendant of the Titans",
+            "name": "Warhammer of Titan's Descendant",
             "itemType": 0,
             "color": 3
         },
@@ -724,7 +724,7 @@
             "id": 20789,
             "level": 6,
             "icon": 3867,
-            "name": "Hammer of the Green Hill",
+            "name": "Warhammer of the Green Hill",
             "itemType": 0,
             "color": 2
         },
@@ -732,7 +732,7 @@
             "id": 20804,
             "level": 10,
             "icon": 3867,
-            "name": "Hammer of the Heath Meadow",
+            "name": "Warhammer of the Heath Meadow",
             "itemType": 0,
             "color": 2
         },
@@ -740,7 +740,7 @@
             "id": 20819,
             "level": 12,
             "icon": 3867,
-            "name": "Hammer of the Four-Leaf Clover",
+            "name": "Warhammer of Four-Leaf Clover",
             "itemType": 0,
             "color": 2
         },
@@ -748,7 +748,7 @@
             "id": 20834,
             "level": 14,
             "icon": 3867,
-            "name": "Hammer of the Spring Symphony",
+            "name": "Warhammer of the Spring Symphony",
             "itemType": 0,
             "color": 2
         },
@@ -756,7 +756,7 @@
             "id": 20854,
             "level": 16,
             "icon": 3867,
-            "name": "Hammer of the Happy Month",
+            "name": "Warhammer of the Happy Month",
             "itemType": 0,
             "color": 2
         },
@@ -764,7 +764,7 @@
             "id": 20869,
             "level": 18,
             "icon": 3867,
-            "name": "Hammer of the Singing Oak Forest",
+            "name": "Warhammer of the Singing Oak Forest",
             "itemType": 0,
             "color": 2
         },
@@ -772,7 +772,7 @@
             "id": 20884,
             "level": 20,
             "icon": 3867,
-            "name": "Warhammer of the Arcane Valley",
+            "name": "Warhammer of Arcane Valley",
             "itemType": 0,
             "color": 2
         },
@@ -780,7 +780,7 @@
             "id": 20899,
             "level": 22,
             "icon": 3867,
-            "name": "Warhammer of the Forest Mystery",
+            "name": "Warhammer of Forest Mystery",
             "itemType": 0,
             "color": 2
         },
@@ -788,7 +788,7 @@
             "id": 20914,
             "level": 24,
             "icon": 3867,
-            "name": "Warhammer of the Blooming Island",
+            "name": "Warhammer of Blooming Island",
             "itemType": 0,
             "color": 2
         },
@@ -796,7 +796,7 @@
             "id": 20929,
             "level": 26,
             "icon": 3867,
-            "name": "Warhammer of the Emerald Tower",
+            "name": "Warhammer of Emerald Tower",
             "itemType": 0,
             "color": 2
         },
@@ -836,7 +836,7 @@
             "id": 21351,
             "level": 3,
             "icon": 1085,
-            "name": "Plain Two-handed Mace",
+            "name": "Plain Two-Handed Mace",
             "itemType": 0,
             "color": 2
         },
@@ -844,7 +844,7 @@
             "id": 21364,
             "level": 5,
             "icon": 1085,
-            "name": "Light Two-handed Mace",
+            "name": "Light Two-Handed Mace",
             "itemType": 0,
             "color": 2
         },
@@ -852,7 +852,7 @@
             "id": 21377,
             "level": 7,
             "icon": 1085,
-            "name": "Coarse Two-handed Mace",
+            "name": "Coarse Two-Handed Mace",
             "itemType": 0,
             "color": 2
         },
@@ -860,7 +860,7 @@
             "id": 21390,
             "level": 9,
             "icon": 1085,
-            "name": "Smooth Two-handed Mace",
+            "name": "Smooth Two-Handed Mace",
             "itemType": 0,
             "color": 2
         },
@@ -868,7 +868,7 @@
             "id": 21403,
             "level": 11,
             "icon": 1085,
-            "name": "Useful Two-handed Mace",
+            "name": "Useful Two-Handed Mace",
             "itemType": 0,
             "color": 2
         },
@@ -884,7 +884,7 @@
             "id": 21726,
             "level": 6,
             "icon": 4093,
-            "name": "Hammer of Deep Slumber",
+            "name": "Warhammer of Deep Slumber",
             "itemType": 0,
             "color": 3
         },
@@ -892,7 +892,7 @@
             "id": 21741,
             "level": 10,
             "icon": 4093,
-            "name": "Hammer of Somnolent Whispers",
+            "name": "Warhammer of Somnolent Whispers",
             "itemType": 0,
             "color": 3
         },
@@ -900,7 +900,7 @@
             "id": 21756,
             "level": 12,
             "icon": 4093,
-            "name": "Hammer of Restless Dreaming",
+            "name": "Warhammer of Restless Dreaming",
             "itemType": 0,
             "color": 3
         },
@@ -908,7 +908,7 @@
             "id": 21771,
             "level": 14,
             "icon": 4093,
-            "name": "Hammer of Black Oblivion",
+            "name": "Warhammer of Black Oblivion",
             "itemType": 0,
             "color": 3
         },
@@ -916,7 +916,7 @@
             "id": 21786,
             "level": 16,
             "icon": 4093,
-            "name": "Hammer of Sinister Phantasms",
+            "name": "Warhammer of Sinister Phantasms",
             "itemType": 0,
             "color": 3
         },
@@ -924,7 +924,7 @@
             "id": 21801,
             "level": 18,
             "icon": 4093,
-            "name": "Hammer of Dreadful Delusion",
+            "name": "Warhammer of Dreadful Delusion",
             "itemType": 0,
             "color": 3
         },
@@ -932,7 +932,7 @@
             "id": 21816,
             "level": 20,
             "icon": 4093,
-            "name": "Hammer of Nocturnal Terror",
+            "name": "Warhammer of Nocturnal Terror",
             "itemType": 0,
             "color": 3
         },
@@ -940,7 +940,7 @@
             "id": 21831,
             "level": 22,
             "icon": 4093,
-            "name": "Hammer of Incarnated Nightmares",
+            "name": "Warhammer of Incarnated Nightmares",
             "itemType": 0,
             "color": 3
         },
@@ -948,7 +948,7 @@
             "id": 21846,
             "level": 24,
             "icon": 4093,
-            "name": "Hammer of Midnight Howl",
+            "name": "Warhammer of Midnight Howl",
             "itemType": 0,
             "color": 3
         },
@@ -956,7 +956,7 @@
             "id": 21861,
             "level": 26,
             "icon": 4093,
-            "name": "Hammer of Suffocating Fear",
+            "name": "Warhammer of Suffocating Fear",
             "itemType": 0,
             "color": 3
         },
@@ -964,7 +964,7 @@
             "id": 22813,
             "level": 6,
             "icon": 4339,
-            "name": "Hammer of the Kingdom of Daring",
+            "name": "Warhammer of the Kingdom of Daring",
             "itemType": 0,
             "color": 3
         },
@@ -972,7 +972,7 @@
             "id": 22828,
             "level": 10,
             "icon": 4339,
-            "name": "Hammer of the Kingdom of Boldness",
+            "name": "Warhammer of the Kingdom of Boldness",
             "itemType": 0,
             "color": 3
         },
@@ -980,7 +980,7 @@
             "id": 22843,
             "level": 12,
             "icon": 4339,
-            "name": "Hammer of the Kingdom of Devotion",
+            "name": "Warhammer of the Kingdom of Devotion",
             "itemType": 0,
             "color": 3
         },
@@ -988,7 +988,7 @@
             "id": 22858,
             "level": 14,
             "icon": 4339,
-            "name": "Hammer of the Kingdom of Bravery",
+            "name": "Warhammer of the Kingdom of Bravery",
             "itemType": 0,
             "color": 3
         },
@@ -996,7 +996,7 @@
             "id": 22873,
             "level": 16,
             "icon": 4339,
-            "name": "Hammer of the Kingdom of Magnanimity",
+            "name": "Warhammer of the Kingdom of Magnanimity",
             "itemType": 0,
             "color": 3
         },
@@ -1004,7 +1004,7 @@
             "id": 22888,
             "level": 18,
             "icon": 4339,
-            "name": "Hammer of the Kingdom of Nobleness",
+            "name": "Warhammer of the Kingdom of Nobleness",
             "itemType": 0,
             "color": 3
         },
@@ -1012,7 +1012,7 @@
             "id": 22903,
             "level": 20,
             "icon": 4339,
-            "name": "Hammer of the Kingdom of Justice",
+            "name": "Warhammer of the Kingdom of Justice",
             "itemType": 0,
             "color": 3
         },
@@ -1020,7 +1020,7 @@
             "id": 22918,
             "level": 22,
             "icon": 4339,
-            "name": "Hammer of the Kingdom of Honor",
+            "name": "Warhammer of the Kingdom of Honor",
             "itemType": 0,
             "color": 3
         },
@@ -1028,7 +1028,7 @@
             "id": 22933,
             "level": 24,
             "icon": 4339,
-            "name": "Hammer of the Kingdom of Valor",
+            "name": "Warhammer of the Kingdom of Valor",
             "itemType": 0,
             "color": 3
         },
@@ -1036,7 +1036,7 @@
             "id": 22948,
             "level": 26,
             "icon": 4339,
-            "name": "Hammer of the Kingdom of Fearlessness",
+            "name": "Warhammer of the Kingdom of Fearlessness",
             "itemType": 0,
             "color": 3
         },
@@ -1044,7 +1044,7 @@
             "id": 23486,
             "level": 25,
             "icon": 3389,
-            "name": "Hammer of Tree of the Seasons\u2019 Keepers",
+            "name": "Warhammer of Tree of the Seasons\u2019 Keepers",
             "itemType": 0,
             "color": 3
         },
@@ -1052,7 +1052,7 @@
             "id": 23555,
             "level": 27,
             "icon": 3620,
-            "name": "Hammer of Technopolis Guards",
+            "name": "Warhammer of Technopolis Guards",
             "itemType": 0,
             "color": 3
         },
@@ -1060,7 +1060,7 @@
             "id": 23604,
             "level": 27,
             "icon": 3254,
-            "name": "Maul of the Arena Lord",
+            "name": "Maul of Arena Lord",
             "itemType": 0,
             "color": 3
         },
@@ -1068,7 +1068,7 @@
             "id": 24078,
             "level": 28,
             "icon": 4093,
-            "name": "Hammer of Impending Madness",
+            "name": "Warhammer of Impending Madness",
             "itemType": 0,
             "color": 3
         },
@@ -1076,7 +1076,7 @@
             "id": 24093,
             "level": 28,
             "icon": 3076,
-            "name": "Morgenstern of the Crazy King",
+            "name": "Morgenstern of Crazy King",
             "itemType": 0,
             "color": 3
         },
@@ -1084,7 +1084,7 @@
             "id": 24395,
             "level": 28,
             "icon": 3122,
-            "name": "Hammer of the Winter King",
+            "name": "Warhammer of the Winter King",
             "itemType": 0,
             "color": 3
         },
@@ -1092,7 +1092,7 @@
             "id": 25025,
             "level": 10,
             "icon": 4747,
-            "name": "Royal Hammer of the Heath Meadow",
+            "name": "Royal Warhammer of the Heath Meadow",
             "itemType": 0,
             "color": 3
         },
@@ -1100,7 +1100,7 @@
             "id": 25041,
             "level": 12,
             "icon": 4747,
-            "name": "Royal Hammer of the Four-Leaf Clover",
+            "name": "Royal Warhammer of Four-Leaf Clover",
             "itemType": 0,
             "color": 3
         },
@@ -1108,7 +1108,7 @@
             "id": 25057,
             "level": 14,
             "icon": 4747,
-            "name": "Royal Hammer of the Spring Symphony",
+            "name": "Royal Warhammer of the Spring Symphony",
             "itemType": 0,
             "color": 3
         },
@@ -1116,7 +1116,7 @@
             "id": 25073,
             "level": 16,
             "icon": 4747,
-            "name": "Royal Hammer of the Happy Month",
+            "name": "Royal Warhammer of the Happy Month",
             "itemType": 0,
             "color": 3
         },
@@ -1124,7 +1124,7 @@
             "id": 25089,
             "level": 18,
             "icon": 4747,
-            "name": "Royal Hammer of the Singing Oak Forest",
+            "name": "Royal Warhammer of the Singing Oak Forest",
             "itemType": 0,
             "color": 3
         },
@@ -1132,7 +1132,7 @@
             "id": 25105,
             "level": 20,
             "icon": 4747,
-            "name": "Royal Hammer of the Arcane Valley",
+            "name": "Royal Warhammer of Arcane Valley",
             "itemType": 0,
             "color": 3
         },
@@ -1140,7 +1140,7 @@
             "id": 25121,
             "level": 22,
             "icon": 4747,
-            "name": "Royal Hammer of the Forest Mystery",
+            "name": "Royal Warhammer of Forest Mystery",
             "itemType": 0,
             "color": 3
         },
@@ -1148,7 +1148,7 @@
             "id": 25137,
             "level": 24,
             "icon": 4747,
-            "name": "Royal Hammer of the Blooming Island",
+            "name": "Royal Warhammer of Blooming Island",
             "itemType": 0,
             "color": 3
         },
@@ -1156,7 +1156,7 @@
             "id": 25153,
             "level": 26,
             "icon": 4747,
-            "name": "Royal Hammer of the Emerald Tower",
+            "name": "Royal Warhammer of Emerald Tower",
             "itemType": 0,
             "color": 3
         },
@@ -1164,7 +1164,7 @@
             "id": 25169,
             "level": 28,
             "icon": 4747,
-            "name": "Royal Hammer of the Sun Fortress",
+            "name": "Royal Warhammer of the Sun Fortress",
             "itemType": 0,
             "color": 3
         },
@@ -1172,7 +1172,7 @@
             "id": 25185,
             "level": 28,
             "icon": 4339,
-            "name": "Hammer of the Kingdom of Courage",
+            "name": "Warhammer of the Kingdom of Courage",
             "itemType": 0,
             "color": 3
         },
@@ -1180,7 +1180,7 @@
             "id": 25199,
             "level": 28,
             "icon": 3867,
-            "name": "Hammer of the Sun Fortress",
+            "name": "Warhammer of the Sun Fortress",
             "itemType": 0,
             "color": 2
         },
@@ -1188,7 +1188,7 @@
             "id": 25281,
             "level": 28,
             "icon": 1085,
-            "name": "Hammer of Scarlet Dawn",
+            "name": "Warhammer of Scarlet Dawn",
             "itemType": 0,
             "color": 2
         },
@@ -1196,7 +1196,7 @@
             "id": 25291,
             "level": 28,
             "icon": 1085,
-            "name": "Hammer of Purple Sky",
+            "name": "Warhammer of Purple Sky",
             "itemType": 0,
             "color": 3
         },
@@ -1204,7 +1204,7 @@
             "id": 25301,
             "level": 28,
             "icon": 3399,
-            "name": "Hammer of the Bloody Radiance",
+            "name": "Warhammer of Bloody Radiance",
             "itemType": 0,
             "color": 3
         },
@@ -1212,7 +1212,7 @@
             "id": 26286,
             "level": 30,
             "icon": 4890,
-            "name": "Hammer of Lord of the Seas",
+            "name": "Warhammer of Lord of the Seas",
             "itemType": 0,
             "color": 3
         },
@@ -1220,7 +1220,7 @@
             "id": 26320,
             "level": 29,
             "icon": 4906,
-            "name": "Hammer of Sea Tramps",
+            "name": "Warhammer of Sea Tramps",
             "itemType": 0,
             "color": 3
         },
@@ -1236,7 +1236,7 @@
             "id": 26477,
             "level": 29,
             "icon": 1094,
-            "name": "Hammer of Sea Wolf",
+            "name": "Warhammer of Sea Wolf",
             "itemType": 0,
             "color": 2
         },
@@ -1244,7 +1244,7 @@
             "id": 26490,
             "level": 29,
             "icon": 3254,
-            "name": "Maul of the Outstanding Gladiator",
+            "name": "Maul of Outstanding Gladiator",
             "itemType": 0,
             "color": 3
         },
@@ -1252,7 +1252,7 @@
             "id": 27112,
             "level": 30,
             "icon": 4093,
-            "name": "Hammer of Monster Curse",
+            "name": "Warhammer of Monster Curse",
             "itemType": 0,
             "color": 3
         },
@@ -1268,7 +1268,7 @@
             "id": 27732,
             "level": 6,
             "icon": 5157,
-            "name": "Hammer of Piercing Cold",
+            "name": "Warhammer of Piercing Cold",
             "itemType": 0,
             "color": 3
         },
@@ -1276,7 +1276,7 @@
             "id": 27747,
             "level": 10,
             "icon": 5157,
-            "name": "Hammer of Heavy Wind",
+            "name": "Warhammer of Heavy Wind",
             "itemType": 0,
             "color": 3
         },
@@ -1284,7 +1284,7 @@
             "id": 27762,
             "level": 12,
             "icon": 5157,
-            "name": "Hammer of Frosty Darkness",
+            "name": "Warhammer of Frosty Darkness",
             "itemType": 0,
             "color": 3
         },
@@ -1292,7 +1292,7 @@
             "id": 27777,
             "level": 14,
             "icon": 5157,
-            "name": "Hammer of Freezing Cold",
+            "name": "Warhammer of Freezing Cold",
             "itemType": 0,
             "color": 3
         },
@@ -1300,7 +1300,7 @@
             "id": 27792,
             "level": 16,
             "icon": 5157,
-            "name": "Hammer of Arctic Frost",
+            "name": "Warhammer of Arctic Frost",
             "itemType": 0,
             "color": 3
         },
@@ -1308,7 +1308,7 @@
             "id": 27807,
             "level": 18,
             "icon": 5157,
-            "name": "Hammer of Fierce Blizzard",
+            "name": "Warhammer of Fierce Blizzard",
             "itemType": 0,
             "color": 3
         },
@@ -1316,7 +1316,7 @@
             "id": 27822,
             "level": 20,
             "icon": 5157,
-            "name": "Hammer of Northern Tornado",
+            "name": "Warhammer of Northern Tornado",
             "itemType": 0,
             "color": 3
         },
@@ -1324,7 +1324,7 @@
             "id": 27837,
             "level": 22,
             "icon": 5157,
-            "name": "Hammer of Furious Northern Wind",
+            "name": "Warhammer of Furious Northern Wind",
             "itemType": 0,
             "color": 3
         },
@@ -1332,7 +1332,7 @@
             "id": 27852,
             "level": 24,
             "icon": 5157,
-            "name": "Hammer of Sweeping Whirlwind",
+            "name": "Warhammer of Sweeping Whirlwind",
             "itemType": 0,
             "color": 3
         },
@@ -1340,7 +1340,7 @@
             "id": 27867,
             "level": 26,
             "icon": 5157,
-            "name": "Hammer of Violent Blizzard",
+            "name": "Warhammer of Violent Blizzard",
             "itemType": 0,
             "color": 3
         },
@@ -1348,7 +1348,7 @@
             "id": 27882,
             "level": 28,
             "icon": 5157,
-            "name": "Hammer of Snow Storm",
+            "name": "Warhammer of Snow Storm",
             "itemType": 0,
             "color": 3
         },
@@ -1356,7 +1356,7 @@
             "id": 27897,
             "level": 30,
             "icon": 5157,
-            "name": "Hammer of Ice Storm",
+            "name": "Warhammer of Ice Storm",
             "itemType": 0,
             "color": 3
         },
@@ -1364,7 +1364,7 @@
             "id": 27914,
             "level": 30,
             "icon": 3122,
-            "name": "Hammer of the Lord of Cold",
+            "name": "Warhammer of the Lord of Cold",
             "itemType": 0,
             "color": 3
         },
@@ -1372,7 +1372,7 @@
             "id": 28854,
             "level": 30,
             "icon": 1085,
-            "name": "Hammer of Purification",
+            "name": "Warhammer of Purification",
             "itemType": 0,
             "color": 2
         },
@@ -1380,7 +1380,7 @@
             "id": 28864,
             "level": 30,
             "icon": 1085,
-            "name": "Hammer of Enlightenment",
+            "name": "Warhammer of Enlightenment",
             "itemType": 0,
             "color": 3
         },
@@ -1388,7 +1388,7 @@
             "id": 28873,
             "level": 30,
             "icon": 3399,
-            "name": "Hammer of Catharsis",
+            "name": "Warhammer of Catharsis",
             "itemType": 0,
             "color": 3
         },
@@ -1396,7 +1396,7 @@
             "id": 28989,
             "level": 30,
             "icon": 4747,
-            "name": "Royal Hammer of Enchanted Castle",
+            "name": "Royal Warhammer of Enchanted Castle",
             "itemType": 0,
             "color": 3
         },
@@ -1404,7 +1404,7 @@
             "id": 29005,
             "level": 30,
             "icon": 4339,
-            "name": "Hammer of Kingdom of Fortitude",
+            "name": "Warhammer of the Kingdom of Fortitude",
             "itemType": 0,
             "color": 3
         },
@@ -1412,7 +1412,7 @@
             "id": 29020,
             "level": 30,
             "icon": 3867,
-            "name": "Hammer of Enchanted Castle",
+            "name": "Warhammer of Enchanted Castle",
             "itemType": 0,
             "color": 2
         },
@@ -1420,7 +1420,7 @@
             "id": 29701,
             "level": 7,
             "icon": 1079,
-            "name": "Hammer of Recruit",
+            "name": "Recruit's Warhammer",
             "itemType": 0,
             "color": 3
         },
@@ -1436,7 +1436,7 @@
             "id": 29716,
             "level": 11,
             "icon": 1079,
-            "name": "Hammer of Mercenary",
+            "name": "Hireling's Warhammer",
             "itemType": 0,
             "color": 3
         },
@@ -1500,7 +1500,7 @@
             "id": 29884,
             "level": 22,
             "icon": 1085,
-            "name": "All-Destroying Maul",
+            "name": "Devastating Maul",
             "itemType": 0,
             "color": 3
         },
@@ -1596,7 +1596,7 @@
             "id": 29896,
             "level": 14,
             "icon": 1085,
-            "name": "Hammer of Northern Chieftains",
+            "name": "Warhammer of Northern Chieftains",
             "itemType": 0,
             "color": 3
         },
@@ -1604,7 +1604,7 @@
             "id": 29897,
             "level": 14,
             "icon": 3399,
-            "name": "Hammer of Northern Lords",
+            "name": "Warhammer of Northern Lords",
             "itemType": 0,
             "color": 3
         },
@@ -1612,7 +1612,7 @@
             "id": 29898,
             "level": 12,
             "icon": 1085,
-            "name": "Well-tried Maul",
+            "name": "Well-Worn Maul",
             "itemType": 0,
             "color": 2
         },
@@ -1620,7 +1620,7 @@
             "id": 29899,
             "level": 12,
             "icon": 1085,
-            "name": "Hammer of Full Moon",
+            "name": "Warhammer of Full Moon",
             "itemType": 0,
             "color": 3
         },
@@ -1628,7 +1628,7 @@
             "id": 29900,
             "level": 12,
             "icon": 3399,
-            "name": "Hammer of Lunar Sickle",
+            "name": "Warhammer of Lunar Sickle",
             "itemType": 0,
             "color": 3
         },
@@ -1676,7 +1676,7 @@
             "id": 29906,
             "level": 19,
             "icon": 1094,
-            "name": "Berengar's Hammer",
+            "name": "Berengar's Warhammer",
             "itemType": 0,
             "color": 3
         },
@@ -1684,7 +1684,7 @@
             "id": 29908,
             "level": 20,
             "icon": 1085,
-            "name": "Hammer of Damned Pilgrims",
+            "name": "Warhammer of Damned Pilgrims",
             "itemType": 0,
             "color": 3
         },
@@ -1756,7 +1756,7 @@
             "id": 29920,
             "level": 22,
             "icon": 1094,
-            "name": "Hammer of Northern Courage",
+            "name": "Warhammer of Northern Courage",
             "itemType": 0,
             "color": 2
         },
@@ -1772,7 +1772,7 @@
             "id": 30244,
             "level": 6,
             "icon": 3076,
-            "name": "Mace of the Blind Outlaw",
+            "name": "Mace of Blind Outlaw",
             "itemType": 0,
             "color": 3
         },
@@ -1780,7 +1780,7 @@
             "id": 30247,
             "level": 10,
             "icon": 3076,
-            "name": "Hammer of Still Heart",
+            "name": "Warhammer of Still Heart",
             "itemType": 0,
             "color": 3
         },
@@ -1788,7 +1788,7 @@
             "id": 30250,
             "level": 12,
             "icon": 3076,
-            "name": "Hammer of the Unsleeping Predator",
+            "name": "Warhammer of the Unsleeping Predator",
             "itemType": 0,
             "color": 3
         },
@@ -1796,7 +1796,7 @@
             "id": 30253,
             "level": 14,
             "icon": 3076,
-            "name": "Hammer of Fatal Mistake",
+            "name": "Warhammer of Fatal Mistake",
             "itemType": 0,
             "color": 3
         },
@@ -1804,7 +1804,7 @@
             "id": 30256,
             "level": 16,
             "icon": 3076,
-            "name": "Hammer of Sinful Call",
+            "name": "Warhammer of Sinful Call",
             "itemType": 0,
             "color": 3
         },
@@ -1812,7 +1812,7 @@
             "id": 30259,
             "level": 18,
             "icon": 3076,
-            "name": "Hammer of Deadly Game",
+            "name": "Warhammer of Deadly Game",
             "itemType": 0,
             "color": 3
         },
@@ -1820,7 +1820,7 @@
             "id": 30262,
             "level": 20,
             "icon": 3076,
-            "name": "Hammer of the Damned Heir",
+            "name": "Warhammer of Damned Heir",
             "itemType": 0,
             "color": 3
         },
@@ -1828,7 +1828,7 @@
             "id": 30265,
             "level": 22,
             "icon": 3076,
-            "name": "Hammer of the Distracted Apostate",
+            "name": "Warhammer of Distracted Apostate",
             "itemType": 0,
             "color": 3
         },
@@ -1836,7 +1836,7 @@
             "id": 30267,
             "level": 24,
             "icon": 3076,
-            "name": "Hammer of the Night Visitor",
+            "name": "Warhammer of the Night Visitor",
             "itemType": 0,
             "color": 3
         },
@@ -1844,7 +1844,7 @@
             "id": 30269,
             "level": 26,
             "icon": 3076,
-            "name": "Hammer of the Bloody Earl",
+            "name": "Warhammer of Bloody Earl",
             "itemType": 0,
             "color": 3
         },
@@ -1852,7 +1852,7 @@
             "id": 30271,
             "level": 28,
             "icon": 3076,
-            "name": "Hammer of the Crazy King",
+            "name": "Warhammer of Crazy King",
             "itemType": 0,
             "color": 3
         },
@@ -1860,7 +1860,7 @@
             "id": 30273,
             "level": 30,
             "icon": 3076,
-            "name": "Hammer of Merciless Torturer",
+            "name": "Warhammer of Merciless Torturer",
             "itemType": 0,
             "color": 3
         },
@@ -1940,7 +1940,7 @@
             "id": 31050,
             "level": 26,
             "icon": 3122,
-            "name": "Morgenstern of the Descendant of the Titans",
+            "name": "Morgenstern of Titan's Descendant",
             "itemType": 0,
             "color": 3
         },
@@ -1972,7 +1972,7 @@
             "id": 31782,
             "level": 12,
             "icon": 4747,
-            "name": "Royal Morgenstern of the Four-Leaf Clover",
+            "name": "Royal Morgenstern of Four-Leaf Clover",
             "itemType": 0,
             "color": 3
         },
@@ -2004,7 +2004,7 @@
             "id": 31795,
             "level": 20,
             "icon": 4747,
-            "name": "Royal Morgenstern of the Arcane Valley",
+            "name": "Royal Morgenstern of Arcane Valley",
             "itemType": 0,
             "color": 3
         },
@@ -2012,7 +2012,7 @@
             "id": 31797,
             "level": 22,
             "icon": 4747,
-            "name": "Royal Morgenstern of the Forest Mystery",
+            "name": "Royal Morgenstern of Forest Mystery",
             "itemType": 0,
             "color": 3
         },
@@ -2020,7 +2020,7 @@
             "id": 31799,
             "level": 24,
             "icon": 4747,
-            "name": "Royal Morgenstern of the Blooming Island",
+            "name": "Royal Morgenstern of Blooming Island",
             "itemType": 0,
             "color": 3
         },
@@ -2028,7 +2028,7 @@
             "id": 31801,
             "level": 26,
             "icon": 4747,
-            "name": "Royal Morgenstern of the Emerald Tower",
+            "name": "Royal Morgenstern of Emerald Tower",
             "itemType": 0,
             "color": 3
         },
@@ -2140,7 +2140,7 @@
             "id": 31817,
             "level": 30,
             "icon": 4339,
-            "name": "Morgenstern of Kingdom of Fortitude",
+            "name": "Morgenstern of the Kingdom of Fortitude",
             "itemType": 0,
             "color": 3
         },
@@ -2164,7 +2164,7 @@
             "id": 31823,
             "level": 12,
             "icon": 3867,
-            "name": "Morgenstern of the Four-Leaf Clover",
+            "name": "Morgenstern of Four-Leaf Clover",
             "itemType": 0,
             "color": 2
         },
@@ -2196,7 +2196,7 @@
             "id": 31831,
             "level": 20,
             "icon": 3867,
-            "name": "Morgenstern of the Arcane Valley",
+            "name": "Morgenstern of Arcane Valley",
             "itemType": 0,
             "color": 2
         },
@@ -2204,7 +2204,7 @@
             "id": 31833,
             "level": 22,
             "icon": 3867,
-            "name": "Morgenstern of the Forest Mystery",
+            "name": "Morgenstern of Forest Mystery",
             "itemType": 0,
             "color": 2
         },
@@ -2212,7 +2212,7 @@
             "id": 31835,
             "level": 24,
             "icon": 3867,
-            "name": "Morgenstern of the Blooming Island",
+            "name": "Morgenstern of Blooming Island",
             "itemType": 0,
             "color": 2
         },
@@ -2220,7 +2220,7 @@
             "id": 31837,
             "level": 26,
             "icon": 3867,
-            "name": "Morgenstern of the Emerald Tower",
+            "name": "Morgenstern of Emerald Tower",
             "itemType": 0,
             "color": 2
         },
@@ -2244,7 +2244,7 @@
             "id": 33122,
             "level": 32,
             "icon": 4093,
-            "name": "Hammer of Emanating Madness",
+            "name": "Warhammer of Emanating Madness",
             "itemType": 0,
             "color": 3
         },
@@ -2260,7 +2260,7 @@
             "id": 33140,
             "level": 32,
             "icon": 3076,
-            "name": "Hammer of Bloodthirsty Inquisitor",
+            "name": "Warhammer of Bloodthirsty Inquisitor",
             "itemType": 0,
             "color": 3
         },
@@ -2268,7 +2268,7 @@
             "id": 33636,
             "level": 32,
             "icon": 5157,
-            "name": "Hammer of the Unbridled Hurricane",
+            "name": "Warhammer of the Unbridled Hurricane",
             "itemType": 0,
             "color": 3
         },
@@ -2276,7 +2276,7 @@
             "id": 33665,
             "level": 32,
             "icon": 3122,
-            "name": "Hammer of the Northern Lord",
+            "name": "Warhammer of the Northern Lord",
             "itemType": 0,
             "color": 3
         },
@@ -2292,7 +2292,7 @@
             "id": 34424,
             "level": 32,
             "icon": 1085,
-            "name": "Hammer of Progress",
+            "name": "Warhammer of Progress",
             "itemType": 0,
             "color": 2
         },
@@ -2300,7 +2300,7 @@
             "id": 34438,
             "level": 32,
             "icon": 1085,
-            "name": "Hammer of Development",
+            "name": "Warhammer of Development",
             "itemType": 0,
             "color": 3
         },
@@ -2308,7 +2308,7 @@
             "id": 34451,
             "level": 32,
             "icon": 3399,
-            "name": "Hammer of Metamorphosis",
+            "name": "Warhammer of Metamorphosis",
             "itemType": 0,
             "color": 3
         },
@@ -2316,7 +2316,7 @@
             "id": 34532,
             "level": 32,
             "icon": 4339,
-            "name": "Hammer of the Kingdom of Indestructibility",
+            "name": "Warhammer of the Kingdom of Indestructibility",
             "itemType": 0,
             "color": 3
         },
@@ -2332,7 +2332,7 @@
             "id": 34561,
             "level": 32,
             "icon": 4747,
-            "name": "Royal Hammer of the Magic Bastion",
+            "name": "Royal Warhammer of the Magic Bastion",
             "itemType": 0,
             "color": 3
         },
@@ -2348,7 +2348,7 @@
             "id": 34579,
             "level": 32,
             "icon": 3867,
-            "name": "Hammer of the Magic Bastion",
+            "name": "Warhammer of the Magic Bastion",
             "itemType": 0,
             "color": 2
         },
@@ -2372,7 +2372,7 @@
             "id": 35265,
             "level": 31,
             "icon": 4906,
-            "name": "Hammer of the Pirate Brotherhood",
+            "name": "Warhammer of Pirate Brotherhood",
             "itemType": 0,
             "color": 3
         },
@@ -2380,7 +2380,7 @@
             "id": 35266,
             "level": 31,
             "icon": 4906,
-            "name": "Sledgehammer of the Pirate Brotherhood",
+            "name": "Maul of Pirate Brotherhood",
             "itemType": 0,
             "color": 3
         }

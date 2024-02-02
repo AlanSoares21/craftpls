@@ -60,7 +60,7 @@
             "id": 985,
             "level": 9,
             "icon": 1491,
-            "name": "Vambraces of Fighter",
+            "name": "Fighter's Vambraces",
             "itemType": 7,
             "color": 2
         },
@@ -68,7 +68,7 @@
             "id": 1035,
             "level": 9,
             "icon": 1429,
-            "name": "Leather Gloves of Hunter",
+            "name": "Hunter's Leather Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -76,7 +76,7 @@
             "id": 1036,
             "level": 9,
             "icon": 1432,
-            "name": "Leather Gloves of Guardian",
+            "name": "Guardian's Leather Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -92,7 +92,7 @@
             "id": 2019,
             "level": 12,
             "icon": 1459,
-            "name": "Light Leather Mittens",
+            "name": "Light Leather Gauntlets",
             "itemType": 7,
             "color": 2
         },
@@ -260,7 +260,7 @@
             "id": 5786,
             "level": 11,
             "icon": 1470,
-            "name": "Gloves of Beginner Gladiator",
+            "name": "Gloves of Novice Gladiator",
             "itemType": 7,
             "color": 3
         },
@@ -268,7 +268,7 @@
             "id": 5806,
             "level": 5,
             "icon": 1470,
-            "name": "Thin Gloves of Beginner Gladiator",
+            "name": "Thin Gloves of Novice Gladiator",
             "itemType": 7,
             "color": 3
         },
@@ -444,7 +444,7 @@
             "id": 14995,
             "level": 19,
             "icon": 1482,
-            "name": "Provocator's Gloves",
+            "name": "Instigator's Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -612,7 +612,7 @@
             "id": 18323,
             "level": 10,
             "icon": 3495,
-            "name": "Veil Guard's Mittens",
+            "name": "Veil Guard's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -652,7 +652,7 @@
             "id": 18444,
             "level": 10,
             "icon": 3514,
-            "name": "Eternal Life Wristguards",
+            "name": "Wristguards of Eternal Life",
             "itemType": 7,
             "color": 3
         },
@@ -700,7 +700,7 @@
             "id": 18468,
             "level": 22,
             "icon": 3514,
-            "name": "Infinite Reliability Wristguards",
+            "name": "Wristguards of Infinite Reliability",
             "itemType": 7,
             "color": 3
         },
@@ -812,7 +812,7 @@
             "id": 18519,
             "level": 22,
             "icon": 1485,
-            "name": "Divine Protection Wristguards",
+            "name": "Wristguards of Divine Protection",
             "itemType": 7,
             "color": 3
         },
@@ -868,7 +868,7 @@
             "id": 20425,
             "level": 12,
             "icon": 3495,
-            "name": "Gloves of the Snow Prisoner",
+            "name": "Gauntlets of the Snow Prisoner",
             "itemType": 7,
             "color": 3
         },
@@ -876,7 +876,7 @@
             "id": 20443,
             "level": 16,
             "icon": 3495,
-            "name": "Gloves of the Polar Hierophant",
+            "name": "Gauntlets of the Polar Hierophant",
             "itemType": 7,
             "color": 3
         },
@@ -884,7 +884,7 @@
             "id": 20473,
             "level": 24,
             "icon": 3495,
-            "name": "Gloves of the Storm Tamer",
+            "name": "Gauntlets of the Storm Tamer",
             "itemType": 7,
             "color": 3
         },
@@ -892,7 +892,7 @@
             "id": 20485,
             "level": 26,
             "icon": 3495,
-            "name": "Gloves of the Whitefaced Demiurge",
+            "name": "Gauntlets of the Whitefaced Demiurge",
             "itemType": 7,
             "color": 3
         },
@@ -948,7 +948,7 @@
             "id": 22212,
             "level": 6,
             "icon": 4222,
-            "name": "Winter Wristguards of Iceman",
+            "name": "Iceman's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -956,7 +956,7 @@
             "id": 22213,
             "level": 6,
             "icon": 4222,
-            "name": "Winter Wrists of Iceman",
+            "name": "Iceman's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -964,7 +964,7 @@
             "id": 22236,
             "level": 10,
             "icon": 4222,
-            "name": "Winter Wristguards of Ragnar",
+            "name": "Ragnar's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -972,7 +972,7 @@
             "id": 22237,
             "level": 10,
             "icon": 4222,
-            "name": "Winter Wrists of Ragnar",
+            "name": "Ragnar's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -980,7 +980,7 @@
             "id": 22260,
             "level": 12,
             "icon": 4222,
-            "name": "Winter Wristguards of Frosty Fang",
+            "name": "Frosty Fang's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -988,7 +988,7 @@
             "id": 22261,
             "level": 12,
             "icon": 4222,
-            "name": "Winter Wrists of Frosty Fang",
+            "name": "Frosty Fang's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -996,7 +996,7 @@
             "id": 22284,
             "level": 14,
             "icon": 4222,
-            "name": "Winter Wristguards of Mastodon",
+            "name": "Mastodon's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -1004,7 +1004,7 @@
             "id": 22285,
             "level": 14,
             "icon": 4222,
-            "name": "Winter Wrists of Mastodon",
+            "name": "Mastodon's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -1012,7 +1012,7 @@
             "id": 22308,
             "level": 16,
             "icon": 4222,
-            "name": "Winter Wristguards of Taron",
+            "name": "Taron's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -1020,7 +1020,7 @@
             "id": 22309,
             "level": 16,
             "icon": 4222,
-            "name": "Winter Wrists of Taron",
+            "name": "Taron's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -1028,7 +1028,7 @@
             "id": 22326,
             "level": 18,
             "icon": 4222,
-            "name": "Winter Wristguards of Kerula",
+            "name": "Kerula's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -1036,7 +1036,7 @@
             "id": 22327,
             "level": 18,
             "icon": 4222,
-            "name": "Winter Wrists of Kerula",
+            "name": "Kerula's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -1044,7 +1044,7 @@
             "id": 22356,
             "level": 20,
             "icon": 4222,
-            "name": "Winter Wristguards of Gimir",
+            "name": "Gimir's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -1052,7 +1052,7 @@
             "id": 22357,
             "level": 20,
             "icon": 4222,
-            "name": "Winter Wrists of Gimir",
+            "name": "Gimir's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -1060,7 +1060,7 @@
             "id": 22380,
             "level": 22,
             "icon": 4222,
-            "name": "Winter Wristguards of Flavius",
+            "name": "Flavius's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -1068,7 +1068,7 @@
             "id": 22381,
             "level": 22,
             "icon": 4222,
-            "name": "Winter Wrists of Flavius",
+            "name": "Flavius's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -1076,7 +1076,7 @@
             "id": 22404,
             "level": 24,
             "icon": 4222,
-            "name": "Winter Wristguards of Ruberius",
+            "name": "Ruberius's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -1084,7 +1084,7 @@
             "id": 22405,
             "level": 24,
             "icon": 4222,
-            "name": "Winter Wrists of Ruberius",
+            "name": "Ruberius's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -1092,7 +1092,7 @@
             "id": 22428,
             "level": 26,
             "icon": 4222,
-            "name": "Winter Wristguards of Mortis",
+            "name": "Mortis's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -1100,7 +1100,7 @@
             "id": 22429,
             "level": 26,
             "icon": 4222,
-            "name": "Winter Wrists of Mortis",
+            "name": "Mortis's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -1108,7 +1108,7 @@
             "id": 23319,
             "level": 20,
             "icon": 4457,
-            "name": "Wristguards of Warriors of the Sacred Forest",
+            "name": "Wristguards of Sacred Forest Warriors",
             "itemType": 7,
             "color": 4
         },
@@ -1116,7 +1116,7 @@
             "id": 23323,
             "level": 20,
             "icon": 4456,
-            "name": "Wrists of Warriors of the Dominant Coalition",
+            "name": "Wrists of Dominant Coalition Warriors",
             "itemType": 7,
             "color": 4
         },
@@ -1124,7 +1124,7 @@
             "id": 23327,
             "level": 22,
             "icon": 4457,
-            "name": "Wristguards of Warriors of the Pyramid Valley",
+            "name": "Wristguards of Pyramid Valley Warriors",
             "itemType": 7,
             "color": 4
         },
@@ -1132,7 +1132,7 @@
             "id": 23331,
             "level": 22,
             "icon": 4456,
-            "name": "Wrists of Warriors of the Mighty Alliance",
+            "name": "Wrists of Mighty Alliance Warriors",
             "itemType": 7,
             "color": 4
         },
@@ -1140,7 +1140,7 @@
             "id": 23335,
             "level": 24,
             "icon": 4457,
-            "name": "Wristguards of Warriors of the Black Oak Forest",
+            "name": "Wristguards of Black Oak Forest Warriors",
             "itemType": 7,
             "color": 4
         },
@@ -1148,7 +1148,7 @@
             "id": 23339,
             "level": 24,
             "icon": 4456,
-            "name": "Wrists of Warriors of the Legendary Brotherhood",
+            "name": "Wrists of Legendary Brotherhood Warriors",
             "itemType": 7,
             "color": 4
         },
@@ -1156,7 +1156,7 @@
             "id": 23343,
             "level": 26,
             "icon": 4457,
-            "name": "Wristguards of Warriors of the Flying Islands",
+            "name": "Wristguards of Flying Islands Warriors",
             "itemType": 7,
             "color": 4
         },
@@ -1164,7 +1164,7 @@
             "id": 23347,
             "level": 26,
             "icon": 4456,
-            "name": "Wrists of Warriors of the Immortal Order",
+            "name": "Wrists of Immortal Order Warriors",
             "itemType": 7,
             "color": 4
         },
@@ -1292,7 +1292,7 @@
             "id": 24414,
             "level": 28,
             "icon": 4222,
-            "name": "Winter Wristguards of the Snow General",
+            "name": "Snow General's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -1300,7 +1300,7 @@
             "id": 24418,
             "level": 28,
             "icon": 4222,
-            "name": "Winter Wrists of the Snow General",
+            "name": "Snow General's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -1316,7 +1316,7 @@
             "id": 24456,
             "level": 10,
             "icon": 4626,
-            "name": "All-Destroying Wristguards of Ragnar",
+            "name": "Ragnar's Devastating Wristguards",
             "itemType": 7,
             "color": 4
         },
@@ -1324,7 +1324,7 @@
             "id": 24460,
             "level": 10,
             "icon": 4626,
-            "name": "Unmatched Wrists of Ragnar",
+            "name": "Ragnar's Unmatched Wrists",
             "itemType": 7,
             "color": 4
         },
@@ -1332,7 +1332,7 @@
             "id": 24560,
             "level": 12,
             "icon": 4626,
-            "name": "All-Destroying Wristguards of Frosty Fang",
+            "name": "Frosty Fang's Devastating Wristguards",
             "itemType": 7,
             "color": 4
         },
@@ -1340,7 +1340,7 @@
             "id": 24561,
             "level": 14,
             "icon": 4626,
-            "name": "All-Destroying Wristguards of Mastodon",
+            "name": "Mastodon's Devastating Wristguards",
             "itemType": 7,
             "color": 4
         },
@@ -1348,7 +1348,7 @@
             "id": 24562,
             "level": 16,
             "icon": 4626,
-            "name": "All-Destroying Wristguards of Taron",
+            "name": "Taron's Devastating Wristguards",
             "itemType": 7,
             "color": 4
         },
@@ -1356,7 +1356,7 @@
             "id": 24563,
             "level": 18,
             "icon": 4626,
-            "name": "All-Destroying Wristguards of Kerula",
+            "name": "Kerula's Devastating Wristguards",
             "itemType": 7,
             "color": 4
         },
@@ -1364,7 +1364,7 @@
             "id": 24564,
             "level": 20,
             "icon": 4626,
-            "name": "All-Destroying Wristguards of Gimir",
+            "name": "Gimir's Devastating Wristguards",
             "itemType": 7,
             "color": 4
         },
@@ -1372,7 +1372,7 @@
             "id": 24565,
             "level": 22,
             "icon": 4626,
-            "name": "All-Destroying Wristguards of Flavius",
+            "name": "Flavius's Devastating Wristguards",
             "itemType": 7,
             "color": 4
         },
@@ -1380,7 +1380,7 @@
             "id": 24566,
             "level": 24,
             "icon": 4626,
-            "name": "All-Destroying Wristguards of Ruberius",
+            "name": "Ruberius's Devastating Wristguards",
             "itemType": 7,
             "color": 4
         },
@@ -1388,7 +1388,7 @@
             "id": 24567,
             "level": 26,
             "icon": 4626,
-            "name": "All-Destroying Wristguards of Mortis",
+            "name": "Mortis's Devastating Wristguards",
             "itemType": 7,
             "color": 4
         },
@@ -1396,7 +1396,7 @@
             "id": 24568,
             "level": 28,
             "icon": 4626,
-            "name": "All-Destroying Wristguards of the Snow General",
+            "name": "Snow General's Devastating Wristguards",
             "itemType": 7,
             "color": 4
         },
@@ -1404,7 +1404,7 @@
             "id": 24596,
             "level": 12,
             "icon": 4626,
-            "name": "Unsurpassed Wrists of Frosty Fang",
+            "name": "Frosty Fang's Unsurpassed Wrists",
             "itemType": 7,
             "color": 4
         },
@@ -1412,7 +1412,7 @@
             "id": 24597,
             "level": 14,
             "icon": 4626,
-            "name": "Unsurpassed Wrists of Mastodon",
+            "name": "Mastodon's Unsurpassed Wrists",
             "itemType": 7,
             "color": 4
         },
@@ -1420,7 +1420,7 @@
             "id": 24598,
             "level": 16,
             "icon": 4626,
-            "name": "Unsurpassed Wrists of Taron",
+            "name": "Taron's Unsurpassed Wrists",
             "itemType": 7,
             "color": 4
         },
@@ -1428,7 +1428,7 @@
             "id": 24599,
             "level": 18,
             "icon": 4626,
-            "name": "Unsurpassed Wrists of Kerula",
+            "name": "Kerula's Unsurpassed Wrists",
             "itemType": 7,
             "color": 4
         },
@@ -1436,7 +1436,7 @@
             "id": 24600,
             "level": 20,
             "icon": 4626,
-            "name": "Unsurpassed Wrists of Gimir",
+            "name": "Gimir's Unsurpassed Wrists",
             "itemType": 7,
             "color": 4
         },
@@ -1444,7 +1444,7 @@
             "id": 24601,
             "level": 22,
             "icon": 4626,
-            "name": "Unsurpassed Wrists of Flavius",
+            "name": "Flavius's Unsurpassed Wrists",
             "itemType": 7,
             "color": 4
         },
@@ -1452,7 +1452,7 @@
             "id": 24602,
             "level": 24,
             "icon": 4626,
-            "name": "Unsurpassed Wrists of Ruberius",
+            "name": "Ruberius's Unsurpassed Wrists",
             "itemType": 7,
             "color": 4
         },
@@ -1460,7 +1460,7 @@
             "id": 24603,
             "level": 26,
             "icon": 4626,
-            "name": "Unsurpassed Wrists of Mortis",
+            "name": "Mortis's Unsurpassed Wrists",
             "itemType": 7,
             "color": 4
         },
@@ -1468,7 +1468,7 @@
             "id": 24604,
             "level": 28,
             "icon": 4626,
-            "name": "Unsurpassed Wrists of the Snow General",
+            "name": "Snow General's Unsurpassed Wrists",
             "itemType": 7,
             "color": 4
         },
@@ -1500,7 +1500,7 @@
             "id": 25925,
             "level": 20,
             "icon": 4456,
-            "name": "Wrists of Assassins of the Dominant Coalition",
+            "name": "Wrists of Dominant Coalition Assassins",
             "itemType": 7,
             "color": 4
         },
@@ -1508,7 +1508,7 @@
             "id": 25929,
             "level": 22,
             "icon": 4456,
-            "name": "Wrists of Assassins of the Mighty Alliance",
+            "name": "Wrists of Mighty Alliance Assassins",
             "itemType": 7,
             "color": 4
         },
@@ -1516,7 +1516,7 @@
             "id": 25933,
             "level": 24,
             "icon": 4456,
-            "name": "Wrists of Assassins of the Legendary Brotherhood",
+            "name": "Wrists of Legendary Brotherhood Assassins",
             "itemType": 7,
             "color": 4
         },
@@ -1524,7 +1524,7 @@
             "id": 25937,
             "level": 26,
             "icon": 4456,
-            "name": "Wrists of Assassins of the Immortal Order",
+            "name": "Wrists of Immortal Order Assassins",
             "itemType": 7,
             "color": 4
         },
@@ -1548,7 +1548,7 @@
             "id": 26510,
             "level": 29,
             "icon": 1485,
-            "name": "Gloves of the Legendary Assassin",
+            "name": "Gloves of Legendary Assassin",
             "itemType": 7,
             "color": 3
         },
@@ -1556,7 +1556,7 @@
             "id": 26511,
             "level": 29,
             "icon": 1485,
-            "name": "Wrists of the Legendary Assassin",
+            "name": "Wrists of Legendary Assassin",
             "itemType": 7,
             "color": 3
         },
@@ -1636,7 +1636,7 @@
             "id": 27270,
             "level": 14,
             "icon": 5077,
-            "name": "Gloves of Red-haired Chuck",
+            "name": "Gloves of Red-Haired Chuck",
             "itemType": 7,
             "color": 3
         },
@@ -1644,7 +1644,7 @@
             "id": 27272,
             "level": 16,
             "icon": 5077,
-            "name": "Gloves of Red-haired Chuck",
+            "name": "Gloves of Red-Haired Chuck",
             "itemType": 7,
             "color": 3
         },
@@ -1652,7 +1652,7 @@
             "id": 27274,
             "level": 18,
             "icon": 5077,
-            "name": "Gloves of Red-haired Chuck",
+            "name": "Gloves of Red-Haired Chuck",
             "itemType": 7,
             "color": 3
         },
@@ -1660,7 +1660,7 @@
             "id": 27276,
             "level": 20,
             "icon": 5077,
-            "name": "Gloves of Red-haired Chuck",
+            "name": "Gloves of Red-Haired Chuck",
             "itemType": 7,
             "color": 3
         },
@@ -1668,7 +1668,7 @@
             "id": 27278,
             "level": 22,
             "icon": 5077,
-            "name": "Gloves of Red-haired Chuck",
+            "name": "Gloves of Red-Haired Chuck",
             "itemType": 7,
             "color": 3
         },
@@ -1676,7 +1676,7 @@
             "id": 27280,
             "level": 24,
             "icon": 5077,
-            "name": "Gloves of Red-haired Chuck",
+            "name": "Gloves of Red-Haired Chuck",
             "itemType": 7,
             "color": 3
         },
@@ -1684,7 +1684,7 @@
             "id": 27282,
             "level": 26,
             "icon": 5077,
-            "name": "Gloves of Red-haired Chuck",
+            "name": "Gloves of Red-Haired Chuck",
             "itemType": 7,
             "color": 3
         },
@@ -1692,7 +1692,7 @@
             "id": 27284,
             "level": 28,
             "icon": 5077,
-            "name": "Gloves of Red-haired Chuck",
+            "name": "Gloves of Red-Haired Chuck",
             "itemType": 7,
             "color": 3
         },
@@ -1700,7 +1700,7 @@
             "id": 27286,
             "level": 30,
             "icon": 5077,
-            "name": "Gloves of Red-haired Chuck",
+            "name": "Gloves of Red-Haired Chuck",
             "itemType": 7,
             "color": 3
         },
@@ -1708,7 +1708,7 @@
             "id": 27960,
             "level": 30,
             "icon": 4222,
-            "name": "Winter Wristguards of Chernobog",
+            "name": "Chernobog's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -1716,7 +1716,7 @@
             "id": 27964,
             "level": 30,
             "icon": 4222,
-            "name": "Winter Wrists of Chernobog",
+            "name": "Chernobog's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -1804,7 +1804,7 @@
             "id": 28117,
             "level": 30,
             "icon": 4626,
-            "name": "All-Destroying Wristguards of Chernobog",
+            "name": "Chernobog's Devastating Wristguards",
             "itemType": 7,
             "color": 4
         },
@@ -1812,7 +1812,7 @@
             "id": 28121,
             "level": 30,
             "icon": 4626,
-            "name": "Unsurpassed Wrists of Chernobog",
+            "name": "Chernobog's Unsurpassed Wrists",
             "itemType": 7,
             "color": 4
         },
@@ -1876,7 +1876,7 @@
             "id": 29491,
             "level": 20,
             "icon": 4457,
-            "name": "Wristguards of Assassins of the Sacred Forest",
+            "name": "Wristguards of Sacred Forest Assassins",
             "itemType": 7,
             "color": 4
         },
@@ -1884,7 +1884,7 @@
             "id": 29495,
             "level": 22,
             "icon": 4457,
-            "name": "Wristguards of Assassins of the Pyramid Valley",
+            "name": "Wristguards of Pyramid Valley Assassins",
             "itemType": 7,
             "color": 4
         },
@@ -1892,7 +1892,7 @@
             "id": 29499,
             "level": 24,
             "icon": 4457,
-            "name": "Wristguards of Assassins of the Black Oak Forest",
+            "name": "Wristguards of Black Oak Forest Assassins",
             "itemType": 7,
             "color": 4
         },
@@ -1900,7 +1900,7 @@
             "id": 29503,
             "level": 26,
             "icon": 4457,
-            "name": "Wristguards of Assassins of the Flying Islands",
+            "name": "Wristguards of Flying Islands Assassins",
             "itemType": 7,
             "color": 4
         },
@@ -1908,7 +1908,7 @@
             "id": 29507,
             "level": 28,
             "icon": 4457,
-            "name": "Wristguards of Assassins of the Ship Graveyard",
+            "name": "Wristguards of Ship Graveyard Assassins",
             "itemType": 7,
             "color": 4
         },
@@ -1916,7 +1916,7 @@
             "id": 29511,
             "level": 28,
             "icon": 4457,
-            "name": "Wristguards of Warriors of the Ship Graveyard",
+            "name": "Wristguards of Ship Graveyard Warriors",
             "itemType": 7,
             "color": 4
         },
@@ -1924,7 +1924,7 @@
             "id": 29515,
             "level": 28,
             "icon": 4456,
-            "name": "Wrists of Warriors of the Imperious Clan",
+            "name": "Wrists of Imperious Clan Warriors",
             "itemType": 7,
             "color": 4
         },
@@ -1932,7 +1932,7 @@
             "id": 29519,
             "level": 28,
             "icon": 4456,
-            "name": "Wrists of Assassins of the Imperious Clan",
+            "name": "Wrists of Imperious Clan Assassins",
             "itemType": 7,
             "color": 4
         },
@@ -1940,7 +1940,7 @@
             "id": 29745,
             "level": 7,
             "icon": 1429,
-            "name": "Wrists of Recruit",
+            "name": "Recruit's Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -1948,7 +1948,7 @@
             "id": 29750,
             "level": 7,
             "icon": 1432,
-            "name": "Wristguards of Recruit",
+            "name": "Recruit's Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -1956,7 +1956,7 @@
             "id": 29755,
             "level": 11,
             "icon": 1429,
-            "name": "Wrists of Mercenary",
+            "name": "Hireling's Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -1964,7 +1964,7 @@
             "id": 29760,
             "level": 11,
             "icon": 1432,
-            "name": "Wristguards of Mercenary",
+            "name": "Hireling's Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -1972,7 +1972,7 @@
             "id": 32049,
             "level": 30,
             "icon": 4457,
-            "name": "Wristguards of the Warriors of the Pirate Archipelago",
+            "name": "Wristguards of Pirate Archipelago Warriors",
             "itemType": 7,
             "color": 4
         },
@@ -1980,7 +1980,7 @@
             "id": 32053,
             "level": 30,
             "icon": 4457,
-            "name": "Wristguards of the Assassins of the Pirate Archipelago",
+            "name": "Wristguards of Pirate Archipelago Assassins",
             "itemType": 7,
             "color": 4
         },
@@ -1988,7 +1988,7 @@
             "id": 32057,
             "level": 30,
             "icon": 4456,
-            "name": "Wrists of the Warriors of the Unbreakable Alliance",
+            "name": "Wrists of Unbreakable Alliance Warriors",
             "itemType": 7,
             "color": 4
         },
@@ -1996,7 +1996,7 @@
             "id": 32061,
             "level": 30,
             "icon": 4456,
-            "name": "Wrists of the Assassins of the Unbreakable Alliance",
+            "name": "Wrists of Unbreakable Alliance Assassins",
             "itemType": 7,
             "color": 4
         },
@@ -2140,7 +2140,7 @@
             "id": 33276,
             "level": 32,
             "icon": 5077,
-            "name": "Gloves of Red-haired Chuck",
+            "name": "Gloves of Red-Haired Chuck",
             "itemType": 7,
             "color": 3
         },
@@ -2148,7 +2148,7 @@
             "id": 33855,
             "level": 32,
             "icon": 4222,
-            "name": "Winter Wristguards of Titan",
+            "name": "Titan's Winter Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -2156,7 +2156,7 @@
             "id": 33859,
             "level": 32,
             "icon": 4222,
-            "name": "Winter Wrists of Titan",
+            "name": "Titan's Winter Wrists",
             "itemType": 7,
             "color": 3
         },
@@ -2180,7 +2180,7 @@
             "id": 33903,
             "level": 32,
             "icon": 4626,
-            "name": "All-Destroying Wristguards of Titan",
+            "name": "Titan's Devastating Wristguards",
             "itemType": 7,
             "color": 4
         },
@@ -2188,7 +2188,7 @@
             "id": 33907,
             "level": 32,
             "icon": 4626,
-            "name": "Unmatched Wrists of Titan",
+            "name": "Titan's Unmatched Wrists",
             "itemType": 7,
             "color": 4
         },
@@ -2212,7 +2212,7 @@
             "id": 34496,
             "level": 32,
             "icon": 3514,
-            "name": "Wristguards of the Ominous Requiem",
+            "name": "Wristguards of Ominous Requiem",
             "itemType": 7,
             "color": 3
         },
@@ -2252,7 +2252,7 @@
             "id": 35099,
             "level": 22,
             "icon": 6182,
-            "name": "Wrists of the Guards of the Forest\u2019s Heart",
+            "name": "Wrists of Guards of Forest\u2019s Heart",
             "itemType": 7,
             "color": 4
         },
@@ -2260,7 +2260,7 @@
             "id": 35103,
             "level": 24,
             "icon": 6182,
-            "name": "Wrists of the Guards of the Jaguar\u2019s Den",
+            "name": "Wrists of Guards of Jaguar\u2019s Den",
             "itemType": 7,
             "color": 4
         },
@@ -2268,7 +2268,7 @@
             "id": 35107,
             "level": 26,
             "icon": 6182,
-            "name": "Wrists of the Guards of the Dragon Ness",
+            "name": "Wrists of Guards of Dragon Ness",
             "itemType": 7,
             "color": 4
         },
@@ -2276,7 +2276,7 @@
             "id": 35111,
             "level": 28,
             "icon": 6182,
-            "name": "Wrists of the Guards of the Sky Sanctuary",
+            "name": "Wrists of Sky Sanctuary Guards",
             "itemType": 7,
             "color": 4
         },
@@ -2284,7 +2284,7 @@
             "id": 35115,
             "level": 30,
             "icon": 6182,
-            "name": "Wrists of the Guards of the Sea Turtle",
+            "name": "Wrists of Guards of Sea Turtle",
             "itemType": 7,
             "color": 4
         },

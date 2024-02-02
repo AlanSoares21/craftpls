@@ -12,7 +12,7 @@
             "id": 2027,
             "level": 12,
             "icon": 1676,
-            "name": "Trustworthy Mail Boots",
+            "name": "Trustworthy Mail High Boots",
             "itemType": 8,
             "color": 2
         },
@@ -28,7 +28,7 @@
             "id": 2094,
             "level": 13,
             "icon": 1671,
-            "name": "Firm high boots",
+            "name": "Firm High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -60,7 +60,7 @@
             "id": 2267,
             "level": 15,
             "icon": 1671,
-            "name": "Well-tried Treads",
+            "name": "Well-Worn Treads",
             "itemType": 8,
             "color": 2
         },
@@ -68,7 +68,7 @@
             "id": 2312,
             "level": 15,
             "icon": 1679,
-            "name": "High Boots of Berengar's guard",
+            "name": "High Boots of Berengar's Guard",
             "itemType": 8,
             "color": 4
         },
@@ -76,7 +76,7 @@
             "id": 2313,
             "level": 15,
             "icon": 1684,
-            "name": "High Boots of Berengar's endurance",
+            "name": "High Boots of Berengar's Endurance",
             "itemType": 8,
             "color": 4
         },
@@ -84,7 +84,7 @@
             "id": 2357,
             "level": 15,
             "icon": 1676,
-            "name": "Mail boots of fighter",
+            "name": "Fighter's Mail High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -188,7 +188,7 @@
             "id": 5203,
             "level": 1,
             "icon": 1679,
-            "name": "Novice's Mail Boots",
+            "name": "Novice's Mail High Boots",
             "itemType": 8,
             "color": 2
         },
@@ -204,7 +204,7 @@
             "id": 5792,
             "level": 6,
             "icon": 1665,
-            "name": "Mail Boots of Beginner Fighter",
+            "name": "Novice Fighter's Mail High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -212,7 +212,7 @@
             "id": 5823,
             "level": 12,
             "icon": 1676,
-            "name": "Heavy High Boots of Young Fighter",
+            "name": "Young Fighter's Heavy High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -236,7 +236,7 @@
             "id": 6375,
             "level": 17,
             "icon": 1722,
-            "name": "Star Pilgrim's Treads",
+            "name": "Treads of Star Pilgrims",
             "itemType": 8,
             "color": 3
         },
@@ -252,7 +252,7 @@
             "id": 6480,
             "level": 18,
             "icon": 1722,
-            "name": "Treads of Divine Defence",
+            "name": "Treads of Divine Defense",
             "itemType": 8,
             "color": 4
         },
@@ -372,7 +372,7 @@
             "id": 14929,
             "level": 20,
             "icon": 1671,
-            "name": "Boots of the Golden Dawn",
+            "name": "High Boots of the Golden Dawn",
             "itemType": 8,
             "color": 4
         },
@@ -436,7 +436,7 @@
             "id": 15610,
             "level": 9,
             "icon": 1665,
-            "name": "Mail Boots",
+            "name": "Mail High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -604,7 +604,7 @@
             "id": 18524,
             "level": 10,
             "icon": 3510,
-            "name": "Eternal Life Jackboots",
+            "name": "Jackboots of Eternal Life",
             "itemType": 8,
             "color": 3
         },
@@ -652,7 +652,7 @@
             "id": 18548,
             "level": 22,
             "icon": 3510,
-            "name": "Infinite Reliability Jackboots",
+            "name": "Jackboots of Infinite Reliability",
             "itemType": 8,
             "color": 3
         },
@@ -748,7 +748,7 @@
             "id": 18596,
             "level": 22,
             "icon": 1682,
-            "name": "Divine Protection Jackboots",
+            "name": "Jackboots of Divine Protection",
             "itemType": 8,
             "color": 3
         },
@@ -884,7 +884,7 @@
             "id": 22220,
             "level": 6,
             "icon": 4217,
-            "name": "Winter Jackboots of Iceman",
+            "name": "Iceman's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -892,7 +892,7 @@
             "id": 22221,
             "level": 6,
             "icon": 4217,
-            "name": "Winter Sabatons of Iceman",
+            "name": "Iceman's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -900,7 +900,7 @@
             "id": 22244,
             "level": 10,
             "icon": 4217,
-            "name": "Winter Jackboots of Ragnar",
+            "name": "Ragnar's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -908,7 +908,7 @@
             "id": 22245,
             "level": 10,
             "icon": 4217,
-            "name": "Winter Sabatons of Ragnar",
+            "name": "Ragnar's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -916,7 +916,7 @@
             "id": 22268,
             "level": 12,
             "icon": 4217,
-            "name": "Winter Jackboots of Frosty Fang",
+            "name": "Frosty Fang's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -924,7 +924,7 @@
             "id": 22269,
             "level": 12,
             "icon": 4217,
-            "name": "Winter Sabatons of Frosty Fang",
+            "name": "Frosty Fang's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -932,7 +932,7 @@
             "id": 22292,
             "level": 14,
             "icon": 4217,
-            "name": "Winter Jackboots of Mastodon",
+            "name": "Mastodon's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -940,7 +940,7 @@
             "id": 22293,
             "level": 14,
             "icon": 4217,
-            "name": "Winter Sabatons of Mastodon",
+            "name": "Mastodon's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -948,7 +948,7 @@
             "id": 22334,
             "level": 18,
             "icon": 4217,
-            "name": "Winter Jackboots of Kerula",
+            "name": "Kerula's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -956,7 +956,7 @@
             "id": 22335,
             "level": 18,
             "icon": 4217,
-            "name": "Winter Sabatons of Kerula",
+            "name": "Kerula's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -964,7 +964,7 @@
             "id": 22340,
             "level": 16,
             "icon": 4217,
-            "name": "Winter Jackboots of Taron",
+            "name": "Taron's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -972,7 +972,7 @@
             "id": 22341,
             "level": 16,
             "icon": 4217,
-            "name": "Winter Sabatons of Taron",
+            "name": "Taron's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -980,7 +980,7 @@
             "id": 22364,
             "level": 20,
             "icon": 4217,
-            "name": "Winter Jackboots of Gimir",
+            "name": "Gimir's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -988,7 +988,7 @@
             "id": 22365,
             "level": 20,
             "icon": 4217,
-            "name": "Winter Sabatons of Gimir",
+            "name": "Gimir's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -996,7 +996,7 @@
             "id": 22388,
             "level": 22,
             "icon": 4217,
-            "name": "Winter Jackboots of Flavius",
+            "name": "Flavius's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -1004,7 +1004,7 @@
             "id": 22389,
             "level": 22,
             "icon": 4217,
-            "name": "Winter Sabatons of Flavius",
+            "name": "Flavius's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -1012,7 +1012,7 @@
             "id": 22412,
             "level": 24,
             "icon": 4217,
-            "name": "Winter Jackboots of Ruberius",
+            "name": "Ruberius's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -1020,7 +1020,7 @@
             "id": 22413,
             "level": 24,
             "icon": 4217,
-            "name": "Winter Sabatons of Ruberius",
+            "name": "Ruberius's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -1028,7 +1028,7 @@
             "id": 22436,
             "level": 26,
             "icon": 4217,
-            "name": "Winter Jackboots of Mortis",
+            "name": "Mortis's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -1036,7 +1036,7 @@
             "id": 22437,
             "level": 26,
             "icon": 4217,
-            "name": "Winter Sabatons of Mortis",
+            "name": "Mortis's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -1044,7 +1044,7 @@
             "id": 23384,
             "level": 20,
             "icon": 4448,
-            "name": "Jackboots of Defenders of the Sacred Forest",
+            "name": "Jackboots of Sacred Forest Defenders",
             "itemType": 8,
             "color": 4
         },
@@ -1052,7 +1052,7 @@
             "id": 23388,
             "level": 20,
             "icon": 4449,
-            "name": "Sabatons of Defenders of the Dominant Coalition",
+            "name": "Sabatons of Dominant Coalition Defenders",
             "itemType": 8,
             "color": 4
         },
@@ -1060,7 +1060,7 @@
             "id": 23392,
             "level": 22,
             "icon": 4448,
-            "name": "Jackboots of Defenders of the Pyramid Valley",
+            "name": "Jackboots of Pyramid Valley Defenders",
             "itemType": 8,
             "color": 4
         },
@@ -1068,7 +1068,7 @@
             "id": 23396,
             "level": 22,
             "icon": 4449,
-            "name": "Sabatons of Defenders of the Mighty Alliance",
+            "name": "Sabatons of Mighty Alliance Defenders",
             "itemType": 8,
             "color": 4
         },
@@ -1076,7 +1076,7 @@
             "id": 23400,
             "level": 24,
             "icon": 4448,
-            "name": "Jackboots of Defenders of the Black Oak Forest",
+            "name": "Jackboots of Black Oak Forest Defenders",
             "itemType": 8,
             "color": 4
         },
@@ -1084,7 +1084,7 @@
             "id": 23404,
             "level": 24,
             "icon": 4449,
-            "name": "Sabatons of Defenders of the Legendary Brotherhood",
+            "name": "Sabatons of Legendary Brotherhood Defenders",
             "itemType": 8,
             "color": 4
         },
@@ -1092,7 +1092,7 @@
             "id": 23408,
             "level": 26,
             "icon": 4448,
-            "name": "Jackboots of Defenders of the Flying Islands",
+            "name": "Jackboots of Flying Islands Defenders",
             "itemType": 8,
             "color": 4
         },
@@ -1100,7 +1100,7 @@
             "id": 23412,
             "level": 26,
             "icon": 4449,
-            "name": "Sabatons of Defenders of the Immortal Order",
+            "name": "Sabatons of Immortal Order Defenders",
             "itemType": 8,
             "color": 4
         },
@@ -1108,7 +1108,7 @@
             "id": 23513,
             "level": 25,
             "icon": 1671,
-            "name": "Sabatons of the Forest Defenders",
+            "name": "Sabatons of Forest Defenders",
             "itemType": 8,
             "color": 3
         },
@@ -1356,7 +1356,7 @@
             "id": 24423,
             "level": 28,
             "icon": 4217,
-            "name": "Winter Jackboots of the Snow General",
+            "name": "Snow General's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -1364,7 +1364,7 @@
             "id": 24427,
             "level": 28,
             "icon": 4217,
-            "name": "Winter Sabatons of the Snow General",
+            "name": "Snow General's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -1380,7 +1380,7 @@
             "id": 24465,
             "level": 10,
             "icon": 4622,
-            "name": "Omnipotent Jackboots of Ragnar",
+            "name": "Ragnar's Omnipotent Jackboots",
             "itemType": 8,
             "color": 4
         },
@@ -1388,7 +1388,7 @@
             "id": 24469,
             "level": 10,
             "icon": 4622,
-            "name": "Majestic Sabatons of Ragnar",
+            "name": "Ragnar's Majestic Sabatons",
             "itemType": 8,
             "color": 4
         },
@@ -1396,7 +1396,7 @@
             "id": 24641,
             "level": 12,
             "icon": 4622,
-            "name": "Omnipotent Jackboots of Frosty Fang",
+            "name": "Frosty Fang's Omnipotent Jackboots",
             "itemType": 8,
             "color": 4
         },
@@ -1404,7 +1404,7 @@
             "id": 24642,
             "level": 14,
             "icon": 4622,
-            "name": "Omnipotent Jackboots of Mastodon",
+            "name": "Mastodon's Omnipotent Jackboots",
             "itemType": 8,
             "color": 4
         },
@@ -1412,7 +1412,7 @@
             "id": 24643,
             "level": 16,
             "icon": 4622,
-            "name": "Omnipotent Jackboots of Taron",
+            "name": "Taron's Omnipotent Jackboots",
             "itemType": 8,
             "color": 4
         },
@@ -1420,7 +1420,7 @@
             "id": 24644,
             "level": 18,
             "icon": 4622,
-            "name": "Omnipotent Jackboots of Kerula",
+            "name": "Kerula's Omnipotent Jackboots",
             "itemType": 8,
             "color": 4
         },
@@ -1428,7 +1428,7 @@
             "id": 24645,
             "level": 20,
             "icon": 4622,
-            "name": "Omnipotent Jackboots of Gimir",
+            "name": "Gimir's Omnipotent Jackboots",
             "itemType": 8,
             "color": 4
         },
@@ -1436,7 +1436,7 @@
             "id": 24646,
             "level": 22,
             "icon": 4622,
-            "name": "Omnipotent Jackboots of Flavius",
+            "name": "Flavius's Omnipotent Jackboots",
             "itemType": 8,
             "color": 4
         },
@@ -1444,7 +1444,7 @@
             "id": 24647,
             "level": 24,
             "icon": 4622,
-            "name": "Omnipotent Jackboots of Ruberius",
+            "name": "Ruberius's Omnipotent Jackboots",
             "itemType": 8,
             "color": 4
         },
@@ -1452,7 +1452,7 @@
             "id": 24648,
             "level": 26,
             "icon": 4622,
-            "name": "Omnipotent Jackboots of Mortis",
+            "name": "Mortis's Omnipotent Jackboots",
             "itemType": 8,
             "color": 4
         },
@@ -1460,7 +1460,7 @@
             "id": 24649,
             "level": 28,
             "icon": 4622,
-            "name": "Omnipotent Jackboots of the Snow General",
+            "name": "Snow General's Omnipotent Jackboots",
             "itemType": 8,
             "color": 4
         },
@@ -1468,7 +1468,7 @@
             "id": 24677,
             "level": 12,
             "icon": 4622,
-            "name": "Majestic Sabatons of Frosty Fang",
+            "name": "Frosty Fang's Majestic Sabatons",
             "itemType": 8,
             "color": 4
         },
@@ -1476,7 +1476,7 @@
             "id": 24678,
             "level": 14,
             "icon": 4622,
-            "name": "Majestic Sabatons of Mastodon",
+            "name": "Mastodon's Majestic Sabatons",
             "itemType": 8,
             "color": 4
         },
@@ -1484,7 +1484,7 @@
             "id": 24679,
             "level": 16,
             "icon": 4622,
-            "name": "Majestic Sabatons of Taron",
+            "name": "Taron's Majestic Sabatons",
             "itemType": 8,
             "color": 4
         },
@@ -1492,7 +1492,7 @@
             "id": 24680,
             "level": 18,
             "icon": 4622,
-            "name": "Majestic Sabatons of Kerula",
+            "name": "Kerula's Majestic Sabatons",
             "itemType": 8,
             "color": 4
         },
@@ -1500,7 +1500,7 @@
             "id": 24681,
             "level": 20,
             "icon": 4622,
-            "name": "Majestic Sabatons of Gimir",
+            "name": "Gimir's Majestic Sabatons",
             "itemType": 8,
             "color": 4
         },
@@ -1508,7 +1508,7 @@
             "id": 24682,
             "level": 22,
             "icon": 4622,
-            "name": "Majestic Sabatons of Flavius",
+            "name": "Flavius's Majestic Sabatons",
             "itemType": 8,
             "color": 4
         },
@@ -1516,7 +1516,7 @@
             "id": 24683,
             "level": 24,
             "icon": 4622,
-            "name": "Majestic Sabatons of Ruberius",
+            "name": "Ruberius's Majestic Sabatons",
             "itemType": 8,
             "color": 4
         },
@@ -1524,7 +1524,7 @@
             "id": 24684,
             "level": 26,
             "icon": 4622,
-            "name": "Majestic Sabatons of Mortis",
+            "name": "Mortis's Majestic Sabatons",
             "itemType": 8,
             "color": 4
         },
@@ -1532,7 +1532,7 @@
             "id": 24685,
             "level": 28,
             "icon": 4622,
-            "name": "Majestic Sabatons of the Snow General",
+            "name": "Snow General's Majestic Sabatons",
             "itemType": 8,
             "color": 4
         },
@@ -1564,7 +1564,7 @@
             "id": 25942,
             "level": 20,
             "icon": 4449,
-            "name": "Sabatons of Templars of the Dominant Coalition",
+            "name": "Sabatons of Dominant Coalition Templars",
             "itemType": 8,
             "color": 4
         },
@@ -1572,7 +1572,7 @@
             "id": 25946,
             "level": 22,
             "icon": 4449,
-            "name": "Sabatons of Templars of the Mighty Alliance",
+            "name": "Sabatons of Mighty Alliance Templars",
             "itemType": 8,
             "color": 4
         },
@@ -1580,7 +1580,7 @@
             "id": 25950,
             "level": 24,
             "icon": 4449,
-            "name": "Sabatons of Templars of the Legendary Brotherhood",
+            "name": "Sabatons of Legendary Brotherhood Templars",
             "itemType": 8,
             "color": 4
         },
@@ -1588,7 +1588,7 @@
             "id": 25954,
             "level": 26,
             "icon": 4449,
-            "name": "Sabatons of Templars of the Immortal Order",
+            "name": "Sabatons of Immortal Order Templars",
             "itemType": 8,
             "color": 4
         },
@@ -1628,7 +1628,7 @@
             "id": 26521,
             "level": 29,
             "icon": 1671,
-            "name": "Jackboots of the Legendary Templar",
+            "name": "Jackboots of Legendary Templar",
             "itemType": 8,
             "color": 3
         },
@@ -1636,7 +1636,7 @@
             "id": 26522,
             "level": 29,
             "icon": 1671,
-            "name": "Sabatons of the Legendary Templar",
+            "name": "Sabatons of Legendary Templar",
             "itemType": 8,
             "color": 3
         },
@@ -1660,7 +1660,7 @@
             "id": 27969,
             "level": 30,
             "icon": 4217,
-            "name": "Winter Jackboots of Chernobog",
+            "name": "Chernobog's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -1668,7 +1668,7 @@
             "id": 27973,
             "level": 30,
             "icon": 4217,
-            "name": "Winter Sabatons of Chernobog",
+            "name": "Chernobog's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -1756,7 +1756,7 @@
             "id": 28126,
             "level": 30,
             "icon": 4622,
-            "name": "Omnipotent Jackboots of Chernobog",
+            "name": "Chernobog's Omnipotent Jackboots",
             "itemType": 8,
             "color": 4
         },
@@ -1764,7 +1764,7 @@
             "id": 28130,
             "level": 30,
             "icon": 4622,
-            "name": "Majestic Sabatons of Chernobog",
+            "name": "Chernobog's Majestic Sabatons",
             "itemType": 8,
             "color": 4
         },
@@ -1828,7 +1828,7 @@
             "id": 29524,
             "level": 20,
             "icon": 4448,
-            "name": "Jackboots of Templars of the Sacred Forest",
+            "name": "Jackboots of Sacred Forest Templars",
             "itemType": 8,
             "color": 4
         },
@@ -1836,7 +1836,7 @@
             "id": 29528,
             "level": 22,
             "icon": 4448,
-            "name": "Jackboots of Templars of the Pyramid Valley",
+            "name": "Jackboots of Pyramid Valley Templars",
             "itemType": 8,
             "color": 4
         },
@@ -1844,7 +1844,7 @@
             "id": 29532,
             "level": 24,
             "icon": 4448,
-            "name": "Jackboots of Templars of the Black Oak Forest",
+            "name": "Jackboots of Black Oak Forest Templars",
             "itemType": 8,
             "color": 4
         },
@@ -1852,7 +1852,7 @@
             "id": 29536,
             "level": 26,
             "icon": 4448,
-            "name": "Jackboots of Templars of the Flying Islands",
+            "name": "Jackboots of Flying Islands Templars",
             "itemType": 8,
             "color": 4
         },
@@ -1860,7 +1860,7 @@
             "id": 29540,
             "level": 28,
             "icon": 4448,
-            "name": "Jackboots of Templars of the Ship Graveyard",
+            "name": "Jackboots of Ship Graveyard Templars",
             "itemType": 8,
             "color": 4
         },
@@ -1868,7 +1868,7 @@
             "id": 29544,
             "level": 28,
             "icon": 4448,
-            "name": "Jackboots of Defenders of the Ship Graveyard",
+            "name": "Jackboots of Ship Graveyard Defenders",
             "itemType": 8,
             "color": 4
         },
@@ -1876,7 +1876,7 @@
             "id": 29548,
             "level": 28,
             "icon": 4449,
-            "name": "Sabatons of Defenders of the Imperious Clan",
+            "name": "Sabatons of Imperious Clan Defenders",
             "itemType": 8,
             "color": 4
         },
@@ -1884,7 +1884,7 @@
             "id": 29552,
             "level": 28,
             "icon": 4449,
-            "name": "Sabatons of Templars of the Imperious Clan",
+            "name": "Sabatons of Imperious Clan Templars",
             "itemType": 8,
             "color": 4
         },
@@ -1892,7 +1892,7 @@
             "id": 29771,
             "level": 7,
             "icon": 1665,
-            "name": "Sabatons of Recruit",
+            "name": "Recruit's Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -1900,7 +1900,7 @@
             "id": 29776,
             "level": 7,
             "icon": 1665,
-            "name": "Jackboots of Recruit",
+            "name": "Recruit's Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -1908,7 +1908,7 @@
             "id": 29781,
             "level": 11,
             "icon": 1665,
-            "name": "Sabatons of Mercenary",
+            "name": "Hireling's Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -1916,7 +1916,7 @@
             "id": 29786,
             "level": 11,
             "icon": 1665,
-            "name": "Jackboots of Mercenary",
+            "name": "Hireling's Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -1924,7 +1924,7 @@
             "id": 32066,
             "level": 30,
             "icon": 4448,
-            "name": "Jackboots of the Defenders of the Pirate Archipelago",
+            "name": "Jackboots of Pirate Archipelago Defenders",
             "itemType": 8,
             "color": 4
         },
@@ -1932,7 +1932,7 @@
             "id": 32070,
             "level": 30,
             "icon": 4448,
-            "name": "Jackboots of the Templars of the Pirate Archipelago",
+            "name": "Jackboots of Pirate Archipelago Templars",
             "itemType": 8,
             "color": 4
         },
@@ -1940,7 +1940,7 @@
             "id": 32074,
             "level": 30,
             "icon": 4449,
-            "name": "Sabatons of the Defenders of the Unbreakable Alliance",
+            "name": "Sabatons of Unbreakable Alliance Defenders",
             "itemType": 8,
             "color": 4
         },
@@ -2084,7 +2084,7 @@
             "id": 33864,
             "level": 32,
             "icon": 4217,
-            "name": "Winter Jackboots of Titan",
+            "name": "Titan's Winter Jackboots",
             "itemType": 8,
             "color": 3
         },
@@ -2092,7 +2092,7 @@
             "id": 33868,
             "level": 32,
             "icon": 4217,
-            "name": "Winter Sabatons of Titan",
+            "name": "Titan's Winter Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -2116,7 +2116,7 @@
             "id": 33912,
             "level": 32,
             "icon": 4622,
-            "name": "Omnipotent Jackboots of Titan",
+            "name": "Titan's Omnipotent Jackboots",
             "itemType": 8,
             "color": 4
         },
@@ -2124,7 +2124,7 @@
             "id": 33916,
             "level": 32,
             "icon": 4622,
-            "name": "Majestic Sabatons of Titan",
+            "name": "Titan's Majestic Sabatons",
             "itemType": 8,
             "color": 4
         },
@@ -2148,7 +2148,7 @@
             "id": 34502,
             "level": 32,
             "icon": 3510,
-            "name": "Jackboots of the Ominous Requiem",
+            "name": "Jackboots of Ominous Requiem",
             "itemType": 8,
             "color": 3
         },
@@ -2188,7 +2188,7 @@
             "id": 35120,
             "level": 22,
             "icon": 6178,
-            "name": "Treads of the Knights of the Forest\u2019s Heart",
+            "name": "Treads of Forest\u2019s Heart Knights",
             "itemType": 8,
             "color": 4
         },
@@ -2196,7 +2196,7 @@
             "id": 35124,
             "level": 24,
             "icon": 6178,
-            "name": "Treads of the Knights of the Jaguar\u2019s Den",
+            "name": "Treads of Jaguar\u2019s Den Knights",
             "itemType": 8,
             "color": 4
         },
@@ -2204,7 +2204,7 @@
             "id": 35128,
             "level": 26,
             "icon": 6178,
-            "name": "Treads of the Knights of the Dragon Ness",
+            "name": "Treads of Dragon Ness Knights",
             "itemType": 8,
             "color": 4
         },
@@ -2212,7 +2212,7 @@
             "id": 35132,
             "level": 28,
             "icon": 6178,
-            "name": "Treads of the Knights of the Sky Sanctuary",
+            "name": "Treads of Sky Sanctuary Knights",
             "itemType": 8,
             "color": 4
         },
@@ -2220,7 +2220,7 @@
             "id": 35136,
             "level": 30,
             "icon": 6178,
-            "name": "Treads of the Knights of the Sea Turtle",
+            "name": "Treads of Sea Turtle Knights",
             "itemType": 8,
             "color": 4
         },

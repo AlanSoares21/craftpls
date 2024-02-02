@@ -4,7 +4,7 @@
             "id": 2055,
             "level": 12,
             "icon": 1043,
-            "name": "Honed Poleaxe",
+            "name": "Honed Waraxe",
             "itemType": 0,
             "color": 2
         },
@@ -140,7 +140,7 @@
             "id": 13155,
             "level": 4,
             "icon": 1031,
-            "name": "Vampire's Poleaxe",
+            "name": "Vampire's Waraxe",
             "itemType": 0,
             "color": 2
         },
@@ -164,7 +164,7 @@
             "id": 13795,
             "level": 13,
             "icon": 1034,
-            "name": "Stormbreaker's Poleaxe",
+            "name": "Stormbreaker's Waraxe",
             "itemType": 0,
             "color": 2
         },
@@ -268,7 +268,7 @@
             "id": 15325,
             "level": 21,
             "icon": 1046,
-            "name": "Enchanted Broadaxe of the Lord",
+            "name": "Enchanted Broadaxe of Lord",
             "itemType": 0,
             "color": 3
         },
@@ -356,7 +356,7 @@
             "id": 16137,
             "level": 8,
             "icon": 3119,
-            "name": "Waraxe of Oath-breaker",
+            "name": "Waraxe of Oathbreaker",
             "itemType": 0,
             "color": 3
         },
@@ -420,7 +420,7 @@
             "id": 17104,
             "level": 12,
             "icon": 1040,
-            "name": "Well-tried Labrys",
+            "name": "Well-Worn Labrys",
             "itemType": 0,
             "color": 2
         },
@@ -460,7 +460,7 @@
             "id": 17154,
             "level": 14,
             "icon": 1034,
-            "name": "Poleaxe of Northern Chieftains",
+            "name": "Waraxe of Northern Chieftains",
             "itemType": 0,
             "color": 3
         },
@@ -492,7 +492,7 @@
             "id": 17188,
             "level": 14,
             "icon": 3396,
-            "name": "Poleaxe of Northern Lords",
+            "name": "Waraxe of Northern Lords",
             "itemType": 0,
             "color": 3
         },
@@ -532,7 +532,7 @@
             "id": 17307,
             "level": 22,
             "icon": 1046,
-            "name": "All-Destroying Labrys",
+            "name": "Devastating Labrys",
             "itemType": 0,
             "color": 3
         },
@@ -668,7 +668,7 @@
             "id": 19964,
             "level": 6,
             "icon": 3073,
-            "name": "Labrys of the Blind Outlaw",
+            "name": "Labrys of Blind Outlaw",
             "itemType": 0,
             "color": 3
         },
@@ -684,7 +684,7 @@
             "id": 20027,
             "level": 20,
             "icon": 3073,
-            "name": "Labrys of the Damned Heir",
+            "name": "Labrys of Damned Heir",
             "itemType": 0,
             "color": 3
         },
@@ -692,7 +692,7 @@
             "id": 20040,
             "level": 22,
             "icon": 3073,
-            "name": "Labrys of the Distracted Apostate",
+            "name": "Labrys of Distracted Apostate",
             "itemType": 0,
             "color": 3
         },
@@ -708,7 +708,7 @@
             "id": 20078,
             "level": 26,
             "icon": 3073,
-            "name": "Labrys of the Bloody Earl",
+            "name": "Labrys of Bloody Earl",
             "itemType": 0,
             "color": 3
         },
@@ -716,7 +716,7 @@
             "id": 20273,
             "level": 6,
             "icon": 3119,
-            "name": "Poleaxe of Cold-Bearing Spirit",
+            "name": "Waraxe of Cold-Bearing Spirit",
             "itemType": 0,
             "color": 3
         },
@@ -724,7 +724,7 @@
             "id": 20294,
             "level": 12,
             "icon": 3119,
-            "name": "Poleaxe of the Frozen Master",
+            "name": "Waraxe of the Frozen Master",
             "itemType": 0,
             "color": 3
         },
@@ -732,7 +732,7 @@
             "id": 20315,
             "level": 16,
             "icon": 3119,
-            "name": "Poleaxe of the Rune Scald",
+            "name": "Waraxe of the Rune Scald",
             "itemType": 0,
             "color": 3
         },
@@ -740,7 +740,7 @@
             "id": 20348,
             "level": 24,
             "icon": 3119,
-            "name": "Poleaxe of the Ice Prince",
+            "name": "Waraxe of the Ice Prince",
             "itemType": 0,
             "color": 3
         },
@@ -748,7 +748,7 @@
             "id": 20363,
             "level": 26,
             "icon": 3119,
-            "name": "Poleaxe of the Descendant of the Titans",
+            "name": "Waraxe of Titan's Descendant",
             "itemType": 0,
             "color": 3
         },
@@ -756,7 +756,7 @@
             "id": 20788,
             "level": 6,
             "icon": 3870,
-            "name": "Poleaxe of the Green Hill",
+            "name": "Waraxe of the Green Hill",
             "itemType": 0,
             "color": 2
         },
@@ -764,7 +764,7 @@
             "id": 20803,
             "level": 10,
             "icon": 3870,
-            "name": "Poleaxe of the Heath Meadow",
+            "name": "Waraxe of the Heath Meadow",
             "itemType": 0,
             "color": 2
         },
@@ -772,7 +772,7 @@
             "id": 20818,
             "level": 12,
             "icon": 3870,
-            "name": "Poleaxe of the Four-Leaf Clover",
+            "name": "Waraxe of Four-Leaf Clover",
             "itemType": 0,
             "color": 2
         },
@@ -780,7 +780,7 @@
             "id": 20833,
             "level": 14,
             "icon": 3870,
-            "name": "Poleaxe of the Spring Symphony",
+            "name": "Waraxe of the Spring Symphony",
             "itemType": 0,
             "color": 2
         },
@@ -788,7 +788,7 @@
             "id": 20853,
             "level": 16,
             "icon": 3870,
-            "name": "Poleaxe of the Happy Month",
+            "name": "Waraxe of the Happy Month",
             "itemType": 0,
             "color": 2
         },
@@ -796,7 +796,7 @@
             "id": 20868,
             "level": 18,
             "icon": 3870,
-            "name": "Poleaxe of the Singing Oak Forest",
+            "name": "Waraxe of the Singing Oak Forest",
             "itemType": 0,
             "color": 2
         },
@@ -804,7 +804,7 @@
             "id": 20883,
             "level": 20,
             "icon": 3870,
-            "name": "Poleaxe of the Arcane Valley",
+            "name": "Waraxe of Arcane Valley",
             "itemType": 0,
             "color": 2
         },
@@ -812,7 +812,7 @@
             "id": 20898,
             "level": 22,
             "icon": 3870,
-            "name": "Waraxe of the Forest Mystery",
+            "name": "Waraxe of Forest Mystery",
             "itemType": 0,
             "color": 2
         },
@@ -820,7 +820,7 @@
             "id": 20913,
             "level": 24,
             "icon": 3870,
-            "name": "Waraxe of the Blooming Island",
+            "name": "Waraxe of Blooming Island",
             "itemType": 0,
             "color": 2
         },
@@ -828,7 +828,7 @@
             "id": 20928,
             "level": 26,
             "icon": 3870,
-            "name": "Waraxe of the Emerald Tower",
+            "name": "Waraxe of Emerald Tower",
             "itemType": 0,
             "color": 2
         },
@@ -876,7 +876,7 @@
             "id": 21350,
             "level": 3,
             "icon": 1031,
-            "name": "Plain Two-handed Battleaxe",
+            "name": "Plain Two-Handed Battleaxe",
             "itemType": 0,
             "color": 2
         },
@@ -884,7 +884,7 @@
             "id": 21363,
             "level": 5,
             "icon": 1031,
-            "name": "Light Two-handed Battleaxe",
+            "name": "Light Two-Handed Battleaxe",
             "itemType": 0,
             "color": 2
         },
@@ -892,7 +892,7 @@
             "id": 21376,
             "level": 7,
             "icon": 1031,
-            "name": "Coarse Two-handed Battleaxe",
+            "name": "Coarse Two-Handed Battleaxe",
             "itemType": 0,
             "color": 2
         },
@@ -900,7 +900,7 @@
             "id": 21389,
             "level": 9,
             "icon": 1031,
-            "name": "Smooth Two-handed Battleaxe",
+            "name": "Smooth Two-Handed Battleaxe",
             "itemType": 0,
             "color": 2
         },
@@ -908,7 +908,7 @@
             "id": 21402,
             "level": 11,
             "icon": 1031,
-            "name": "Useful Two-handed Battleaxe",
+            "name": "Useful Two-Handed Battleaxe",
             "itemType": 0,
             "color": 2
         },
@@ -996,7 +996,7 @@
             "id": 22812,
             "level": 6,
             "icon": 4342,
-            "name": "Poleaxe of the Kingdom of Daring",
+            "name": "Waraxe of the Kingdom of Daring",
             "itemType": 0,
             "color": 3
         },
@@ -1004,7 +1004,7 @@
             "id": 22827,
             "level": 10,
             "icon": 4342,
-            "name": "Poleaxe of the Kingdom of Boldness",
+            "name": "Waraxe of the Kingdom of Boldness",
             "itemType": 0,
             "color": 3
         },
@@ -1012,7 +1012,7 @@
             "id": 22842,
             "level": 12,
             "icon": 4342,
-            "name": "Poleaxe of the Kingdom of Devotion",
+            "name": "Waraxe of the Kingdom of Devotion",
             "itemType": 0,
             "color": 3
         },
@@ -1020,7 +1020,7 @@
             "id": 22857,
             "level": 14,
             "icon": 4342,
-            "name": "Poleaxe of the Kingdom of Bravery",
+            "name": "Waraxe of the Kingdom of Bravery",
             "itemType": 0,
             "color": 3
         },
@@ -1028,7 +1028,7 @@
             "id": 22872,
             "level": 16,
             "icon": 4342,
-            "name": "Poleaxe of the Kingdom of Magnanimity",
+            "name": "Waraxe of the Kingdom of Magnanimity",
             "itemType": 0,
             "color": 3
         },
@@ -1036,7 +1036,7 @@
             "id": 22887,
             "level": 18,
             "icon": 4342,
-            "name": "Poleaxe of the Kingdom of Nobleness",
+            "name": "Waraxe of the Kingdom of Nobleness",
             "itemType": 0,
             "color": 3
         },
@@ -1044,7 +1044,7 @@
             "id": 22902,
             "level": 20,
             "icon": 4342,
-            "name": "Poleaxe of the Kingdom of Justice",
+            "name": "Waraxe of the Kingdom of Justice",
             "itemType": 0,
             "color": 3
         },
@@ -1052,7 +1052,7 @@
             "id": 22917,
             "level": 22,
             "icon": 4342,
-            "name": "Poleaxe of the Kingdom of Honor",
+            "name": "Waraxe of the Kingdom of Honor",
             "itemType": 0,
             "color": 3
         },
@@ -1060,7 +1060,7 @@
             "id": 22932,
             "level": 24,
             "icon": 4342,
-            "name": "Poleaxe of the Kingdom of Valor",
+            "name": "Waraxe of the Kingdom of Valor",
             "itemType": 0,
             "color": 3
         },
@@ -1068,7 +1068,7 @@
             "id": 22947,
             "level": 26,
             "icon": 4342,
-            "name": "Poleaxe of the Kingdom of Fearlessness",
+            "name": "Waraxe of the Kingdom of Fearlessness",
             "itemType": 0,
             "color": 3
         },
@@ -1076,7 +1076,7 @@
             "id": 23485,
             "level": 25,
             "icon": 3391,
-            "name": "Poleaxe of Tree of the Seasons\u2019 Keepers",
+            "name": "Waraxe of Tree of the Seasons\u2019 Keepers",
             "itemType": 0,
             "color": 3
         },
@@ -1084,7 +1084,7 @@
             "id": 23554,
             "level": 27,
             "icon": 3616,
-            "name": "Poleaxe of Technopolis Guards",
+            "name": "Waraxe of Technopolis Guards",
             "itemType": 0,
             "color": 3
         },
@@ -1092,7 +1092,7 @@
             "id": 23603,
             "level": 27,
             "icon": 3245,
-            "name": "Broadaxe of the Arena Lord",
+            "name": "Broadaxe of Arena Lord",
             "itemType": 0,
             "color": 3
         },
@@ -1100,7 +1100,7 @@
             "id": 24077,
             "level": 28,
             "icon": 4096,
-            "name": "Poleaxe of Impending Madness",
+            "name": "Waraxe of Impending Madness",
             "itemType": 0,
             "color": 3
         },
@@ -1108,7 +1108,7 @@
             "id": 24092,
             "level": 28,
             "icon": 3073,
-            "name": "Labrys of the Crazy King",
+            "name": "Labrys of Crazy King",
             "itemType": 0,
             "color": 3
         },
@@ -1116,7 +1116,7 @@
             "id": 24394,
             "level": 28,
             "icon": 3119,
-            "name": "Poleaxe of the Winter King",
+            "name": "Waraxe of the Winter King",
             "itemType": 0,
             "color": 3
         },
@@ -1124,7 +1124,7 @@
             "id": 25024,
             "level": 10,
             "icon": 4743,
-            "name": "Royal Poleaxe of the Heath Meadow",
+            "name": "Royal Waraxe of the Heath Meadow",
             "itemType": 0,
             "color": 3
         },
@@ -1132,7 +1132,7 @@
             "id": 25040,
             "level": 12,
             "icon": 4743,
-            "name": "Royal Poleaxe of the Four-Leaf Clover",
+            "name": "Royal Waraxe of Four-Leaf Clover",
             "itemType": 0,
             "color": 3
         },
@@ -1140,7 +1140,7 @@
             "id": 25056,
             "level": 14,
             "icon": 4743,
-            "name": "Royal Poleaxe of the Spring Symphony",
+            "name": "Royal Waraxe of the Spring Symphony",
             "itemType": 0,
             "color": 3
         },
@@ -1148,7 +1148,7 @@
             "id": 25072,
             "level": 16,
             "icon": 4743,
-            "name": "Royal Poleaxe of the Happy Month",
+            "name": "Royal Waraxe of the Happy Month",
             "itemType": 0,
             "color": 3
         },
@@ -1156,7 +1156,7 @@
             "id": 25088,
             "level": 18,
             "icon": 4743,
-            "name": "Royal Poleaxe of the Singing Oak Forest",
+            "name": "Royal Waraxe of the Singing Oak Forest",
             "itemType": 0,
             "color": 3
         },
@@ -1164,7 +1164,7 @@
             "id": 25104,
             "level": 20,
             "icon": 4743,
-            "name": "Royal Poleaxe of the Arcane Valley",
+            "name": "Royal Waraxe of Arcane Valley",
             "itemType": 0,
             "color": 3
         },
@@ -1172,7 +1172,7 @@
             "id": 25120,
             "level": 22,
             "icon": 4743,
-            "name": "Royal Poleaxe of the Forest Mystery",
+            "name": "Royal Waraxe of Forest Mystery",
             "itemType": 0,
             "color": 3
         },
@@ -1180,7 +1180,7 @@
             "id": 25136,
             "level": 24,
             "icon": 4743,
-            "name": "Royal Poleaxe of the Blooming Island",
+            "name": "Royal Waraxe of Blooming Island",
             "itemType": 0,
             "color": 3
         },
@@ -1188,7 +1188,7 @@
             "id": 25152,
             "level": 26,
             "icon": 4743,
-            "name": "Royal Poleaxe of the Emerald Tower",
+            "name": "Royal Waraxe of Emerald Tower",
             "itemType": 0,
             "color": 3
         },
@@ -1196,7 +1196,7 @@
             "id": 25168,
             "level": 28,
             "icon": 4743,
-            "name": "Royal Poleaxe of the Sun Fortress",
+            "name": "Royal Waraxe of the Sun Fortress",
             "itemType": 0,
             "color": 3
         },
@@ -1204,7 +1204,7 @@
             "id": 25184,
             "level": 28,
             "icon": 4342,
-            "name": "Poleaxe of the Kingdom of Courage",
+            "name": "Waraxe of the Kingdom of Courage",
             "itemType": 0,
             "color": 3
         },
@@ -1212,7 +1212,7 @@
             "id": 25198,
             "level": 28,
             "icon": 3870,
-            "name": "Poleaxe of the Sun Fortress",
+            "name": "Waraxe of the Sun Fortress",
             "itemType": 0,
             "color": 2
         },
@@ -1236,7 +1236,7 @@
             "id": 25300,
             "level": 28,
             "icon": 3396,
-            "name": "Broadaxe of the Bloody Radiance",
+            "name": "Broadaxe of Bloody Radiance",
             "itemType": 0,
             "color": 3
         },
@@ -1244,7 +1244,7 @@
             "id": 26285,
             "level": 30,
             "icon": 4883,
-            "name": "Poleaxe of Lord of the Seas",
+            "name": "Waraxe of Lord of the Seas",
             "itemType": 0,
             "color": 3
         },
@@ -1252,7 +1252,7 @@
             "id": 26319,
             "level": 29,
             "icon": 4882,
-            "name": "Poleaxe of Sea Tramps",
+            "name": "Waraxe of Sea Tramps",
             "itemType": 0,
             "color": 3
         },
@@ -1268,7 +1268,7 @@
             "id": 26476,
             "level": 29,
             "icon": 1046,
-            "name": "Poleaxe of Sea Wolf",
+            "name": "Waraxe of Sea Wolf",
             "itemType": 0,
             "color": 2
         },
@@ -1276,7 +1276,7 @@
             "id": 26489,
             "level": 29,
             "icon": 3245,
-            "name": "Broadaxe of the Outstanding Gladiator",
+            "name": "Broadaxe of Outstanding Gladiator",
             "itemType": 0,
             "color": 3
         },
@@ -1284,7 +1284,7 @@
             "id": 27111,
             "level": 30,
             "icon": 4096,
-            "name": "Poleaxe of Monster Curse",
+            "name": "Waraxe of Monster Curse",
             "itemType": 0,
             "color": 3
         },
@@ -1300,7 +1300,7 @@
             "id": 27731,
             "level": 6,
             "icon": 5154,
-            "name": "Poleaxe of Piercing Cold",
+            "name": "Waraxe of Piercing Cold",
             "itemType": 0,
             "color": 3
         },
@@ -1308,7 +1308,7 @@
             "id": 27746,
             "level": 10,
             "icon": 5154,
-            "name": "Poleaxe of Heavy Wind",
+            "name": "Waraxe of Heavy Wind",
             "itemType": 0,
             "color": 3
         },
@@ -1316,7 +1316,7 @@
             "id": 27761,
             "level": 12,
             "icon": 5154,
-            "name": "Poleaxe of Frosty Darkness",
+            "name": "Waraxe of Frosty Darkness",
             "itemType": 0,
             "color": 3
         },
@@ -1324,7 +1324,7 @@
             "id": 27776,
             "level": 14,
             "icon": 5154,
-            "name": "Poleaxe of Freezing Cold",
+            "name": "Waraxe of Freezing Cold",
             "itemType": 0,
             "color": 3
         },
@@ -1332,7 +1332,7 @@
             "id": 27791,
             "level": 16,
             "icon": 5154,
-            "name": "Poleaxe of Arctic Frost",
+            "name": "Waraxe of Arctic Frost",
             "itemType": 0,
             "color": 3
         },
@@ -1340,7 +1340,7 @@
             "id": 27806,
             "level": 18,
             "icon": 5154,
-            "name": "Poleaxe of Fierce Blizzard",
+            "name": "Waraxe of Fierce Blizzard",
             "itemType": 0,
             "color": 3
         },
@@ -1348,7 +1348,7 @@
             "id": 27821,
             "level": 20,
             "icon": 5154,
-            "name": "Poleaxe of Northern Tornado",
+            "name": "Waraxe of Northern Tornado",
             "itemType": 0,
             "color": 3
         },
@@ -1356,7 +1356,7 @@
             "id": 27836,
             "level": 22,
             "icon": 5154,
-            "name": "Poleaxe of Furious Northern Wind",
+            "name": "Waraxe of Furious Northern Wind",
             "itemType": 0,
             "color": 3
         },
@@ -1364,7 +1364,7 @@
             "id": 27851,
             "level": 24,
             "icon": 5154,
-            "name": "Poleaxe of Sweeping Whirlwind",
+            "name": "Waraxe of Sweeping Whirlwind",
             "itemType": 0,
             "color": 3
         },
@@ -1372,7 +1372,7 @@
             "id": 27866,
             "level": 26,
             "icon": 5154,
-            "name": "Poleaxe of Violent Blizzard",
+            "name": "Waraxe of Violent Blizzard",
             "itemType": 0,
             "color": 3
         },
@@ -1380,7 +1380,7 @@
             "id": 27881,
             "level": 28,
             "icon": 5154,
-            "name": "Poleaxe of Snow Storm",
+            "name": "Waraxe of Snow Storm",
             "itemType": 0,
             "color": 3
         },
@@ -1388,7 +1388,7 @@
             "id": 27896,
             "level": 30,
             "icon": 5154,
-            "name": "Poleaxe of Ice Storm",
+            "name": "Waraxe of Ice Storm",
             "itemType": 0,
             "color": 3
         },
@@ -1396,7 +1396,7 @@
             "id": 27913,
             "level": 30,
             "icon": 3119,
-            "name": "Poleaxe of the Lord of Cold",
+            "name": "Waraxe of the Lord of Cold",
             "itemType": 0,
             "color": 3
         },
@@ -1428,7 +1428,7 @@
             "id": 28988,
             "level": 30,
             "icon": 4743,
-            "name": "Royal Poleaxe of Enchanted Castle",
+            "name": "Royal Waraxe of Enchanted Castle",
             "itemType": 0,
             "color": 3
         },
@@ -1436,7 +1436,7 @@
             "id": 29004,
             "level": 30,
             "icon": 4342,
-            "name": "Poleaxe of Kingdom of Fortitude",
+            "name": "Waraxe of the Kingdom of Fortitude",
             "itemType": 0,
             "color": 3
         },
@@ -1444,7 +1444,7 @@
             "id": 29019,
             "level": 30,
             "icon": 3870,
-            "name": "Poleaxe of Enchanted Castle",
+            "name": "Waraxe of Enchanted Castle",
             "itemType": 0,
             "color": 2
         },
@@ -1452,7 +1452,7 @@
             "id": 29694,
             "level": 7,
             "icon": 1034,
-            "name": "Poleaxe of Recruit",
+            "name": "Recruit's Waraxe",
             "itemType": 0,
             "color": 3
         },
@@ -1460,7 +1460,7 @@
             "id": 29715,
             "level": 11,
             "icon": 1034,
-            "name": "Poleaxe of Mercenary",
+            "name": "Hireling's Waraxe",
             "itemType": 0,
             "color": 3
         },
@@ -1468,7 +1468,7 @@
             "id": 33121,
             "level": 32,
             "icon": 4096,
-            "name": "Poleaxe of Emanating Madness",
+            "name": "Waraxe of Emanating Madness",
             "itemType": 0,
             "color": 3
         },
@@ -1484,7 +1484,7 @@
             "id": 33635,
             "level": 32,
             "icon": 5154,
-            "name": "Poleaxe of the Unbridled Hurricane",
+            "name": "Waraxe of the Unbridled Hurricane",
             "itemType": 0,
             "color": 3
         },
@@ -1492,7 +1492,7 @@
             "id": 33664,
             "level": 32,
             "icon": 3119,
-            "name": "Poleaxe of the Northern Lord",
+            "name": "Waraxe of the Northern Lord",
             "itemType": 0,
             "color": 3
         },
@@ -1524,7 +1524,7 @@
             "id": 34531,
             "level": 32,
             "icon": 4342,
-            "name": "Poleaxe of the Kingdom of Indestructibility",
+            "name": "Waraxe of the Kingdom of Indestructibility",
             "itemType": 0,
             "color": 3
         },
@@ -1556,7 +1556,7 @@
             "id": 35264,
             "level": 31,
             "icon": 4882,
-            "name": "Poleaxe of the Pirate Brotherhood",
+            "name": "Waraxe of Pirate Brotherhood",
             "itemType": 0,
             "color": 3
         }

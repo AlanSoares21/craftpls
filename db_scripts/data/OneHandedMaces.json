@@ -244,7 +244,7 @@
             "id": 15324,
             "level": 21,
             "icon": 1124,
-            "name": "Enchanted Club of the Lord",
+            "name": "Enchanted Club of Lord",
             "itemType": 0,
             "color": 3
         },
@@ -332,7 +332,7 @@
             "id": 16135,
             "level": 8,
             "icon": 3125,
-            "name": "Mace of Oath-breaker",
+            "name": "Mace of Oathbreaker",
             "itemType": 0,
             "color": 3
         },
@@ -404,7 +404,7 @@
             "id": 17114,
             "level": 12,
             "icon": 1115,
-            "name": "Well-tried Club",
+            "name": "Well-Worn Club",
             "itemType": 0,
             "color": 2
         },
@@ -524,7 +524,7 @@
             "id": 17308,
             "level": 22,
             "icon": 1115,
-            "name": "All-Destroying Hammer",
+            "name": "Devastating Warhammer",
             "itemType": 0,
             "color": 3
         },
@@ -660,7 +660,7 @@
             "id": 19962,
             "level": 6,
             "icon": 3078,
-            "name": "Club of the Blind Outlaw",
+            "name": "Club of Blind Outlaw",
             "itemType": 0,
             "color": 3
         },
@@ -676,7 +676,7 @@
             "id": 20025,
             "level": 20,
             "icon": 3078,
-            "name": "Club of the Damned Heir",
+            "name": "Club of Damned Heir",
             "itemType": 0,
             "color": 3
         },
@@ -684,7 +684,7 @@
             "id": 20038,
             "level": 22,
             "icon": 3078,
-            "name": "Magic Club of the Distracted Apostate",
+            "name": "Magic Club of Distracted Apostate",
             "itemType": 0,
             "color": 3
         },
@@ -700,7 +700,7 @@
             "id": 20076,
             "level": 26,
             "icon": 3078,
-            "name": "Magic Club of the Bloody Earl",
+            "name": "Magic Club of Bloody Earl",
             "itemType": 0,
             "color": 3
         },
@@ -740,7 +740,7 @@
             "id": 20361,
             "level": 26,
             "icon": 3125,
-            "name": "Mace of the Descendant of the Titans",
+            "name": "Mace of Titan's Descendant",
             "itemType": 0,
             "color": 3
         },
@@ -764,7 +764,7 @@
             "id": 20816,
             "level": 12,
             "icon": 3866,
-            "name": "Mace of the Four-Leaf Clover",
+            "name": "Mace of Four-Leaf Clover",
             "itemType": 0,
             "color": 2
         },
@@ -796,7 +796,7 @@
             "id": 20881,
             "level": 20,
             "icon": 3866,
-            "name": "Mace of the Arcane Valley",
+            "name": "Mace of Arcane Valley",
             "itemType": 0,
             "color": 2
         },
@@ -804,7 +804,7 @@
             "id": 20896,
             "level": 22,
             "icon": 3866,
-            "name": "Mace of the Forest Mystery",
+            "name": "Mace of Forest Mystery",
             "itemType": 0,
             "color": 2
         },
@@ -812,7 +812,7 @@
             "id": 20911,
             "level": 24,
             "icon": 3866,
-            "name": "Mace of the Blooming Island",
+            "name": "Mace of Blooming Island",
             "itemType": 0,
             "color": 2
         },
@@ -820,7 +820,7 @@
             "id": 20926,
             "level": 26,
             "icon": 3866,
-            "name": "Mace of the Emerald Tower",
+            "name": "Mace of Emerald Tower",
             "itemType": 0,
             "color": 2
         },
@@ -932,7 +932,7 @@
             "id": 21287,
             "level": 12,
             "icon": 1115,
-            "name": "Well-tried Magic Mace",
+            "name": "Well-Worn Magic Mace",
             "itemType": 0,
             "color": 2
         },
@@ -1044,7 +1044,7 @@
             "id": 21301,
             "level": 22,
             "icon": 1115,
-            "name": "All-Destroying Magic Mace",
+            "name": "Devastating Magic Mace",
             "itemType": 0,
             "color": 3
         },
@@ -1340,7 +1340,7 @@
             "id": 21723,
             "level": 6,
             "icon": 4092,
-            "name": "Magic mace of Deep Slumber",
+            "name": "Magic Mace of Deep Slumber",
             "itemType": 0,
             "color": 3
         },
@@ -1356,7 +1356,7 @@
             "id": 21738,
             "level": 10,
             "icon": 4092,
-            "name": "Magic mace of Somnolent Whispers",
+            "name": "Magic Mace of Somnolent Whispers",
             "itemType": 0,
             "color": 3
         },
@@ -1372,7 +1372,7 @@
             "id": 21753,
             "level": 12,
             "icon": 4092,
-            "name": "Magic mace of Restless Dreaming",
+            "name": "Magic Mace of Restless Dreaming",
             "itemType": 0,
             "color": 3
         },
@@ -1564,7 +1564,7 @@
             "id": 22480,
             "level": 26,
             "icon": 3125,
-            "name": "Magic Mace of the Descendant of the Titans",
+            "name": "Magic Mace of Titan's Descendant",
             "itemType": 0,
             "color": 3
         },
@@ -1588,7 +1588,7 @@
             "id": 22798,
             "level": 12,
             "icon": 3866,
-            "name": "Magic Mace of the Four-Leaf Clover",
+            "name": "Magic Mace of Four-Leaf Clover",
             "itemType": 0,
             "color": 2
         },
@@ -1620,7 +1620,7 @@
             "id": 22802,
             "level": 20,
             "icon": 3866,
-            "name": "Magic Mace of the Arcane Valley",
+            "name": "Magic Mace of Arcane Valley",
             "itemType": 0,
             "color": 2
         },
@@ -1628,7 +1628,7 @@
             "id": 22803,
             "level": 22,
             "icon": 3866,
-            "name": "Magic Mace of the Forest Mystery",
+            "name": "Magic Mace of Forest Mystery",
             "itemType": 0,
             "color": 2
         },
@@ -1636,7 +1636,7 @@
             "id": 22804,
             "level": 24,
             "icon": 3866,
-            "name": "Magic Mace of the Blooming Island",
+            "name": "Magic Mace of Blooming Island",
             "itemType": 0,
             "color": 2
         },
@@ -1644,7 +1644,7 @@
             "id": 22805,
             "level": 26,
             "icon": 3866,
-            "name": "Magic Mace of the Emerald Tower",
+            "name": "Magic Mace of Emerald Tower",
             "itemType": 0,
             "color": 2
         },
@@ -1852,7 +1852,7 @@
             "id": 23601,
             "level": 27,
             "icon": 3253,
-            "name": "Magic Mace of the Arena Lord",
+            "name": "Magic Mace of Arena Lord",
             "itemType": 0,
             "color": 3
         },
@@ -1876,7 +1876,7 @@
             "id": 24089,
             "level": 28,
             "icon": 3078,
-            "name": "Club of the Crazy King",
+            "name": "Club of Crazy King",
             "itemType": 0,
             "color": 3
         },
@@ -1884,7 +1884,7 @@
             "id": 24090,
             "level": 28,
             "icon": 3078,
-            "name": "Magic Club of the Crazy King",
+            "name": "Magic Club of Crazy King",
             "itemType": 0,
             "color": 3
         },
@@ -1892,7 +1892,7 @@
             "id": 24101,
             "level": 6,
             "icon": 3078,
-            "name": "Magic Club of the Blind Outlaw",
+            "name": "Magic Club of Blind Outlaw",
             "itemType": 0,
             "color": 3
         },
@@ -1940,7 +1940,7 @@
             "id": 24119,
             "level": 20,
             "icon": 3078,
-            "name": "Magic Club of the Damned Heir",
+            "name": "Magic Club of Damned Heir",
             "itemType": 0,
             "color": 3
         },
@@ -1948,7 +1948,7 @@
             "id": 24122,
             "level": 22,
             "icon": 3078,
-            "name": "Club of the Distracted Apostate",
+            "name": "Club of Distracted Apostate",
             "itemType": 0,
             "color": 3
         },
@@ -1964,7 +1964,7 @@
             "id": 24128,
             "level": 26,
             "icon": 3078,
-            "name": "Club of the Bloody Earl",
+            "name": "Club of Bloody Earl",
             "itemType": 0,
             "color": 3
         },
@@ -2004,7 +2004,7 @@
             "id": 25037,
             "level": 12,
             "icon": 4749,
-            "name": "Royal Mace of the Four-Leaf Clover",
+            "name": "Royal Mace of Four-Leaf Clover",
             "itemType": 0,
             "color": 3
         },
@@ -2012,7 +2012,7 @@
             "id": 25038,
             "level": 12,
             "icon": 4749,
-            "name": "Royal Magical Mace of the Four-Leaf Clover",
+            "name": "Royal Magical Mace of Four-Leaf Clover",
             "itemType": 0,
             "color": 3
         },
@@ -2068,7 +2068,7 @@
             "id": 25101,
             "level": 20,
             "icon": 4749,
-            "name": "Royal Mace of the Arcane Valley",
+            "name": "Royal Mace of Arcane Valley",
             "itemType": 0,
             "color": 3
         },
@@ -2076,7 +2076,7 @@
             "id": 25102,
             "level": 20,
             "icon": 4749,
-            "name": "Royal Magical Mace of the Arcane Valley",
+            "name": "Royal Magical Mace of Arcane Valley",
             "itemType": 0,
             "color": 3
         },
@@ -2084,7 +2084,7 @@
             "id": 25117,
             "level": 22,
             "icon": 4749,
-            "name": "Royal Mace of the Forest Mystery",
+            "name": "Royal Mace of Forest Mystery",
             "itemType": 0,
             "color": 3
         },
@@ -2092,7 +2092,7 @@
             "id": 25118,
             "level": 22,
             "icon": 4749,
-            "name": "Royal Magical Mace of the Forest Mystery",
+            "name": "Royal Magical Mace of Forest Mystery",
             "itemType": 0,
             "color": 3
         },
@@ -2100,7 +2100,7 @@
             "id": 25133,
             "level": 24,
             "icon": 4749,
-            "name": "Royal Mace of the Blooming Island",
+            "name": "Royal Mace of Blooming Island",
             "itemType": 0,
             "color": 3
         },
@@ -2108,7 +2108,7 @@
             "id": 25134,
             "level": 24,
             "icon": 4749,
-            "name": "Royal Magical Mace of the Blooming Island",
+            "name": "Royal Magical Mace of Blooming Island",
             "itemType": 0,
             "color": 3
         },
@@ -2116,7 +2116,7 @@
             "id": 25149,
             "level": 26,
             "icon": 4749,
-            "name": "Royal Mace of the Emerald Tower",
+            "name": "Royal Mace of Emerald Tower",
             "itemType": 0,
             "color": 3
         },
@@ -2124,7 +2124,7 @@
             "id": 25150,
             "level": 26,
             "icon": 4749,
-            "name": "Royal Magical Mace of the Emerald Tower",
+            "name": "Royal Magical Mace of Emerald Tower",
             "itemType": 0,
             "color": 3
         },
@@ -2212,7 +2212,7 @@
             "id": 25297,
             "level": 28,
             "icon": 3401,
-            "name": "Mace of the Bloody Radiance",
+            "name": "Mace of Bloody Radiance",
             "itemType": 0,
             "color": 3
         },
@@ -2220,7 +2220,7 @@
             "id": 25298,
             "level": 28,
             "icon": 3401,
-            "name": "Magical Mace of the Bloody Radiance",
+            "name": "Magical Mace of Bloody Radiance",
             "itemType": 0,
             "color": 3
         },
@@ -2292,7 +2292,7 @@
             "id": 26486,
             "level": 29,
             "icon": 3253,
-            "name": "Morgenstern of the Outstanding Gladiator",
+            "name": "Morgenstern of Outstanding Gladiator",
             "itemType": 0,
             "color": 3
         },
@@ -2300,7 +2300,7 @@
             "id": 26487,
             "level": 29,
             "icon": 3253,
-            "name": "Magic Mace of the Outstanding Gladiator",
+            "name": "Magic Mace of Outstanding Gladiator",
             "itemType": 0,
             "color": 3
         },
@@ -2612,7 +2612,7 @@
             "id": 29001,
             "level": 30,
             "icon": 4345,
-            "name": "Mace of Kingdom of Fortitude",
+            "name": "Mace of the Kingdom of Fortitude",
             "itemType": 0,
             "color": 3
         },
@@ -2620,7 +2620,7 @@
             "id": 29002,
             "level": 30,
             "icon": 4345,
-            "name": "Magic Mace of Kingdom of Fortitude",
+            "name": "Magic Mace of the Kingdom of Fortitude",
             "itemType": 0,
             "color": 3
         },
@@ -2652,7 +2652,7 @@
             "id": 29691,
             "level": 7,
             "icon": 1115,
-            "name": "Mace of Recruit",
+            "name": "Recruit's Mace",
             "itemType": 0,
             "color": 3
         },
@@ -2660,7 +2660,7 @@
             "id": 29692,
             "level": 7,
             "icon": 1115,
-            "name": "Magical Mace of Recruit",
+            "name": "Recruit's Magical Mace",
             "itemType": 0,
             "color": 3
         },
@@ -2668,7 +2668,7 @@
             "id": 29712,
             "level": 11,
             "icon": 1115,
-            "name": "Mace of Mercenary",
+            "name": "Hireling's Mace",
             "itemType": 0,
             "color": 3
         },
@@ -2676,7 +2676,7 @@
             "id": 29713,
             "level": 11,
             "icon": 1115,
-            "name": "Magical Mace of Mercenary",
+            "name": "Hireling's Magical Mace",
             "itemType": 0,
             "color": 3
         },
@@ -2684,7 +2684,7 @@
             "id": 30243,
             "level": 6,
             "icon": 3078,
-            "name": "Mace of the Blind Outlaw",
+            "name": "Mace of Blind Outlaw",
             "itemType": 0,
             "color": 3
         },
@@ -2732,7 +2732,7 @@
             "id": 30261,
             "level": 20,
             "icon": 3078,
-            "name": "Mace of the Damned Heir",
+            "name": "Mace of Damned Heir",
             "itemType": 0,
             "color": 3
         },
@@ -2740,7 +2740,7 @@
             "id": 30264,
             "level": 22,
             "icon": 3078,
-            "name": "Mace of the Distracted Apostate",
+            "name": "Mace of Distracted Apostate",
             "itemType": 0,
             "color": 3
         },
@@ -2756,7 +2756,7 @@
             "id": 30268,
             "level": 26,
             "icon": 3078,
-            "name": "Mace of the Bloody Earl",
+            "name": "Mace of Bloody Earl",
             "itemType": 0,
             "color": 3
         },
@@ -2764,7 +2764,7 @@
             "id": 30270,
             "level": 28,
             "icon": 3078,
-            "name": "Mace of the Crazy King",
+            "name": "Mace of Crazy King",
             "itemType": 0,
             "color": 3
         },
@@ -2852,7 +2852,7 @@
             "id": 31049,
             "level": 26,
             "icon": 3125,
-            "name": "Club of the Descendant of the Titans",
+            "name": "Club of Titan's Descendant",
             "itemType": 0,
             "color": 3
         },
@@ -2884,7 +2884,7 @@
             "id": 31781,
             "level": 12,
             "icon": 4749,
-            "name": "Royal Club of the Four-Leaf Clover",
+            "name": "Royal Club of Four-Leaf Clover",
             "itemType": 0,
             "color": 3
         },
@@ -2916,7 +2916,7 @@
             "id": 31794,
             "level": 20,
             "icon": 4749,
-            "name": "Royal Club of the Arcane Valley",
+            "name": "Royal Club of Arcane Valley",
             "itemType": 0,
             "color": 3
         },
@@ -2924,7 +2924,7 @@
             "id": 31796,
             "level": 22,
             "icon": 4749,
-            "name": "Royal Club of the Forest Mystery",
+            "name": "Royal Club of Forest Mystery",
             "itemType": 0,
             "color": 3
         },
@@ -2932,7 +2932,7 @@
             "id": 31798,
             "level": 24,
             "icon": 4749,
-            "name": "Royal Club of the Blooming Island",
+            "name": "Royal Club of Blooming Island",
             "itemType": 0,
             "color": 3
         },
@@ -2940,7 +2940,7 @@
             "id": 31800,
             "level": 26,
             "icon": 4749,
-            "name": "Royal Club of the Emerald Tower",
+            "name": "Royal Club of Emerald Tower",
             "itemType": 0,
             "color": 3
         },
@@ -2980,7 +2980,7 @@
             "id": 31822,
             "level": 12,
             "icon": 3866,
-            "name": "Club of the Four-Leaf Clover",
+            "name": "Club of Four-Leaf Clover",
             "itemType": 0,
             "color": 2
         },
@@ -3012,7 +3012,7 @@
             "id": 31830,
             "level": 20,
             "icon": 3866,
-            "name": "Club of the Arcane Valley",
+            "name": "Club of Arcane Valley",
             "itemType": 0,
             "color": 2
         },
@@ -3020,7 +3020,7 @@
             "id": 31832,
             "level": 22,
             "icon": 3866,
-            "name": "Club of the Forest Mystery",
+            "name": "Club of Forest Mystery",
             "itemType": 0,
             "color": 2
         },
@@ -3028,7 +3028,7 @@
             "id": 31834,
             "level": 24,
             "icon": 3866,
-            "name": "Club of the Blooming Island",
+            "name": "Club of Blooming Island",
             "itemType": 0,
             "color": 2
         },
@@ -3036,7 +3036,7 @@
             "id": 31836,
             "level": 26,
             "icon": 3866,
-            "name": "Club of the Emerald Tower",
+            "name": "Club of Emerald Tower",
             "itemType": 0,
             "color": 2
         },
@@ -3140,7 +3140,7 @@
             "id": 33646,
             "level": 12,
             "icon": 5158,
-            "name": "Club of Frosty Darkness",
+            "name": "Club of Frosty Darkmist",
             "itemType": 0,
             "color": 3
         },
@@ -3404,7 +3404,7 @@
             "id": 34552,
             "level": 30,
             "icon": 4345,
-            "name": "Club of Kingdom of Fortitude",
+            "name": "Club of the Kingdom of Fortitude",
             "itemType": 0,
             "color": 3
         },
@@ -3476,7 +3476,7 @@
             "id": 35261,
             "level": 31,
             "icon": 4893,
-            "name": "Mace of the Pirate Brotherhood",
+            "name": "Mace of Pirate Brotherhood",
             "itemType": 0,
             "color": 3
         },
@@ -3484,7 +3484,7 @@
             "id": 35262,
             "level": 31,
             "icon": 4893,
-            "name": "Magic Mace of the Pirate Brotherhood",
+            "name": "Magic Mace of Pirate Brotherhood",
             "itemType": 0,
             "color": 3
         }

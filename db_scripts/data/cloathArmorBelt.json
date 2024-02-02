@@ -4,7 +4,7 @@
             "id": 853,
             "level": 2,
             "icon": 968,
-            "name": "Old Girdle",
+            "name": "Old Belt",
             "itemType": 6,
             "color": 0
         },
@@ -12,7 +12,7 @@
             "id": 885,
             "level": 2,
             "icon": 968,
-            "name": "Plain Girdle",
+            "name": "Plain Belt",
             "itemType": 6,
             "color": 1
         },
@@ -20,7 +20,7 @@
             "id": 921,
             "level": 7,
             "icon": 971,
-            "name": "Durable Girdle",
+            "name": "Durable Belt",
             "itemType": 6,
             "color": 1
         },
@@ -28,7 +28,7 @@
             "id": 979,
             "level": 9,
             "icon": 968,
-            "name": "Girdle of Neophyte",
+            "name": "Belt of Neophyte",
             "itemType": 6,
             "color": 2
         },
@@ -36,7 +36,7 @@
             "id": 1031,
             "level": 9,
             "icon": 971,
-            "name": "Master's Girdle",
+            "name": "Master's Belt",
             "itemType": 6,
             "color": 3
         },
@@ -132,7 +132,7 @@
             "id": 5782,
             "level": 4,
             "icon": 977,
-            "name": "Belt of Beginner Sorcerer",
+            "name": "Belt of Novice Sorcerer",
             "itemType": 6,
             "color": 3
         },
@@ -140,7 +140,7 @@
             "id": 5805,
             "level": 10,
             "icon": 977,
-            "name": "Double Belt of Beginner Sorcerer",
+            "name": "Double Belt of Novice Sorcerer",
             "itemType": 6,
             "color": 3
         },
@@ -148,7 +148,7 @@
             "id": 6387,
             "level": 17,
             "icon": 974,
-            "name": "Star Pilgrim's Belt",
+            "name": "Belt of Star Pilgrims",
             "itemType": 6,
             "color": 3
         },
@@ -156,7 +156,7 @@
             "id": 6388,
             "level": 17,
             "icon": 977,
-            "name": "Star Pilgrim's Baldric",
+            "name": "Baldric of Star Pilgrims",
             "itemType": 6,
             "color": 3
         },
@@ -164,7 +164,7 @@
             "id": 8011,
             "level": 2,
             "icon": 971,
-            "name": "Cosy Girdle",
+            "name": "Cosy Belt",
             "itemType": 6,
             "color": 1
         },
@@ -188,7 +188,7 @@
             "id": 8032,
             "level": 9,
             "icon": 971,
-            "name": "Master's Girdle",
+            "name": "Master's Belt",
             "itemType": 6,
             "color": 2
         },
@@ -212,7 +212,7 @@
             "id": 8057,
             "level": 9,
             "icon": 983,
-            "name": "Master's Belt",
+            "name": "Master's Girdle",
             "itemType": 6,
             "color": 3
         },
@@ -316,7 +316,7 @@
             "id": 9061,
             "level": 17,
             "icon": 974,
-            "name": "Star Pilgrim's Sacral Belt",
+            "name": "Sacred Belt of Star Pilgrims",
             "itemType": 6,
             "color": 3
         },
@@ -324,7 +324,7 @@
             "id": 9062,
             "level": 17,
             "icon": 974,
-            "name": "Star Pilgrim's Damned Baldric",
+            "name": "Damned Baldric of Star Pilgrims",
             "itemType": 6,
             "color": 3
         },
@@ -356,7 +356,7 @@
             "id": 13789,
             "level": 11,
             "icon": 989,
-            "name": "Baldric of Aquilon",
+            "name": "Aquilon's Baldric",
             "itemType": 6,
             "color": 2
         },
@@ -364,7 +364,7 @@
             "id": 13790,
             "level": 11,
             "icon": 989,
-            "name": "Sash of Aquilon",
+            "name": "Aquilon's Sash",
             "itemType": 6,
             "color": 2
         },
@@ -372,7 +372,7 @@
             "id": 13791,
             "level": 11,
             "icon": 989,
-            "name": "Belt of Aquilon",
+            "name": "Aquilon's Belt",
             "itemType": 6,
             "color": 2
         },
@@ -380,7 +380,7 @@
             "id": 13792,
             "level": 11,
             "icon": 989,
-            "name": "Gurt of Aquilon",
+            "name": "Aquilon's Gurt",
             "itemType": 6,
             "color": 2
         },
@@ -516,7 +516,7 @@
             "id": 16217,
             "level": 8,
             "icon": 3113,
-            "name": "Baldric of Oath-breaker",
+            "name": "Baldric of Oathbreaker",
             "itemType": 6,
             "color": 3
         },
@@ -772,7 +772,7 @@
             "id": 22438,
             "level": 26,
             "icon": 3113,
-            "name": "Baldric of the Descendant of the Titans",
+            "name": "Baldric of Titan's Descendant",
             "itemType": 6,
             "color": 3
         },
@@ -780,7 +780,7 @@
             "id": 22439,
             "level": 26,
             "icon": 3113,
-            "name": "Sash of the Descendant of the Titans",
+            "name": "Sash of Titan's Descendant",
             "itemType": 6,
             "color": 3
         },
@@ -916,7 +916,7 @@
             "id": 23673,
             "level": 22,
             "icon": 971,
-            "name": "Divine Protection Sash",
+            "name": "Sash of Divine Protection",
             "itemType": 6,
             "color": 3
         },
@@ -940,7 +940,7 @@
             "id": 23676,
             "level": 10,
             "icon": 4530,
-            "name": "Eternal Life Sash",
+            "name": "Sash of Eternal Life",
             "itemType": 6,
             "color": 3
         },
@@ -988,7 +988,7 @@
             "id": 23682,
             "level": 22,
             "icon": 4530,
-            "name": "Infinite Reliability Sash",
+            "name": "Sash of Infinite Reliability",
             "itemType": 6,
             "color": 3
         },
@@ -1084,7 +1084,7 @@
             "id": 26505,
             "level": 29,
             "icon": 992,
-            "name": "Belt of the Legendary Arcanomancer",
+            "name": "Belt of Legendary Arcanomancer",
             "itemType": 6,
             "color": 3
         },
@@ -1148,7 +1148,7 @@
             "id": 29727,
             "level": 7,
             "icon": 971,
-            "name": "Baldric of Recruit",
+            "name": "Recruit's Baldric",
             "itemType": 6,
             "color": 3
         },
@@ -1156,7 +1156,7 @@
             "id": 29732,
             "level": 7,
             "icon": 971,
-            "name": "Sash of Recruit",
+            "name": "Recruit's Sash",
             "itemType": 6,
             "color": 3
         },
@@ -1164,7 +1164,7 @@
             "id": 29737,
             "level": 11,
             "icon": 971,
-            "name": "Baldric of Mercenary",
+            "name": "Hireling's Baldric",
             "itemType": 6,
             "color": 3
         },
@@ -1172,7 +1172,7 @@
             "id": 29742,
             "level": 11,
             "icon": 971,
-            "name": "Sash of Mercenary",
+            "name": "Hireling's Sash",
             "itemType": 6,
             "color": 3
         },
@@ -1188,7 +1188,7 @@
             "id": 31208,
             "level": 14,
             "icon": 3113,
-            "name": "Icy Sash of Toothy Hunter",
+            "name": "Glacial Sash of Toothy Hunter",
             "itemType": 6,
             "color": 3
         },
@@ -1204,7 +1204,7 @@
             "id": 31210,
             "level": 16,
             "icon": 3113,
-            "name": "Icy Sash of the Rune Scald",
+            "name": "Glacial Sash of the Rune Scald",
             "itemType": 6,
             "color": 3
         },
@@ -1220,7 +1220,7 @@
             "id": 31212,
             "level": 18,
             "icon": 3113,
-            "name": "Icy Sash of the Immortal Wanderer",
+            "name": "Glacial Sash of the Immortal Wanderer",
             "itemType": 6,
             "color": 3
         },
@@ -1236,7 +1236,7 @@
             "id": 31214,
             "level": 20,
             "icon": 3113,
-            "name": "Icy Sash of the Snow Lady",
+            "name": "Glacial Sash of the Snow Lady",
             "itemType": 6,
             "color": 3
         },
@@ -1252,7 +1252,7 @@
             "id": 31216,
             "level": 22,
             "icon": 3113,
-            "name": "Icy Sash of Permafrost",
+            "name": "Glacial Sash of Permafrost",
             "itemType": 6,
             "color": 3
         },
@@ -1268,7 +1268,7 @@
             "id": 31218,
             "level": 24,
             "icon": 3113,
-            "name": "Icy Sash of the Ice Prince",
+            "name": "Glacial Sash of the Ice Prince",
             "itemType": 6,
             "color": 3
         },
@@ -1276,7 +1276,7 @@
             "id": 31219,
             "level": 26,
             "icon": 3113,
-            "name": "Icy Baldric of the Descendant of the Titans",
+            "name": "Icy Baldric of Titan's Descendant",
             "itemType": 6,
             "color": 3
         },
@@ -1284,7 +1284,7 @@
             "id": 31220,
             "level": 26,
             "icon": 3113,
-            "name": "Icy Sash of the Descendant of the Titans",
+            "name": "Glacial Sash of Titan's Descendant",
             "itemType": 6,
             "color": 3
         },
@@ -1300,7 +1300,7 @@
             "id": 31222,
             "level": 28,
             "icon": 3113,
-            "name": "Icy Sash of the Winter King",
+            "name": "Glacial Sash of the Winter King",
             "itemType": 6,
             "color": 3
         },
@@ -1316,7 +1316,7 @@
             "id": 31224,
             "level": 30,
             "icon": 3113,
-            "name": "Icy Sash of the Lord of Cold",
+            "name": "Glacial Sash of the Lord of Cold",
             "itemType": 6,
             "color": 3
         },
@@ -1348,7 +1348,7 @@
             "id": 33806,
             "level": 32,
             "icon": 3113,
-            "name": "Icy Sash of the Northern Lord",
+            "name": "Glacial Sash of the Northern Lord",
             "itemType": 6,
             "color": 3
         },
@@ -1452,7 +1452,7 @@
             "id": 34493,
             "level": 32,
             "icon": 4530,
-            "name": "Sash of the Ominous Requiem",
+            "name": "Sash of Ominous Requiem",
             "itemType": 6,
             "color": 3
         },

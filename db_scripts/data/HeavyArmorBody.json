@@ -4,7 +4,7 @@
             "id": 2014,
             "level": 12,
             "icon": 1250,
-            "name": "Trustworthy Chain Mail",
+            "name": "Trustworthy Mail",
             "itemType": 2,
             "color": 2
         },
@@ -52,7 +52,7 @@
             "id": 2175,
             "level": 14,
             "icon": 1259,
-            "name": "Well-tried Mail",
+            "name": "Well-Worn Mail",
             "itemType": 2,
             "color": 1
         },
@@ -60,7 +60,7 @@
             "id": 2215,
             "level": 15,
             "icon": 1268,
-            "name": "Fine hauberk",
+            "name": "Fine Hauberk",
             "itemType": 2,
             "color": 2
         },
@@ -68,7 +68,7 @@
             "id": 2300,
             "level": 15,
             "icon": 1256,
-            "name": "Scale armour of Berengar's guard",
+            "name": "Scale armor of Berengar's guard",
             "itemType": 2,
             "color": 4
         },
@@ -84,7 +84,7 @@
             "id": 2351,
             "level": 15,
             "icon": 1879,
-            "name": "Mail of Fighter",
+            "name": "Fighter's Mail",
             "itemType": 2,
             "color": 3
         },
@@ -284,7 +284,7 @@
             "id": 5790,
             "level": 8,
             "icon": 1879,
-            "name": "Mail of Beginner Fighter",
+            "name": "Novice Fighter Mail",
             "itemType": 2,
             "color": 3
         },
@@ -292,7 +292,7 @@
             "id": 5825,
             "level": 14,
             "icon": 1879,
-            "name": "Mail of Young Fighter",
+            "name": "Young Fighter Mail",
             "itemType": 2,
             "color": 3
         },
@@ -324,7 +324,7 @@
             "id": 6478,
             "level": 18,
             "icon": 1879,
-            "name": "Scale Armor of Divine Defence",
+            "name": "Scale Armor of Divine Defense",
             "itemType": 2,
             "color": 4
         },
@@ -636,7 +636,7 @@
             "id": 18522,
             "level": 10,
             "icon": 3506,
-            "name": "Eternal Life Armor",
+            "name": "Armor of Eternal Life",
             "itemType": 2,
             "color": 3
         },
@@ -684,7 +684,7 @@
             "id": 18546,
             "level": 22,
             "icon": 3506,
-            "name": "Infinite Reliability Armor",
+            "name": "Armor of Infinite Reliability",
             "itemType": 2,
             "color": 3
         },
@@ -788,7 +788,7 @@
             "id": 18595,
             "level": 22,
             "icon": 2593,
-            "name": "Divine Protection Armor",
+            "name": "Armor of Divine Protection",
             "itemType": 2,
             "color": 3
         },
@@ -924,7 +924,7 @@
             "id": 21042,
             "level": 25,
             "icon": 1277,
-            "name": "Armor of Great Ironclad",
+            "name": "Plate Armor of Great Ironclad",
             "itemType": 2,
             "color": 3
         },
@@ -972,7 +972,7 @@
             "id": 22208,
             "level": 6,
             "icon": 4229,
-            "name": "Winter Hauberk of Iceman",
+            "name": "Iceman's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -980,7 +980,7 @@
             "id": 22209,
             "level": 6,
             "icon": 4229,
-            "name": "Winter Armor of Iceman",
+            "name": "Iceman's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -988,7 +988,7 @@
             "id": 22232,
             "level": 10,
             "icon": 4229,
-            "name": "Winter Hauberk of Ragnar",
+            "name": "Ragnar's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -996,7 +996,7 @@
             "id": 22233,
             "level": 10,
             "icon": 4229,
-            "name": "Winter Armor of Ragnar",
+            "name": "Ragnar's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1004,7 +1004,7 @@
             "id": 22256,
             "level": 12,
             "icon": 4229,
-            "name": "Winter Hauberk of Frosty Fang",
+            "name": "Frosty Fang's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -1012,7 +1012,7 @@
             "id": 22257,
             "level": 12,
             "icon": 4229,
-            "name": "Winter Armor of Frosty Fang",
+            "name": "Frosty Fang's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1020,7 +1020,7 @@
             "id": 22280,
             "level": 14,
             "icon": 4229,
-            "name": "Winter Hauberk of Mastodon",
+            "name": "Mastodon's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -1028,7 +1028,7 @@
             "id": 22281,
             "level": 14,
             "icon": 4229,
-            "name": "Winter Armor of Mastodon",
+            "name": "Mastodon's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1036,7 +1036,7 @@
             "id": 22304,
             "level": 16,
             "icon": 4229,
-            "name": "Winter Hauberk of Taron",
+            "name": "Taron's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -1044,7 +1044,7 @@
             "id": 22305,
             "level": 16,
             "icon": 4229,
-            "name": "Winter Armor of Taron",
+            "name": "Taron's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1052,7 +1052,7 @@
             "id": 22322,
             "level": 18,
             "icon": 4229,
-            "name": "Winter Hauberk of Kerula",
+            "name": "Kerula's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -1060,7 +1060,7 @@
             "id": 22323,
             "level": 18,
             "icon": 4229,
-            "name": "Winter Armor of Kerula",
+            "name": "Kerula's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1068,7 +1068,7 @@
             "id": 22352,
             "level": 20,
             "icon": 4229,
-            "name": "Winter Hauberk of Gimir",
+            "name": "Gimir's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -1076,7 +1076,7 @@
             "id": 22353,
             "level": 20,
             "icon": 4229,
-            "name": "Winter Armor of Gimir",
+            "name": "Gimir's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1084,7 +1084,7 @@
             "id": 22376,
             "level": 22,
             "icon": 4229,
-            "name": "Winter Hauberk of Flavius",
+            "name": "Flavius's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -1092,7 +1092,7 @@
             "id": 22377,
             "level": 22,
             "icon": 4229,
-            "name": "Winter Armor of Flavius",
+            "name": "Flavius's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1100,7 +1100,7 @@
             "id": 22400,
             "level": 24,
             "icon": 4229,
-            "name": "Winter Hauberk of Ruberius",
+            "name": "Ruberius's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -1108,7 +1108,7 @@
             "id": 22401,
             "level": 24,
             "icon": 4229,
-            "name": "Winter Armor of Ruberius",
+            "name": "Ruberius's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1116,7 +1116,7 @@
             "id": 22424,
             "level": 26,
             "icon": 4229,
-            "name": "Winter Hauberk of Mortis",
+            "name": "Mortis's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -1124,7 +1124,7 @@
             "id": 22425,
             "level": 26,
             "icon": 4229,
-            "name": "Winter Armor of Mortis",
+            "name": "Mortis's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1132,7 +1132,7 @@
             "id": 23382,
             "level": 20,
             "icon": 4471,
-            "name": "Armor of Defenders of the Sacred Forest",
+            "name": "Armor of Sacred Forest Defenders",
             "itemType": 2,
             "color": 4
         },
@@ -1140,7 +1140,7 @@
             "id": 23386,
             "level": 20,
             "icon": 4472,
-            "name": "Plate Mail of Defenders of the Dominant Coalition",
+            "name": "Plate Armor of Dominant Coalition Defenders",
             "itemType": 2,
             "color": 4
         },
@@ -1148,7 +1148,7 @@
             "id": 23390,
             "level": 22,
             "icon": 4471,
-            "name": "Armor of Defenders of the Pyramid Valley",
+            "name": "Armor of Pyramid Valley Defenders",
             "itemType": 2,
             "color": 4
         },
@@ -1156,7 +1156,7 @@
             "id": 23394,
             "level": 22,
             "icon": 4472,
-            "name": "Plate Mail of Defenders of the Mighty Alliance",
+            "name": "Plate Armor of Mighty Alliance Defenders",
             "itemType": 2,
             "color": 4
         },
@@ -1164,7 +1164,7 @@
             "id": 23398,
             "level": 24,
             "icon": 4471,
-            "name": "Armor of Defenders of the Black Oak Forest",
+            "name": "Armor of Black Oak Forest Defenders",
             "itemType": 2,
             "color": 4
         },
@@ -1172,7 +1172,7 @@
             "id": 23402,
             "level": 24,
             "icon": 4472,
-            "name": "Plate Mail of Defenders of the Legendary Brotherhood",
+            "name": "Plate Armor of Legendary Brotherhood Defenders",
             "itemType": 2,
             "color": 4
         },
@@ -1180,7 +1180,7 @@
             "id": 23406,
             "level": 26,
             "icon": 4471,
-            "name": "Armor of Defenders of the Flying Islands",
+            "name": "Armor of Flying Islands Defenders",
             "itemType": 2,
             "color": 4
         },
@@ -1188,7 +1188,7 @@
             "id": 23410,
             "level": 26,
             "icon": 4472,
-            "name": "Plate Mail of Defenders of the Immortal Order",
+            "name": "Plate Armor of Immortal Order Defenders",
             "itemType": 2,
             "color": 4
         },
@@ -1196,7 +1196,7 @@
             "id": 23505,
             "level": 25,
             "icon": 1277,
-            "name": "Armor of the Forest Defenders",
+            "name": "Armor of Forest Defenders",
             "itemType": 2,
             "color": 3
         },
@@ -1316,7 +1316,7 @@
             "id": 24421,
             "level": 28,
             "icon": 4229,
-            "name": "Winter Hauberk of the Snow General",
+            "name": "Snow General's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -1324,7 +1324,7 @@
             "id": 24425,
             "level": 28,
             "icon": 4229,
-            "name": "Winter Armor of the Snow General",
+            "name": "Snow General's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1340,7 +1340,7 @@
             "id": 24463,
             "level": 10,
             "icon": 4632,
-            "name": "Omnipotent Hauberk of Ragnar",
+            "name": "Ragnar's Omnipotent Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1348,7 +1348,7 @@
             "id": 24467,
             "level": 10,
             "icon": 4632,
-            "name": "Majestic Armor of Ragnar",
+            "name": "Ragnar's Majestic Armor",
             "itemType": 2,
             "color": 4
         },
@@ -1356,7 +1356,7 @@
             "id": 24623,
             "level": 12,
             "icon": 4632,
-            "name": "Omnipotent Hauberk of Frosty Fang",
+            "name": "Frosty Fang's Omnipotent Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1364,7 +1364,7 @@
             "id": 24624,
             "level": 14,
             "icon": 4632,
-            "name": "Omnipotent Hauberk of Mastodon",
+            "name": "Mastodon's Omnipotent Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1372,7 +1372,7 @@
             "id": 24625,
             "level": 16,
             "icon": 4632,
-            "name": "Omnipotent Hauberk of Taron",
+            "name": "Taron's Omnipotent Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1380,7 +1380,7 @@
             "id": 24626,
             "level": 18,
             "icon": 4632,
-            "name": "Omnipotent Hauberk of Kerula",
+            "name": "Kerula's Omnipotent Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1388,7 +1388,7 @@
             "id": 24627,
             "level": 20,
             "icon": 4632,
-            "name": "Omnipotent Hauberk of Gimir",
+            "name": "Gimir's Omnipotent Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1396,7 +1396,7 @@
             "id": 24628,
             "level": 22,
             "icon": 4632,
-            "name": "Omnipotent Hauberk of Flavius",
+            "name": "Flavius's Omnipotent Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1404,7 +1404,7 @@
             "id": 24629,
             "level": 24,
             "icon": 4632,
-            "name": "Omnipotent Hauberk of Ruberius",
+            "name": "Ruberius's Omnipotent Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1412,7 +1412,7 @@
             "id": 24630,
             "level": 26,
             "icon": 4632,
-            "name": "Omnipotent Hauberk of Mortis",
+            "name": "Mortis's Omnipotent Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1420,7 +1420,7 @@
             "id": 24631,
             "level": 28,
             "icon": 4632,
-            "name": "Omnipotent Hauberk of the Snow General",
+            "name": "Snow General's Omnipotent Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1428,7 +1428,7 @@
             "id": 24659,
             "level": 12,
             "icon": 4632,
-            "name": "Majestic Armor of Frosty Fang",
+            "name": "Frosty Fang's Majestic Armor",
             "itemType": 2,
             "color": 4
         },
@@ -1444,7 +1444,7 @@
             "id": 24661,
             "level": 16,
             "icon": 4632,
-            "name": "Majestic Armor of Taron",
+            "name": "Taron's Majestic Armor",
             "itemType": 2,
             "color": 4
         },
@@ -1452,7 +1452,7 @@
             "id": 24662,
             "level": 18,
             "icon": 4632,
-            "name": "Majestic Armor of Kerula",
+            "name": "Kerula's Majestic Armor",
             "itemType": 2,
             "color": 4
         },
@@ -1460,7 +1460,7 @@
             "id": 24663,
             "level": 20,
             "icon": 4632,
-            "name": "Majestic Armor of Gimir",
+            "name": "Gimir's Majestic Armor",
             "itemType": 2,
             "color": 4
         },
@@ -1468,7 +1468,7 @@
             "id": 24664,
             "level": 22,
             "icon": 4632,
-            "name": "Majestic Armor of Flavius",
+            "name": "Flavius's Majestic Armor",
             "itemType": 2,
             "color": 4
         },
@@ -1476,7 +1476,7 @@
             "id": 24665,
             "level": 24,
             "icon": 4632,
-            "name": "Majestic Armor of Ruberius",
+            "name": "Ruberius's Majestic Armor",
             "itemType": 2,
             "color": 4
         },
@@ -1484,7 +1484,7 @@
             "id": 24666,
             "level": 26,
             "icon": 4632,
-            "name": "Majestic Armor of Mortis",
+            "name": "Mortis's Majestic Armor",
             "itemType": 2,
             "color": 4
         },
@@ -1492,7 +1492,7 @@
             "id": 24667,
             "level": 28,
             "icon": 4632,
-            "name": "Majestic Armor of the Snow General",
+            "name": "Snow General's Majestic Armor",
             "itemType": 2,
             "color": 4
         },
@@ -1524,7 +1524,7 @@
             "id": 25939,
             "level": 20,
             "icon": 4472,
-            "name": "Plate Armor of Templars of the Dominant Coalition",
+            "name": "Plate Armor of Dominant Coalition Templars",
             "itemType": 2,
             "color": 4
         },
@@ -1532,7 +1532,7 @@
             "id": 25944,
             "level": 22,
             "icon": 4472,
-            "name": "Plate Armor of Templars of the Mighty Alliance",
+            "name": "Plate Armor of Mighty Alliance Templars",
             "itemType": 2,
             "color": 4
         },
@@ -1540,7 +1540,7 @@
             "id": 25947,
             "level": 24,
             "icon": 4472,
-            "name": "Plate Armor of Templars of the Legendary Brotherhood",
+            "name": "Plate Armor of Legendary Brotherhood Templars",
             "itemType": 2,
             "color": 4
         },
@@ -1548,7 +1548,7 @@
             "id": 25951,
             "level": 26,
             "icon": 4472,
-            "name": "Plate Armor of Templars of the Immortal Order",
+            "name": "Plate Armor of Immortal Order Templars",
             "itemType": 2,
             "color": 4
         },
@@ -1572,7 +1572,7 @@
             "id": 26517,
             "level": 29,
             "icon": 1277,
-            "name": "Plate Armor of the Legendary Templar",
+            "name": "Plate Armor of Legendary Templar",
             "itemType": 2,
             "color": 3
         },
@@ -1580,7 +1580,7 @@
             "id": 26518,
             "level": 29,
             "icon": 1277,
-            "name": "Armor of the Legendary Templar",
+            "name": "Armor of Legendary Templar",
             "itemType": 2,
             "color": 3
         },
@@ -1732,7 +1732,7 @@
             "id": 27967,
             "level": 30,
             "icon": 4229,
-            "name": "Winter Hauberk of Chernobog",
+            "name": "Chernobog's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -1740,7 +1740,7 @@
             "id": 27971,
             "level": 30,
             "icon": 4229,
-            "name": "Winter Armor of Chernobog",
+            "name": "Chernobog's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1828,7 +1828,7 @@
             "id": 28124,
             "level": 30,
             "icon": 4632,
-            "name": "Omnipotent Hauberk of Chernobog",
+            "name": "Chernobog's Almighty Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1836,7 +1836,7 @@
             "id": 28128,
             "level": 30,
             "icon": 4632,
-            "name": "Majestic Armor of Chernobog",
+            "name": "Chernobog's Majestic Armor",
             "itemType": 2,
             "color": 4
         },
@@ -1900,7 +1900,7 @@
             "id": 29522,
             "level": 20,
             "icon": 4471,
-            "name": "Armor of Templars of the Sacred Forest",
+            "name": "Armor of Sacred Forest Templars",
             "itemType": 2,
             "color": 4
         },
@@ -1908,7 +1908,7 @@
             "id": 29526,
             "level": 22,
             "icon": 4471,
-            "name": "Armor of Templars of the Pyramid Valley",
+            "name": "Armor of Pyramid Valley Templars",
             "itemType": 2,
             "color": 4
         },
@@ -1916,7 +1916,7 @@
             "id": 29530,
             "level": 24,
             "icon": 4471,
-            "name": "Armor of Templars of the Black Oak Forest",
+            "name": "Armor of Black Oak Forest Templars",
             "itemType": 2,
             "color": 4
         },
@@ -1924,7 +1924,7 @@
             "id": 29534,
             "level": 26,
             "icon": 4471,
-            "name": "Armor of Templars of the Flying Islands",
+            "name": "Armor of Flying Islands Templars",
             "itemType": 2,
             "color": 4
         },
@@ -1932,7 +1932,7 @@
             "id": 29538,
             "level": 28,
             "icon": 4471,
-            "name": "Armor of Templars of the Ship Graveyard",
+            "name": "Armor of Ship Graveyard Templars",
             "itemType": 2,
             "color": 4
         },
@@ -1940,7 +1940,7 @@
             "id": 29542,
             "level": 28,
             "icon": 4471,
-            "name": "Armor of Defenders of the Ship Graveyard",
+            "name": "Armor of Ship Graveyard Defenders",
             "itemType": 2,
             "color": 4
         },
@@ -1948,7 +1948,7 @@
             "id": 29546,
             "level": 28,
             "icon": 4472,
-            "name": "Plate Mail of Defenders of the Imperious Clan",
+            "name": "Plate Armor of Imperious Clan Defenders",
             "itemType": 2,
             "color": 4
         },
@@ -1956,7 +1956,7 @@
             "id": 29550,
             "level": 28,
             "icon": 4472,
-            "name": "Plate Armor of Templars of the Imperious Clan",
+            "name": "Plate Armor of Imperious Clan Templars",
             "itemType": 2,
             "color": 4
         },
@@ -1964,7 +1964,7 @@
             "id": 29769,
             "level": 7,
             "icon": 1247,
-            "name": "Armor of Recruit",
+            "name": "Recruit's Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1972,7 +1972,7 @@
             "id": 29774,
             "level": 7,
             "icon": 1247,
-            "name": "Mail of Recruit",
+            "name": "Recruit's Mail",
             "itemType": 2,
             "color": 3
         },
@@ -1980,7 +1980,7 @@
             "id": 29779,
             "level": 11,
             "icon": 1247,
-            "name": "Armor of Mercenary",
+            "name": "Hireling's Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1988,7 +1988,7 @@
             "id": 29784,
             "level": 11,
             "icon": 1247,
-            "name": "Mail of Mercenary",
+            "name": "Hireling's Mail",
             "itemType": 2,
             "color": 3
         },
@@ -1996,7 +1996,7 @@
             "id": 32064,
             "level": 30,
             "icon": 4471,
-            "name": "Armor of the Defenders of the Pirate Archipelago",
+            "name": "Armor of Pirate Archipelago Defenders",
             "itemType": 2,
             "color": 4
         },
@@ -2004,7 +2004,7 @@
             "id": 32068,
             "level": 30,
             "icon": 4471,
-            "name": "Armor of the Templars of the Pirate Archipelago",
+            "name": "Armor of Pirate Archipelago Templars",
             "itemType": 2,
             "color": 4
         },
@@ -2012,7 +2012,7 @@
             "id": 32072,
             "level": 30,
             "icon": 4472,
-            "name": "Plate Armor of the Defenders of the Unbreakable Alliance",
+            "name": "Plate Armor of Unbreakable Alliance Defenders",
             "itemType": 2,
             "color": 4
         },
@@ -2172,7 +2172,7 @@
             "id": 33862,
             "level": 32,
             "icon": 4229,
-            "name": "Winter Hauberk of Titan",
+            "name": "Titan's Winter Hauberk",
             "itemType": 2,
             "color": 3
         },
@@ -2180,7 +2180,7 @@
             "id": 33866,
             "level": 32,
             "icon": 4229,
-            "name": "Winter Armor of Titan",
+            "name": "Titan's Winter Armor",
             "itemType": 2,
             "color": 3
         },
@@ -2204,7 +2204,7 @@
             "id": 33910,
             "level": 32,
             "icon": 4632,
-            "name": "Omnipotent Hauberk of Titan",
+            "name": "Titan's Almighty Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -2212,7 +2212,7 @@
             "id": 33914,
             "level": 32,
             "icon": 4632,
-            "name": "Majestic Armor of Titan",
+            "name": "Titan's Majestic Armor",
             "itemType": 2,
             "color": 4
         },
@@ -2236,7 +2236,7 @@
             "id": 34500,
             "level": 32,
             "icon": 3506,
-            "name": "Armor of the Ominous Requiem",
+            "name": "Armor of Ominous Requiem",
             "itemType": 2,
             "color": 3
         },
@@ -2276,7 +2276,7 @@
             "id": 35118,
             "level": 22,
             "icon": 6188,
-            "name": "Plate Armor of the Knights of the Forest\u2019s Heart",
+            "name": "Plate Armor of Forest\u2019s Heart Knights",
             "itemType": 2,
             "color": 4
         },
@@ -2284,7 +2284,7 @@
             "id": 35122,
             "level": 24,
             "icon": 6188,
-            "name": "Plate Armor of the Knights of the Jaguar\u2019s Den",
+            "name": "Plate Armor of Jaguar\u2019s Den Knights",
             "itemType": 2,
             "color": 4
         },
@@ -2292,7 +2292,7 @@
             "id": 35126,
             "level": 26,
             "icon": 6188,
-            "name": "Plate Armor of the Knights of the Dragon Ness",
+            "name": "Plate Armor of Dragon Ness Knights",
             "itemType": 2,
             "color": 4
         },
@@ -2300,7 +2300,7 @@
             "id": 35130,
             "level": 28,
             "icon": 6188,
-            "name": "Plate Armor of the Knights of the Sky Sanctuary",
+            "name": "Plate Armor of Sky Sanctuary Knights",
             "itemType": 2,
             "color": 4
         },
@@ -2308,7 +2308,7 @@
             "id": 35134,
             "level": 30,
             "icon": 6188,
-            "name": "Plate Armor of the Knights of the Sea Turtle",
+            "name": "Plate Armor of Sea Turtle Knights",
             "itemType": 2,
             "color": 4
         },

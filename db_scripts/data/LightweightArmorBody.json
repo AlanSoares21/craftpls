@@ -12,7 +12,7 @@
             "id": 664,
             "level": 1,
             "icon": 1271,
-            "name": "Beginner Clothing",
+            "name": "Novice's Clothing",
             "itemType": 2,
             "color": 0
         },
@@ -20,7 +20,7 @@
             "id": 678,
             "level": 1,
             "icon": 1596,
-            "name": "Beginner Clothing",
+            "name": "Novice's Clothing",
             "itemType": 2,
             "color": 0
         },
@@ -36,7 +36,7 @@
             "id": 851,
             "level": 2,
             "icon": 1599,
-            "name": "Cheap Coat",
+            "name": "Cheap Jacket",
             "itemType": 2,
             "color": 0
         },
@@ -92,7 +92,7 @@
             "id": 978,
             "level": 9,
             "icon": 1605,
-            "name": "Breastplate of Fighter",
+            "name": "Fighter's Breastplate",
             "itemType": 2,
             "color": 2
         },
@@ -100,7 +100,7 @@
             "id": 1029,
             "level": 9,
             "icon": 1599,
-            "name": "Leather Armor of Hunter",
+            "name": "Hunter's Leather Armor",
             "itemType": 2,
             "color": 3
         },
@@ -108,7 +108,7 @@
             "id": 1030,
             "level": 9,
             "icon": 1605,
-            "name": "Leather Armor of Guardian",
+            "name": "Guardian's Leather Armor",
             "itemType": 2,
             "color": 3
         },
@@ -612,7 +612,7 @@
             "id": 5785,
             "level": 8,
             "icon": 1611,
-            "name": "Jacket of Beginner Gladiator",
+            "name": "Jacket of Novice Gladiator",
             "itemType": 2,
             "color": 3
         },
@@ -644,7 +644,7 @@
             "id": 6482,
             "level": 18,
             "icon": 1617,
-            "name": "Killing Whisper Brigandine",
+            "name": "Brigandine of Killing Whisper",
             "itemType": 2,
             "color": 4
         },
@@ -668,7 +668,7 @@
             "id": 11006,
             "level": 17,
             "icon": 2569,
-            "name": "Scout Brigandine",
+            "name": "Scout's Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -780,7 +780,7 @@
             "id": 14935,
             "level": 20,
             "icon": 1620,
-            "name": "Burning Rage Brigandine",
+            "name": "Brigandine of Burning Rage",
             "itemType": 2,
             "color": 4
         },
@@ -796,7 +796,7 @@
             "id": 14994,
             "level": 19,
             "icon": 2569,
-            "name": "Provocator's Brigandine",
+            "name": "Instigator's Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -948,7 +948,7 @@
             "id": 18443,
             "level": 10,
             "icon": 3508,
-            "name": "Eternal Life Doublet",
+            "name": "Doublet of Eternal Life",
             "itemType": 2,
             "color": 3
         },
@@ -996,7 +996,7 @@
             "id": 18467,
             "level": 22,
             "icon": 3508,
-            "name": "Infinite Reliability Doublet",
+            "name": "Doublet of Infinite Reliability",
             "itemType": 2,
             "color": 3
         },
@@ -1100,7 +1100,7 @@
             "id": 18518,
             "level": 22,
             "icon": 2563,
-            "name": "Divine Protection Doublet",
+            "name": "Doublet of Divine Protection",
             "itemType": 2,
             "color": 3
         },
@@ -1284,7 +1284,7 @@
             "id": 22206,
             "level": 6,
             "icon": 4231,
-            "name": "Winter Brigandine of Iceman",
+            "name": "Iceman's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -1292,7 +1292,7 @@
             "id": 22207,
             "level": 6,
             "icon": 4231,
-            "name": "Winter Doublet of Iceman",
+            "name": "Iceman's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -1300,7 +1300,7 @@
             "id": 22230,
             "level": 10,
             "icon": 4231,
-            "name": "Winter Brigandine of Ragnar",
+            "name": "Ragnar's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -1308,7 +1308,7 @@
             "id": 22231,
             "level": 10,
             "icon": 4231,
-            "name": "Winter Doublet of Ragnar",
+            "name": "Ragnar's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -1316,7 +1316,7 @@
             "id": 22254,
             "level": 12,
             "icon": 4231,
-            "name": "Winter Brigandine of Frosty Fang",
+            "name": "Frosty Fang's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -1324,7 +1324,7 @@
             "id": 22255,
             "level": 12,
             "icon": 4231,
-            "name": "Winter Doublet of Frosty Fang",
+            "name": "Frosty Fang's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -1332,7 +1332,7 @@
             "id": 22278,
             "level": 14,
             "icon": 4231,
-            "name": "Winter Brigandine of Mastodon",
+            "name": "Mastodon's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -1340,7 +1340,7 @@
             "id": 22279,
             "level": 14,
             "icon": 4231,
-            "name": "Winter Doublet of Mastodon",
+            "name": "Mastodon's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -1348,7 +1348,7 @@
             "id": 22302,
             "level": 16,
             "icon": 4231,
-            "name": "Winter Brigandine of Taron",
+            "name": "Taron's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -1356,7 +1356,7 @@
             "id": 22303,
             "level": 16,
             "icon": 4231,
-            "name": "Winter Doublet of Taron",
+            "name": "Taron's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -1364,7 +1364,7 @@
             "id": 22320,
             "level": 18,
             "icon": 4231,
-            "name": "Winter Brigandine of Kerula",
+            "name": "Kerula's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -1372,7 +1372,7 @@
             "id": 22321,
             "level": 18,
             "icon": 4231,
-            "name": "Winter Doublet of Kerula",
+            "name": "Kerula's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -1380,7 +1380,7 @@
             "id": 22350,
             "level": 20,
             "icon": 4231,
-            "name": "Winter Brigandine of Gimir",
+            "name": "Gimir's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -1388,7 +1388,7 @@
             "id": 22351,
             "level": 20,
             "icon": 4231,
-            "name": "Winter Doublet of Gimir",
+            "name": "Gimir's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -1396,7 +1396,7 @@
             "id": 22374,
             "level": 22,
             "icon": 4231,
-            "name": "Winter Brigandine of Flavius",
+            "name": "Flavius's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -1404,7 +1404,7 @@
             "id": 22375,
             "level": 22,
             "icon": 4231,
-            "name": "Winter Doublet of Flavius",
+            "name": "Flavius's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -1412,7 +1412,7 @@
             "id": 22398,
             "level": 24,
             "icon": 4231,
-            "name": "Winter Brigandine of Ruberius",
+            "name": "Ruberius's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -1420,7 +1420,7 @@
             "id": 22399,
             "level": 24,
             "icon": 4231,
-            "name": "Winter Doublet of Ruberius",
+            "name": "Ruberius's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -1428,7 +1428,7 @@
             "id": 22422,
             "level": 26,
             "icon": 4231,
-            "name": "Winter Brigandine of Mortis",
+            "name": "Mortis's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -1436,7 +1436,7 @@
             "id": 22423,
             "level": 26,
             "icon": 4231,
-            "name": "Winter Doublet of Mortis",
+            "name": "Mortis's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -1444,7 +1444,7 @@
             "id": 23318,
             "level": 20,
             "icon": 4468,
-            "name": "Brigandine of Warriors of the Sacred Forest",
+            "name": "Brigandine of Sacred Forest Warriors",
             "itemType": 2,
             "color": 4
         },
@@ -1452,7 +1452,7 @@
             "id": 23322,
             "level": 20,
             "icon": 4467,
-            "name": "Doublet of Warriors of the Dominant Coalition",
+            "name": "Doublet of Dominant Coalition Warriors",
             "itemType": 2,
             "color": 4
         },
@@ -1460,7 +1460,7 @@
             "id": 23326,
             "level": 22,
             "icon": 4468,
-            "name": "Brigandine of Warriors of the Pyramid Valley",
+            "name": "Brigandine of Pyramid Valley Warriors",
             "itemType": 2,
             "color": 4
         },
@@ -1468,7 +1468,7 @@
             "id": 23330,
             "level": 22,
             "icon": 4467,
-            "name": "Doublet of Warriors of the Mighty Alliance",
+            "name": "Doublet of Mighty Alliance Warriors",
             "itemType": 2,
             "color": 4
         },
@@ -1476,7 +1476,7 @@
             "id": 23334,
             "level": 24,
             "icon": 4468,
-            "name": "Brigandine of Warriors of the Black Oak Forest",
+            "name": "Brigandine of Black Oak Forest Warriors",
             "itemType": 2,
             "color": 4
         },
@@ -1484,7 +1484,7 @@
             "id": 23338,
             "level": 24,
             "icon": 4467,
-            "name": "Doublet of Warriors of the Legendary Brotherhood",
+            "name": "Doublet of Legendary Brotherhood Warriors",
             "itemType": 2,
             "color": 4
         },
@@ -1492,7 +1492,7 @@
             "id": 23342,
             "level": 26,
             "icon": 4468,
-            "name": "Brigandine of Warriors of the Flying Islands",
+            "name": "Brigandine of Flying Islands Warriors",
             "itemType": 2,
             "color": 4
         },
@@ -1500,7 +1500,7 @@
             "id": 23346,
             "level": 26,
             "icon": 4467,
-            "name": "Doublet of Warriors of the Immortal Order",
+            "name": "Doublet of Immortal Order Warriors",
             "itemType": 2,
             "color": 4
         },
@@ -1628,7 +1628,7 @@
             "id": 24413,
             "level": 28,
             "icon": 4231,
-            "name": "Winter Brigandine of the Snow General",
+            "name": "Snow General's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -1636,7 +1636,7 @@
             "id": 24417,
             "level": 28,
             "icon": 4231,
-            "name": "Winter Doublet of the Snow General",
+            "name": "Snow General's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -1652,7 +1652,7 @@
             "id": 24455,
             "level": 10,
             "icon": 4630,
-            "name": "All-Destroying Brigandine of Ragnar",
+            "name": "Ragnar's Devastating Brigandine",
             "itemType": 2,
             "color": 4
         },
@@ -1660,7 +1660,7 @@
             "id": 24459,
             "level": 10,
             "icon": 4630,
-            "name": "Unmatched Doublet of Ragnar",
+            "name": "Ragnar's Unmatched Doublet",
             "itemType": 2,
             "color": 4
         },
@@ -1668,7 +1668,7 @@
             "id": 24551,
             "level": 12,
             "icon": 4630,
-            "name": "All-Destroying Brigandine of Frosty Fang",
+            "name": "Frosty Fang's Devastating Brigandine",
             "itemType": 2,
             "color": 4
         },
@@ -1676,7 +1676,7 @@
             "id": 24552,
             "level": 14,
             "icon": 4630,
-            "name": "All-Destroying Brigandine of Mastodon",
+            "name": "Mastodon's Devastating Brigandine",
             "itemType": 2,
             "color": 4
         },
@@ -1684,7 +1684,7 @@
             "id": 24553,
             "level": 16,
             "icon": 4630,
-            "name": "All-Destroying Brigandine of Taron",
+            "name": "Taron's Devastating Brigandine",
             "itemType": 2,
             "color": 4
         },
@@ -1692,7 +1692,7 @@
             "id": 24554,
             "level": 18,
             "icon": 4630,
-            "name": "All-Destroying Brigandine of Kerula",
+            "name": "Kerula's Devastating Brigandine",
             "itemType": 2,
             "color": 4
         },
@@ -1700,7 +1700,7 @@
             "id": 24555,
             "level": 20,
             "icon": 4630,
-            "name": "All-Destroying Brigandine of Gimir",
+            "name": "Gimir's Devastating Brigandine",
             "itemType": 2,
             "color": 4
         },
@@ -1708,7 +1708,7 @@
             "id": 24556,
             "level": 22,
             "icon": 4630,
-            "name": "All-Destroying Brigandine of Flavius",
+            "name": "Flavius's Devastating Brigandine",
             "itemType": 2,
             "color": 4
         },
@@ -1716,7 +1716,7 @@
             "id": 24557,
             "level": 24,
             "icon": 4630,
-            "name": "All-Destroying Brigandine of Ruberius",
+            "name": "Ruberius's Devastating Brigandine",
             "itemType": 2,
             "color": 4
         },
@@ -1724,7 +1724,7 @@
             "id": 24558,
             "level": 26,
             "icon": 4630,
-            "name": "All-Destroying Brigandine of Mortis",
+            "name": "Mortis's Devastating Brigandine",
             "itemType": 2,
             "color": 4
         },
@@ -1732,7 +1732,7 @@
             "id": 24559,
             "level": 28,
             "icon": 4630,
-            "name": "All-Destroying Brigandine of the Snow General",
+            "name": "Snow General's Devastating Brigandine",
             "itemType": 2,
             "color": 4
         },
@@ -1740,7 +1740,7 @@
             "id": 24587,
             "level": 12,
             "icon": 4630,
-            "name": "Unsurpassed Doublet of Frosty Fang",
+            "name": "Frosty Fang's Unsurpassed Doublet",
             "itemType": 2,
             "color": 4
         },
@@ -1748,7 +1748,7 @@
             "id": 24588,
             "level": 14,
             "icon": 4630,
-            "name": "Unsurpassed Doublet of Mastodon",
+            "name": "Mastodon's Unsurpassed Doublet",
             "itemType": 2,
             "color": 4
         },
@@ -1756,7 +1756,7 @@
             "id": 24589,
             "level": 16,
             "icon": 4630,
-            "name": "Unsurpassed Doublet of Taron",
+            "name": "Taron's Unsurpassed Doublet",
             "itemType": 2,
             "color": 4
         },
@@ -1764,7 +1764,7 @@
             "id": 24590,
             "level": 18,
             "icon": 4630,
-            "name": "Unsurpassed Doublet of Kerula",
+            "name": "Kerula's Unsurpassed Doublet",
             "itemType": 2,
             "color": 4
         },
@@ -1772,7 +1772,7 @@
             "id": 24591,
             "level": 20,
             "icon": 4630,
-            "name": "Unsurpassed Doublet of Gimir",
+            "name": "Gimir's Unsurpassed Doublet",
             "itemType": 2,
             "color": 4
         },
@@ -1780,7 +1780,7 @@
             "id": 24592,
             "level": 22,
             "icon": 4630,
-            "name": "Unsurpassed Doublet of Flavius",
+            "name": "Flavius's Unsurpassed Doublet",
             "itemType": 2,
             "color": 4
         },
@@ -1788,7 +1788,7 @@
             "id": 24593,
             "level": 24,
             "icon": 4630,
-            "name": "Unsurpassed Doublet of Ruberius",
+            "name": "Ruberius's Unsurpassed Doublet",
             "itemType": 2,
             "color": 4
         },
@@ -1796,7 +1796,7 @@
             "id": 24594,
             "level": 26,
             "icon": 4630,
-            "name": "Unsurpassed Doublet of Mortis",
+            "name": "Mortis's Unsurpassed Doublet",
             "itemType": 2,
             "color": 4
         },
@@ -1804,7 +1804,7 @@
             "id": 24595,
             "level": 28,
             "icon": 4630,
-            "name": "Unsurpassed Doublet of the Snow General",
+            "name": "Snow General's Unsurpassed Doublet",
             "itemType": 2,
             "color": 4
         },
@@ -1836,7 +1836,7 @@
             "id": 25924,
             "level": 20,
             "icon": 4467,
-            "name": "Doublet of Assassins of the Dominant Coalition",
+            "name": "Doublet of Dominant Coalition Assassins",
             "itemType": 2,
             "color": 4
         },
@@ -1844,7 +1844,7 @@
             "id": 25928,
             "level": 22,
             "icon": 4467,
-            "name": "Doublet of Assassins of the Mighty Alliance",
+            "name": "Doublet of Mighty Alliance Assassins",
             "itemType": 2,
             "color": 4
         },
@@ -1852,7 +1852,7 @@
             "id": 25932,
             "level": 24,
             "icon": 4467,
-            "name": "Doublet of Assassins of the Legendary Brotherhood",
+            "name": "Doublet of Legendary Brotherhood Assassins",
             "itemType": 2,
             "color": 4
         },
@@ -1860,7 +1860,7 @@
             "id": 25935,
             "level": 26,
             "icon": 4467,
-            "name": "Doublet of Assassins of the Immortal Order",
+            "name": "Doublet of Immortal Order Assassins",
             "itemType": 2,
             "color": 4
         },
@@ -1884,7 +1884,7 @@
             "id": 26508,
             "level": 29,
             "icon": 2563,
-            "name": "Brigandine of the Legendary Assassin",
+            "name": "Brigandine of Legendary Assassin",
             "itemType": 2,
             "color": 3
         },
@@ -1892,7 +1892,7 @@
             "id": 26509,
             "level": 29,
             "icon": 2563,
-            "name": "Doublet of the Legendary Assassin",
+            "name": "Doublet of Legendary Assassin",
             "itemType": 2,
             "color": 3
         },
@@ -1972,7 +1972,7 @@
             "id": 27269,
             "level": 14,
             "icon": 5084,
-            "name": "Shirt of Red-haired Chuck",
+            "name": "Shirt of Red-Haired Chuck",
             "itemType": 2,
             "color": 3
         },
@@ -1980,7 +1980,7 @@
             "id": 27271,
             "level": 16,
             "icon": 5084,
-            "name": "Shirt of Red-haired Chuck",
+            "name": "Shirt of Red-Haired Chuck",
             "itemType": 2,
             "color": 3
         },
@@ -1988,7 +1988,7 @@
             "id": 27273,
             "level": 18,
             "icon": 5084,
-            "name": "Shirt of Red-haired Chuck",
+            "name": "Shirt of Red-Haired Chuck",
             "itemType": 2,
             "color": 3
         },
@@ -1996,7 +1996,7 @@
             "id": 27275,
             "level": 20,
             "icon": 5084,
-            "name": "Shirt of Red-haired Chuck",
+            "name": "Shirt of Red-Haired Chuck",
             "itemType": 2,
             "color": 3
         },
@@ -2004,7 +2004,7 @@
             "id": 27277,
             "level": 22,
             "icon": 5084,
-            "name": "Shirt of Red-haired Chuck",
+            "name": "Shirt of Red-Haired Chuck",
             "itemType": 2,
             "color": 3
         },
@@ -2012,7 +2012,7 @@
             "id": 27279,
             "level": 24,
             "icon": 5084,
-            "name": "Shirt of Red-haired Chuck",
+            "name": "Shirt of Red-Haired Chuck",
             "itemType": 2,
             "color": 3
         },
@@ -2020,7 +2020,7 @@
             "id": 27281,
             "level": 26,
             "icon": 5084,
-            "name": "Shirt of Red-haired Chuck",
+            "name": "Shirt of Red-Haired Chuck",
             "itemType": 2,
             "color": 3
         },
@@ -2028,7 +2028,7 @@
             "id": 27283,
             "level": 28,
             "icon": 5084,
-            "name": "Shirt of Red-haired Chuck",
+            "name": "Shirt of Red-Haired Chuck",
             "itemType": 2,
             "color": 3
         },
@@ -2036,7 +2036,7 @@
             "id": 27285,
             "level": 30,
             "icon": 5084,
-            "name": "Shirt of Red-haired Chuck",
+            "name": "Shirt of Red-Haired Chuck",
             "itemType": 2,
             "color": 3
         },
@@ -2044,7 +2044,7 @@
             "id": 27959,
             "level": 30,
             "icon": 4231,
-            "name": "Winter Brigandine of Chernobog",
+            "name": "Chernobog's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -2052,7 +2052,7 @@
             "id": 27963,
             "level": 30,
             "icon": 4231,
-            "name": "Winter Doublet of Chernobog",
+            "name": "Chernobog's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -2140,7 +2140,7 @@
             "id": 28116,
             "level": 30,
             "icon": 4630,
-            "name": "All-Destroying Brigandine of Chernobog",
+            "name": "Chernobog's Devastating Brigandine",
             "itemType": 2,
             "color": 4
         },
@@ -2148,7 +2148,7 @@
             "id": 28120,
             "level": 30,
             "icon": 4630,
-            "name": "Unsurpassed Doublet of Chernobog",
+            "name": "Chernobog's Unsurpassed Doublet",
             "itemType": 2,
             "color": 4
         },
@@ -2212,7 +2212,7 @@
             "id": 29490,
             "level": 20,
             "icon": 4468,
-            "name": "Brigandine of Assassins of the Sacred Forest",
+            "name": "Brigandine of Sacred Forest Assassins",
             "itemType": 2,
             "color": 4
         },
@@ -2220,7 +2220,7 @@
             "id": 29494,
             "level": 22,
             "icon": 4468,
-            "name": "Brigandine of Assassins of the Pyramid Valley",
+            "name": "Brigandine of Pyramid Valley Assassins",
             "itemType": 2,
             "color": 4
         },
@@ -2228,7 +2228,7 @@
             "id": 29498,
             "level": 24,
             "icon": 4468,
-            "name": "Brigandine of Assassins of the Black Oak Forest",
+            "name": "Brigandine of Black Oak Forest Assassins",
             "itemType": 2,
             "color": 4
         },
@@ -2236,7 +2236,7 @@
             "id": 29502,
             "level": 26,
             "icon": 4468,
-            "name": "Brigandine of Assassins of the Flying Islands",
+            "name": "Brigandine of Flying Islands Assassins",
             "itemType": 2,
             "color": 4
         },
@@ -2244,7 +2244,7 @@
             "id": 29506,
             "level": 28,
             "icon": 4468,
-            "name": "Brigandine of Assassins of the Ship Graveyard",
+            "name": "Brigandine of Ship Graveyard Assassins",
             "itemType": 2,
             "color": 4
         },
@@ -2252,7 +2252,7 @@
             "id": 29510,
             "level": 28,
             "icon": 4468,
-            "name": "Brigandine of Warriors of the Ship Graveyard",
+            "name": "Brigandine of Ship Graveyard Warriors",
             "itemType": 2,
             "color": 4
         },
@@ -2260,7 +2260,7 @@
             "id": 29514,
             "level": 28,
             "icon": 4467,
-            "name": "Doublet of Warriors of the Imperious Clan",
+            "name": "Doublet of Imperious Clan Warriors",
             "itemType": 2,
             "color": 4
         },
@@ -2268,7 +2268,7 @@
             "id": 29518,
             "level": 28,
             "icon": 4467,
-            "name": "Doublet of Assassins of the Imperious Clan",
+            "name": "Doublet of Imperious Clan Assassins",
             "itemType": 2,
             "color": 4
         },
@@ -2276,7 +2276,7 @@
             "id": 29744,
             "level": 7,
             "icon": 1599,
-            "name": "Doublet of Recruit",
+            "name": "Recruit's Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -2284,7 +2284,7 @@
             "id": 29749,
             "level": 7,
             "icon": 1605,
-            "name": "Brigandine of Recruit",
+            "name": "Recruit's Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -2292,7 +2292,7 @@
             "id": 29754,
             "level": 11,
             "icon": 1599,
-            "name": "Doublet of Mercenary",
+            "name": "Hireling's Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -2300,7 +2300,7 @@
             "id": 29759,
             "level": 11,
             "icon": 1605,
-            "name": "Brigandine of Mercenary",
+            "name": "Hireling's Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -2308,7 +2308,7 @@
             "id": 32048,
             "level": 30,
             "icon": 4468,
-            "name": "Brigantine of the Warriors of the Pirate Archipelago",
+            "name": "Brigandine of Pirate Archipelago Warriors",
             "itemType": 2,
             "color": 4
         },
@@ -2316,7 +2316,7 @@
             "id": 32052,
             "level": 30,
             "icon": 4468,
-            "name": "Brigantine of the Assassins of the Pirate Archipelago",
+            "name": "Brigandine of Pirate Archipelago Assassins",
             "itemType": 2,
             "color": 4
         },
@@ -2324,7 +2324,7 @@
             "id": 32056,
             "level": 30,
             "icon": 4467,
-            "name": "Doublet of the Warriors of the Unbreakable Alliance",
+            "name": "Doublet of Unbreakable Alliance Warriors",
             "itemType": 2,
             "color": 4
         },
@@ -2332,7 +2332,7 @@
             "id": 32060,
             "level": 30,
             "icon": 4467,
-            "name": "Doublet of the Assassins of the Unbreakable Alliance",
+            "name": "Doublet of Unbreakable Alliance Assassins",
             "itemType": 2,
             "color": 4
         },
@@ -2476,7 +2476,7 @@
             "id": 33275,
             "level": 32,
             "icon": 5084,
-            "name": "Shirt of Red-haired Chuck",
+            "name": "Shirt of Red-Haired Chuck",
             "itemType": 2,
             "color": 3
         },
@@ -2484,7 +2484,7 @@
             "id": 33854,
             "level": 32,
             "icon": 4231,
-            "name": "Winter Brigandine of Titan",
+            "name": "Titan's Winter Brigandine",
             "itemType": 2,
             "color": 3
         },
@@ -2492,7 +2492,7 @@
             "id": 33858,
             "level": 32,
             "icon": 4231,
-            "name": "Winter Doublet of Titan",
+            "name": "Titan's Winter Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -2516,7 +2516,7 @@
             "id": 33902,
             "level": 32,
             "icon": 4630,
-            "name": "All-Destroying Brigandine of Titan",
+            "name": "Titan's Devastating Brigandine",
             "itemType": 2,
             "color": 4
         },
@@ -2524,7 +2524,7 @@
             "id": 33906,
             "level": 32,
             "icon": 4630,
-            "name": "Unmatched Doublet of Titan",
+            "name": "Titan's Unmatched Doublet",
             "itemType": 2,
             "color": 4
         },
@@ -2548,7 +2548,7 @@
             "id": 34495,
             "level": 32,
             "icon": 3508,
-            "name": "Doublet of the Ominous Requiem",
+            "name": "Doublet of Ominous Requiem",
             "itemType": 2,
             "color": 3
         },
@@ -2588,7 +2588,7 @@
             "id": 35098,
             "level": 22,
             "icon": 6186,
-            "name": "Doublet of the Guards of the Forest\u2019s Heart",
+            "name": "Doublet of Guards of Forest\u2019s Heart",
             "itemType": 2,
             "color": 4
         },
@@ -2596,7 +2596,7 @@
             "id": 35102,
             "level": 24,
             "icon": 6186,
-            "name": "Doublet of the Guards of the Jaguar\u2019s Den",
+            "name": "Doublet of Guards of Jaguar\u2019s Den",
             "itemType": 2,
             "color": 4
         },
@@ -2604,7 +2604,7 @@
             "id": 35106,
             "level": 26,
             "icon": 6186,
-            "name": "Doublet of the Guards of the Dragon Ness",
+            "name": "Doublet of Guards of Dragon Ness",
             "itemType": 2,
             "color": 4
         },
@@ -2612,7 +2612,7 @@
             "id": 35110,
             "level": 28,
             "icon": 6186,
-            "name": "Doublet of the Guards of the Sky Sanctuary",
+            "name": "Doublet of Sky Sanctuary Guards",
             "itemType": 2,
             "color": 4
         },
@@ -2620,7 +2620,7 @@
             "id": 35114,
             "level": 30,
             "icon": 6186,
-            "name": "Doublet of the Guards of the Sea Turtle",
+            "name": "Doublet of Guards of Sea Turtle",
             "itemType": 2,
             "color": 4
         },
@@ -2652,7 +2652,7 @@
             "id": 35288,
             "level": 31,
             "icon": 1617,
-            "name": "Brigantine of the Pirate Assassin",
+            "name": "Brigandine of the Pirate Assassin",
             "itemType": 2,
             "color": 3
         },

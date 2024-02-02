@@ -244,7 +244,7 @@
             "id": 15326,
             "level": 21,
             "icon": 1217,
-            "name": "Enchanted Spear of the Lord",
+            "name": "Enchanted Spear of Lord",
             "itemType": 0,
             "color": 3
         },
@@ -332,7 +332,7 @@
             "id": 16139,
             "level": 8,
             "icon": 3127,
-            "name": "Spear of Oath-breaker",
+            "name": "Spear of Oathbreaker",
             "itemType": 0,
             "color": 3
         },
@@ -404,7 +404,7 @@
             "id": 17123,
             "level": 12,
             "icon": 1211,
-            "name": "Well-tried Glaive",
+            "name": "Well-Worn Glaive",
             "itemType": 0,
             "color": 2
         },
@@ -532,7 +532,7 @@
             "id": 17310,
             "level": 22,
             "icon": 2620,
-            "name": "All-Destroying Glaive",
+            "name": "Devastating Glaive",
             "itemType": 0,
             "color": 3
         },
@@ -668,7 +668,7 @@
             "id": 19966,
             "level": 6,
             "icon": 3080,
-            "name": "Spear of the Blind Outlaw",
+            "name": "Spear of Blind Outlaw",
             "itemType": 0,
             "color": 3
         },
@@ -684,7 +684,7 @@
             "id": 20029,
             "level": 20,
             "icon": 3080,
-            "name": "Spear of the Damned Heir",
+            "name": "Spear of Damned Heir",
             "itemType": 0,
             "color": 3
         },
@@ -692,7 +692,7 @@
             "id": 20042,
             "level": 22,
             "icon": 3080,
-            "name": "Glaive of the Distracted Apostate",
+            "name": "Glaive of Distracted Apostate",
             "itemType": 0,
             "color": 3
         },
@@ -708,7 +708,7 @@
             "id": 20080,
             "level": 26,
             "icon": 3080,
-            "name": "Glaive of the Bloody Earl",
+            "name": "Glaive of Bloody Earl",
             "itemType": 0,
             "color": 3
         },
@@ -788,7 +788,7 @@
             "id": 20365,
             "level": 26,
             "icon": 3127,
-            "name": "Guisarme of the Descendant of the Titans",
+            "name": "Guisarme of Titan's Descendant",
             "itemType": 0,
             "color": 3
         },
@@ -812,7 +812,7 @@
             "id": 20820,
             "level": 12,
             "icon": 3868,
-            "name": "Spear of the Four-Leaf Clover",
+            "name": "Spear of Four-Leaf Clover",
             "itemType": 0,
             "color": 2
         },
@@ -844,7 +844,7 @@
             "id": 20885,
             "level": 20,
             "icon": 3868,
-            "name": "Spear of the Arcane Valley",
+            "name": "Spear of Arcane Valley",
             "itemType": 0,
             "color": 2
         },
@@ -852,7 +852,7 @@
             "id": 20900,
             "level": 22,
             "icon": 3868,
-            "name": "Spear of the Forest Mystery",
+            "name": "Spear of Forest Mystery",
             "itemType": 0,
             "color": 2
         },
@@ -860,7 +860,7 @@
             "id": 20915,
             "level": 24,
             "icon": 3868,
-            "name": "Spear of the Blooming Island",
+            "name": "Spear of Blooming Island",
             "itemType": 0,
             "color": 2
         },
@@ -868,7 +868,7 @@
             "id": 20930,
             "level": 26,
             "icon": 3868,
-            "name": "Spear of the Emerald Tower",
+            "name": "Spear of Emerald Tower",
             "itemType": 0,
             "color": 2
         },
@@ -1132,7 +1132,7 @@
             "id": 23605,
             "level": 27,
             "icon": 3255,
-            "name": "Guisarme of the Arena Lord",
+            "name": "Guisarme of Arena Lord",
             "itemType": 0,
             "color": 3
         },
@@ -1148,7 +1148,7 @@
             "id": 24094,
             "level": 28,
             "icon": 3080,
-            "name": "Glaive of the Crazy King",
+            "name": "Glaive of Crazy King",
             "itemType": 0,
             "color": 3
         },
@@ -1172,7 +1172,7 @@
             "id": 25042,
             "level": 12,
             "icon": 4751,
-            "name": "Royal Spear of the Four-Leaf Clover",
+            "name": "Royal Spear of Four-Leaf Clover",
             "itemType": 0,
             "color": 3
         },
@@ -1204,7 +1204,7 @@
             "id": 25106,
             "level": 20,
             "icon": 4751,
-            "name": "Royal Spear of the Arcane Valley",
+            "name": "Royal Spear of Arcane Valley",
             "itemType": 0,
             "color": 3
         },
@@ -1212,7 +1212,7 @@
             "id": 25122,
             "level": 22,
             "icon": 4751,
-            "name": "Royal Spear of the Forest Mystery",
+            "name": "Royal Spear of Forest Mystery",
             "itemType": 0,
             "color": 3
         },
@@ -1220,7 +1220,7 @@
             "id": 25138,
             "level": 24,
             "icon": 4751,
-            "name": "Royal Spear of the Blooming Island",
+            "name": "Royal Spear of Blooming Island",
             "itemType": 0,
             "color": 3
         },
@@ -1228,7 +1228,7 @@
             "id": 25154,
             "level": 26,
             "icon": 4751,
-            "name": "Royal Spear of the Emerald Tower",
+            "name": "Royal Spear of Emerald Tower",
             "itemType": 0,
             "color": 3
         },
@@ -1276,7 +1276,7 @@
             "id": 25302,
             "level": 28,
             "icon": 3403,
-            "name": "Spear of the Bloody Radiance",
+            "name": "Spear of Bloody Radiance",
             "itemType": 0,
             "color": 3
         },
@@ -1316,7 +1316,7 @@
             "id": 26491,
             "level": 29,
             "icon": 3255,
-            "name": "Guisarme of the Outstanding Gladiator",
+            "name": "Guisarme of Outstanding Gladiator",
             "itemType": 0,
             "color": 3
         },
@@ -1476,7 +1476,7 @@
             "id": 29006,
             "level": 30,
             "icon": 4341,
-            "name": "Spear of Kingdom of Fortitude",
+            "name": "Spear of the Kingdom of Fortitude",
             "itemType": 0,
             "color": 3
         },
@@ -1492,7 +1492,7 @@
             "id": 29702,
             "level": 7,
             "icon": 1211,
-            "name": "Spear of Recruit",
+            "name": "Recruit's Spear",
             "itemType": 0,
             "color": 3
         },
@@ -1500,7 +1500,7 @@
             "id": 29717,
             "level": 11,
             "icon": 1211,
-            "name": "Spear of Mercenary",
+            "name": "Hireling's Spear",
             "itemType": 0,
             "color": 3
         },
@@ -1540,7 +1540,7 @@
             "id": 30245,
             "level": 6,
             "icon": 3080,
-            "name": "Glaive of the Blind Outlaw",
+            "name": "Glaive of Blind Outlaw",
             "itemType": 0,
             "color": 3
         },
@@ -1588,7 +1588,7 @@
             "id": 30263,
             "level": 20,
             "icon": 3080,
-            "name": "Glaive of the Damned Heir",
+            "name": "Glaive of Damned Heir",
             "itemType": 0,
             "color": 3
         },
@@ -1684,7 +1684,7 @@
             "id": 35267,
             "level": 31,
             "icon": 4898,
-            "name": "Spear of the Pirate Brotherhood",
+            "name": "Spear of Pirate Brotherhood",
             "itemType": 0,
             "color": 3
         },

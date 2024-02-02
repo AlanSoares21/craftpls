@@ -44,7 +44,7 @@
             "id": 2323,
             "level": 15,
             "icon": 1752,
-            "name": "High-quality Medallion",
+            "name": "High-Quality Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -60,7 +60,7 @@
             "id": 8308,
             "level": 12,
             "icon": 1767,
-            "name": "Engraved Pendant",
+            "name": "Engraved Lavalier",
             "itemType": 9,
             "color": 1
         },
@@ -68,7 +68,7 @@
             "id": 8349,
             "level": 12,
             "icon": 1752,
-            "name": "Patterned Pendant",
+            "name": "Patterned Lavalier",
             "itemType": 9,
             "color": 2
         },
@@ -76,7 +76,7 @@
             "id": 8385,
             "level": 13,
             "icon": 1758,
-            "name": "Goldish Pendant",
+            "name": "Goldish Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -84,7 +84,7 @@
             "id": 9082,
             "level": 18,
             "icon": 1746,
-            "name": "Solar Eclipse Pendant",
+            "name": "Solar Eclipse Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -116,7 +116,7 @@
             "id": 11254,
             "level": 5,
             "icon": 1746,
-            "name": "Favoniy's Small Amulet",
+            "name": "Favoniy's Lesser Amulet",
             "itemType": 9,
             "color": 2
         },
@@ -249,22 +249,6 @@
             "color": 3
         },
         {
-            "id": 990,
-            "level": 10,
-            "icon": 1770,
-            "name": "Amulet of Fortitude",
-            "itemType": 9,
-            "color": 2
-        },
-        {
-            "id": 2043,
-            "level": 12,
-            "icon": 1773,
-            "name": "High-standard Pendant",
-            "itemType": 9,
-            "color": 2
-        },
-        {
             "id": 5799,
             "level": 15,
             "icon": 2202,
@@ -340,7 +324,7 @@
             "id": 11256,
             "level": 5,
             "icon": 1755,
-            "name": "Auster's Small Amulet",
+            "name": "Auster's Lesser Amulet",
             "itemType": 9,
             "color": 2
         },
@@ -489,10 +473,26 @@
             "color": 3
         },
         {
+            "id": 990,
+            "level": 10,
+            "icon": 1770,
+            "name": "Amulet of Fortitude",
+            "itemType": 9,
+            "color": 2
+        },
+        {
+            "id": 2043,
+            "level": 12,
+            "icon": 1773,
+            "name": "High-Standard Lavalier",
+            "itemType": 9,
+            "color": 2
+        },
+        {
             "id": 2148,
             "level": 15,
             "icon": 1752,
-            "name": "Good-looking Pendant",
+            "name": "Good-Looking Lavalier",
             "itemType": 9,
             "color": 0
         },
@@ -505,28 +505,12 @@
             "color": 1
         },
         {
-            "id": 931,
-            "level": 7,
-            "icon": 1749,
-            "name": "Amulet of Adept",
-            "itemType": 9,
-            "color": 1
-        },
-        {
-            "id": 991,
-            "level": 10,
-            "icon": 1770,
-            "name": "Amulet of Nimbleness",
+            "id": 2039,
+            "level": 12,
+            "icon": 1773,
+            "name": "Mighty Lavalier",
             "itemType": 9,
             "color": 2
-        },
-        {
-            "id": 2149,
-            "level": 13,
-            "icon": 1752,
-            "name": "Good-looking Amulet",
-            "itemType": 9,
-            "color": 0
         },
         {
             "id": 2326,
@@ -572,7 +556,7 @@
             "id": 8307,
             "level": 12,
             "icon": 1764,
-            "name": "Bright Pendant",
+            "name": "Bright Lavalier",
             "itemType": 9,
             "color": 1
         },
@@ -620,7 +604,7 @@
             "id": 11252,
             "level": 5,
             "icon": 2677,
-            "name": "Small Amulet of Ice Queen",
+            "name": "Ice Queen's Lesser Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -628,7 +612,7 @@
             "id": 11262,
             "level": 15,
             "icon": 2679,
-            "name": "Great Amulet of Ice Queen",
+            "name": "Ice Queen's Great Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -732,15 +716,23 @@
             "id": 16258,
             "level": 20,
             "icon": 2679,
-            "name": "Powerful Amulet of Ice Queen",
+            "name": "Ice Queen's Mighty Amulet",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 2039,
-            "level": 12,
-            "icon": 1773,
-            "name": "Mighty Pendant",
+            "id": 931,
+            "level": 7,
+            "icon": 1749,
+            "name": "Amulet of Adept",
+            "itemType": 9,
+            "color": 1
+        },
+        {
+            "id": 991,
+            "level": 10,
+            "icon": 1770,
+            "name": "Amulet of Nimbleness",
             "itemType": 9,
             "color": 2
         },
@@ -756,39 +748,31 @@
             "id": 2110,
             "level": 13,
             "icon": 1746,
-            "name": "High-standard Medallion",
+            "name": "High-Standard Medallion",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 932,
-            "level": 7,
-            "icon": 1749,
-            "name": "Amulet of Speed",
+            "id": 2149,
+            "level": 13,
+            "icon": 1752,
+            "name": "Good-looking Amulet",
             "itemType": 9,
-            "color": 1
+            "color": 0
         },
         {
-            "id": 2201,
-            "level": 12,
-            "icon": 1740,
-            "name": "Expensive Pendant",
+            "id": 2111,
+            "level": 13,
+            "icon": 1746,
+            "name": "Qualitative Lavalier",
             "itemType": 9,
-            "color": 1
-        },
-        {
-            "id": 2274,
-            "level": 15,
-            "icon": 1758,
-            "name": "Glorious pendant",
-            "itemType": 9,
-            "color": 2
+            "color": 3
         },
         {
             "id": 2275,
             "level": 15,
             "icon": 1764,
-            "name": "Daedal Pendant",
+            "name": "Daedal Lavalier",
             "itemType": 9,
             "color": 2
         },
@@ -836,7 +820,7 @@
             "id": 11258,
             "level": 10,
             "icon": 3140,
-            "name": "Amulet of Aquilon",
+            "name": "Aquilon's Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -844,7 +828,7 @@
             "id": 11263,
             "level": 15,
             "icon": 3140,
-            "name": "Great Amulet of Aquilon",
+            "name": "Aquilon's Great Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -969,26 +953,18 @@
             "color": 3
         },
         {
-            "id": 2107,
-            "level": 13,
-            "icon": 1746,
-            "name": "Graceful Pendant",
+            "id": 932,
+            "level": 7,
+            "icon": 1749,
+            "name": "Amulet of Speed",
             "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 2111,
-            "level": 13,
-            "icon": 1746,
-            "name": "Qualitative pendant",
-            "itemType": 9,
-            "color": 3
+            "color": 1
         },
         {
             "id": 2112,
             "level": 13,
             "icon": 1746,
-            "name": "Qualitative amulet",
+            "name": "Qualitative Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -996,17 +972,33 @@
             "id": 2150,
             "level": 14,
             "icon": 1752,
-            "name": "Good-looking Medallion",
+            "name": "Good-Looking Medallion",
             "itemType": 9,
             "color": 0
         },
         {
-            "id": 2042,
+            "id": 2201,
             "level": 12,
-            "icon": 1773,
-            "name": "High-standard Amulet",
+            "icon": 1740,
+            "name": "Expensive Lavalier",
+            "itemType": 9,
+            "color": 1
+        },
+        {
+            "id": 2274,
+            "level": 15,
+            "icon": 1758,
+            "name": "Glorious Lavalier",
             "itemType": 9,
             "color": 2
+        },
+        {
+            "id": 2198,
+            "level": 15,
+            "icon": 1773,
+            "name": "Decorated Lavalier",
+            "itemType": 9,
+            "color": 1
         },
         {
             "id": 5797,
@@ -1068,7 +1060,7 @@
             "id": 9083,
             "level": 18,
             "icon": 1746,
-            "name": "Morning Dawn Pendant",
+            "name": "Morning Dawn Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -1100,7 +1092,7 @@
             "id": 11255,
             "level": 5,
             "icon": 1752,
-            "name": "Wulturn's Small Amulet",
+            "name": "Wulturn's Lesser Amulet",
             "itemType": 9,
             "color": 2
         },
@@ -1236,23 +1228,23 @@
             "id": 16260,
             "level": 20,
             "icon": 3140,
-            "name": "Powerful Amulet of Aquilon",
+            "name": "Aquilon's Mighty Amulet",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 2198,
-            "level": 15,
+            "id": 2042,
+            "level": 12,
             "icon": 1773,
-            "name": "Decorated Pendant",
+            "name": "High-standard Amulet",
             "itemType": 9,
-            "color": 1
+            "color": 2
         },
         {
             "id": 2276,
             "level": 15,
             "icon": 1758,
-            "name": "High-quality Pendant",
+            "name": "High-Quality Lavalier",
             "itemType": 9,
             "color": 2
         },
@@ -1263,22 +1255,6 @@
             "name": "Daedal Amulet",
             "itemType": 9,
             "color": 3
-        },
-        {
-            "id": 16522,
-            "level": 12,
-            "icon": 1746,
-            "name": "Amulet of Pure Light",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 16527,
-            "level": 14,
-            "icon": 1752,
-            "name": "Hazy Medallion",
-            "itemType": 9,
-            "color": 2
         },
         {
             "id": 16532,
@@ -1292,7 +1268,7 @@
             "id": 16537,
             "level": 16,
             "icon": 3201,
-            "name": "High-quality Onyx Pendant",
+            "name": "High-Quality Onyx Pendant",
             "itemType": 9,
             "color": 3
         },
@@ -1348,7 +1324,7 @@
             "id": 18010,
             "level": 18,
             "icon": 3068,
-            "name": "Necklace of the Full Moon",
+            "name": "Necklace of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -1428,7 +1404,7 @@
             "id": 20069,
             "level": 24,
             "icon": 3068,
-            "name": "Medallion of the Rebirth",
+            "name": "Medallion of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -1545,20 +1521,20 @@
             "color": 2
         },
         {
-            "id": 16526,
-            "level": 14,
-            "icon": 1752,
-            "name": "Hazy Amulet",
-            "itemType": 9,
-            "color": 2
-        },
-        {
-            "id": 16530,
-            "level": 14,
-            "icon": 3202,
-            "name": "Storm Lavalier",
+            "id": 16522,
+            "level": 12,
+            "icon": 1746,
+            "name": "Amulet of Pure Light",
             "itemType": 9,
             "color": 3
+        },
+        {
+            "id": 16527,
+            "level": 14,
+            "icon": 1752,
+            "name": "Hazy Medallion",
+            "itemType": 9,
+            "color": 2
         },
         {
             "id": 16531,
@@ -1572,7 +1548,7 @@
             "id": 16536,
             "level": 16,
             "icon": 3202,
-            "name": "High-quality Onyx Lavalier",
+            "name": "High-Quality Onyx Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -1636,7 +1612,7 @@
             "id": 18009,
             "level": 18,
             "icon": 3068,
-            "name": "Amulet of the Full Moon",
+            "name": "Amulet of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -1788,7 +1764,7 @@
             "id": 24146,
             "level": 28,
             "icon": 3068,
-            "name": "Almighty Pendant of Resurrection",
+            "name": "Almighty Lavalier of Resurrection",
             "itemType": 9,
             "color": 3
         },
@@ -1817,18 +1793,26 @@
             "color": 3
         },
         {
-            "id": 16538,
-            "level": 18,
-            "icon": 1764,
-            "name": "Amulet of the Elements",
+            "id": 16526,
+            "level": 14,
+            "icon": 1752,
+            "name": "Hazy Amulet",
             "itemType": 9,
             "color": 2
         },
         {
-            "id": 16540,
-            "level": 18,
-            "icon": 1764,
-            "name": "Amulet of Absolute Strength",
+            "id": 16530,
+            "level": 14,
+            "icon": 3202,
+            "name": "Storm Lavalier",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 16523,
+            "level": 12,
+            "icon": 1746,
+            "name": "Medallion of Pure Light",
             "itemType": 9,
             "color": 3
         },
@@ -1892,7 +1876,7 @@
             "id": 18011,
             "level": 18,
             "icon": 3068,
-            "name": "Lavalier of the Full Moon",
+            "name": "Lavalier of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -1980,7 +1964,7 @@
             "id": 20070,
             "level": 24,
             "icon": 3068,
-            "name": "Amulet of the Rebirth",
+            "name": "Amulet of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -2003,7 +1987,7 @@
         {
             "id": 22021,
             "level": 1,
-            "icon": 4178,
+            "icon": 7431,
             "name": "Novice Vampire's Amulet",
             "itemType": 9,
             "color": 4
@@ -2049,14 +2033,6 @@
             "color": 3
         },
         {
-            "id": 16523,
-            "level": 12,
-            "icon": 1746,
-            "name": "Medallion of Pure Light",
-            "itemType": 9,
-            "color": 3
-        },
-        {
             "id": 16528,
             "level": 14,
             "icon": 1752,
@@ -2081,18 +2057,26 @@
             "color": 3
         },
         {
-            "id": 16543,
+            "id": 16538,
             "level": 18,
-            "icon": 3201,
-            "name": "Pendant of Invincibility",
+            "icon": 1764,
+            "name": "Amulet of the Elements",
+            "itemType": 9,
+            "color": 2
+        },
+        {
+            "id": 16540,
+            "level": 18,
+            "icon": 1764,
+            "name": "Amulet of Absolute Strength",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 16548,
-            "level": 20,
+            "id": 16518,
+            "level": 10,
             "icon": 3202,
-            "name": "Lavalier of the Fiery Skies",
+            "name": "Graceful Jade Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -2140,7 +2124,7 @@
             "id": 18008,
             "level": 18,
             "icon": 3068,
-            "name": "Medallion of the Full Moon",
+            "name": "Medallion of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -2148,7 +2132,7 @@
             "id": 18268,
             "level": 25,
             "icon": 3140,
-            "name": "Legendary Amulet of Aquilon",
+            "name": "Aquilon's Legendary Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -2156,7 +2140,7 @@
             "id": 18269,
             "level": 25,
             "icon": 2679,
-            "name": "Legendary Amulet of Ice Queen",
+            "name": "Ice Queen's Legendary Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -2236,7 +2220,7 @@
             "id": 20071,
             "level": 24,
             "icon": 3068,
-            "name": "Necklace of the Rebirth",
+            "name": "Necklace of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -2321,14 +2305,6 @@
             "color": 2
         },
         {
-            "id": 16518,
-            "level": 10,
-            "icon": 3202,
-            "name": "Graceful Jade Lavalier",
-            "itemType": 9,
-            "color": 3
-        },
-        {
             "id": 16524,
             "level": 12,
             "icon": 3202,
@@ -2361,10 +2337,34 @@
             "color": 2
         },
         {
-            "id": 19185,
-            "level": 24,
+            "id": 16543,
+            "level": 18,
+            "icon": 3201,
+            "name": "Pendant of Invincibility",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 16548,
+            "level": 20,
             "icon": 3202,
-            "name": "Locket of Incredible Power",
+            "name": "Lavalier of Fiery Skies",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 16514,
+            "level": 10,
+            "icon": 1740,
+            "name": "Dull Jade Amulet",
+            "itemType": 9,
+            "color": 2
+        },
+        {
+            "id": 16519,
+            "level": 10,
+            "icon": 3201,
+            "name": "Graceful Jade Pendant",
             "itemType": 9,
             "color": 3
         },
@@ -2420,7 +2420,7 @@
             "id": 20072,
             "level": 24,
             "icon": 3068,
-            "name": "Lavalier of the Rebirth",
+            "name": "Lavalier of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -2508,7 +2508,7 @@
             "id": 25443,
             "level": 28,
             "icon": 4465,
-            "name": "Necklace of the Legendary Period",
+            "name": "Necklace of Legendary Period",
             "itemType": 9,
             "color": 3
         },
@@ -2524,7 +2524,7 @@
             "id": 27170,
             "level": 30,
             "icon": 3068,
-            "name": "Mighty Pendant of Eternity",
+            "name": "Mighty Lavalier of Eternity",
             "itemType": 9,
             "color": 3
         },
@@ -2548,7 +2548,7 @@
             "id": 29798,
             "level": 7,
             "icon": 1740,
-            "name": "Amulet of Recruit",
+            "name": "Recruit's Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -2580,23 +2580,7 @@
             "id": 30313,
             "level": 24,
             "icon": 3068,
-            "name": "Mysterious Lavalier of the Rebirth",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 16514,
-            "level": 10,
-            "icon": 1740,
-            "name": "Dull Jade Amulet",
-            "itemType": 9,
-            "color": 2
-        },
-        {
-            "id": 16519,
-            "level": 10,
-            "icon": 3201,
-            "name": "Graceful Jade Pendant",
+            "name": "Mysterious Lavalier of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -2612,15 +2596,15 @@
             "id": 16549,
             "level": 20,
             "icon": 3201,
-            "name": "Pendant of the Fiery Skies",
+            "name": "Pendant of Fiery Skies",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 26363,
-            "level": 29,
-            "icon": 1752,
-            "name": "Lavalier of Defenders of Sea Tramps",
+            "id": 19185,
+            "level": 24,
+            "icon": 3202,
+            "name": "Locket of Incredible Power",
             "itemType": 9,
             "color": 3
         },
@@ -2641,26 +2625,10 @@
             "color": 3
         },
         {
-            "id": 28972,
-            "level": 30,
-            "icon": 3202,
-            "name": "Lavalier of Epiphany",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 29559,
-            "level": 30,
-            "icon": 4465,
-            "name": "Amulet of the Grand Millennium",
-            "itemType": 9,
-            "color": 3
-        },
-        {
             "id": 29799,
             "level": 7,
             "icon": 1746,
-            "name": "Lavalier of Recruit",
+            "name": "Recruit's Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -2716,7 +2684,7 @@
             "id": 30363,
             "level": 18,
             "icon": 3068,
-            "name": "Mysterious Necklace of the Full Moon",
+            "name": "Mysterious Necklace of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -2724,7 +2692,7 @@
             "id": 30364,
             "level": 18,
             "icon": 3068,
-            "name": "Mysterious Amulet of the Full Moon",
+            "name": "Mysterious Amulet of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -2788,7 +2756,7 @@
             "id": 30468,
             "level": 24,
             "icon": 5508,
-            "name": "Horrifying Amulet of the Rebirth",
+            "name": "Horrifying Amulet of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -2812,7 +2780,7 @@
             "id": 31114,
             "level": 6,
             "icon": 5537,
-            "name": "Ferocious Lavalier of Iceman",
+            "name": "Iceman's Ferocious Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -2820,7 +2788,7 @@
             "id": 31119,
             "level": 12,
             "icon": 5537,
-            "name": "Ferocious Amulet of Frosty Fang",
+            "name": "Frosty Fang's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -2828,7 +2796,7 @@
             "id": 31124,
             "level": 14,
             "icon": 5537,
-            "name": "Ferocious Medallion of Mastodon",
+            "name": "Mastodon's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -2836,7 +2804,7 @@
             "id": 31129,
             "level": 16,
             "icon": 5537,
-            "name": "Ferocious Amulet of Taron",
+            "name": "Taron's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -2844,7 +2812,7 @@
             "id": 31134,
             "level": 18,
             "icon": 5537,
-            "name": "Ferocious Lavalier of Kerula",
+            "name": "Kerula's Ferocious Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -2852,7 +2820,7 @@
             "id": 31149,
             "level": 26,
             "icon": 5537,
-            "name": "Ferocious Amulet of Mortis",
+            "name": "Mortis's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -2860,7 +2828,15 @@
             "id": 31154,
             "level": 28,
             "icon": 5537,
-            "name": "Ferocious Lavalier of the Snow General",
+            "name": "Snow General's Ferocious Lavalier",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 26363,
+            "level": 29,
+            "icon": 1752,
+            "name": "Lavalier of Sea Tramps Defenders",
             "itemType": 9,
             "color": 3
         },
@@ -2873,10 +2849,18 @@
             "color": 3
         },
         {
-            "id": 29557,
+            "id": 28972,
+            "level": 30,
+            "icon": 3202,
+            "name": "Lavalier of Epiphany",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 29559,
             "level": 30,
             "icon": 4465,
-            "name": "Medallion of the Grand Millennium",
+            "name": "Amulet of the Grand Millennium",
             "itemType": 9,
             "color": 3
         },
@@ -2892,7 +2876,7 @@
             "id": 29796,
             "level": 7,
             "icon": 1746,
-            "name": "Medallion of Recruit",
+            "name": "Recruit's Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -2900,7 +2884,7 @@
             "id": 29801,
             "level": 11,
             "icon": 1752,
-            "name": "Necklace of Mercenary",
+            "name": "Hireling's Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -2932,7 +2916,7 @@
             "id": 30311,
             "level": 24,
             "icon": 3068,
-            "name": "Mysterious Necklace of the Rebirth",
+            "name": "Mysterious Necklace of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -3004,7 +2988,7 @@
             "id": 30469,
             "level": 24,
             "icon": 5508,
-            "name": "Horrifying Lavalier of the Rebirth",
+            "name": "Horrifying Lavalier of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -3028,7 +3012,7 @@
             "id": 31115,
             "level": 10,
             "icon": 5537,
-            "name": "Ferocious Medallion of Ragnar",
+            "name": "Ragnar's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -3036,7 +3020,7 @@
             "id": 31120,
             "level": 12,
             "icon": 5537,
-            "name": "Ferocious Medallion of Frosty Fang",
+            "name": "Frosty Fang's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -3044,7 +3028,7 @@
             "id": 31125,
             "level": 14,
             "icon": 5537,
-            "name": "Ferocious Necklace of Mastodon",
+            "name": "Mastodon's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -3052,7 +3036,7 @@
             "id": 31130,
             "level": 16,
             "icon": 5537,
-            "name": "Ferocious Lavalier of Taron",
+            "name": "Taron's Ferocious Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -3060,7 +3044,7 @@
             "id": 31135,
             "level": 20,
             "icon": 5537,
-            "name": "Ferocious Medallion of Gimir",
+            "name": "Gimir's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -3068,7 +3052,7 @@
             "id": 31145,
             "level": 24,
             "icon": 5537,
-            "name": "Ferocious Amulet of Ruberius",
+            "name": "Ruberius's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -3076,7 +3060,7 @@
             "id": 31150,
             "level": 26,
             "icon": 5537,
-            "name": "Ferocious Lavalier of Mortis",
+            "name": "Mortis's Ferocious Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -3084,7 +3068,7 @@
             "id": 31155,
             "level": 30,
             "icon": 5537,
-            "name": "Ferocious Medallion of Chernobog",
+            "name": "Chernobog's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -3100,7 +3084,7 @@
             "id": 27936,
             "level": 30,
             "icon": 2679,
-            "name": "All-Mighty Amulet of Ice Queen",
+            "name": "Ice Queen's Almighty Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -3121,10 +3105,10 @@
             "color": 3
         },
         {
-            "id": 25442,
-            "level": 28,
+            "id": 29557,
+            "level": 30,
             "icon": 4465,
-            "name": "Locket of the Legendary Period",
+            "name": "Medallion of the Grand Millennium",
             "itemType": 9,
             "color": 3
         },
@@ -3132,15 +3116,15 @@
             "id": 26361,
             "level": 29,
             "icon": 1752,
-            "name": "Amulet of Warriors of Sea Tramps",
+            "name": "Amulet of Sea Tramps Warriors",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 29636,
-            "level": 30,
-            "icon": 2748,
-            "name": "Symbol of Greatness",
+            "id": 26426,
+            "level": 28,
+            "icon": 3652,
+            "name": "Contender's Symbol",
             "itemType": 9,
             "color": 3
         },
@@ -3156,7 +3140,7 @@
             "id": 29802,
             "level": 11,
             "icon": 1740,
-            "name": "Amulet of Mercenary",
+            "name": "Hireling's Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -3180,7 +3164,7 @@
             "id": 30312,
             "level": 24,
             "icon": 3068,
-            "name": "Mysterious Amulet of the Rebirth",
+            "name": "Mysterious Amulet of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -3196,7 +3180,7 @@
             "id": 30362,
             "level": 18,
             "icon": 3068,
-            "name": "Mysterious Medallion of the Full Moon",
+            "name": "Mysterious Medallion of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -3236,7 +3220,7 @@
             "id": 30456,
             "level": 18,
             "icon": 5508,
-            "name": "Horrifying Amulet of the Full Moon",
+            "name": "Horrifying Amulet of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -3276,7 +3260,7 @@
             "id": 31112,
             "level": 6,
             "icon": 5537,
-            "name": "Ferocious Necklace of Iceman",
+            "name": "Iceman's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -3284,7 +3268,7 @@
             "id": 31117,
             "level": 10,
             "icon": 5537,
-            "name": "Ferocious Necklace of Ragnar",
+            "name": "Ragnar's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -3292,7 +3276,7 @@
             "id": 31122,
             "level": 12,
             "icon": 5537,
-            "name": "Ferocious Lavalier of Frosty Fang",
+            "name": "Frosty Fang's Ferocious Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -3300,7 +3284,7 @@
             "id": 31127,
             "level": 16,
             "icon": 5537,
-            "name": "Ferocious Medallion of Taron",
+            "name": "Taron's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -3308,7 +3292,7 @@
             "id": 31132,
             "level": 18,
             "icon": 5537,
-            "name": "Ferocious Necklace of Kerula",
+            "name": "Kerula's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -3316,7 +3300,7 @@
             "id": 31147,
             "level": 26,
             "icon": 5537,
-            "name": "Ferocious Medallion of Mortis",
+            "name": "Mortis's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -3324,7 +3308,7 @@
             "id": 31152,
             "level": 28,
             "icon": 5537,
-            "name": "Ferocious Necklace of the Snow General",
+            "name": "Snow General's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -3332,15 +3316,15 @@
             "id": 31157,
             "level": 30,
             "icon": 5537,
-            "name": "Ferocious Amulet of Chernobog",
+            "name": "Chernobog's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 26426,
+            "id": 25442,
             "level": 28,
-            "icon": 3652,
-            "name": "Contender's Symbol",
+            "icon": 4465,
+            "name": "Locket of Legendary Period",
             "itemType": 9,
             "color": 3
         },
@@ -3369,10 +3353,10 @@
             "color": 3
         },
         {
-            "id": 26427,
-            "level": 28,
-            "icon": 3652,
-            "name": "Contender's Symbol",
+            "id": 29636,
+            "level": 30,
+            "icon": 2748,
+            "name": "Symbol of Greatness",
             "itemType": 9,
             "color": 3
         },
@@ -3388,15 +3372,15 @@
             "id": 27161,
             "level": 30,
             "icon": 3068,
-            "name": "Almighty Pendant of Eternity",
+            "name": "Almighty Lavalier of Eternity",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 29797,
-            "level": 7,
-            "icon": 1752,
-            "name": "Necklace of Recruit",
+            "id": 27937,
+            "level": 30,
+            "icon": 3140,
+            "name": "Aquilon's Almighty Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -3404,7 +3388,7 @@
             "id": 29800,
             "level": 11,
             "icon": 1746,
-            "name": "Medallion of Mercenary",
+            "name": "Hireling's Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -3452,7 +3436,7 @@
             "id": 30365,
             "level": 18,
             "icon": 3068,
-            "name": "Mysterious Lavalier of the Full Moon",
+            "name": "Mysterious Lavalier of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -3516,7 +3500,7 @@
             "id": 30455,
             "level": 18,
             "icon": 5508,
-            "name": "Horrifying Necklace of the Full Moon",
+            "name": "Horrifying Necklace of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -3524,7 +3508,7 @@
             "id": 30457,
             "level": 18,
             "icon": 5508,
-            "name": "Horrifying Lavalier of the Full Moon",
+            "name": "Horrifying Lavalier of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -3548,7 +3532,7 @@
             "id": 31113,
             "level": 6,
             "icon": 5537,
-            "name": "Ferocious Amulet of Iceman",
+            "name": "Iceman's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -3556,7 +3540,7 @@
             "id": 31118,
             "level": 10,
             "icon": 5537,
-            "name": "Ferocious Lavalier of Ragnar",
+            "name": "Ragnar's Ferocious Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -3564,7 +3548,7 @@
             "id": 31123,
             "level": 14,
             "icon": 5537,
-            "name": "Ferocious Amulet of Mastodon",
+            "name": "Mastodon's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -3572,7 +3556,7 @@
             "id": 31128,
             "level": 16,
             "icon": 5537,
-            "name": "Ferocious Necklace of Taron",
+            "name": "Taron's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -3580,7 +3564,7 @@
             "id": 31133,
             "level": 18,
             "icon": 5537,
-            "name": "Ferocious Amulet of Kerula",
+            "name": "Kerula's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -3588,7 +3572,7 @@
             "id": 31148,
             "level": 26,
             "icon": 5537,
-            "name": "Ferocious Necklace of Mortis",
+            "name": "Mortis's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -3596,7 +3580,7 @@
             "id": 31153,
             "level": 28,
             "icon": 5537,
-            "name": "Ferocious Amulet of the Snow General",
+            "name": "Snow General's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -3604,15 +3588,15 @@
             "id": 31158,
             "level": 30,
             "icon": 5537,
-            "name": "Ferocious Lavalier of Chernobog",
+            "name": "Chernobog's Ferocious Lavalier",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 27937,
-            "level": 30,
-            "icon": 3140,
-            "name": "All-Mighty Amulet of Aquilon",
+            "id": 26427,
+            "level": 28,
+            "icon": 3652,
+            "name": "Contender's Symbol",
             "itemType": 9,
             "color": 3
         },
@@ -3633,6 +3617,14 @@
             "color": 3
         },
         {
+            "id": 29797,
+            "level": 7,
+            "icon": 1752,
+            "name": "Recruit's Necklace",
+            "itemType": 9,
+            "color": 3
+        },
+        {
             "id": 27158,
             "level": 30,
             "icon": 3068,
@@ -3641,26 +3633,10 @@
             "color": 3
         },
         {
-            "id": 30475,
-            "level": 28,
-            "icon": 5508,
-            "name": "Horrifying Necklace of Resurrection",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 30480,
-            "level": 30,
-            "icon": 5508,
-            "name": "Horrifying Amulet of Eternity",
-            "itemType": 9,
-            "color": 3
-        },
-        {
             "id": 31111,
             "level": 6,
             "icon": 5537,
-            "name": "Ferocious Medallion of Iceman",
+            "name": "Iceman's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -3668,7 +3644,7 @@
             "id": 31116,
             "level": 10,
             "icon": 5537,
-            "name": "Ferocious Amulet of Ragnar",
+            "name": "Ragnar's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -3676,7 +3652,7 @@
             "id": 31121,
             "level": 12,
             "icon": 5537,
-            "name": "Ferocious Necklace of Frosty Fang",
+            "name": "Frosty Fang's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -3684,7 +3660,7 @@
             "id": 31126,
             "level": 14,
             "icon": 5537,
-            "name": "Ferocious Lavalier of Mastodon",
+            "name": "Mastodon's Ferocious Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -3692,7 +3668,7 @@
             "id": 31136,
             "level": 20,
             "icon": 5537,
-            "name": "Ferocious Necklace of Gimir",
+            "name": "Gimir's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -3700,7 +3676,7 @@
             "id": 31146,
             "level": 24,
             "icon": 5537,
-            "name": "Ferocious Lavalier of Ruberius",
+            "name": "Ruberius's Ferocious Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -3708,7 +3684,7 @@
             "id": 31151,
             "level": 28,
             "icon": 5537,
-            "name": "Ferocious Medallion of the Snow General",
+            "name": "Snow General's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -3716,7 +3692,7 @@
             "id": 31156,
             "level": 30,
             "icon": 5537,
-            "name": "Ferocious Necklace of Chernobog",
+            "name": "Chernobog's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -3828,7 +3804,7 @@
             "id": 33213,
             "level": 18,
             "icon": 3068,
-            "name": "Otherworldly Amulet of the Full Moon",
+            "name": "Otherworldly Amulet of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -3836,7 +3812,7 @@
             "id": 33218,
             "level": 24,
             "icon": 3068,
-            "name": "Otherworldly Medallion of the Rebirth",
+            "name": "Otherworldly Medallion of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -3860,7 +3836,7 @@
             "id": 33685,
             "level": 32,
             "icon": 5537,
-            "name": "Ferocious Amulet of Titan",
+            "name": "Titan's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -3889,18 +3865,18 @@
             "color": 3
         },
         {
-            "id": 31908,
-            "level": 20,
-            "icon": 5698,
-            "name": "Magic Necklace of Justice",
+            "id": 30475,
+            "level": 28,
+            "icon": 5508,
+            "name": "Horrifying Necklace of Resurrection",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 31918,
-            "level": 16,
-            "icon": 5698,
-            "name": "Magic Amulet of Magnanimity",
+            "id": 30480,
+            "level": 30,
+            "icon": 5508,
+            "name": "Horrifying Amulet of Eternity",
             "itemType": 9,
             "color": 3
         },
@@ -3948,7 +3924,7 @@
             "id": 32280,
             "level": 28,
             "icon": 4465,
-            "name": "Ancient Medallion of the Legendary Period",
+            "name": "Ancient Medallion of Legendary Period",
             "itemType": 9,
             "color": 3
         },
@@ -4020,7 +3996,7 @@
             "id": 33219,
             "level": 24,
             "icon": 3068,
-            "name": "Otherworldly Amulet of the Rebirth",
+            "name": "Otherworldly Amulet of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -4105,18 +4081,18 @@
             "color": 3
         },
         {
-            "id": 31903,
-            "level": 10,
+            "id": 31908,
+            "level": 20,
             "icon": 5698,
-            "name": "Magic Necklace of Boldness",
+            "name": "Magic Necklace of Justice",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 31915,
-            "level": 10,
+            "id": 31918,
+            "level": 16,
             "icon": 5698,
-            "name": "Magic Amulet of Boldness",
+            "name": "Magic Amulet of Magnanimity",
             "itemType": 9,
             "color": 3
         },
@@ -4180,7 +4156,7 @@
             "id": 32294,
             "level": 28,
             "icon": 4465,
-            "name": "Ancient Amulet of the Legendary Period",
+            "name": "Ancient Amulet of Legendary Period",
             "itemType": 9,
             "color": 3
         },
@@ -4252,7 +4228,7 @@
             "id": 33682,
             "level": 32,
             "icon": 5537,
-            "name": "Ferocious Medallion of Titan",
+            "name": "Titan's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -4260,7 +4236,7 @@
             "id": 33687,
             "level": 32,
             "icon": 5537,
-            "name": "Ferocious Lavalier of Titan",
+            "name": "Titan's Ferocious Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -4345,18 +4321,26 @@
             "color": 3
         },
         {
-            "id": 31916,
-            "level": 12,
+            "id": 31903,
+            "level": 10,
             "icon": 5698,
-            "name": "Magic Amulet of Devotion",
+            "name": "Magic Necklace of Boldness",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 31921,
-            "level": 22,
+            "id": 31915,
+            "level": 10,
             "icon": 5698,
-            "name": "Magic Amulet of Honor",
+            "name": "Magic Amulet of Boldness",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 31890,
+            "level": 6,
+            "icon": 5698,
+            "name": "Magic Medallion of Daring",
             "itemType": 9,
             "color": 3
         },
@@ -4412,7 +4396,7 @@
             "id": 32301,
             "level": 28,
             "icon": 4465,
-            "name": "Ancient Lavalier of the Legendary Period",
+            "name": "Ancient Lavalier of Legendary Period",
             "itemType": 9,
             "color": 3
         },
@@ -4428,7 +4412,7 @@
             "id": 33166,
             "level": 32,
             "icon": 3068,
-            "name": "Mighty Pendant of Integrity",
+            "name": "Mighty Lavalier of Integrity",
             "itemType": 9,
             "color": 3
         },
@@ -4476,7 +4460,7 @@
             "id": 33683,
             "level": 32,
             "icon": 5537,
-            "name": "Storm Medallion of Titan",
+            "name": "Titan's Storm Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -4484,7 +4468,7 @@
             "id": 33719,
             "level": 10,
             "icon": 5537,
-            "name": "Storm Medallion of Ragnar",
+            "name": "Ragnar's Storm Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -4561,14 +4545,6 @@
             "color": 3
         },
         {
-            "id": 31890,
-            "level": 6,
-            "icon": 5698,
-            "name": "Magic Medallion of Daring",
-            "itemType": 9,
-            "color": 3
-        },
-        {
             "id": 31895,
             "level": 18,
             "icon": 5698,
@@ -4593,18 +4569,26 @@
             "color": 3
         },
         {
-            "id": 31894,
-            "level": 16,
+            "id": 31916,
+            "level": 12,
             "icon": 5698,
-            "name": "Magic Medallion of Magnanimity",
+            "name": "Magic Amulet of Devotion",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 31896,
-            "level": 20,
+            "id": 31921,
+            "level": 22,
             "icon": 5698,
-            "name": "Magic Medallion of Justice",
+            "name": "Magic Amulet of Honor",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 31891,
+            "level": 10,
+            "icon": 5698,
+            "name": "Magic Medallion of Boldness",
             "itemType": 9,
             "color": 3
         },
@@ -4740,7 +4724,7 @@
             "id": 33167,
             "level": 32,
             "icon": 3068,
-            "name": "Almighty Pendant of Integrity",
+            "name": "Almighty Lavalier of Integrity",
             "itemType": 9,
             "color": 3
         },
@@ -4764,7 +4748,7 @@
             "id": 33212,
             "level": 18,
             "icon": 3068,
-            "name": "Otherworldly Medallion of the Full Moon",
+            "name": "Otherworldly Medallion of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -4796,7 +4780,7 @@
             "id": 33684,
             "level": 32,
             "icon": 5537,
-            "name": "Ferocious Necklace of Titan",
+            "name": "Titan's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -4873,34 +4857,18 @@
             "color": 3
         },
         {
-            "id": 31891,
-            "level": 10,
+            "id": 31894,
+            "level": 16,
             "icon": 5698,
-            "name": "Magic Medallion of Boldness",
+            "name": "Magic Medallion of Magnanimity",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 32287,
-            "level": 28,
-            "icon": 4465,
-            "name": "Ancient Necklace of the Legendary Period",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33162,
-            "level": 32,
-            "icon": 3068,
-            "name": "Almighty Necklace of Integrity",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 34739,
-            "level": 28,
+            "id": 31896,
+            "level": 20,
             "icon": 5698,
-            "name": "Bewitching Amulet of Courage",
+            "name": "Magic Medallion of Justice",
             "itemType": 9,
             "color": 3
         },
@@ -4913,10 +4881,26 @@
             "color": 3
         },
         {
-            "id": 34678,
-            "level": 18,
+            "id": 34739,
+            "level": 28,
             "icon": 5698,
-            "name": "Bewitching Necklace of Nobleness",
+            "name": "Bewitching Amulet of Courage",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 32287,
+            "level": 28,
+            "icon": 4465,
+            "name": "Ancient Necklace of Legendary Period",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33162,
+            "level": 32,
+            "icon": 3068,
+            "name": "Almighty Necklace of Integrity",
             "itemType": 9,
             "color": 3
         },
@@ -4933,6 +4917,14 @@
             "level": 22,
             "icon": 5698,
             "name": "Bewitching Medallion of Honor",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 34702,
+            "level": 22,
+            "icon": 5698,
+            "name": "Bewitching Necklace of Honor",
             "itemType": 9,
             "color": 3
         },
@@ -4977,18 +4969,10 @@
             "color": 3
         },
         {
-            "id": 34702,
-            "level": 22,
+            "id": 34678,
+            "level": 18,
             "icon": 5698,
-            "name": "Bewitching Necklace of Honor",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 34703,
-            "level": 22,
-            "icon": 5698,
-            "name": "Bewitching Amulet of Honor",
+            "name": "Bewitching Necklace of Nobleness",
             "itemType": 9,
             "color": 3
         },
@@ -4997,6 +4981,14 @@
             "level": 26,
             "icon": 5698,
             "name": "Bewitching Necklace of Fearlessness",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 34703,
+            "level": 22,
+            "icon": 5698,
+            "name": "Bewitching Amulet of Honor",
             "itemType": 9,
             "color": 3
         },
@@ -5017,6 +5009,14 @@
             "color": 3
         },
         {
+            "id": 34750,
+            "level": 30,
+            "icon": 5698,
+            "name": "Bewitching Necklace of Fortitude",
+            "itemType": 9,
+            "color": 3
+        },
+        {
             "id": 34713,
             "level": 24,
             "icon": 5698,
@@ -5033,10 +5033,18 @@
             "color": 3
         },
         {
-            "id": 34750,
+            "id": 34737,
+            "level": 28,
+            "icon": 5698,
+            "name": "Bewitching Medallion of Courage",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 34751,
             "level": 30,
             "icon": 5698,
-            "name": "Bewitching Necklace of Fortitude",
+            "name": "Bewitching Amulet of Fortitude",
             "itemType": 9,
             "color": 3
         },
@@ -5053,22 +5061,6 @@
             "level": 26,
             "icon": 5698,
             "name": "Bewitching Lavalier of Fearlessness",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 34737,
-            "level": 28,
-            "icon": 5698,
-            "name": "Bewitching Medallion of Courage",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 34751,
-            "level": 30,
-            "icon": 5698,
-            "name": "Bewitching Amulet of Fortitude",
             "itemType": 9,
             "color": 3
         },
@@ -5108,7 +5100,7 @@
             "id": 26364,
             "level": 29,
             "icon": 1752,
-            "name": "Lavalier of Templars of Sea Tramps",
+            "name": "Lavalier of Sea Tramps Templars",
             "itemType": 9,
             "color": 3
         },
@@ -5116,7 +5108,7 @@
             "id": 26362,
             "level": 29,
             "icon": 1752,
-            "name": "Amulet of Assassins of Sea Tramps",
+            "name": "Amulet of Sea Tramps Assassins",
             "itemType": 9,
             "color": 3
         },
@@ -5172,7 +5164,7 @@
             "id": 30454,
             "level": 18,
             "icon": 5508,
-            "name": "Horrifying Medallion of the Full Moon",
+            "name": "Horrifying Medallion of Full Moon",
             "itemType": 9,
             "color": 3
         },
@@ -5180,7 +5172,7 @@
             "id": 30466,
             "level": 24,
             "icon": 5508,
-            "name": "Horrifying Medallion of the Rebirth",
+            "name": "Horrifying Medallion of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -5212,7 +5204,7 @@
             "id": 33686,
             "level": 32,
             "icon": 5537,
-            "name": "Storm Amulet of Titan",
+            "name": "Titan's Storm Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -5244,7 +5236,7 @@
             "id": 11253,
             "level": 5,
             "icon": 3140,
-            "name": "Small Amulet of Aquilon",
+            "name": "Aquilon's Lesser Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -5268,7 +5260,7 @@
             "id": 26359,
             "level": 29,
             "icon": 1752,
-            "name": "Medallion of Mages of Sea Tramps",
+            "name": "Medallion of Sea Tramps Mages",
             "itemType": 9,
             "color": 3
         },
@@ -5412,7 +5404,7 @@
             "id": 25441,
             "level": 28,
             "icon": 4465,
-            "name": "Amulet of the Legendary Period",
+            "name": "Amulet of Legendary Period",
             "itemType": 9,
             "color": 3
         },
@@ -5420,7 +5412,7 @@
             "id": 36748,
             "level": 20,
             "icon": 5537,
-            "name": "Storm Necklace of Gimir",
+            "name": "Gimir's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5428,7 +5420,7 @@
             "id": 36758,
             "level": 14,
             "icon": 5537,
-            "name": "Storm Pendant of Mastodon",
+            "name": "Mastodon's Storm Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5436,7 +5428,7 @@
             "id": 36742,
             "level": 6,
             "icon": 5537,
-            "name": "Storm Necklace of Iceman",
+            "name": "Iceman's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5444,7 +5436,7 @@
             "id": 36752,
             "level": 28,
             "icon": 5537,
-            "name": "Storm Necklace of the Snow General",
+            "name": "Snow General's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5452,7 +5444,7 @@
             "id": 36762,
             "level": 22,
             "icon": 5537,
-            "name": "Storm Pendant of Flavius",
+            "name": "Flavius's Storm Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5460,7 +5452,7 @@
             "id": 25439,
             "level": 28,
             "icon": 4465,
-            "name": "Medallion of the Legendary Period",
+            "name": "Medallion of Legendary Period",
             "itemType": 9,
             "color": 3
         },
@@ -5476,7 +5468,7 @@
             "id": 35309,
             "level": 31,
             "icon": 1752,
-            "name": "Amulet of the Assassins of the Pirate Brotherhood",
+            "name": "Amulet of Pirate Brotherhood Assassins",
             "itemType": 9,
             "color": 3
         },
@@ -5492,7 +5484,7 @@
             "id": 35181,
             "level": 32,
             "icon": 4465,
-            "name": "Ancient Pendant of the Monumental Milestone",
+            "name": "Ancient Lavalier of the Monumental Milestone",
             "itemType": 9,
             "color": 3
         },
@@ -5516,7 +5508,7 @@
             "id": 35311,
             "level": 31,
             "icon": 1752,
-            "name": "Pendant of the Templars of the Pirate Brotherhood",
+            "name": "Lavalier of Pirate Brotherhood Templars",
             "itemType": 9,
             "color": 3
         },
@@ -5532,7 +5524,7 @@
             "id": 35180,
             "level": 32,
             "icon": 4465,
-            "name": "Pendant of the Monumental Milestone",
+            "name": "Lavalier of the Monumental Milestone",
             "itemType": 9,
             "color": 3
         },
@@ -5556,7 +5548,7 @@
             "id": 35310,
             "level": 31,
             "icon": 1752,
-            "name": "Pendant of the Defenders of the Pirate Brotherhood",
+            "name": "Lavalier of Pirate Brotherhood Defenders",
             "itemType": 9,
             "color": 3
         },
@@ -5580,7 +5572,7 @@
             "id": 35217,
             "level": 28,
             "icon": 4465,
-            "name": "Sacred Amulet of the Legendary Period",
+            "name": "Sacred Amulet of Legendary Period",
             "itemType": 9,
             "color": 3
         },
@@ -5604,7 +5596,7 @@
             "id": 35211,
             "level": 28,
             "icon": 4465,
-            "name": "Sacred Medallion of the Legendary Period",
+            "name": "Sacred Medallion of Legendary Period",
             "itemType": 9,
             "color": 3
         },
@@ -5628,7 +5620,7 @@
             "id": 35306,
             "level": 31,
             "icon": 1752,
-            "name": "Medallion of the Sorcerers of the Pirate Brotherhood",
+            "name": "Medallion of Pirate Brotherhood Sorcerers",
             "itemType": 9,
             "color": 3
         },
@@ -5636,7 +5628,7 @@
             "id": 35307,
             "level": 31,
             "icon": 1752,
-            "name": "Medallion of the Spellweavers of the Pirate Brotherhood",
+            "name": "Medallion of Pirate Brotherhood Spellweavers",
             "itemType": 9,
             "color": 3
         },
@@ -5644,7 +5636,7 @@
             "id": 36743,
             "level": 10,
             "icon": 5537,
-            "name": "Storm Necklace of Ragnar",
+            "name": "Ragnar's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5652,7 +5644,7 @@
             "id": 36753,
             "level": 30,
             "icon": 5537,
-            "name": "Storm Necklace of Chernobog",
+            "name": "Chernobog's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5684,7 +5676,7 @@
             "id": 36750,
             "level": 24,
             "icon": 5537,
-            "name": "Storm Necklace of Ruberius",
+            "name": "Ruberius's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5692,7 +5684,7 @@
             "id": 36763,
             "level": 24,
             "icon": 5537,
-            "name": "Storm Pendant of Ruberius",
+            "name": "Ruberius's Storm Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5708,7 +5700,7 @@
             "id": 36760,
             "level": 18,
             "icon": 5537,
-            "name": "Storm Pendant of Kerula",
+            "name": "Kerula's Storm Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5732,7 +5724,7 @@
             "id": 35308,
             "level": 31,
             "icon": 1752,
-            "name": "Amulet of the Warriors of the Pirate Brotherhood",
+            "name": "Amulet of Pirate Brotherhood Warriors",
             "itemType": 9,
             "color": 3
         },
@@ -5740,7 +5732,7 @@
             "id": 36751,
             "level": 26,
             "icon": 5537,
-            "name": "Storm Necklace of Mortis",
+            "name": "Mortis's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5748,7 +5740,7 @@
             "id": 36761,
             "level": 20,
             "icon": 5537,
-            "name": "Storm Pendant of Gimir",
+            "name": "Gimir's Storm Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5756,7 +5748,7 @@
             "id": 36746,
             "level": 16,
             "icon": 5537,
-            "name": "Storm Necklace of Taron",
+            "name": "Taron's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5764,7 +5756,7 @@
             "id": 36749,
             "level": 22,
             "icon": 5537,
-            "name": "Storm Necklace of Flavius",
+            "name": "Flavius's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5772,7 +5764,7 @@
             "id": 36756,
             "level": 10,
             "icon": 5537,
-            "name": "Storm Pendant of Ragnar",
+            "name": "Ragnar's Storm Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5780,7 +5772,7 @@
             "id": 36759,
             "level": 16,
             "icon": 5537,
-            "name": "Storm Pendant of Taron",
+            "name": "Taron's Storm Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5788,23 +5780,7 @@
             "id": 36766,
             "level": 30,
             "icon": 5537,
-            "name": "Storm Pendant of Chernobog",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 36757,
-            "level": 12,
-            "icon": 5537,
-            "name": "Storm Pendant of Frosty Fang",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 36767,
-            "level": 32,
-            "icon": 5537,
-            "name": "Storm Pendant of Titan",
+            "name": "Chernobog's Storm Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5812,15 +5788,23 @@
             "id": 36747,
             "level": 18,
             "icon": 5537,
-            "name": "Storm Necklace of Kerula",
+            "name": "Kerula's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
         {
-            "id": 36744,
+            "id": 36757,
             "level": 12,
             "icon": 5537,
-            "name": "Storm Necklace of Frosty Fang",
+            "name": "Frosty Fang's Storm Lavalier",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 36767,
+            "level": 32,
+            "icon": 5537,
+            "name": "Titan's Storm Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5828,7 +5812,7 @@
             "id": 36745,
             "level": 14,
             "icon": 5537,
-            "name": "Storm Necklace of Mastodon",
+            "name": "Mastodon's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5836,7 +5820,7 @@
             "id": 36754,
             "level": 32,
             "icon": 5537,
-            "name": "Storm Necklace of Titan",
+            "name": "Titan's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5844,7 +5828,7 @@
             "id": 36755,
             "level": 6,
             "icon": 5537,
-            "name": "Storm Pendant of Iceman",
+            "name": "Iceman's Storm Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5852,7 +5836,7 @@
             "id": 36764,
             "level": 26,
             "icon": 5537,
-            "name": "Storm Pendant of Mortis",
+            "name": "Mortis's Storm Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5860,7 +5844,15 @@
             "id": 36765,
             "level": 28,
             "icon": 5537,
-            "name": "Storm Pendant of the Snow General",
+            "name": "Snow General's Storm Lavalier",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 36744,
+            "level": 12,
+            "icon": 5537,
+            "name": "Frosty Fang's Storm Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5908,7 +5900,7 @@
             "id": 31137,
             "level": 20,
             "icon": 5537,
-            "name": "Ferocious Amulet of Gimir",
+            "name": "Gimir's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -5916,7 +5908,7 @@
             "id": 31138,
             "level": 20,
             "icon": 5537,
-            "name": "Ferocious Lavalier of Gimir",
+            "name": "Gimir's Ferocious Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5924,7 +5916,7 @@
             "id": 31139,
             "level": 22,
             "icon": 5537,
-            "name": "Ferocious Medallion of Flavius",
+            "name": "Flavius's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -5932,7 +5924,7 @@
             "id": 31140,
             "level": 22,
             "icon": 5537,
-            "name": "Ferocious Necklace of Flavius",
+            "name": "Flavius's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5940,7 +5932,7 @@
             "id": 31141,
             "level": 22,
             "icon": 5537,
-            "name": "Ferocious Amulet of Flavius",
+            "name": "Flavius's Ferocious Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -5948,7 +5940,7 @@
             "id": 31142,
             "level": 22,
             "icon": 5537,
-            "name": "Ferocious Lavalier of Flavius",
+            "name": "Flavius's Ferocious Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -5956,7 +5948,7 @@
             "id": 31143,
             "level": 24,
             "icon": 5537,
-            "name": "Ferocious Medallion of Ruberius",
+            "name": "Ruberius's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -5964,7 +5956,7 @@
             "id": 31144,
             "level": 24,
             "icon": 5537,
-            "name": "Ferocious Necklace of Ruberius",
+            "name": "Ruberius's Ferocious Necklace",
             "itemType": 9,
             "color": 3
         },
@@ -5972,7 +5964,7 @@
             "id": 33718,
             "level": 6,
             "icon": 5537,
-            "name": "Storm Medallion of Iceman",
+            "name": "Iceman's Storm Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -5980,7 +5972,7 @@
             "id": 33736,
             "level": 20,
             "icon": 5537,
-            "name": "Storm Amulet of Gimir",
+            "name": "Gimir's Storm Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -5988,7 +5980,7 @@
             "id": 33779,
             "level": 5,
             "icon": 2677,
-            "name": "Small Medallion of Ice Queen",
+            "name": "Ice Queen's Lesser Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -5996,23 +5988,7 @@
             "id": 33788,
             "level": 20,
             "icon": 3140,
-            "name": "Powerful Medallion of Aquilon",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33722,
-            "level": 16,
-            "icon": 5537,
-            "name": "Storm Medallion of Taron",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33723,
-            "level": 18,
-            "icon": 5537,
-            "name": "Storm Medallion of Kerula",
+            "name": "Aquilon's Mighty Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -6020,7 +5996,7 @@
             "id": 33729,
             "level": 30,
             "icon": 5537,
-            "name": "Storm Medallion of Chernobog",
+            "name": "Chernobog's Storm Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -6028,7 +6004,7 @@
             "id": 33730,
             "level": 6,
             "icon": 5537,
-            "name": "Storm Amulet of Iceman",
+            "name": "Iceman's Storm Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -6036,55 +6012,7 @@
             "id": 33731,
             "level": 10,
             "icon": 5537,
-            "name": "Storm Amulet of Ragnar",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33781,
-            "level": 15,
-            "icon": 2679,
-            "name": "Great Medallion of Ice Queen",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33782,
-            "level": 20,
-            "icon": 2679,
-            "name": "Powerful Medallion of Ice Queen",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33783,
-            "level": 25,
-            "icon": 2679,
-            "name": "Legendary Medallion of Ice Queen",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33784,
-            "level": 30,
-            "icon": 2679,
-            "name": "All-Mighty Medallion of Ice Queen",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33785,
-            "level": 5,
-            "icon": 3140,
-            "name": "Small Medallion of Aquilon",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33790,
-            "level": 30,
-            "icon": 3140,
-            "name": "All-Mighty Medallion of Aquilon",
+            "name": "Ragnar's Storm Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -6092,7 +6020,7 @@
             "id": 33732,
             "level": 12,
             "icon": 5537,
-            "name": "Storm Amulet of Frosty Fang",
+            "name": "Frosty Fang's Storm Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -6100,7 +6028,55 @@
             "id": 33733,
             "level": 14,
             "icon": 5537,
-            "name": "Storm Amulet of Mastodon",
+            "name": "Mastodon's Storm Amulet",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33781,
+            "level": 15,
+            "icon": 2679,
+            "name": "Ice Queen's Great Medallion",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33782,
+            "level": 20,
+            "icon": 2679,
+            "name": "Ice Queen's Mighty Medallion",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33783,
+            "level": 25,
+            "icon": 2679,
+            "name": "Ice Queen's Legendary Medallion",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33784,
+            "level": 30,
+            "icon": 2679,
+            "name": "Ice Queen's Almighty Medallion",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33785,
+            "level": 5,
+            "icon": 3140,
+            "name": "Aquilon's Lesser Medallion",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33790,
+            "level": 30,
+            "icon": 3140,
+            "name": "Aquilon's Almighty Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -6108,7 +6084,23 @@
             "id": 33738,
             "level": 24,
             "icon": 5537,
-            "name": "Storm Amulet of Ruberius",
+            "name": "Ruberius's Storm Amulet",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33722,
+            "level": 16,
+            "icon": 5537,
+            "name": "Taron's Storm Medallion",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33723,
+            "level": 18,
+            "icon": 5537,
+            "name": "Kerula's Storm Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -6116,7 +6108,7 @@
             "id": 33739,
             "level": 26,
             "icon": 5537,
-            "name": "Storm Amulet of Mortis",
+            "name": "Mortis's Storm Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -6124,7 +6116,7 @@
             "id": 33740,
             "level": 28,
             "icon": 5537,
-            "name": "Storm Amulet of the Snow General",
+            "name": "Snow General's Storm Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -6132,23 +6124,7 @@
             "id": 33741,
             "level": 30,
             "icon": 5537,
-            "name": "Storm Amulet of Chernobog",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33725,
-            "level": 22,
-            "icon": 5537,
-            "name": "Storm Medallion of Flavius",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33726,
-            "level": 24,
-            "icon": 5537,
-            "name": "Storm Medallion of Ruberius",
+            "name": "Chernobog's Storm Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -6156,7 +6132,7 @@
             "id": 33728,
             "level": 28,
             "icon": 5537,
-            "name": "Storm Medallion of the Snow General",
+            "name": "Snow General's Storm Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -6164,39 +6140,7 @@
             "id": 33734,
             "level": 16,
             "icon": 5537,
-            "name": "Storm Amulet of Taron",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33780,
-            "level": 10,
-            "icon": 2678,
-            "name": "Medallion of Ice Queen",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33786,
-            "level": 10,
-            "icon": 3140,
-            "name": "Medallion of Aquilon",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33787,
-            "level": 15,
-            "icon": 3140,
-            "name": "Great Medallion of Aquilon",
-            "itemType": 9,
-            "color": 3
-        },
-        {
-            "id": 33789,
-            "level": 25,
-            "icon": 3140,
-            "name": "Legendary Medallion of Aquilon",
+            "name": "Taron's Storm Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -6204,7 +6148,7 @@
             "id": 33735,
             "level": 18,
             "icon": 5537,
-            "name": "Storm Amulet of Kerula",
+            "name": "Kerula's Storm Amulet",
             "itemType": 9,
             "color": 3
         },
@@ -6212,7 +6156,55 @@
             "id": 33737,
             "level": 22,
             "icon": 5537,
-            "name": "Storm Amulet of Flavius",
+            "name": "Flavius's Storm Amulet",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33787,
+            "level": 15,
+            "icon": 3140,
+            "name": "Aquilon's Great Medallion",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33789,
+            "level": 25,
+            "icon": 3140,
+            "name": "Aquilon's Legendary Medallion",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33725,
+            "level": 22,
+            "icon": 5537,
+            "name": "Flavius's Storm Medallion",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33726,
+            "level": 24,
+            "icon": 5537,
+            "name": "Ruberius's Storm Medallion",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33780,
+            "level": 10,
+            "icon": 2678,
+            "name": "Ice Queen's Medallion",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 33786,
+            "level": 10,
+            "icon": 3140,
+            "name": "Aquilon's Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -6233,6 +6225,14 @@
             "color": 3
         },
         {
+            "id": 24145,
+            "level": 28,
+            "icon": 3068,
+            "name": "Mighty Lavalier of Resurrection",
+            "itemType": 9,
+            "color": 3
+        },
+        {
             "id": 23435,
             "level": 20,
             "icon": 4465,
@@ -6241,18 +6241,10 @@
             "color": 3
         },
         {
-            "id": 24145,
-            "level": 28,
-            "icon": 3068,
-            "name": "Mighty Pendant of Resurrection",
-            "itemType": 9,
-            "color": 3
-        },
-        {
             "id": 30467,
             "level": 24,
             "icon": 5508,
-            "name": "Horrifying Necklace of the Rebirth",
+            "name": "Horrifying Necklace of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -6268,7 +6260,7 @@
             "id": 33727,
             "level": 26,
             "icon": 5537,
-            "name": "Storm Medallion of Mortis",
+            "name": "Mortis's Storm Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -6281,18 +6273,26 @@
             "color": 3
         },
         {
-            "id": 11257,
-            "level": 10,
-            "icon": 2678,
-            "name": "Amulet of Ice Queen",
-            "itemType": 9,
-            "color": 3
-        },
-        {
             "id": 6497,
             "level": 18,
             "icon": 1746,
             "name": "Amulet of Inward Power",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 11257,
+            "level": 10,
+            "icon": 2678,
+            "name": "Ice Queen's Amulet",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 12870,
+            "level": 6,
+            "icon": 2748,
+            "name": "Symbol of Greatness",
             "itemType": 9,
             "color": 3
         },
@@ -6303,14 +6303,6 @@
             "name": "Wulturn's Great Amulet",
             "itemType": 9,
             "color": 2
-        },
-        {
-            "id": 12870,
-            "level": 6,
-            "icon": 2748,
-            "name": "Symbol of Greatness",
-            "itemType": 9,
-            "color": 3
         },
         {
             "id": 17540,
@@ -6340,7 +6332,7 @@
             "id": 29803,
             "level": 11,
             "icon": 1746,
-            "name": "Lavalier of Mercenary",
+            "name": "Hireling's Lavalier",
             "itemType": 9,
             "color": 3
         },
@@ -6372,7 +6364,7 @@
             "id": 33721,
             "level": 14,
             "icon": 5537,
-            "name": "Storm Medallion of Mastodon",
+            "name": "Mastodon's Storm Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -6436,7 +6428,7 @@
             "id": 30310,
             "level": 24,
             "icon": 3068,
-            "name": "Mysterious Medallion of the Rebirth",
+            "name": "Mysterious Medallion of Rebirth",
             "itemType": 9,
             "color": 3
         },
@@ -6452,7 +6444,7 @@
             "id": 31131,
             "level": 18,
             "icon": 5537,
-            "name": "Ferocious Medallion of Kerula",
+            "name": "Kerula's Ferocious Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -6492,7 +6484,7 @@
             "id": 33720,
             "level": 12,
             "icon": 5537,
-            "name": "Storm Medallion of Frosty Fang",
+            "name": "Frosty Fang's Storm Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -6500,7 +6492,7 @@
             "id": 33724,
             "level": 20,
             "icon": 5537,
-            "name": "Storm Medallion of Gimir",
+            "name": "Gimir's Storm Medallion",
             "itemType": 9,
             "color": 3
         },
@@ -6524,7 +6516,7 @@
             "id": 26360,
             "level": 29,
             "icon": 1752,
-            "name": "Medallion of Charmers of Sea Tramps",
+            "name": "Medallion of Sea Tramps Charmers",
             "itemType": 9,
             "color": 3
         },
@@ -6533,6 +6525,14 @@
             "level": 31,
             "icon": 4957,
             "name": "Medallion of Admiral",
+            "itemType": 9,
+            "color": 3
+        },
+        {
+            "id": 2107,
+            "level": 13,
+            "icon": 1746,
+            "name": "Graceful Lavalier",
             "itemType": 9,
             "color": 3
         },

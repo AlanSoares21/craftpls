@@ -108,7 +108,7 @@
             "id": 2290,
             "level": 15,
             "icon": 1337,
-            "name": "Diadem of Berengar's light",
+            "name": "Diadem of Berengar's Light",
             "itemType": 5,
             "color": 4
         },
@@ -124,7 +124,7 @@
             "id": 2346,
             "level": 15,
             "icon": 1876,
-            "name": "Sorcerer's Circlet",
+            "name": "Sorcerer's Diadem",
             "itemType": 5,
             "color": 3
         },
@@ -500,7 +500,7 @@
             "id": 5756,
             "level": 7,
             "icon": 1831,
-            "name": "Hood of Beginner Sorcerer",
+            "name": "Hood of Novice Sorcerer",
             "itemType": 5,
             "color": 3
         },
@@ -748,7 +748,7 @@
             "id": 11013,
             "level": 17,
             "icon": 1316,
-            "name": "Astromancer's Circlet",
+            "name": "Astromancer's Diadem",
             "itemType": 5,
             "color": 3
         },
@@ -860,7 +860,7 @@
             "id": 13785,
             "level": 10,
             "icon": 1313,
-            "name": "Hood of Aquilon",
+            "name": "Aquilon's Hood",
             "itemType": 5,
             "color": 2
         },
@@ -868,7 +868,7 @@
             "id": 13786,
             "level": 10,
             "icon": 1313,
-            "name": "Cowl of Aquilon",
+            "name": "Aquilon's Cowl",
             "itemType": 5,
             "color": 2
         },
@@ -876,7 +876,7 @@
             "id": 13865,
             "level": 18,
             "icon": 1352,
-            "name": "Nuadu's Headband",
+            "name": "Nuadu's Handband",
             "itemType": 5,
             "color": 2
         },
@@ -884,7 +884,7 @@
             "id": 14714,
             "level": 10,
             "icon": 1352,
-            "name": "Linen Headband",
+            "name": "Linen Handband",
             "itemType": 5,
             "color": 1
         },
@@ -892,7 +892,7 @@
             "id": 14719,
             "level": 14,
             "icon": 1355,
-            "name": "Mystic's Headband",
+            "name": "Mystic's Handband",
             "itemType": 5,
             "color": 1
         },
@@ -900,7 +900,7 @@
             "id": 14725,
             "level": 16,
             "icon": 1593,
-            "name": "Satin Headband",
+            "name": "Satin Handband",
             "itemType": 5,
             "color": 1
         },
@@ -908,7 +908,7 @@
             "id": 14736,
             "level": 19,
             "icon": 1352,
-            "name": "Noble's Headband",
+            "name": "Noble's Handband",
             "itemType": 5,
             "color": 1
         },
@@ -1028,7 +1028,7 @@
             "id": 15605,
             "level": 9,
             "icon": 1316,
-            "name": "Master's Circlet",
+            "name": "Master's Diadem",
             "itemType": 5,
             "color": 3
         },
@@ -1036,7 +1036,7 @@
             "id": 16946,
             "level": 22,
             "icon": 1316,
-            "name": "Hood of the Mad Oracle",
+            "name": "Cowl of the Mad Oracle",
             "itemType": 5,
             "color": 2
         },
@@ -1044,7 +1044,7 @@
             "id": 16951,
             "level": 22,
             "icon": 1331,
-            "name": "Hood of the Enlightened Astromancer",
+            "name": "Cowl of the Enlightened Astromancer",
             "itemType": 5,
             "color": 2
         },
@@ -1212,7 +1212,7 @@
             "id": 18364,
             "level": 10,
             "icon": 3505,
-            "name": "Eternal Life Cowl",
+            "name": "Cowl of Eternal Life",
             "itemType": 5,
             "color": 3
         },
@@ -1260,7 +1260,7 @@
             "id": 18388,
             "level": 22,
             "icon": 3505,
-            "name": "Infinite Reliability Cowl",
+            "name": "Cowl of Infinite Reliability",
             "itemType": 5,
             "color": 3
         },
@@ -1356,7 +1356,7 @@
             "id": 18438,
             "level": 22,
             "icon": 1316,
-            "name": "Divine Protection Cowl",
+            "name": "Cowl of Divine Protection",
             "itemType": 5,
             "color": 3
         },
@@ -1556,7 +1556,7 @@
             "id": 22198,
             "level": 6,
             "icon": 4227,
-            "name": "Winter Hood of Iceman",
+            "name": "Iceman's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1564,7 +1564,7 @@
             "id": 22199,
             "level": 6,
             "icon": 4227,
-            "name": "Winter Cowl of Iceman",
+            "name": "Iceman's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -1572,7 +1572,7 @@
             "id": 22222,
             "level": 10,
             "icon": 4227,
-            "name": "Winter Hood of Ragnar",
+            "name": "Ragnar's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1580,7 +1580,7 @@
             "id": 22223,
             "level": 10,
             "icon": 4227,
-            "name": "Winter Cowl of Ragnar",
+            "name": "Ragnar's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -1588,7 +1588,7 @@
             "id": 22246,
             "level": 12,
             "icon": 4227,
-            "name": "Winter Hood of Frosty Fang",
+            "name": "Frosty Fang's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1596,7 +1596,7 @@
             "id": 22247,
             "level": 12,
             "icon": 4227,
-            "name": "Winter Cowl of Frosty Fang",
+            "name": "Frosty Fang's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -1604,7 +1604,7 @@
             "id": 22270,
             "level": 14,
             "icon": 4227,
-            "name": "Winter Hood of Mastodon",
+            "name": "Mastodon's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1612,7 +1612,7 @@
             "id": 22271,
             "level": 14,
             "icon": 4227,
-            "name": "Winter Cowl of Mastodon",
+            "name": "Mastodon's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -1620,7 +1620,7 @@
             "id": 22294,
             "level": 16,
             "icon": 4227,
-            "name": "Winter Hood of Taron",
+            "name": "Taron's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1628,7 +1628,7 @@
             "id": 22295,
             "level": 16,
             "icon": 4227,
-            "name": "Winter Cowl of Taron",
+            "name": "Taron's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -1636,7 +1636,7 @@
             "id": 22312,
             "level": 18,
             "icon": 4227,
-            "name": "Winter Hood of Kerula",
+            "name": "Kerula's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1644,7 +1644,7 @@
             "id": 22313,
             "level": 18,
             "icon": 4227,
-            "name": "Winter Cowl of Kerula",
+            "name": "Kerula's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -1652,7 +1652,7 @@
             "id": 22342,
             "level": 20,
             "icon": 4227,
-            "name": "Winter Hood of Gimir",
+            "name": "Gimir's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1660,7 +1660,7 @@
             "id": 22343,
             "level": 20,
             "icon": 4227,
-            "name": "Winter Cowl of Gimir",
+            "name": "Gimir's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -1668,7 +1668,7 @@
             "id": 22366,
             "level": 22,
             "icon": 4227,
-            "name": "Winter Hood of Flavius",
+            "name": "Flavius's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1676,7 +1676,7 @@
             "id": 22367,
             "level": 22,
             "icon": 4227,
-            "name": "Winter Cowl of Flavius",
+            "name": "Flavius's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -1684,7 +1684,7 @@
             "id": 22390,
             "level": 24,
             "icon": 4227,
-            "name": "Winter Hood of Ruberius",
+            "name": "Ruberius's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1692,7 +1692,7 @@
             "id": 22391,
             "level": 24,
             "icon": 4227,
-            "name": "Winter Cowl of Ruberius",
+            "name": "Ruberius's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -1700,7 +1700,7 @@
             "id": 22414,
             "level": 26,
             "icon": 4227,
-            "name": "Winter Hood of Mortis",
+            "name": "Mortis's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1708,7 +1708,7 @@
             "id": 22415,
             "level": 26,
             "icon": 4227,
-            "name": "Winter Cowl of Mortis",
+            "name": "Mortis's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -1716,7 +1716,7 @@
             "id": 23349,
             "level": 20,
             "icon": 4463,
-            "name": "Cowl of Mages of the Sacred Forest",
+            "name": "Cowl of Sacred Forest Mages",
             "itemType": 5,
             "color": 4
         },
@@ -1724,7 +1724,7 @@
             "id": 23353,
             "level": 20,
             "icon": 4462,
-            "name": "Hood of Mages of the Dominant Coalition",
+            "name": "Hood of Dominant Coalition Mages",
             "itemType": 5,
             "color": 4
         },
@@ -1732,7 +1732,7 @@
             "id": 23357,
             "level": 22,
             "icon": 4463,
-            "name": "Cowl of Mages of the Pyramid Valley",
+            "name": "Cowl of Pyramid Valley Mages",
             "itemType": 5,
             "color": 4
         },
@@ -1740,7 +1740,7 @@
             "id": 23361,
             "level": 22,
             "icon": 4462,
-            "name": "Hood of Mages of the Mighty Alliance",
+            "name": "Hood of Mighty Alliance Mages",
             "itemType": 5,
             "color": 4
         },
@@ -1748,7 +1748,7 @@
             "id": 23365,
             "level": 24,
             "icon": 4463,
-            "name": "Cowl of Mages of the Black Oak Forest",
+            "name": "Cowl of Black Oak Forest Mages",
             "itemType": 5,
             "color": 4
         },
@@ -1756,7 +1756,7 @@
             "id": 23369,
             "level": 24,
             "icon": 4462,
-            "name": "Hood of Mages of the Legendary Brotherhood",
+            "name": "Hood of Legendary Brotherhood Mages",
             "itemType": 5,
             "color": 4
         },
@@ -1764,7 +1764,7 @@
             "id": 23373,
             "level": 26,
             "icon": 4463,
-            "name": "Cowl of Mages of the Flying Islands",
+            "name": "Cowl of Flying Islands Mages",
             "itemType": 5,
             "color": 4
         },
@@ -1772,7 +1772,7 @@
             "id": 23377,
             "level": 26,
             "icon": 4462,
-            "name": "Hood of Mages of the Immortal Order",
+            "name": "Hood of Immortal Order Mages",
             "itemType": 5,
             "color": 4
         },
@@ -1948,7 +1948,7 @@
             "id": 24404,
             "level": 28,
             "icon": 4227,
-            "name": "Winter Hood of the Snow General",
+            "name": "Snow General's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1956,7 +1956,7 @@
             "id": 24408,
             "level": 28,
             "icon": 4227,
-            "name": "Winter Cowl of the Snow General",
+            "name": "Snow General's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -1972,7 +1972,7 @@
             "id": 24446,
             "level": 10,
             "icon": 4629,
-            "name": "All-Mighty Hood of Ragnar",
+            "name": "Ragnar's Almighty Hood",
             "itemType": 5,
             "color": 4
         },
@@ -1980,7 +1980,7 @@
             "id": 24450,
             "level": 10,
             "icon": 4629,
-            "name": "Mighty Cowl of Ragnar",
+            "name": "Ragnar's Mighty Cowl",
             "itemType": 5,
             "color": 4
         },
@@ -1988,7 +1988,7 @@
             "id": 24470,
             "level": 12,
             "icon": 4629,
-            "name": "All-Mighty Hood of Frosty Fang",
+            "name": "Frosty Fang's Almighty Hood",
             "itemType": 5,
             "color": 4
         },
@@ -1996,7 +1996,7 @@
             "id": 24471,
             "level": 14,
             "icon": 4629,
-            "name": "All-Mighty Hood of Mastodon",
+            "name": "Mastodon's Almighty Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2004,7 +2004,7 @@
             "id": 24472,
             "level": 16,
             "icon": 4629,
-            "name": "All-Mighty Hood of Taron",
+            "name": "Taron's Almighty Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2012,7 +2012,7 @@
             "id": 24473,
             "level": 18,
             "icon": 4629,
-            "name": "All-Mighty Hood of Kerula",
+            "name": "Kerula's Almighty Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2020,7 +2020,7 @@
             "id": 24474,
             "level": 20,
             "icon": 4629,
-            "name": "All-Mighty Hood of Gimir",
+            "name": "Gimir's Almighty Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2028,7 +2028,7 @@
             "id": 24475,
             "level": 22,
             "icon": 4629,
-            "name": "All-Mighty Hood of Flavius",
+            "name": "Flavius's Almighty Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2036,7 +2036,7 @@
             "id": 24476,
             "level": 24,
             "icon": 4629,
-            "name": "All-Mighty Hood of Ruberius",
+            "name": "Ruberius's Almighty Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2044,7 +2044,7 @@
             "id": 24477,
             "level": 26,
             "icon": 4629,
-            "name": "All-Mighty Hood of Mortis",
+            "name": "Mortis's Almighty Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2052,7 +2052,7 @@
             "id": 24478,
             "level": 28,
             "icon": 4629,
-            "name": "All-Mighty Hood of the Snow General",
+            "name": "Snow General's Almighty Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2060,7 +2060,7 @@
             "id": 24506,
             "level": 12,
             "icon": 4629,
-            "name": "Mighty Cowl of Frosty Fang",
+            "name": "Frosty Fang's Mighty Cowl",
             "itemType": 5,
             "color": 4
         },
@@ -2068,7 +2068,7 @@
             "id": 24507,
             "level": 14,
             "icon": 4629,
-            "name": "Mighty Cowl of Mastodon",
+            "name": "Mastodon's Mighty Cowl",
             "itemType": 5,
             "color": 4
         },
@@ -2076,7 +2076,7 @@
             "id": 24508,
             "level": 16,
             "icon": 4629,
-            "name": "Mighty Cowl of Taron",
+            "name": "Taron's Mighty Cowl",
             "itemType": 5,
             "color": 4
         },
@@ -2084,7 +2084,7 @@
             "id": 24509,
             "level": 18,
             "icon": 4629,
-            "name": "Mighty Cowl of Kerula",
+            "name": "Kerula's Mighty Cowl",
             "itemType": 5,
             "color": 4
         },
@@ -2092,7 +2092,7 @@
             "id": 24510,
             "level": 20,
             "icon": 4629,
-            "name": "Mighty Cowl of Gimir",
+            "name": "Gimir's Mighty Cowl",
             "itemType": 5,
             "color": 4
         },
@@ -2100,7 +2100,7 @@
             "id": 24511,
             "level": 22,
             "icon": 4629,
-            "name": "Mighty Cowl of Flavius",
+            "name": "Flavius's Mighty Cowl",
             "itemType": 5,
             "color": 4
         },
@@ -2108,7 +2108,7 @@
             "id": 24512,
             "level": 24,
             "icon": 4629,
-            "name": "Mighty Cowl of Ruberius",
+            "name": "Ruberius's Mighty Cowl",
             "itemType": 5,
             "color": 4
         },
@@ -2116,7 +2116,7 @@
             "id": 24513,
             "level": 26,
             "icon": 4629,
-            "name": "Mighty Cowl of Mortis",
+            "name": "Mortis's Mighty Cowl",
             "itemType": 5,
             "color": 4
         },
@@ -2124,7 +2124,7 @@
             "id": 24514,
             "level": 28,
             "icon": 4629,
-            "name": "Mighty Cowl of the Snow General",
+            "name": "Snow General's Mighty Cowl",
             "itemType": 5,
             "color": 4
         },
@@ -2156,7 +2156,7 @@
             "id": 25907,
             "level": 20,
             "icon": 4462,
-            "name": "Hood of Charmers of the Dominant Coalition",
+            "name": "Hood of Dominant Coalition Charmers",
             "itemType": 5,
             "color": 4
         },
@@ -2164,7 +2164,7 @@
             "id": 25911,
             "level": 22,
             "icon": 4462,
-            "name": "Hood of Charmers of the Mighty Alliance",
+            "name": "Hood of Mighty Alliance Charmers",
             "itemType": 5,
             "color": 4
         },
@@ -2172,7 +2172,7 @@
             "id": 25915,
             "level": 24,
             "icon": 4462,
-            "name": "Hood of Charmers of the Legendary Brotherhood",
+            "name": "Hood of Legendary Brotherhood Charmers",
             "itemType": 5,
             "color": 4
         },
@@ -2180,7 +2180,7 @@
             "id": 25920,
             "level": 26,
             "icon": 4462,
-            "name": "Hood of Charmers of the Immortal Order",
+            "name": "Hood of Immortal Order Charmers",
             "itemType": 5,
             "color": 4
         },
@@ -2220,7 +2220,7 @@
             "id": 26497,
             "level": 29,
             "icon": 1325,
-            "name": "Hood of the Legendary Arcanomancer",
+            "name": "Hood of Legendary Arcanomancer",
             "itemType": 5,
             "color": 3
         },
@@ -2228,7 +2228,7 @@
             "id": 26498,
             "level": 29,
             "icon": 1325,
-            "name": "Cowl of the Legendary Arcanomancer",
+            "name": "Cowl of Legendary Arcanomancer",
             "itemType": 5,
             "color": 3
         },
@@ -2252,7 +2252,7 @@
             "id": 27950,
             "level": 30,
             "icon": 4227,
-            "name": "Winter Hood of Chernobog",
+            "name": "Chernobog's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2260,7 +2260,7 @@
             "id": 27954,
             "level": 30,
             "icon": 4227,
-            "name": "Winter Cowl of Chernobog",
+            "name": "Chernobog's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -2348,7 +2348,7 @@
             "id": 28107,
             "level": 30,
             "icon": 4629,
-            "name": "All-Mighty Hood of Chernobog",
+            "name": "Chernobog's Almighty Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2356,7 +2356,7 @@
             "id": 28111,
             "level": 30,
             "icon": 4629,
-            "name": "Mighty Cowl of Chernobog",
+            "name": "Chernobog's Mighty Cowl",
             "itemType": 5,
             "color": 4
         },
@@ -2420,7 +2420,7 @@
             "id": 29457,
             "level": 20,
             "icon": 4463,
-            "name": "Cowl of Charmers of the Sacred Forest",
+            "name": "Cowl of Sacred Forest Charmers",
             "itemType": 5,
             "color": 4
         },
@@ -2428,7 +2428,7 @@
             "id": 29461,
             "level": 22,
             "icon": 4463,
-            "name": "Cowl of Charmers of the Pyramid Valley",
+            "name": "Cowl of Pyramid Valley Charmers",
             "itemType": 5,
             "color": 4
         },
@@ -2436,7 +2436,7 @@
             "id": 29465,
             "level": 24,
             "icon": 4463,
-            "name": "Cowl of Charmers of the Black Oak Forest",
+            "name": "Cowl of Black Oak Forest Charmers",
             "itemType": 5,
             "color": 4
         },
@@ -2444,7 +2444,7 @@
             "id": 29469,
             "level": 26,
             "icon": 4463,
-            "name": "Cowl of Charmers of the Flying Islands",
+            "name": "Cowl of Flying Islands Charmers",
             "itemType": 5,
             "color": 4
         },
@@ -2452,7 +2452,7 @@
             "id": 29473,
             "level": 28,
             "icon": 4463,
-            "name": "Cowl of Charmers of the Ship Graveyard",
+            "name": "Cowl of Ship Graveyard Charmers",
             "itemType": 5,
             "color": 4
         },
@@ -2460,7 +2460,7 @@
             "id": 29477,
             "level": 28,
             "icon": 4463,
-            "name": "Cowl of Mages of the Ship Graveyard",
+            "name": "Cowl of Ship Graveyard Mages",
             "itemType": 5,
             "color": 4
         },
@@ -2468,7 +2468,7 @@
             "id": 29481,
             "level": 28,
             "icon": 4462,
-            "name": "Hood of Mages of the Imperious Clan",
+            "name": "Hood of Imperious Clan Mages",
             "itemType": 5,
             "color": 4
         },
@@ -2476,7 +2476,7 @@
             "id": 29485,
             "level": 28,
             "icon": 4462,
-            "name": "Hood of Charmers of the Imperious Clan",
+            "name": "Hood of Imperious Clan Charmers",
             "itemType": 5,
             "color": 4
         },
@@ -2484,7 +2484,7 @@
             "id": 29723,
             "level": 7,
             "icon": 1316,
-            "name": "Hood of Recruit",
+            "name": "Recruit's Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2492,7 +2492,7 @@
             "id": 29728,
             "level": 7,
             "icon": 1316,
-            "name": "Cowl of Recruit",
+            "name": "Recruit's Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -2500,7 +2500,7 @@
             "id": 29733,
             "level": 11,
             "icon": 1316,
-            "name": "Hood of Mercenary",
+            "name": "Hireling's Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2508,7 +2508,7 @@
             "id": 29738,
             "level": 11,
             "icon": 1316,
-            "name": "Cowl of Mercenary",
+            "name": "Hireling's Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -2516,7 +2516,7 @@
             "id": 32031,
             "level": 30,
             "icon": 4463,
-            "name": "Cowl of the Mages of the Pirate Archipelago",
+            "name": "Cowl of Pirate Archipelago Mages",
             "itemType": 5,
             "color": 4
         },
@@ -2524,7 +2524,7 @@
             "id": 32035,
             "level": 30,
             "icon": 4463,
-            "name": "Cowl of the Spellweavers of the Pirate Archipelago",
+            "name": "Cowl of Pirate Archipelago Spellweavers",
             "itemType": 5,
             "color": 4
         },
@@ -2540,7 +2540,7 @@
             "id": 32043,
             "level": 30,
             "icon": 4462,
-            "name": "Hood of the Spellweavers of the Unbreakable Alliance",
+            "name": "Hood of Unbreakable Alliance Spellweavers",
             "itemType": 5,
             "color": 4
         },
@@ -2676,7 +2676,7 @@
             "id": 33845,
             "level": 32,
             "icon": 4227,
-            "name": "Winter Hood of Titan",
+            "name": "Titan's Winter Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2684,7 +2684,7 @@
             "id": 33849,
             "level": 32,
             "icon": 4227,
-            "name": "Winter Cowl of Titan",
+            "name": "Titan's Winter Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -2708,7 +2708,7 @@
             "id": 33893,
             "level": 32,
             "icon": 4629,
-            "name": "All-Mighty Hood of Titan",
+            "name": "Titan's Almighty Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2716,7 +2716,7 @@
             "id": 33897,
             "level": 32,
             "icon": 4629,
-            "name": "Mighty Cowl of Titan",
+            "name": "Titan's Mighty Cowl",
             "itemType": 5,
             "color": 4
         },
@@ -2740,7 +2740,7 @@
             "id": 34489,
             "level": 32,
             "icon": 3505,
-            "name": "Cowl of the Ominous Requiem",
+            "name": "Cowl of Ominous Requiem",
             "itemType": 5,
             "color": 3
         },
@@ -2780,7 +2780,7 @@
             "id": 35077,
             "level": 22,
             "icon": 6185,
-            "name": "Hood of the Wizards of the Forest\u2019s Heart",
+            "name": "Cowl of Wizards of Forest\u2019s Heart",
             "itemType": 5,
             "color": 4
         },
@@ -2788,7 +2788,7 @@
             "id": 35081,
             "level": 24,
             "icon": 6185,
-            "name": "Hood of the Wizards of the Jaguar\u2019s Den",
+            "name": "Cowl of Wizards of Jaguar\u2019s Den",
             "itemType": 5,
             "color": 4
         },
@@ -2796,7 +2796,7 @@
             "id": 35085,
             "level": 26,
             "icon": 6185,
-            "name": "Hood of the Wizards of the Dragon Ness",
+            "name": "Cowl of Wizards of Dragon Ness",
             "itemType": 5,
             "color": 4
         },
@@ -2804,7 +2804,7 @@
             "id": 35089,
             "level": 28,
             "icon": 6185,
-            "name": "Hood of the Wizards of the Sky Sanctuary",
+            "name": "Cowl of Sky Sanctuary Wizards",
             "itemType": 5,
             "color": 4
         },
@@ -2812,7 +2812,7 @@
             "id": 35093,
             "level": 30,
             "icon": 6185,
-            "name": "Hood of the Wizards of the Sea Turtle",
+            "name": "Cowl of Wizards of Sea Turtle",
             "itemType": 5,
             "color": 4
         },

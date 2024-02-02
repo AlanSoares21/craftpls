@@ -52,7 +52,7 @@
             "id": 2017,
             "level": 12,
             "icon": 1447,
-            "name": "Mighty Mittens",
+            "name": "Mighty Gauntlets",
             "itemType": 7,
             "color": 2
         },
@@ -220,7 +220,7 @@
             "id": 5779,
             "level": 11,
             "icon": 1438,
-            "name": "Bracers of Beginner Sorcerer",
+            "name": "Bracers of Novice Sorcerer",
             "itemType": 7,
             "color": 3
         },
@@ -228,7 +228,7 @@
             "id": 5804,
             "level": 5,
             "icon": 1438,
-            "name": "Armwraps of Beginner Sorcerer",
+            "name": "Armwraps of Novice Sorcerer",
             "itemType": 7,
             "color": 3
         },
@@ -236,7 +236,7 @@
             "id": 6072,
             "level": 5,
             "icon": 2231,
-            "name": "Mate's Mittens",
+            "name": "Mate's Gauntlets",
             "itemType": 7,
             "color": 2
         },
@@ -244,7 +244,7 @@
             "id": 6100,
             "level": 13,
             "icon": 2231,
-            "name": "Scrooge Family's Mittens",
+            "name": "Scrooge Family's Gauntlets",
             "itemType": 7,
             "color": 2
         },
@@ -332,7 +332,7 @@
             "id": 8155,
             "level": 5,
             "icon": 1485,
-            "name": "Gloves of Beginner Sorcerer",
+            "name": "Gloves of Novice Sorcerer",
             "itemType": 7,
             "color": 3
         },
@@ -340,7 +340,7 @@
             "id": 8157,
             "level": 11,
             "icon": 1438,
-            "name": "Vambraces of Beginner Sorcerer",
+            "name": "Vambraces of Novice Sorcerer",
             "itemType": 7,
             "color": 3
         },
@@ -692,7 +692,7 @@
             "id": 14948,
             "level": 20,
             "icon": 1447,
-            "name": "Gloves of Star Wisdom",
+            "name": "Gauntlets of Star Wisdom",
             "itemType": 7,
             "color": 4
         },
@@ -716,7 +716,7 @@
             "id": 15020,
             "level": 14,
             "icon": 1438,
-            "name": "Armlets of Northern Chieftains",
+            "name": "Bracers of Northern Chieftains",
             "itemType": 7,
             "color": 3
         },
@@ -756,7 +756,7 @@
             "id": 16948,
             "level": 22,
             "icon": 1438,
-            "name": "Armlets of the Mad Oracle",
+            "name": "Bracers of the Mad Oracle",
             "itemType": 7,
             "color": 2
         },
@@ -764,7 +764,7 @@
             "id": 16953,
             "level": 22,
             "icon": 1438,
-            "name": "Armlets of the Enlightened Astromancer",
+            "name": "Bracers of the Enlightened Astromancer",
             "itemType": 7,
             "color": 2
         },
@@ -916,7 +916,7 @@
             "id": 18366,
             "level": 10,
             "icon": 3513,
-            "name": "Eternal Life Gloves",
+            "name": "Gloves of Eternal Life",
             "itemType": 7,
             "color": 3
         },
@@ -924,7 +924,7 @@
             "id": 18370,
             "level": 12,
             "icon": 3513,
-            "name": "Immeasurable Stamina gloves",
+            "name": "Gloves of Immeasurable Stamina",
             "itemType": 7,
             "color": 3
         },
@@ -932,7 +932,7 @@
             "id": 18374,
             "level": 14,
             "icon": 3513,
-            "name": "Iron Health Gloves",
+            "name": "Gloves of Iron Health",
             "itemType": 7,
             "color": 3
         },
@@ -964,7 +964,7 @@
             "id": 18390,
             "level": 22,
             "icon": 3513,
-            "name": "Infinite Reliability Gloves",
+            "name": "Gloves of Infinite Reliability",
             "itemType": 7,
             "color": 3
         },
@@ -1068,7 +1068,7 @@
             "id": 18440,
             "level": 22,
             "icon": 1459,
-            "name": "Divine Protection Gloves",
+            "name": "Gloves of Divine Protection",
             "itemType": 7,
             "color": 3
         },
@@ -1204,7 +1204,7 @@
             "id": 22210,
             "level": 6,
             "icon": 4221,
-            "name": "Winter Gloves of Iceman",
+            "name": "Iceman's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1212,7 +1212,7 @@
             "id": 22211,
             "level": 6,
             "icon": 4221,
-            "name": "Winter Mittens of Iceman",
+            "name": "Iceman's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1220,7 +1220,7 @@
             "id": 22234,
             "level": 10,
             "icon": 4221,
-            "name": "Winter Gloves of Ragnar",
+            "name": "Ragnar's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1228,7 +1228,7 @@
             "id": 22235,
             "level": 10,
             "icon": 4221,
-            "name": "Winter Mittens of Ragnar",
+            "name": "Ragnar's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1236,7 +1236,7 @@
             "id": 22258,
             "level": 12,
             "icon": 4221,
-            "name": "Winter Gloves of Frosty Fang",
+            "name": "Frosty Fang's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1244,7 +1244,7 @@
             "id": 22259,
             "level": 12,
             "icon": 4221,
-            "name": "Winter Mittens of Frosty Fang",
+            "name": "Frosty Fang's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1252,7 +1252,7 @@
             "id": 22282,
             "level": 14,
             "icon": 4221,
-            "name": "Winter Gloves of Mastodon",
+            "name": "Mastodon's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1260,7 +1260,7 @@
             "id": 22283,
             "level": 14,
             "icon": 4221,
-            "name": "Winter Mittens of Mastodon",
+            "name": "Mastodon's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1268,7 +1268,7 @@
             "id": 22306,
             "level": 16,
             "icon": 4221,
-            "name": "Winter Gloves of Taron",
+            "name": "Taron's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1276,7 +1276,7 @@
             "id": 22307,
             "level": 16,
             "icon": 4221,
-            "name": "Winter Mittens of Taron",
+            "name": "Taron's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1284,7 +1284,7 @@
             "id": 22324,
             "level": 18,
             "icon": 4221,
-            "name": "Winter Gloves of Kerula",
+            "name": "Kerula's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1292,7 +1292,7 @@
             "id": 22325,
             "level": 18,
             "icon": 4221,
-            "name": "Winter Mittens of Kerula",
+            "name": "Kerula's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1300,7 +1300,7 @@
             "id": 22354,
             "level": 20,
             "icon": 4221,
-            "name": "Winter Gloves of Gimir",
+            "name": "Gimir's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1308,7 +1308,7 @@
             "id": 22355,
             "level": 20,
             "icon": 4221,
-            "name": "Winter Mittens of Gimir",
+            "name": "Gimir's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1316,7 +1316,7 @@
             "id": 22378,
             "level": 22,
             "icon": 4221,
-            "name": "Winter Gloves of Flavius",
+            "name": "Flavius's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1324,7 +1324,7 @@
             "id": 22379,
             "level": 22,
             "icon": 4221,
-            "name": "Winter Mittens of Flavius",
+            "name": "Flavius's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1332,7 +1332,7 @@
             "id": 22402,
             "level": 24,
             "icon": 4221,
-            "name": "Winter Gloves of Ruberius",
+            "name": "Ruberius's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1340,7 +1340,7 @@
             "id": 22403,
             "level": 24,
             "icon": 4221,
-            "name": "Winter Mittens of Ruberius",
+            "name": "Ruberius's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1348,7 +1348,7 @@
             "id": 22426,
             "level": 26,
             "icon": 4221,
-            "name": "Winter Gloves of Mortis",
+            "name": "Mortis's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1356,7 +1356,7 @@
             "id": 22427,
             "level": 26,
             "icon": 4221,
-            "name": "Winter Mittens of Mortis",
+            "name": "Mortis's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1364,7 +1364,7 @@
             "id": 23351,
             "level": 20,
             "icon": 4454,
-            "name": "Gloves of Mages of the Sacred Forest",
+            "name": "Gloves of Sacred Forest Mages",
             "itemType": 7,
             "color": 4
         },
@@ -1372,7 +1372,7 @@
             "id": 23355,
             "level": 20,
             "icon": 4455,
-            "name": "Bracers of Mages of the Dominant Coalition",
+            "name": "Bracers of Dominant Coalition Mages",
             "itemType": 7,
             "color": 4
         },
@@ -1380,7 +1380,7 @@
             "id": 23359,
             "level": 22,
             "icon": 4454,
-            "name": "Gloves of Mages of the Pyramid Valley",
+            "name": "Gloves of Pyramid Valley Mages",
             "itemType": 7,
             "color": 4
         },
@@ -1388,7 +1388,7 @@
             "id": 23363,
             "level": 22,
             "icon": 4455,
-            "name": "Bracers of Mages of the Mighty Alliance",
+            "name": "Bracers of Mighty Alliance Mages",
             "itemType": 7,
             "color": 4
         },
@@ -1396,7 +1396,7 @@
             "id": 23367,
             "level": 24,
             "icon": 4454,
-            "name": "Gloves of Mages of the Black Oak Forest",
+            "name": "Gloves of Black Oak Forest Mages",
             "itemType": 7,
             "color": 4
         },
@@ -1404,7 +1404,7 @@
             "id": 23371,
             "level": 24,
             "icon": 4455,
-            "name": "Bracers of Mages of the Legendary Brotherhood",
+            "name": "Bracers of Legendary Brotherhood Mages",
             "itemType": 7,
             "color": 4
         },
@@ -1412,7 +1412,7 @@
             "id": 23375,
             "level": 26,
             "icon": 4454,
-            "name": "Gloves of Mages of the Flying Islands",
+            "name": "Gloves of Flying Islands Mages",
             "itemType": 7,
             "color": 4
         },
@@ -1420,7 +1420,7 @@
             "id": 23379,
             "level": 26,
             "icon": 4455,
-            "name": "Bracers of Mages of the Immortal Order",
+            "name": "Bracers of Immortal Order Mages",
             "itemType": 7,
             "color": 4
         },
@@ -1548,7 +1548,7 @@
             "id": 24406,
             "level": 28,
             "icon": 4221,
-            "name": "Winter Gloves of the Snow General",
+            "name": "Snow General's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1556,7 +1556,7 @@
             "id": 24410,
             "level": 28,
             "icon": 4221,
-            "name": "Winter Mittens of the Snow General",
+            "name": "Snow General's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1572,7 +1572,7 @@
             "id": 24448,
             "level": 10,
             "icon": 4625,
-            "name": "All-Mighty Gloves of Ragnar",
+            "name": "Ragnar's Almighty Gloves",
             "itemType": 7,
             "color": 4
         },
@@ -1580,7 +1580,7 @@
             "id": 24452,
             "level": 10,
             "icon": 4625,
-            "name": "Mighty Mittens of Ragnar",
+            "name": "Ragnar's Mighty Mittens",
             "itemType": 7,
             "color": 4
         },
@@ -1588,7 +1588,7 @@
             "id": 24488,
             "level": 12,
             "icon": 4625,
-            "name": "All-Mighty Gloves of Frosty Fang",
+            "name": "Frosty Fang's Almighty Gloves",
             "itemType": 7,
             "color": 4
         },
@@ -1596,7 +1596,7 @@
             "id": 24489,
             "level": 14,
             "icon": 4625,
-            "name": "All-Mighty Gloves of Mastodon",
+            "name": "Mastodon's Almighty Gloves",
             "itemType": 7,
             "color": 4
         },
@@ -1604,7 +1604,7 @@
             "id": 24490,
             "level": 16,
             "icon": 4625,
-            "name": "All-Mighty Gloves of Taron",
+            "name": "Taron's Almighty Gloves",
             "itemType": 7,
             "color": 4
         },
@@ -1612,7 +1612,7 @@
             "id": 24491,
             "level": 18,
             "icon": 4625,
-            "name": "All-Mighty Gloves of Kerula",
+            "name": "Kerula's Almighty Gloves",
             "itemType": 7,
             "color": 4
         },
@@ -1620,7 +1620,7 @@
             "id": 24492,
             "level": 20,
             "icon": 4625,
-            "name": "All-Mighty Gloves of Gimir",
+            "name": "Gimir's Almighty Gloves",
             "itemType": 7,
             "color": 4
         },
@@ -1628,7 +1628,7 @@
             "id": 24493,
             "level": 22,
             "icon": 4625,
-            "name": "All-Mighty Gloves of Flavius",
+            "name": "Flavius's Almighty Gloves",
             "itemType": 7,
             "color": 4
         },
@@ -1636,7 +1636,7 @@
             "id": 24494,
             "level": 24,
             "icon": 4625,
-            "name": "All-Mighty Gloves of Ruberius",
+            "name": "Ruberius's Almighty Gloves",
             "itemType": 7,
             "color": 4
         },
@@ -1644,7 +1644,7 @@
             "id": 24495,
             "level": 26,
             "icon": 4625,
-            "name": "All-Mighty Gloves of Mortis",
+            "name": "Mortis's Almighty Gloves",
             "itemType": 7,
             "color": 4
         },
@@ -1652,7 +1652,7 @@
             "id": 24496,
             "level": 28,
             "icon": 4625,
-            "name": "All-Mighty Gloves of the Snow General",
+            "name": "Snow General's Almighty Gloves",
             "itemType": 7,
             "color": 4
         },
@@ -1660,7 +1660,7 @@
             "id": 24524,
             "level": 12,
             "icon": 4625,
-            "name": "Mighty Mittens of Frosty Fang",
+            "name": "Frosty Fang's Mighty Mittens",
             "itemType": 7,
             "color": 4
         },
@@ -1668,7 +1668,7 @@
             "id": 24525,
             "level": 14,
             "icon": 4625,
-            "name": "Mighty Mittens of Mastodon",
+            "name": "Mastodon's Mighty Mittens",
             "itemType": 7,
             "color": 4
         },
@@ -1676,7 +1676,7 @@
             "id": 24526,
             "level": 16,
             "icon": 4625,
-            "name": "Mighty Mittens of Taron",
+            "name": "Taron's Mighty Mittens",
             "itemType": 7,
             "color": 4
         },
@@ -1684,7 +1684,7 @@
             "id": 24527,
             "level": 18,
             "icon": 4625,
-            "name": "Mighty Mittens of Kerula",
+            "name": "Kerula's Mighty Mittens",
             "itemType": 7,
             "color": 4
         },
@@ -1692,7 +1692,7 @@
             "id": 24528,
             "level": 20,
             "icon": 4625,
-            "name": "Mighty Mittens of Gimir",
+            "name": "Gimir's Mighty Mittens",
             "itemType": 7,
             "color": 4
         },
@@ -1700,7 +1700,7 @@
             "id": 24529,
             "level": 22,
             "icon": 4625,
-            "name": "Mighty Mittens of Flavius",
+            "name": "Flavius's Mighty Mittens",
             "itemType": 7,
             "color": 4
         },
@@ -1708,7 +1708,7 @@
             "id": 24530,
             "level": 24,
             "icon": 4625,
-            "name": "Mighty Mittens of Ruberius",
+            "name": "Ruberius's Mighty Mittens",
             "itemType": 7,
             "color": 4
         },
@@ -1716,7 +1716,7 @@
             "id": 24531,
             "level": 26,
             "icon": 4625,
-            "name": "Mighty Mittens of Mortis",
+            "name": "Mortis's Mighty Mittens",
             "itemType": 7,
             "color": 4
         },
@@ -1724,7 +1724,7 @@
             "id": 24532,
             "level": 28,
             "icon": 4625,
-            "name": "Mighty Mittens of the Snow General",
+            "name": "Snow General's Mighty Mittens",
             "itemType": 7,
             "color": 4
         },
@@ -1756,7 +1756,7 @@
             "id": 25909,
             "level": 20,
             "icon": 4455,
-            "name": "Bracers of Charmers of the Dominant Coalition",
+            "name": "Bracers of Dominant Coalition Charmers",
             "itemType": 7,
             "color": 4
         },
@@ -1764,7 +1764,7 @@
             "id": 25913,
             "level": 22,
             "icon": 4455,
-            "name": "Bracers of Charmers of the Mighty Alliance",
+            "name": "Bracers of Mighty Alliance Charmers",
             "itemType": 7,
             "color": 4
         },
@@ -1772,7 +1772,7 @@
             "id": 25917,
             "level": 24,
             "icon": 4455,
-            "name": "Bracers of Charmers of the Legendary Brotherhood",
+            "name": "Bracers of Legendary Brotherhood Charmers",
             "itemType": 7,
             "color": 4
         },
@@ -1780,7 +1780,7 @@
             "id": 25921,
             "level": 26,
             "icon": 4455,
-            "name": "Bracers of Charmers of the Immortal Order",
+            "name": "Bracers of Immortal Order Charmers",
             "itemType": 7,
             "color": 4
         },
@@ -1804,7 +1804,7 @@
             "id": 26501,
             "level": 29,
             "icon": 1441,
-            "name": "Wristguards of the Legendary Arcanomancer",
+            "name": "Wristguards of Legendary Arcanomancer",
             "itemType": 7,
             "color": 3
         },
@@ -1812,7 +1812,7 @@
             "id": 26502,
             "level": 29,
             "icon": 1441,
-            "name": "Bracers of the Legendary Arcanomancer",
+            "name": "Bracers of Legendary Arcanomancer",
             "itemType": 7,
             "color": 3
         },
@@ -1964,7 +1964,7 @@
             "id": 27952,
             "level": 30,
             "icon": 4221,
-            "name": "Winter Gloves of Chernobog",
+            "name": "Chernobog's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1972,7 +1972,7 @@
             "id": 27956,
             "level": 30,
             "icon": 4221,
-            "name": "Winter Mittens of Chernobog",
+            "name": "Chernobog's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -2060,7 +2060,7 @@
             "id": 28109,
             "level": 30,
             "icon": 4625,
-            "name": "All-Mighty Gloves of Chernobog",
+            "name": "Chernobog's Almighty Gloves",
             "itemType": 7,
             "color": 4
         },
@@ -2068,7 +2068,7 @@
             "id": 28113,
             "level": 30,
             "icon": 4625,
-            "name": "Mighty Mittens of Chernobog",
+            "name": "Chernobog's Mighty Mittens",
             "itemType": 7,
             "color": 4
         },
@@ -2132,7 +2132,7 @@
             "id": 29459,
             "level": 20,
             "icon": 4454,
-            "name": "Gloves of Charmers of the Sacred Forest",
+            "name": "Gloves of Sacred Forest Charmers",
             "itemType": 7,
             "color": 4
         },
@@ -2140,7 +2140,7 @@
             "id": 29463,
             "level": 22,
             "icon": 4454,
-            "name": "Gloves of Charmers of the Pyramid Valley",
+            "name": "Gloves of Pyramid Valley Charmers",
             "itemType": 7,
             "color": 4
         },
@@ -2148,7 +2148,7 @@
             "id": 29467,
             "level": 24,
             "icon": 4454,
-            "name": "Gloves of Charmers of the Black Oak Forest",
+            "name": "Gloves of Black Oak Forest Charmers",
             "itemType": 7,
             "color": 4
         },
@@ -2156,7 +2156,7 @@
             "id": 29471,
             "level": 26,
             "icon": 4454,
-            "name": "Gloves of Charmers of the Flying Islands",
+            "name": "Gloves of Flying Islands Charmers",
             "itemType": 7,
             "color": 4
         },
@@ -2164,7 +2164,7 @@
             "id": 29475,
             "level": 28,
             "icon": 4454,
-            "name": "Gloves of Charmers of the Ship Graveyard",
+            "name": "Gloves of Ship Graveyard Charmers",
             "itemType": 7,
             "color": 4
         },
@@ -2172,7 +2172,7 @@
             "id": 29479,
             "level": 28,
             "icon": 4454,
-            "name": "Gloves of Mages of the Ship Graveyard",
+            "name": "Gloves of Ship Graveyard Mages",
             "itemType": 7,
             "color": 4
         },
@@ -2180,7 +2180,7 @@
             "id": 29483,
             "level": 28,
             "icon": 4455,
-            "name": "Bracers of Mages of the Imperious Clan",
+            "name": "Bracers of Imperious Clan Mages",
             "itemType": 7,
             "color": 4
         },
@@ -2188,7 +2188,7 @@
             "id": 29487,
             "level": 28,
             "icon": 4455,
-            "name": "Bracers of Charmers of the Imperious Clan",
+            "name": "Bracers of Imperious Clan Charmers",
             "itemType": 7,
             "color": 4
         },
@@ -2196,7 +2196,7 @@
             "id": 29725,
             "level": 7,
             "icon": 1447,
-            "name": "Gloves of Recruit",
+            "name": "Recruit's Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -2204,7 +2204,7 @@
             "id": 29730,
             "level": 7,
             "icon": 1447,
-            "name": "Bracers of Recruit",
+            "name": "Recruit's Bracers",
             "itemType": 7,
             "color": 3
         },
@@ -2212,7 +2212,7 @@
             "id": 29735,
             "level": 11,
             "icon": 1447,
-            "name": "Gloves of Mercenary",
+            "name": "Hireling's Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -2220,7 +2220,7 @@
             "id": 29740,
             "level": 11,
             "icon": 1447,
-            "name": "Bracers of Mercenary",
+            "name": "Hireling's Bracers",
             "itemType": 7,
             "color": 3
         },
@@ -2228,7 +2228,7 @@
             "id": 32033,
             "level": 30,
             "icon": 4454,
-            "name": "Gloves of the Mages of the Pirate Archipelago",
+            "name": "Gloves of Pirate Archipelago Mages",
             "itemType": 7,
             "color": 4
         },
@@ -2236,7 +2236,7 @@
             "id": 32037,
             "level": 30,
             "icon": 4454,
-            "name": "Gloves of the Spellweavers of the Pirate Archipelago",
+            "name": "Gloves of Pirate Archipelago Spellweavers",
             "itemType": 7,
             "color": 4
         },
@@ -2252,7 +2252,7 @@
             "id": 32045,
             "level": 30,
             "icon": 4455,
-            "name": "Bracers of the Spellweavers of the Unbreakable Alliance",
+            "name": "Bracers of Unbreakable Alliance Spellweavers",
             "itemType": 7,
             "color": 4
         },
@@ -2404,7 +2404,7 @@
             "id": 33847,
             "level": 32,
             "icon": 4221,
-            "name": "Winter Gloves of Titan",
+            "name": "Titan's Winter Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -2412,7 +2412,7 @@
             "id": 33851,
             "level": 32,
             "icon": 4221,
-            "name": "Winter Mittens of Titan",
+            "name": "Titan's Winter Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -2436,7 +2436,7 @@
             "id": 33895,
             "level": 32,
             "icon": 4625,
-            "name": "All-Mighty Gloves of Titan",
+            "name": "Titan's Almighty Gloves",
             "itemType": 7,
             "color": 4
         },
@@ -2444,7 +2444,7 @@
             "id": 33899,
             "level": 32,
             "icon": 4625,
-            "name": "Mighty Mittens of Titan",
+            "name": "Titan's Mighty Mittens",
             "itemType": 7,
             "color": 4
         },
@@ -2468,7 +2468,7 @@
             "id": 34491,
             "level": 32,
             "icon": 3513,
-            "name": "Gloves of the Ominous Requiem",
+            "name": "Gloves of Ominous Requiem",
             "itemType": 7,
             "color": 3
         },
@@ -2508,7 +2508,7 @@
             "id": 35079,
             "level": 22,
             "icon": 6181,
-            "name": "Gloves of the Wizards of the Forest\u2019s Heart",
+            "name": "Gloves of Wizards of Forest\u2019s Heart",
             "itemType": 7,
             "color": 4
         },
@@ -2516,7 +2516,7 @@
             "id": 35083,
             "level": 24,
             "icon": 6181,
-            "name": "Gloves of the Wizards of the Jaguar\u2019s Den",
+            "name": "Gloves of Wizards of Jaguar\u2019s Den",
             "itemType": 7,
             "color": 4
         },
@@ -2524,7 +2524,7 @@
             "id": 35087,
             "level": 26,
             "icon": 6181,
-            "name": "Gloves of the Wizards of the Dragon Ness",
+            "name": "Gloves of Wizards of Dragon Ness",
             "itemType": 7,
             "color": 4
         },
@@ -2532,7 +2532,7 @@
             "id": 35091,
             "level": 28,
             "icon": 6181,
-            "name": "Gloves of the Wizards of the Sky Sanctuary",
+            "name": "Gloves of Sky Sanctuary Wizards",
             "itemType": 7,
             "color": 4
         },
@@ -2540,7 +2540,7 @@
             "id": 35095,
             "level": 30,
             "icon": 6181,
-            "name": "Gloves of the Wizards of the Sea Turtle",
+            "name": "Gloves of Wizards of Sea Turtle",
             "itemType": 7,
             "color": 4
         },

@@ -36,7 +36,7 @@
             "id": 995,
             "level": 10,
             "icon": 1100,
-            "name": "High-quality Knife",
+            "name": "High-Quality Knife",
             "itemType": 0,
             "color": 2
         },
@@ -60,7 +60,7 @@
             "id": 2125,
             "level": 13,
             "icon": 1103,
-            "name": "Acute Dirk",
+            "name": "Acute Stiletto",
             "itemType": 0,
             "color": 3
         },
@@ -148,7 +148,7 @@
             "id": 11139,
             "level": 17,
             "icon": 1112,
-            "name": "Scout Kris",
+            "name": "Scout's Kris",
             "itemType": 0,
             "color": 3
         },
@@ -156,7 +156,7 @@
             "id": 11216,
             "level": 16,
             "icon": 1103,
-            "name": "Icy Dirk",
+            "name": "Icy Stiletto",
             "itemType": 0,
             "color": 2
         },
@@ -188,7 +188,7 @@
             "id": 13869,
             "level": 19,
             "icon": 1103,
-            "name": "Ruberius' Kris",
+            "name": "Ruberius's Kris",
             "itemType": 0,
             "color": 1
         },
@@ -284,7 +284,7 @@
             "id": 15003,
             "level": 19,
             "icon": 1103,
-            "name": "Provocator's Kris",
+            "name": "Instigator's Kris",
             "itemType": 0,
             "color": 3
         },
@@ -308,7 +308,7 @@
             "id": 15320,
             "level": 21,
             "icon": 1100,
-            "name": "Enchanted Dagger of the Lord",
+            "name": "Enchanted Dirk of Lord",
             "itemType": 0,
             "color": 3
         },
@@ -396,7 +396,7 @@
             "id": 16132,
             "level": 8,
             "icon": 3123,
-            "name": "Kris of Oath-breaker",
+            "name": "Kris of Oathbreaker",
             "itemType": 0,
             "color": 3
         },
@@ -460,7 +460,7 @@
             "id": 17110,
             "level": 10,
             "icon": 1103,
-            "name": "Serrated Dagger",
+            "name": "Serrated Dirk",
             "itemType": 0,
             "color": 2
         },
@@ -468,7 +468,7 @@
             "id": 17111,
             "level": 12,
             "icon": 1103,
-            "name": "Well-tried Rondel",
+            "name": "Well-Worn Rondel",
             "itemType": 0,
             "color": 2
         },
@@ -500,7 +500,7 @@
             "id": 17142,
             "level": 16,
             "icon": 1106,
-            "name": "Dagger of Frozen Fire",
+            "name": "Dirk of Frozen Fire",
             "itemType": 0,
             "color": 3
         },
@@ -508,7 +508,7 @@
             "id": 17143,
             "level": 20,
             "icon": 1106,
-            "name": "Dagger of Deep Lord",
+            "name": "Dirk of Deep Lord",
             "itemType": 0,
             "color": 3
         },
@@ -540,7 +540,7 @@
             "id": 17192,
             "level": 16,
             "icon": 3400,
-            "name": "Dagger of Chilled Flame",
+            "name": "Dirk of Chilled Flame",
             "itemType": 0,
             "color": 3
         },
@@ -556,7 +556,7 @@
             "id": 17208,
             "level": 20,
             "icon": 3400,
-            "name": "Dagger of the Depth Lord",
+            "name": "Dirk of the Depth Lord",
             "itemType": 0,
             "color": 3
         },
@@ -572,7 +572,7 @@
             "id": 17303,
             "level": 22,
             "icon": 1100,
-            "name": "All-Destroying Rondel",
+            "name": "Devastating Rondel",
             "itemType": 0,
             "color": 3
         },
@@ -580,7 +580,7 @@
             "id": 17311,
             "level": 22,
             "icon": 3400,
-            "name": "Dagger of Death Herald",
+            "name": "Dirk of Death Herald",
             "itemType": 0,
             "color": 3
         },
@@ -588,7 +588,7 @@
             "id": 17567,
             "level": 23,
             "icon": 3388,
-            "name": "Battle Dagger of Devastation",
+            "name": "Battle Dirk of Devastation",
             "itemType": 0,
             "color": 3
         },
@@ -652,7 +652,7 @@
             "id": 18879,
             "level": 23,
             "icon": 3248,
-            "name": "Kris of the Assassin",
+            "name": "Kris of Assassin",
             "itemType": 0,
             "color": 3
         },
@@ -708,7 +708,7 @@
             "id": 19959,
             "level": 6,
             "icon": 3077,
-            "name": "Dagger of the Blind Outlaw",
+            "name": "Dagger of Blind Outlaw",
             "itemType": 0,
             "color": 3
         },
@@ -724,7 +724,7 @@
             "id": 20022,
             "level": 20,
             "icon": 3077,
-            "name": "Dagger of the Damned Heir",
+            "name": "Dagger of Damned Heir",
             "itemType": 0,
             "color": 3
         },
@@ -732,7 +732,7 @@
             "id": 20035,
             "level": 22,
             "icon": 3077,
-            "name": "Dagger of the Distracted Apostate",
+            "name": "Dagger of Distracted Apostate",
             "itemType": 0,
             "color": 3
         },
@@ -748,7 +748,7 @@
             "id": 20073,
             "level": 26,
             "icon": 3077,
-            "name": "Dagger of the Bloody Earl",
+            "name": "Dagger of Bloody Earl",
             "itemType": 0,
             "color": 3
         },
@@ -788,7 +788,7 @@
             "id": 20358,
             "level": 26,
             "icon": 3123,
-            "name": "Kris of the Descendant of the Titans",
+            "name": "Kris of Titan's Descendant",
             "itemType": 0,
             "color": 3
         },
@@ -812,7 +812,7 @@
             "id": 20813,
             "level": 12,
             "icon": 3862,
-            "name": "Dagger of the Four-Leaf Clover",
+            "name": "Dagger of Four-Leaf Clover",
             "itemType": 0,
             "color": 2
         },
@@ -844,7 +844,7 @@
             "id": 20878,
             "level": 20,
             "icon": 3862,
-            "name": "Dagger of the Arcane Valley",
+            "name": "Dagger of Arcane Valley",
             "itemType": 0,
             "color": 2
         },
@@ -852,7 +852,7 @@
             "id": 20893,
             "level": 22,
             "icon": 3862,
-            "name": "Dagger of the Forest Mystery",
+            "name": "Dagger of Forest Mystery",
             "itemType": 0,
             "color": 2
         },
@@ -860,7 +860,7 @@
             "id": 20908,
             "level": 24,
             "icon": 3862,
-            "name": "Dagger of the Blooming Island",
+            "name": "Dagger of Blooming Island",
             "itemType": 0,
             "color": 2
         },
@@ -868,7 +868,7 @@
             "id": 20923,
             "level": 26,
             "icon": 3862,
-            "name": "Dagger of the Emerald Tower",
+            "name": "Dagger of Emerald Tower",
             "itemType": 0,
             "color": 2
         },
@@ -1124,7 +1124,7 @@
             "id": 23597,
             "level": 27,
             "icon": 3248,
-            "name": "Kris of the Arena Lord",
+            "name": "Kris of Arena Lord",
             "itemType": 0,
             "color": 3
         },
@@ -1140,7 +1140,7 @@
             "id": 24086,
             "level": 28,
             "icon": 3077,
-            "name": "Dagger of the Crazy King",
+            "name": "Dagger of Crazy King",
             "itemType": 0,
             "color": 3
         },
@@ -1164,7 +1164,7 @@
             "id": 25034,
             "level": 12,
             "icon": 4748,
-            "name": "Royal Dagger of the Four-Leaf Clover",
+            "name": "Royal Dagger of Four-Leaf Clover",
             "itemType": 0,
             "color": 3
         },
@@ -1196,7 +1196,7 @@
             "id": 25098,
             "level": 20,
             "icon": 4748,
-            "name": "Royal Dagger of the Arcane Valley",
+            "name": "Royal Dagger of Arcane Valley",
             "itemType": 0,
             "color": 3
         },
@@ -1204,7 +1204,7 @@
             "id": 25114,
             "level": 22,
             "icon": 4748,
-            "name": "Royal Dagger of the Forest Mystery",
+            "name": "Royal Dagger of Forest Mystery",
             "itemType": 0,
             "color": 3
         },
@@ -1212,7 +1212,7 @@
             "id": 25130,
             "level": 24,
             "icon": 4748,
-            "name": "Royal Dagger of the Blooming Island",
+            "name": "Royal Dagger of Blooming Island",
             "itemType": 0,
             "color": 3
         },
@@ -1220,7 +1220,7 @@
             "id": 25146,
             "level": 26,
             "icon": 4748,
-            "name": "Royal Dagger of the Emerald Tower",
+            "name": "Royal Dagger of Emerald Tower",
             "itemType": 0,
             "color": 3
         },
@@ -1268,7 +1268,7 @@
             "id": 25294,
             "level": 28,
             "icon": 3400,
-            "name": "Kris of the Bloody Radiance",
+            "name": "Kris of Bloody Radiance",
             "itemType": 0,
             "color": 3
         },
@@ -1308,7 +1308,7 @@
             "id": 26483,
             "level": 29,
             "icon": 3248,
-            "name": "Kris of the Outstanding Gladiator",
+            "name": "Kris of Outstanding Gladiator",
             "itemType": 0,
             "color": 3
         },
@@ -1468,7 +1468,7 @@
             "id": 28998,
             "level": 30,
             "icon": 4335,
-            "name": "Dagger of Kingdom of Fortitude",
+            "name": "Dagger of the Kingdom of Fortitude",
             "itemType": 0,
             "color": 3
         },
@@ -1484,7 +1484,7 @@
             "id": 29688,
             "level": 7,
             "icon": 1103,
-            "name": "Dagger of Recruit",
+            "name": "Recruit's Dagger",
             "itemType": 0,
             "color": 3
         },
@@ -1492,7 +1492,7 @@
             "id": 29709,
             "level": 11,
             "icon": 1103,
-            "name": "Dagger of Mercenary",
+            "name": "Hireling's Dagger",
             "itemType": 0,
             "color": 3
         },
@@ -1572,7 +1572,7 @@
             "id": 31048,
             "level": 26,
             "icon": 3123,
-            "name": "Dagger of the Descendant of the Titans",
+            "name": "Dagger of Titan's Descendant",
             "itemType": 0,
             "color": 3
         },
@@ -1692,7 +1692,7 @@
             "id": 35258,
             "level": 31,
             "icon": 4891,
-            "name": "Dagger of the Pirate Brotherhood",
+            "name": "Dagger of Pirate Brotherhood",
             "itemType": 0,
             "color": 3
         }

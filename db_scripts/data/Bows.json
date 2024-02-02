@@ -332,7 +332,7 @@
             "id": 15011,
             "level": 19,
             "icon": 1064,
-            "name": "Provocator's Composite Bow",
+            "name": "Instigator's Composite Bow",
             "itemType": 1,
             "color": 3
         },
@@ -356,7 +356,7 @@
             "id": 15327,
             "level": 21,
             "icon": 1076,
-            "name": "Enchanted Bow of the Lord",
+            "name": "Enchanted Bow of Lord",
             "itemType": 1,
             "color": 3
         },
@@ -444,7 +444,7 @@
             "id": 16140,
             "level": 8,
             "icon": 3120,
-            "name": "Bow of Oath-breaker",
+            "name": "Bow of Oathbreaker",
             "itemType": 1,
             "color": 3
         },
@@ -564,7 +564,7 @@
             "id": 17260,
             "level": 12,
             "icon": 1058,
-            "name": "Well-tried Bow",
+            "name": "Well-Worn Bow",
             "itemType": 1,
             "color": 2
         },
@@ -580,7 +580,7 @@
             "id": 17291,
             "level": 22,
             "icon": 1064,
-            "name": "All-Destroying Bow",
+            "name": "Devastating Bow",
             "itemType": 1,
             "color": 3
         },
@@ -716,7 +716,7 @@
             "id": 19967,
             "level": 6,
             "icon": 3074,
-            "name": "Bow of the Blind Outlaw",
+            "name": "Bow of Blind Outlaw",
             "itemType": 1,
             "color": 3
         },
@@ -732,7 +732,7 @@
             "id": 20030,
             "level": 20,
             "icon": 3074,
-            "name": "Bow of the Damned Heir",
+            "name": "Bow of Damned Heir",
             "itemType": 1,
             "color": 3
         },
@@ -740,7 +740,7 @@
             "id": 20043,
             "level": 22,
             "icon": 3074,
-            "name": "Bow of the Distracted Apostate",
+            "name": "Bow of Distracted Apostate",
             "itemType": 1,
             "color": 3
         },
@@ -756,7 +756,7 @@
             "id": 20081,
             "level": 26,
             "icon": 3074,
-            "name": "Bow of the Bloody Earl",
+            "name": "Bow of Bloody Earl",
             "itemType": 1,
             "color": 3
         },
@@ -836,7 +836,7 @@
             "id": 20366,
             "level": 26,
             "icon": 3120,
-            "name": "Battle Bow of the Descendant of the Titans",
+            "name": "Battle Bow of Titan's Descendant",
             "itemType": 1,
             "color": 3
         },
@@ -852,7 +852,7 @@
             "id": 20792,
             "level": 6,
             "icon": 3869,
-            "name": "Killer Bow of the Green Hill",
+            "name": "Deadly Bow of the Green Hill",
             "itemType": 1,
             "color": 2
         },
@@ -868,7 +868,7 @@
             "id": 20807,
             "level": 10,
             "icon": 3869,
-            "name": "Killer Bow of the Heath Meadow",
+            "name": "Deadly Bow of the Heath Meadow",
             "itemType": 1,
             "color": 2
         },
@@ -876,7 +876,7 @@
             "id": 20821,
             "level": 12,
             "icon": 3869,
-            "name": "Piercing Bow of the Four-Leaf Clover",
+            "name": "Piercing Bow of Four-Leaf Clover",
             "itemType": 1,
             "color": 2
         },
@@ -884,7 +884,7 @@
             "id": 20822,
             "level": 12,
             "icon": 3869,
-            "name": "Killer Bow of the Four-Leaf Clover",
+            "name": "Deadly Bow of Four-Leaf Clover",
             "itemType": 1,
             "color": 2
         },
@@ -900,7 +900,7 @@
             "id": 20837,
             "level": 14,
             "icon": 3869,
-            "name": "Killer Bow of the Spring Symphony",
+            "name": "Deadly Bow of the Spring Symphony",
             "itemType": 1,
             "color": 2
         },
@@ -916,7 +916,7 @@
             "id": 20857,
             "level": 16,
             "icon": 3869,
-            "name": "Killer Bow of the Happy Month",
+            "name": "Deadly Bow of the Happy Month",
             "itemType": 1,
             "color": 2
         },
@@ -932,7 +932,7 @@
             "id": 20872,
             "level": 18,
             "icon": 3869,
-            "name": "Killer Bow of the Singing Oak Forest",
+            "name": "Deadly Bow of the Singing Oak Forest",
             "itemType": 1,
             "color": 2
         },
@@ -940,7 +940,7 @@
             "id": 20886,
             "level": 20,
             "icon": 3869,
-            "name": "Agility Bow of the Arcane Valley",
+            "name": "Agility Bow of Arcane Valley",
             "itemType": 1,
             "color": 2
         },
@@ -948,7 +948,7 @@
             "id": 20887,
             "level": 20,
             "icon": 3869,
-            "name": "War Bow of the Arcane Valley",
+            "name": "Deadly Bow of Arcane Valley",
             "itemType": 1,
             "color": 2
         },
@@ -956,7 +956,7 @@
             "id": 20901,
             "level": 22,
             "icon": 3869,
-            "name": "Agility Bow of the Forest Mystery",
+            "name": "Agility Bow of Forest Mystery",
             "itemType": 1,
             "color": 2
         },
@@ -964,7 +964,7 @@
             "id": 20902,
             "level": 22,
             "icon": 3869,
-            "name": "War Bow of the Forest Mystery",
+            "name": "Deadly Bow of Forest Mystery",
             "itemType": 1,
             "color": 2
         },
@@ -972,7 +972,7 @@
             "id": 20916,
             "level": 24,
             "icon": 3869,
-            "name": "Agility Bow of the Blooming Island",
+            "name": "Agility Bow of Blooming Island",
             "itemType": 1,
             "color": 2
         },
@@ -980,7 +980,7 @@
             "id": 20917,
             "level": 24,
             "icon": 3869,
-            "name": "Killer Bow of the Blooming Island",
+            "name": "Deadly Bow of Blooming Island",
             "itemType": 1,
             "color": 2
         },
@@ -988,7 +988,7 @@
             "id": 20931,
             "level": 26,
             "icon": 3869,
-            "name": "Agility Bow of the Emerald Tower",
+            "name": "Agility Bow of Emerald Tower",
             "itemType": 1,
             "color": 2
         },
@@ -996,7 +996,7 @@
             "id": 20932,
             "level": 26,
             "icon": 3869,
-            "name": "War Bow of the Emerald Tower",
+            "name": "Deadly Bow of Emerald Tower",
             "itemType": 1,
             "color": 2
         },
@@ -1252,7 +1252,7 @@
             "id": 23606,
             "level": 27,
             "icon": 3256,
-            "name": "Bow of the Arena Lord",
+            "name": "Bow of Arena Lord",
             "itemType": 1,
             "color": 3
         },
@@ -1268,7 +1268,7 @@
             "id": 24095,
             "level": 28,
             "icon": 3074,
-            "name": "Striking Bow of the Crazy King",
+            "name": "Striking Bow of Crazy King",
             "itemType": 1,
             "color": 3
         },
@@ -1324,7 +1324,7 @@
             "id": 24120,
             "level": 20,
             "icon": 3074,
-            "name": "Striking Bow of the Damned Heir",
+            "name": "Striking Bow of Damned Heir",
             "itemType": 1,
             "color": 3
         },
@@ -1332,7 +1332,7 @@
             "id": 24123,
             "level": 22,
             "icon": 3074,
-            "name": "Striking Bow of the Distracted Apostate",
+            "name": "Striking Bow of Distracted Apostate",
             "itemType": 1,
             "color": 3
         },
@@ -1348,7 +1348,7 @@
             "id": 24129,
             "level": 26,
             "icon": 3074,
-            "name": "Striking Bow of the Bloody Earl",
+            "name": "Striking Bow of Bloody Earl",
             "itemType": 1,
             "color": 3
         },
@@ -1372,7 +1372,7 @@
             "id": 25028,
             "level": 10,
             "icon": 4745,
-            "name": "Royal Killer Bow of the Heath Meadow",
+            "name": "Royal Deadly Bow of the Heath Meadow",
             "itemType": 1,
             "color": 3
         },
@@ -1380,7 +1380,7 @@
             "id": 25043,
             "level": 12,
             "icon": 4745,
-            "name": "Royal Piercing Bow of the Four-Leaf Clover",
+            "name": "Royal Piercing Bow of Four-Leaf Clover",
             "itemType": 1,
             "color": 3
         },
@@ -1388,7 +1388,7 @@
             "id": 25044,
             "level": 12,
             "icon": 4745,
-            "name": "Royal Killer Bow of the Four-Leaf Clover",
+            "name": "Royal Deadly Bow of Four-Leaf Clover",
             "itemType": 1,
             "color": 3
         },
@@ -1404,7 +1404,7 @@
             "id": 25060,
             "level": 14,
             "icon": 4745,
-            "name": "Royal Killer Bow of the Spring Symphony",
+            "name": "Royal Deadly Bow of the Spring Symphony",
             "itemType": 1,
             "color": 3
         },
@@ -1420,7 +1420,7 @@
             "id": 25076,
             "level": 16,
             "icon": 4745,
-            "name": "Royal Killer Bow of the Happy Month",
+            "name": "Royal Deadly Bow of the Happy Month",
             "itemType": 1,
             "color": 3
         },
@@ -1436,7 +1436,7 @@
             "id": 25092,
             "level": 18,
             "icon": 4745,
-            "name": "Royal Killer Bow of the Singing Oak Forest",
+            "name": "Royal Deadly Bow of the Singing Oak Forest",
             "itemType": 1,
             "color": 3
         },
@@ -1444,7 +1444,7 @@
             "id": 25107,
             "level": 20,
             "icon": 4745,
-            "name": "Royal Piercing Bow of the Arcane Valley",
+            "name": "Royal Piercing Bow of Arcane Valley",
             "itemType": 1,
             "color": 3
         },
@@ -1452,7 +1452,7 @@
             "id": 25108,
             "level": 20,
             "icon": 4745,
-            "name": "Royal Killer Bow of the Arcane Valley",
+            "name": "Royal Deadly Bow of Arcane Valley",
             "itemType": 1,
             "color": 3
         },
@@ -1460,7 +1460,7 @@
             "id": 25123,
             "level": 22,
             "icon": 4745,
-            "name": "Royal Piercing Bow of the Forest Mystery",
+            "name": "Royal Piercing Bow of Forest Mystery",
             "itemType": 1,
             "color": 3
         },
@@ -1468,7 +1468,7 @@
             "id": 25124,
             "level": 22,
             "icon": 4745,
-            "name": "Royal Killer Bow of the Forest Mystery",
+            "name": "Royal Deadly Bow of Forest Mystery",
             "itemType": 1,
             "color": 3
         },
@@ -1476,7 +1476,7 @@
             "id": 25139,
             "level": 24,
             "icon": 4745,
-            "name": "Royal Piercing Bow of the Blooming Island",
+            "name": "Royal Piercing Bow of Blooming Island",
             "itemType": 1,
             "color": 3
         },
@@ -1484,7 +1484,7 @@
             "id": 25140,
             "level": 24,
             "icon": 4745,
-            "name": "Royal Killer Bow of the Blooming Island",
+            "name": "Royal Deadly Bow of Blooming Island",
             "itemType": 1,
             "color": 3
         },
@@ -1492,7 +1492,7 @@
             "id": 25155,
             "level": 26,
             "icon": 4745,
-            "name": "Royal Piercing Bow of the Emerald Tower",
+            "name": "Royal Piercing Bow of Emerald Tower",
             "itemType": 1,
             "color": 3
         },
@@ -1500,7 +1500,7 @@
             "id": 25156,
             "level": 26,
             "icon": 4745,
-            "name": "Royal Killer Bow of the Emerald Tower",
+            "name": "Royal Deadly Bow of Emerald Tower",
             "itemType": 1,
             "color": 3
         },
@@ -1516,7 +1516,7 @@
             "id": 25172,
             "level": 28,
             "icon": 4745,
-            "name": "Royal Killer Bow of the Sun Fortress",
+            "name": "Royal Deadly Bow of the Sun Fortress",
             "itemType": 1,
             "color": 3
         },
@@ -1540,7 +1540,7 @@
             "id": 25202,
             "level": 28,
             "icon": 3869,
-            "name": "Killer Bow of the Sun Fortress",
+            "name": "Deadly Bow of the Sun Fortress",
             "itemType": 1,
             "color": 2
         },
@@ -1564,7 +1564,7 @@
             "id": 25312,
             "level": 28,
             "icon": 3397,
-            "name": "Bow of the Bloody Radiance",
+            "name": "Bow of Bloody Radiance",
             "itemType": 1,
             "color": 3
         },
@@ -1604,7 +1604,7 @@
             "id": 26492,
             "level": 29,
             "icon": 3256,
-            "name": "Striking Bow of the Outstanding Gladiator",
+            "name": "Striking Bow of Outstanding Gladiator",
             "itemType": 1,
             "color": 3
         },
@@ -1612,7 +1612,7 @@
             "id": 26534,
             "level": 29,
             "icon": 3256,
-            "name": "Agility Bow of the Outstanding Gladiator",
+            "name": "Agility Bow of Outstanding Gladiator",
             "itemType": 1,
             "color": 3
         },
@@ -1868,7 +1868,7 @@
             "id": 28992,
             "level": 30,
             "icon": 4745,
-            "name": "Royal Killer Bow of Enchanted Castle",
+            "name": "Royal Deadly Bow of Enchanted Castle",
             "itemType": 1,
             "color": 3
         },
@@ -1876,7 +1876,7 @@
             "id": 29007,
             "level": 30,
             "icon": 4340,
-            "name": "Bow of Kingdom of Fortitude",
+            "name": "Bow of the Kingdom of Fortitude",
             "itemType": 1,
             "color": 3
         },
@@ -1892,7 +1892,7 @@
             "id": 29023,
             "level": 30,
             "icon": 3869,
-            "name": "Killer Bow of Enchanted Castle",
+            "name": "Deadly Bow of Enchanted Castle",
             "itemType": 1,
             "color": 2
         },
@@ -1900,7 +1900,7 @@
             "id": 29703,
             "level": 7,
             "icon": 1058,
-            "name": "Bow of Recruit",
+            "name": "Recruit's Bow",
             "itemType": 1,
             "color": 3
         },
@@ -1908,7 +1908,7 @@
             "id": 29718,
             "level": 11,
             "icon": 1058,
-            "name": "Bow of Mercenary",
+            "name": "Hireling's Bow",
             "itemType": 1,
             "color": 3
         },
@@ -1964,7 +1964,7 @@
             "id": 31279,
             "level": 26,
             "icon": 3120,
-            "name": "Bow of the Descendant of the Titans",
+            "name": "Bow of Titan's Descendant",
             "itemType": 1,
             "color": 3
         },
@@ -2060,7 +2060,7 @@
             "id": 34565,
             "level": 32,
             "icon": 4745,
-            "name": "Royal Killer Bow of the Magic Bastion",
+            "name": "Royal Deadly Bow of the Magic Bastion",
             "itemType": 1,
             "color": 3
         },
@@ -2076,7 +2076,7 @@
             "id": 34583,
             "level": 32,
             "icon": 3869,
-            "name": "Killer Bow of the Magic Bastion",
+            "name": "Deadly Bow of the Magic Bastion",
             "itemType": 1,
             "color": 2
         },
@@ -2092,7 +2092,7 @@
             "id": 35268,
             "level": 31,
             "icon": 4886,
-            "name": "Bow of the Pirate Brotherhood",
+            "name": "Bow of Pirate Brotherhood",
             "itemType": 1,
             "color": 3
         },

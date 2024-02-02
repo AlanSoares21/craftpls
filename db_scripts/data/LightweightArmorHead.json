@@ -60,7 +60,7 @@
             "id": 975,
             "level": 9,
             "icon": 1647,
-            "name": "Helm of Fighter",
+            "name": "Fighter's Helm",
             "itemType": 5,
             "color": 2
         },
@@ -68,7 +68,7 @@
             "id": 1026,
             "level": 9,
             "icon": 1638,
-            "name": "Leather Helm of Hunter",
+            "name": "Hunter's Leather Helm",
             "itemType": 5,
             "color": 3
         },
@@ -76,7 +76,7 @@
             "id": 1027,
             "level": 9,
             "icon": 1656,
-            "name": "Leather Helm of Guardian",
+            "name": "Guardian's Leather Helm",
             "itemType": 5,
             "color": 3
         },
@@ -116,7 +116,7 @@
             "id": 2131,
             "level": 14,
             "icon": 1649,
-            "name": "Good-looking Helm",
+            "name": "Good Looking Helm",
             "itemType": 5,
             "color": 0
         },
@@ -540,7 +540,7 @@
             "id": 5784,
             "level": 7,
             "icon": 1635,
-            "name": "Mask of Beginner Gladiator",
+            "name": "Mask of Novice Gladiator",
             "itemType": 5,
             "color": 3
         },
@@ -828,7 +828,7 @@
             "id": 13783,
             "level": 10,
             "icon": 1635,
-            "name": "Mask of Aquilon",
+            "name": "Aquilon's Mask",
             "itemType": 5,
             "color": 2
         },
@@ -836,7 +836,7 @@
             "id": 13784,
             "level": 10,
             "icon": 2578,
-            "name": "Helm of Aquilon",
+            "name": "Aquilon's Helm",
             "itemType": 5,
             "color": 2
         },
@@ -940,7 +940,7 @@
             "id": 14993,
             "level": 19,
             "icon": 1653,
-            "name": "Provocator's Helm",
+            "name": "Instigator's Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1140,7 +1140,7 @@
             "id": 18034,
             "level": 14,
             "icon": 4585,
-            "name": "Mask of Red-haired Chuck",
+            "name": "Mask of Red-Haired Chuck",
             "itemType": 5,
             "color": 3
         },
@@ -1148,7 +1148,7 @@
             "id": 18035,
             "level": 18,
             "icon": 4585,
-            "name": "Mask of Red-haired Chuck",
+            "name": "Mask of Red-Haired Chuck",
             "itemType": 5,
             "color": 3
         },
@@ -1156,7 +1156,7 @@
             "id": 18036,
             "level": 22,
             "icon": 4585,
-            "name": "Mask of Red-haired Chuck",
+            "name": "Mask of Red-Haired Chuck",
             "itemType": 5,
             "color": 3
         },
@@ -1164,7 +1164,7 @@
             "id": 18037,
             "level": 24,
             "icon": 4585,
-            "name": "Mask of Red-haired Chuck",
+            "name": "Mask of Red-Haired Chuck",
             "itemType": 5,
             "color": 3
         },
@@ -1172,7 +1172,7 @@
             "id": 18442,
             "level": 10,
             "icon": 3509,
-            "name": "Eternal Life Helm",
+            "name": "Helm of Eternal Life",
             "itemType": 5,
             "color": 3
         },
@@ -1220,7 +1220,7 @@
             "id": 18466,
             "level": 22,
             "icon": 3509,
-            "name": "Infinite Reliability Helm",
+            "name": "Helm of Infinite Reliability",
             "itemType": 5,
             "color": 3
         },
@@ -1316,7 +1316,7 @@
             "id": 18517,
             "level": 22,
             "icon": 2575,
-            "name": "Divine Protection Helm",
+            "name": "Helm of Divine Protection",
             "itemType": 5,
             "color": 3
         },
@@ -1380,7 +1380,7 @@
             "id": 20109,
             "level": 26,
             "icon": 4585,
-            "name": "Mask of Red-haired Chuck",
+            "name": "Mask of Red-Haired Chuck",
             "itemType": 5,
             "color": 3
         },
@@ -1516,7 +1516,7 @@
             "id": 22200,
             "level": 6,
             "icon": 4232,
-            "name": "Winter Helm of Iceman",
+            "name": "Iceman's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1524,7 +1524,7 @@
             "id": 22201,
             "level": 6,
             "icon": 4232,
-            "name": "Winter Cap of Iceman",
+            "name": "Iceman's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -1532,7 +1532,7 @@
             "id": 22224,
             "level": 10,
             "icon": 4232,
-            "name": "Winter Helm of Ragnar",
+            "name": "Ragnar's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1540,7 +1540,7 @@
             "id": 22225,
             "level": 10,
             "icon": 4232,
-            "name": "Winter Cap of Ragnar",
+            "name": "Ragnar's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -1548,7 +1548,7 @@
             "id": 22248,
             "level": 12,
             "icon": 4232,
-            "name": "Winter Helm of Frosty Fang",
+            "name": "Frosty Fang's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1556,7 +1556,7 @@
             "id": 22249,
             "level": 12,
             "icon": 4232,
-            "name": "Winter Cap of Frosty Fang",
+            "name": "Frosty Fang's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -1564,7 +1564,7 @@
             "id": 22272,
             "level": 14,
             "icon": 4232,
-            "name": "Winter Helm of Mastodon",
+            "name": "Mastodon's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1572,7 +1572,7 @@
             "id": 22273,
             "level": 14,
             "icon": 4232,
-            "name": "Winter Cap of Mastodon",
+            "name": "Mastodon's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -1580,7 +1580,7 @@
             "id": 22296,
             "level": 16,
             "icon": 4232,
-            "name": "Winter Helm of Taron",
+            "name": "Taron's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1588,7 +1588,7 @@
             "id": 22297,
             "level": 16,
             "icon": 4232,
-            "name": "Winter Cap of Taron",
+            "name": "Taron's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -1596,7 +1596,7 @@
             "id": 22314,
             "level": 18,
             "icon": 4232,
-            "name": "Winter Helm of Kerula",
+            "name": "Kerula's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1604,7 +1604,7 @@
             "id": 22315,
             "level": 18,
             "icon": 4232,
-            "name": "Winter Cap of Kerula",
+            "name": "Kerula's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -1612,7 +1612,7 @@
             "id": 22344,
             "level": 20,
             "icon": 4232,
-            "name": "Winter Helm of Gimir",
+            "name": "Gimir's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1620,7 +1620,7 @@
             "id": 22345,
             "level": 20,
             "icon": 4232,
-            "name": "Winter Cap of Gimir",
+            "name": "Gimir's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -1628,7 +1628,7 @@
             "id": 22368,
             "level": 22,
             "icon": 4232,
-            "name": "Winter Helm of Flavius",
+            "name": "Flavius's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1636,7 +1636,7 @@
             "id": 22369,
             "level": 22,
             "icon": 4232,
-            "name": "Winter Cap of Flavius",
+            "name": "Flavius's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -1644,7 +1644,7 @@
             "id": 22392,
             "level": 24,
             "icon": 4232,
-            "name": "Winter Helm of Ruberius",
+            "name": "Ruberius's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1652,7 +1652,7 @@
             "id": 22393,
             "level": 24,
             "icon": 4232,
-            "name": "Winter Cap of Ruberius",
+            "name": "Ruberius's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -1660,7 +1660,7 @@
             "id": 22416,
             "level": 26,
             "icon": 4232,
-            "name": "Winter Helm of Mortis",
+            "name": "Mortis's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1668,7 +1668,7 @@
             "id": 22417,
             "level": 26,
             "icon": 4232,
-            "name": "Winter Cap of Mortis",
+            "name": "Mortis's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -1676,7 +1676,7 @@
             "id": 23317,
             "level": 20,
             "icon": 4470,
-            "name": "Helmet of Warriors of the Sacred Forest",
+            "name": "Helmet of Sacred Forest Warriors",
             "itemType": 5,
             "color": 4
         },
@@ -1684,7 +1684,7 @@
             "id": 23321,
             "level": 20,
             "icon": 4469,
-            "name": "Mask of Warriors of the Dominant Coalition",
+            "name": "Mask of Dominant Coalition Warriors",
             "itemType": 5,
             "color": 4
         },
@@ -1692,7 +1692,7 @@
             "id": 23325,
             "level": 22,
             "icon": 4470,
-            "name": "Helmet of Warriors of the Pyramid Valley",
+            "name": "Helmet of Pyramid Valley Warriors",
             "itemType": 5,
             "color": 4
         },
@@ -1700,7 +1700,7 @@
             "id": 23329,
             "level": 22,
             "icon": 4469,
-            "name": "Mask of Warriors of the Mighty Alliance",
+            "name": "Mask of Mighty Alliance Warriors",
             "itemType": 5,
             "color": 4
         },
@@ -1708,7 +1708,7 @@
             "id": 23333,
             "level": 24,
             "icon": 4470,
-            "name": "Helmet of Warriors of the Black Oak Forest",
+            "name": "Helmet of Black Oak Forest Warriors",
             "itemType": 5,
             "color": 4
         },
@@ -1716,7 +1716,7 @@
             "id": 23337,
             "level": 24,
             "icon": 4469,
-            "name": "Mask of Warriors of the Legendary Brotherhood",
+            "name": "Mask of Legendary Brotherhood Warriors",
             "itemType": 5,
             "color": 4
         },
@@ -1724,7 +1724,7 @@
             "id": 23341,
             "level": 26,
             "icon": 4470,
-            "name": "Helmet of Warriors of the Flying Islands",
+            "name": "Helmet of Flying Islands Warriors",
             "itemType": 5,
             "color": 4
         },
@@ -1732,7 +1732,7 @@
             "id": 23345,
             "level": 26,
             "icon": 4469,
-            "name": "Mask of Warriors of the Immortal Order",
+            "name": "Mask of Immortal Order Warriors",
             "itemType": 5,
             "color": 4
         },
@@ -1884,7 +1884,7 @@
             "id": 24173,
             "level": 16,
             "icon": 4585,
-            "name": "Mask of Red-haired Chuck",
+            "name": "Mask of Red-Haired Chuck",
             "itemType": 5,
             "color": 3
         },
@@ -1892,7 +1892,7 @@
             "id": 24175,
             "level": 20,
             "icon": 4585,
-            "name": "Mask of Red-haired Chuck",
+            "name": "Mask of Red-Haired Chuck",
             "itemType": 5,
             "color": 3
         },
@@ -1900,7 +1900,7 @@
             "id": 24177,
             "level": 28,
             "icon": 4585,
-            "name": "Mask of Red-haired Chuck",
+            "name": "Mask of Red-Haired Chuck",
             "itemType": 5,
             "color": 3
         },
@@ -1908,7 +1908,7 @@
             "id": 24412,
             "level": 28,
             "icon": 4232,
-            "name": "Winter Helm of the Snow General",
+            "name": "Snow General's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1916,7 +1916,7 @@
             "id": 24416,
             "level": 28,
             "icon": 4232,
-            "name": "Winter Cap of the Snow General",
+            "name": "Snow General's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -1932,7 +1932,7 @@
             "id": 24454,
             "level": 10,
             "icon": 4631,
-            "name": "All-Destroying Helmet of Ragnar",
+            "name": "Ragnar's Devastating Helmet",
             "itemType": 5,
             "color": 4
         },
@@ -1940,7 +1940,7 @@
             "id": 24458,
             "level": 10,
             "icon": 4631,
-            "name": "Unmatched Hat of Ragnar",
+            "name": "Ragnar's Unmatched Hat",
             "itemType": 5,
             "color": 4
         },
@@ -1948,7 +1948,7 @@
             "id": 24542,
             "level": 12,
             "icon": 4631,
-            "name": "All-Destroying Helmet of Frosty Fang",
+            "name": "Frosty Fang's Devastating Helmet",
             "itemType": 5,
             "color": 4
         },
@@ -1956,7 +1956,7 @@
             "id": 24543,
             "level": 14,
             "icon": 4631,
-            "name": "All-Destroying Helmet of Mastodon",
+            "name": "Mastodon's Devastating Helmet",
             "itemType": 5,
             "color": 4
         },
@@ -1964,7 +1964,7 @@
             "id": 24544,
             "level": 16,
             "icon": 4631,
-            "name": "All-Destroying Helmet of Taron",
+            "name": "Taron's Devastating Helmet",
             "itemType": 5,
             "color": 4
         },
@@ -1972,7 +1972,7 @@
             "id": 24545,
             "level": 18,
             "icon": 4631,
-            "name": "All-Destroying Helmet of Kerula",
+            "name": "Kerula's Devastating Helmet",
             "itemType": 5,
             "color": 4
         },
@@ -1980,7 +1980,7 @@
             "id": 24546,
             "level": 20,
             "icon": 4631,
-            "name": "All-Destroying Helmet of Gimir",
+            "name": "Gimir's Devastating Helmet",
             "itemType": 5,
             "color": 4
         },
@@ -1988,7 +1988,7 @@
             "id": 24547,
             "level": 22,
             "icon": 4631,
-            "name": "All-Destroying Helmet of Flavius",
+            "name": "Flavius's Devastating Helmet",
             "itemType": 5,
             "color": 4
         },
@@ -1996,7 +1996,7 @@
             "id": 24548,
             "level": 24,
             "icon": 4631,
-            "name": "All-Destroying Helmet of Ruberius",
+            "name": "Ruberius's Devastating Helmet",
             "itemType": 5,
             "color": 4
         },
@@ -2004,7 +2004,7 @@
             "id": 24549,
             "level": 26,
             "icon": 4631,
-            "name": "All-Destroying Helmet of Mortis",
+            "name": "Mortis's Devastating Helmet",
             "itemType": 5,
             "color": 4
         },
@@ -2012,7 +2012,7 @@
             "id": 24550,
             "level": 28,
             "icon": 4631,
-            "name": "All-Destroying Helmet of the Snow General",
+            "name": "Snow General's Devastating Helmet",
             "itemType": 5,
             "color": 4
         },
@@ -2020,7 +2020,7 @@
             "id": 24578,
             "level": 12,
             "icon": 4631,
-            "name": "Unsurpassed Hat of Frosty Fang",
+            "name": "Frosty Fang's Unsurpassed Hat",
             "itemType": 5,
             "color": 4
         },
@@ -2028,7 +2028,7 @@
             "id": 24579,
             "level": 14,
             "icon": 4631,
-            "name": "Unsurpassed Hat of Mastodon",
+            "name": "Mastodon's Unsurpassed Hat",
             "itemType": 5,
             "color": 4
         },
@@ -2036,7 +2036,7 @@
             "id": 24580,
             "level": 16,
             "icon": 4631,
-            "name": "Unsurpassed Hat of Taron",
+            "name": "Taron's Unsurpassed Hat",
             "itemType": 5,
             "color": 4
         },
@@ -2044,7 +2044,7 @@
             "id": 24581,
             "level": 18,
             "icon": 4631,
-            "name": "Unsurpassed Hat of Kerula",
+            "name": "Kerula's Unsurpassed Hat",
             "itemType": 5,
             "color": 4
         },
@@ -2052,7 +2052,7 @@
             "id": 24582,
             "level": 20,
             "icon": 4631,
-            "name": "Unsurpassed Hat of Gimir",
+            "name": "Gimir's Unsurpassed Hat",
             "itemType": 5,
             "color": 4
         },
@@ -2060,7 +2060,7 @@
             "id": 24583,
             "level": 22,
             "icon": 4631,
-            "name": "Unsurpassed Hat of Flavius",
+            "name": "Flavius's Unsurpassed Hat",
             "itemType": 5,
             "color": 4
         },
@@ -2068,7 +2068,7 @@
             "id": 24584,
             "level": 24,
             "icon": 4631,
-            "name": "Unsurpassed Hat of Ruberius",
+            "name": "Ruberius's Unsurpassed Hat",
             "itemType": 5,
             "color": 4
         },
@@ -2076,7 +2076,7 @@
             "id": 24585,
             "level": 26,
             "icon": 4631,
-            "name": "Unsurpassed Hat of Mortis",
+            "name": "Mortis's Unsurpassed Hat",
             "itemType": 5,
             "color": 4
         },
@@ -2084,7 +2084,7 @@
             "id": 24586,
             "level": 28,
             "icon": 4631,
-            "name": "Unsurpassed Hat of the Snow General",
+            "name": "Snow General's Unsurpassed Hat",
             "itemType": 5,
             "color": 4
         },
@@ -2116,7 +2116,7 @@
             "id": 25923,
             "level": 20,
             "icon": 4469,
-            "name": "Mask of Assassins of the Dominant Coalition",
+            "name": "Mask of Dominant Coalition Assassins",
             "itemType": 5,
             "color": 4
         },
@@ -2124,7 +2124,7 @@
             "id": 25927,
             "level": 22,
             "icon": 4469,
-            "name": "Mask of Assassins of the Mighty Alliance",
+            "name": "Mask of Mighty Alliance Assassins",
             "itemType": 5,
             "color": 4
         },
@@ -2132,7 +2132,7 @@
             "id": 25931,
             "level": 24,
             "icon": 4469,
-            "name": "Mask of Assassins of the Legendary Brotherhood",
+            "name": "Mask of Legendary Brotherhood Assassins",
             "itemType": 5,
             "color": 4
         },
@@ -2140,7 +2140,7 @@
             "id": 25936,
             "level": 26,
             "icon": 4469,
-            "name": "Mask of Assassins of the Immortal Order",
+            "name": "Mask of Immortal Order Assassins",
             "itemType": 5,
             "color": 4
         },
@@ -2180,7 +2180,7 @@
             "id": 26506,
             "level": 29,
             "icon": 2581,
-            "name": "Helm of the Legendary Assassin",
+            "name": "Helm of Legendary Assassin",
             "itemType": 5,
             "color": 3
         },
@@ -2188,7 +2188,7 @@
             "id": 26507,
             "level": 29,
             "icon": 2581,
-            "name": "Mask of the Legendary Assassin",
+            "name": "Mask of Legendary Assassin",
             "itemType": 5,
             "color": 3
         },
@@ -2204,7 +2204,7 @@
             "id": 27177,
             "level": 30,
             "icon": 4585,
-            "name": "Mask of Red-haired Chuck",
+            "name": "Mask of Red-Haired Chuck",
             "itemType": 5,
             "color": 3
         },
@@ -2212,7 +2212,7 @@
             "id": 27958,
             "level": 30,
             "icon": 4232,
-            "name": "Winter Helm of Chernobog",
+            "name": "Chernobog's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -2220,7 +2220,7 @@
             "id": 27962,
             "level": 30,
             "icon": 4232,
-            "name": "Winter Cap of Chernobog",
+            "name": "Chernobog's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -2308,7 +2308,7 @@
             "id": 28115,
             "level": 30,
             "icon": 4631,
-            "name": "All-Destroying Helmet of Chernobog",
+            "name": "Chernobog's Devastating Helmet",
             "itemType": 5,
             "color": 4
         },
@@ -2316,7 +2316,7 @@
             "id": 28119,
             "level": 30,
             "icon": 4631,
-            "name": "Unsurpassed Hat of Chernobog",
+            "name": "Chernobog's Unsurpassed Hat",
             "itemType": 5,
             "color": 4
         },
@@ -2380,7 +2380,7 @@
             "id": 29489,
             "level": 20,
             "icon": 4470,
-            "name": "Helmet of Assassins of the Sacred Forest",
+            "name": "Helmet of Sacred Forest Assassins",
             "itemType": 5,
             "color": 4
         },
@@ -2388,7 +2388,7 @@
             "id": 29493,
             "level": 22,
             "icon": 4470,
-            "name": "Helmet of Assassins of the Pyramid Valley",
+            "name": "Helmet of Pyramid Valley Assassins",
             "itemType": 5,
             "color": 4
         },
@@ -2396,7 +2396,7 @@
             "id": 29497,
             "level": 24,
             "icon": 4470,
-            "name": "Helmet of Assassins of the Black Oak Forest",
+            "name": "Helmet of Black Oak Forest Assassins",
             "itemType": 5,
             "color": 4
         },
@@ -2404,7 +2404,7 @@
             "id": 29501,
             "level": 26,
             "icon": 4470,
-            "name": "Helmet of Assassins of the Flying Islands",
+            "name": "Helmet of Flying Islands Assassins",
             "itemType": 5,
             "color": 4
         },
@@ -2412,7 +2412,7 @@
             "id": 29505,
             "level": 28,
             "icon": 4470,
-            "name": "Helmet of Assassins of the Ship Graveyard",
+            "name": "Helmet of Ship Graveyard Assassins",
             "itemType": 5,
             "color": 4
         },
@@ -2420,7 +2420,7 @@
             "id": 29509,
             "level": 28,
             "icon": 4470,
-            "name": "Helmet of Warriors of the Ship Graveyard",
+            "name": "Helmet of Ship Graveyard Warriors",
             "itemType": 5,
             "color": 4
         },
@@ -2428,7 +2428,7 @@
             "id": 29513,
             "level": 28,
             "icon": 4469,
-            "name": "Mask of Warriors of the Imperious Clan",
+            "name": "Mask of Imperious Clan Warriors",
             "itemType": 5,
             "color": 4
         },
@@ -2436,7 +2436,7 @@
             "id": 29517,
             "level": 28,
             "icon": 4469,
-            "name": "Mask of Assassins of the Imperious Clan",
+            "name": "Mask of Imperious Clan Assassins",
             "itemType": 5,
             "color": 4
         },
@@ -2444,7 +2444,7 @@
             "id": 29743,
             "level": 7,
             "icon": 1638,
-            "name": "Helm of Recruit",
+            "name": "Recruit's Helm",
             "itemType": 5,
             "color": 3
         },
@@ -2452,7 +2452,7 @@
             "id": 29748,
             "level": 7,
             "icon": 1656,
-            "name": "Mask of Recruit",
+            "name": "Recruit's Mask",
             "itemType": 5,
             "color": 3
         },
@@ -2460,7 +2460,7 @@
             "id": 29753,
             "level": 11,
             "icon": 1638,
-            "name": "Helm of Mercenary",
+            "name": "Hireling's Helm",
             "itemType": 5,
             "color": 3
         },
@@ -2468,7 +2468,7 @@
             "id": 29758,
             "level": 11,
             "icon": 1656,
-            "name": "Mask of Mercenary",
+            "name": "Hireling's Mask",
             "itemType": 5,
             "color": 3
         },
@@ -2476,7 +2476,7 @@
             "id": 32047,
             "level": 30,
             "icon": 4470,
-            "name": "Helmet of the Warriors of the Pirate Archipelago",
+            "name": "Helmet of Pirate Archipelago Warriors",
             "itemType": 5,
             "color": 4
         },
@@ -2484,7 +2484,7 @@
             "id": 32051,
             "level": 30,
             "icon": 4470,
-            "name": "Helmet of the Assassins of the Pirate Archipelago",
+            "name": "Helmet of Pirate Archipelago Assassins",
             "itemType": 5,
             "color": 4
         },
@@ -2492,7 +2492,7 @@
             "id": 32055,
             "level": 30,
             "icon": 4469,
-            "name": "Mask of the Warriors of the Unbreakable Alliance",
+            "name": "Mask of Unbreakable Alliance Warriors",
             "itemType": 5,
             "color": 4
         },
@@ -2500,7 +2500,7 @@
             "id": 32059,
             "level": 30,
             "icon": 4469,
-            "name": "Mask of the Assassins of the Unbreakable Alliance",
+            "name": "Mask of Unbreakable Alliance Assassins",
             "itemType": 5,
             "color": 4
         },
@@ -2628,7 +2628,7 @@
             "id": 33274,
             "level": 32,
             "icon": 4585,
-            "name": "Mask of Red-haired Chuck",
+            "name": "Mask of Red-Haired Chuck",
             "itemType": 5,
             "color": 3
         },
@@ -2636,7 +2636,7 @@
             "id": 33853,
             "level": 32,
             "icon": 4232,
-            "name": "Winter Helm of Titan",
+            "name": "Titan's Winter Helm",
             "itemType": 5,
             "color": 3
         },
@@ -2644,7 +2644,7 @@
             "id": 33857,
             "level": 32,
             "icon": 4232,
-            "name": "Winter Cap of Titan",
+            "name": "Titan's Winter Cap",
             "itemType": 5,
             "color": 3
         },
@@ -2668,7 +2668,7 @@
             "id": 33901,
             "level": 32,
             "icon": 4631,
-            "name": "All-Destroying Helmet of Titan",
+            "name": "Titan's Devastating Helmet",
             "itemType": 5,
             "color": 4
         },
@@ -2676,7 +2676,7 @@
             "id": 33905,
             "level": 32,
             "icon": 4631,
-            "name": "Unmatched Hat of Titan",
+            "name": "Titan's Unmatched Hat",
             "itemType": 5,
             "color": 4
         },
@@ -2700,7 +2700,7 @@
             "id": 34494,
             "level": 32,
             "icon": 3509,
-            "name": "Helmet of the Ominous Requiem",
+            "name": "Helmet of Ominous Requiem",
             "itemType": 5,
             "color": 3
         },
@@ -2740,7 +2740,7 @@
             "id": 35097,
             "level": 22,
             "icon": 6187,
-            "name": "Mask of the Guards of the Forest\u2019s Heart",
+            "name": "Mask of Guards of Forest\u2019s Heart",
             "itemType": 5,
             "color": 4
         },
@@ -2748,7 +2748,7 @@
             "id": 35101,
             "level": 24,
             "icon": 6187,
-            "name": "Mask of the Guards of the Jaguar\u2019s Den",
+            "name": "Mask of Guards of Jaguar\u2019s Den",
             "itemType": 5,
             "color": 4
         },
@@ -2756,7 +2756,7 @@
             "id": 35105,
             "level": 26,
             "icon": 6187,
-            "name": "Mask of the Guards of the Dragon Ness",
+            "name": "Mask of Guards of Dragon Ness",
             "itemType": 5,
             "color": 4
         },
@@ -2764,7 +2764,7 @@
             "id": 35109,
             "level": 28,
             "icon": 6187,
-            "name": "Mask of the Guards of the Sky Sanctuary",
+            "name": "Mask of Sky Sanctuary Guards",
             "itemType": 5,
             "color": 4
         },
@@ -2772,7 +2772,7 @@
             "id": 35113,
             "level": 30,
             "icon": 6187,
-            "name": "Mask of the Guards of the Sea Turtle",
+            "name": "Mask of Guards of Sea Turtle",
             "itemType": 5,
             "color": 4
         },
