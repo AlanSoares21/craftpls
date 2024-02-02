@@ -5,6 +5,7 @@ if [ -z $ApiUrl ]; then
 fi
 if [ -z $AssetsUrl ]; then
 	echo "The AssetsUrl must be provided"
+	exit 1
 fi
 
 Root=`pwd`
