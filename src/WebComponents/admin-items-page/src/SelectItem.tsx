@@ -64,7 +64,7 @@ const SelectItem : React.FC<ISelectItemProps> = ({
                                 (<tr className='mb-2' key={i.id}>
                                     <td>
                                         {
-                                            i.asset !== undefined &&
+                                            i.asset !== null &&
                                             <Image src={getAssetUrl(i.asset)}/>
                                         }
                                     </td>

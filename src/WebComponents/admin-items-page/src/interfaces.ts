@@ -31,12 +31,12 @@ export interface IItem {
     level: number
     categoryId?: number
     category?: any
-    assetId?: number
+    assetId: number | null
     // prices: any[]
     resources: ICraftResource[]
     resourceFor: ICraftResource[]
     // requests: any[]
-    asset?: IAsset
+    asset: IAsset | null
 }
 
 export interface ICraftResource {

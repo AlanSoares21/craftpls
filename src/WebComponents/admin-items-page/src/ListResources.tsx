@@ -50,7 +50,7 @@ const ListResources: React.FC<IListResourcesProps> = ({
         <Row className="mb-2">
             <Col xs={2}>
                 {
-                    item.asset !== undefined &&
+                    item.asset !== null &&
                     <Image src={getAssetUrl(item.asset)} width='100%' />
                 }
             </Col>
@@ -85,7 +85,7 @@ const ListResources: React.FC<IListResourcesProps> = ({
                     {resources.map(r => (<tr key={r.id}>
                         <td>
                             {
-                                r.resource.asset !== undefined &&
+                                r.resource.asset !== null &&
                                 <Image src={getAssetUrl(r.resource.asset)} />
                             }
                         </td>

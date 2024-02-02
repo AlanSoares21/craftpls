@@ -66,12 +66,10 @@ const CheckResourcesModal: React.FC<ICheckResourcesModalProps> = ({
                     price && 
                     <Row>
                         <Col xs={1}>
-                            <Image 
-                                src={
-                                    price.item.asset && 
-                                    getAssetUrl(price.item.asset)
-                                } 
-                            />
+                            {
+                                price.item.asset !== null &&
+                                <Image src={getAssetUrl(price.item.asset)}/>
+                            }
                         </Col>
                         <Col>{price.item.name}</Col>
                         <Col>Craft Price: {price.price}</Col>
@@ -94,7 +92,12 @@ const CheckResourcesModal: React.FC<ICheckResourcesModalProps> = ({
                         <tbody>
                             {
                                 missingResources.map(r => (<tr key={r.id}>
-                                        <td><Image src={r.resource.asset && getAssetUrl(r.resource.asset)} /></td>
+                                        <td>
+                                            {
+                                                r.resource.asset !== null &&
+                                                <Image src={getAssetUrl(r.resource.asset)}/>
+                                            }
+                                        </td>
                                         <td>{r.resource.name}</td>
                                         <td>{r.amount}</td>
                                     </tr>)
@@ -121,7 +124,12 @@ const CheckResourcesModal: React.FC<ICheckResourcesModalProps> = ({
                                 resourcesPrices.map(p => {
                                     const resourceIndex = resources.findIndex(r => r.resourceId === p.itemId);
                                     return (<tr key={p.id}>
-                                        <td><Image src={p.item.asset && getAssetUrl(p.item.asset)} /></td>
+                                        <td>
+                                            {
+                                                p.item.asset !== null &&
+                                                <Image src={getAssetUrl(p.item.asset)} />
+                                            }
+                                        </td>
                                         <td>{p.item.name}</td>
                                         <td>{p.totalPrice}</td>
                                         <td>{resourceIndex !== -1 && resources[resourceIndex].amount}</td>

@@ -34,7 +34,7 @@ export interface IItem {
     id: number;
     name: string;
     level: number;
-    asset?: IAsset;
+    asset: IAsset | null;
 }
 
 export interface ICraftResource {
