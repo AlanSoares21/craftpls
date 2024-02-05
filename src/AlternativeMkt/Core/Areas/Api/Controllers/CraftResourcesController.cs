@@ -5,13 +5,14 @@ using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
 using AlternativeMkt.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace AlternativeMkt.Api.Controllers;
 
-[Authorize(Roles = "admin")]
+[Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "admin")]
 public class CraftResourcesController: BaseApiController
 {
     MktDbContext _db;
