@@ -73,10 +73,7 @@ public class AuthMiddleware : IMiddleware
         }
     }
 
-    bool ShouldRunAuthcheck(HttpContext context) => context.Request.Cookies["Authenticated"] == "y" && 
-        context.Request.Path.HasValue && 
-        (context.Request.Path.Value.StartsWith("/main") ||
-        context.Request.Path.Value.StartsWith("/api"));
+    bool ShouldRunAuthcheck(HttpContext context) => context.Request.Cookies["Authenticated"] == "y";
     bool AccessTokenExpired(HttpContext context) => !DateTime.TryParse(context.Request.Cookies["ExpiresIn"], out DateTime expires)
         || expires <= DateTime.UtcNow;
 
