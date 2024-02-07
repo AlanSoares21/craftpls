@@ -18,15 +18,23 @@ public class FinishTheRequestTests: RequestUtils
     
     [Fact]
     public async Task Can_Not_Finish_A_Request_When_The_User_Is_Not_Involved() {
+        Manufacturer manufacturer = new() {
+            Id = Guid.NewGuid(),
+            Userid = Guid.NewGuid()
+        };
         Request request = new() {
             Id = Guid.NewGuid(),
             RequesterId = Guid.NewGuid(),
-            ManufacturerId = Guid.NewGuid()
+            ManufacturerId = manufacturer.Id,
+            Manufacturer = manufacturer,
         };
         var mockDb = new MktDbContextBuilder()
             .WithRequests(new List<Request>() { request })
             .Build();
-        var controller = GetController(mockDb.Object, AuthServiceWithUser(new User()));
+        var controller = GetController(
+            mockDb.Object, 
+            AuthServiceWithUser(new User())
+        );
         var result = await controller.Finished(request.Id) as ViewResult;
         Assert.NotNull(result);
         Assert.Equal("Error", result.ViewName);
@@ -37,10 +45,16 @@ public class FinishTheRequestTests: RequestUtils
         var user = new User() {
             Id = Guid.NewGuid()
         };
+        Manufacturer manufacturer = new() {
+            Id = Guid.NewGuid(),
+            Userid = user.Id,
+            User = user
+        };
         Request request = new() {
             Id = Guid.NewGuid(),
             RequesterId = Guid.NewGuid(),
-            ManufacturerId = user.Id,
+            ManufacturerId = manufacturer.Id,
+            Manufacturer = manufacturer,
             Cancelled = DateTime.Now
         };
         var mockDb = new MktDbContextBuilder()
