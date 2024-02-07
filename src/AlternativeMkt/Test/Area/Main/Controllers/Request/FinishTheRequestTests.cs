@@ -58,10 +58,16 @@ public class FinishTheRequestTests: RequestUtils
         var user = new User() {
             Id = Guid.NewGuid()
         };
+        var manufacturer = new Manufacturer() {
+            User = user,
+            Userid = user.Id
+        };
         Request request = new() {
             Id = Guid.NewGuid(),
             RequesterId = Guid.NewGuid(),
-            ManufacturerId = user.Id,
+            ManufacturerId = manufacturer.Id,
+            Manufacturer = manufacturer,
+            Accepted = DateTime.Now
         };
         DateTime finishedAt = DateTime.Now;
         var mockDate = new Mock<IDateTools>();
@@ -96,6 +102,7 @@ public class FinishTheRequestTests: RequestUtils
             Id = Guid.NewGuid(),
             RequesterId = user.Id,
             ManufacturerId = Guid.NewGuid(),
+            Accepted = DateTime.Now
         };
         DateTime finishedAt = DateTime.Now;
         var mockDate = new Mock<IDateTools>();
@@ -112,8 +119,7 @@ public class FinishTheRequestTests: RequestUtils
         );
         var result = await controller.Finished(request.Id) as RedirectToActionResult;
         Assert.NotNull(result);
-        Assert.Equal("Manufacturer", result.ControllerName);
-        Assert.Equal("Requests", result.ActionName);
+        Assert.Equal("List", result.ActionName);
         mockRequests.Verify(r => r.Update(request), Times.Once());
         Assert.Equal(finishedAt, request.FinishedByRequester);
         Assert.Equal(finishedAt, request.UpdatedAt);
