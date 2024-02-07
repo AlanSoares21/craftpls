@@ -1,4 +1,5 @@
 using AlternativeMkt.Db;
+using AlternativeMkt.Main.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AlternativeMkt.Main.ViewsComponents;
@@ -9,9 +10,13 @@ public class ServerSelectionViewComponent: ViewComponent
     public ServerSelectionViewComponent(MktDbContext db) {
         _db = db;
     }
-    public IViewComponentResult Invoke(string name)
+    public IViewComponentResult Invoke(string name, string hasoptionany = "n", int selected = -1)
     {
-        ViewData["name"] = name;
-        return View(_db.Servers.ToList());
+        return View(new ServerSelectionData() {
+            HasOptionAny = hasoptionany == "y",
+            Name = name,
+            Servers = _db.Servers.ToList(),
+            ServerId = selected
+        });
     }
 }

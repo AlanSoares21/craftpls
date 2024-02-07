@@ -1,10 +1,20 @@
 @inject IViewLocalizer text
-@model List<Server>
+@model ServerSelectionData
 
 <label for="selectServer" class="form-label">@text["ChooseServerLabel"]</label>
-<select id="selectServer" name=@ViewData["name"] class="form-select">
-    @foreach (var server in Model)
+<select id="selectServer" name="@Model.Name" class="form-select">
+    @{
+        if (Model.HasOptionAny) {
+            <option value="-1" selected=@(Model.ServerId == -1)>Any</option>
+        }
+    }
+
+    @foreach (var server in Model.Servers)
     {
-        <option value="@server.Id">@server.Name</option>
+        if (Model.ServerId == server.Id) {
+            <option value="@server.Id"  selected>@server.Name</option>
+        } else {
+            <option value="@server.Id" >@server.Name</option>
+        }
     }
 </select>

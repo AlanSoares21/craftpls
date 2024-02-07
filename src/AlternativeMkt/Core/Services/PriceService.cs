@@ -1,4 +1,6 @@
 
+using System.Linq.Expressions;
+using AlternativeMkt.Api.Models;
 using AlternativeMkt.Db;
 using AlternativeMkt.Models;
 using Microsoft.EntityFrameworkCore;
@@ -250,5 +252,65 @@ public class PriceService : IPriceService
                     )
                 )
             .Where(r => r.ResourceId == itemResourceId);
+    }
+
+    public StandardList<CraftItemsPrice> Search(ListPricesParams query)
+    {
+        StandardList<CraftItemsPrice> list = new() {
+            Start = query.start
+        };
+        var sqlQuery = _db.CraftItemsPrices
+            .Include(p => p.Item)
+                .ThenInclude(i => i.Asset)
+            .Include(p => p.Manufacturer)
+                .ThenInclude(m => m.Server)
+            .Include(p => p.Manufacturer)
+                .ThenInclude(m => m.User)
+            .Where(FilterPrices(query))
+            .Skip(query.start)
+            .Take(query.count);
+        if (query.orderByCraftPrice)
+            sqlQuery = sqlQuery.OrderBy(p => p.Price);
+        else
+            sqlQuery = sqlQuery.OrderBy(p => p.TotalPrice);
+        list.Data = sqlQuery.ToList();
+        list.Count = list.Data.Count;
+        list.Total = _db.CraftItemsPrices
+            .Where(FilterPrices(query))
+            .Count();
+        GetManufacturersAccountsNames(list.Data);
+        return list;
+    }
+
+    Expression<Func<CraftItemsPrice, bool>> FilterPrices(
+        ListPricesParams query) {
+        return p => 
+            p.DeletedAt == null
+            && !p.Manufacturer.Hide
+            && (query.manufacturerId == null || p.ManufacturerId == query.manufacturerId)
+            && (query.serverId == null || p.Manufacturer.ServerId == query.serverId)
+            && (query.resourcesChanged == null || p.ResourcesChanged == query.resourcesChanged)
+            && (
+                query.itemId == null 
+                || p.ItemId == query.itemId
+            ) && (
+                query.resourcesOf == null
+                || p.Item.ResourceFor.Where(r => r.ItemId == query.resourcesOf).Count() > 0 
+            );
+    }
+
+    void GetManufacturersAccountsNames(List<CraftItemsPrice> prices) {
+        for (int i = 0; i < prices.Count; i++)
+        {
+            int serverId = prices[i].Manufacturer.ServerId;
+            Guid userId = prices[i].Manufacturer.Userid;
+            prices[i].Manufacturer.Server.GameAccounts = _db.GameAccounts
+                .Where(g => 
+                    g.UserId == userId 
+                    &&
+                    g.ServerId == serverId 
+                    && g.DeletedAt == null
+                ).ToList();
+        }
     }
 }

@@ -1,5 +1,7 @@
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
+using AlternativeMkt.Models;
+using AlternativeMkt.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,47 +10,34 @@ namespace AlternativeMkt.Main.Controllers;
 public class SearchController : BaseController {
     private readonly ILogger<SearchController> _logger;
     private MktDbContext _dbContext;
+    IPriceService _priceService;
 
     public SearchController(
         MktDbContext dbContext,
-        ILogger<SearchController> logger)
+        ILogger<SearchController> logger,
+        IPriceService priceService)
     {
         _dbContext = dbContext;
         _logger = logger;
+        _priceService = priceService;
     }
-    public IActionResult Manufacturers(int itemId) 
+    public IActionResult Manufacturers(int itemId, int serverId = -1, string? orderByCraftPrice = null) 
     {
         CraftItem item = _dbContext.CraftItems
             .Include("Asset")
             .Where(i => i.Id == itemId)
             .Single();
-        var prices = _dbContext.CraftItemsPrices
-            .Include(p => p.Manufacturer)
-                .ThenInclude(m => m.Server)
-            .Include(p => p.Manufacturer)
-                .ThenInclude(m => m.User)
-            .Where(p => 
-                !p.Manufacturer.Hide 
-                && p.ItemId == item.Id 
-                && p.ResourcesChanged == false 
-                && p.DeletedAt == null
-            )
-            .ToList();
-        for (int i = 0; i < prices.Count; i++)
-        {
-            int serverId = prices[i].Manufacturer.ServerId;
-            Guid userId = prices[i].Manufacturer.Userid;
-            prices[i].Manufacturer.Server.GameAccounts = _dbContext.GameAccounts
-                .Where(g => 
-                    g.UserId == userId 
-                    &&
-                    g.ServerId == serverId 
-                    && g.DeletedAt == null
-                ).ToList();
-        }
+        ListPricesParams query = new();
+        query.itemId = item.Id;
+        query.resourcesChanged = false;
+        query.orderByCraftPrice = orderByCraftPrice == "on";
+        if (serverId > 0 && serverId > byte.MinValue && serverId < byte.MaxValue)
+            query.serverId = (byte)serverId;
+        var result = _priceService.Search(query);
         return View(new SearchItemPrices() {
             Item = item,
-            Prices = prices
+            Prices = result.Data,
+            Query = query
         });
     }
 }

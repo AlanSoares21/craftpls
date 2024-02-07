@@ -39,34 +39,8 @@ public class PricesController : BaseApiController
         Guid manufacturerId, 
         [FromQuery] ListPricesParams query
     ) {
-        StandardList<CraftItemsPrice> list = new() {
-            Start = query.start
-        };
-        list.Data = _db.CraftItemsPrices
-            .Include(p => p.Item.Asset)
-            .Where(FilterPrices(query, manufacturerId))
-            .Skip(query.start)
-            .Take(query.count)
-            .ToList();
-        list.Count = list.Data.Count;
-        list.Total = _db.CraftItemsPrices
-            .Where(FilterPrices(query, manufacturerId))
-            .Count();
-        return Ok(list);
-    }
-
-    Expression<Func<CraftItemsPrice, bool>> FilterPrices(
-        ListPricesParams query, Guid manufacturerId) {
-        return p => 
-            p.ManufacturerId == manufacturerId 
-            && p.DeletedAt == null
-            && (
-                query.itemId == null 
-                || p.ItemId == query.itemId
-            ) && (
-                query.resourcesOf == null
-                || p.Item.ResourceFor.Where(r => r.ItemId == query.resourcesOf).Count() > 0 
-            );
+        query.manufacturerId = manufacturerId;
+        return Ok(_priceService.Search(query));
     }
     
     [HttpPost]

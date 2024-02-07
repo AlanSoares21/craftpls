@@ -2,40 +2,72 @@
 @using AlternativeMkt.Db
 @model SearchItemPrices
 
-<section class="row">
-    <div class="col-4">
-        <div class="card" style="width: 12rem;">
-            <img src=@config.AssetsUrl/@Model.Item.Asset.Endpoint class="card-img-top"/>
-            <div class="card-body">
-                <h5 class="card-title">@Model.Item.Name</h5>
-                <p class="card-text">Level: @Model.Item.Level</p>
-            </div>
-        </div>
+<section class="row mb-4">
+    <div class="col-2">
+        @{
+            if (@Model.Item.Asset != null) {
+                <img src=@config.AssetsUrl/@Model.Item.Asset.Endpoint class="img-thumbnail" width="180" height="180"/>
+            }
+        }
+        
+    </div>
+    <div class="col-6">
+        <h5 class="card-title">@Model.Item.Name</h5>
+        Level: @Model.Item.Level
     </div>
     <div class="col-auto">
-        <div class="list-group">
-            @foreach (var itemPrice in Model.Prices)
-            {
-                <a
-                    class="list-group-item list-group-item-action"
-                    asp-controller="Request"
-                    asp-action="Open" 
-                    asp-route-id="@itemPrice.Id"
-                    asp-route-manufacturerId="@itemPrice.ManufacturerId"
-                >
-                    <p>Server: @itemPrice.Manufacturer.Server.Name</p>
-                    <p>
-                        Manufacturer: 
-                        @string.Join(
-                            ", ", 
-                            itemPrice.Manufacturer.Server.GameAccounts.Select(a => a.Name)
-                        )
-                    </p>
-                    <b>Total Price: @itemPrice.TotalPrice</b> 
-                    Craft Price: @itemPrice.Price
-                </a>
-            }
-        </div>
-    
+        <form method="get" asp-action="Manufacturers" asp-route-itemId=@Model.Item.Id>
+            <div class="mb-1">
+                @{
+                    if (Model.Query.serverId is null) {
+                        <vc:server-selection name="serverId" hasoptionany="y" />
+                    } else {
+                        <vc:server-selection name="serverId" hasoptionany="y" selected="@((int)Model.Query.serverId)" />
+                    }
+                }
+            </div>
+            <div class="mb-1">
+                <input class="form-check-input" type="checkbox" name="orderByCraftPrice" id="orderByCraftPrice" checked="@Model.Query.orderByCraftPrice">
+                <label class="form-check-label" for="orderByCraftPrice">Order by craft price</label>
+            </div>
+            <input class="form-control btn-success" type="submit" value="Apply" />
+            <input type="hidden" value="@Model.Item.Id" name="itemId" />
+        </form>
     </div>
+</section>
+<section class="row">
+    @foreach (var itemPrice in Model.Prices)
+    {
+        <div class="col mb-2">
+            <a
+                class="list-group-item list-group-item-action"
+                asp-controller="Request"
+                asp-action="Open" 
+                asp-route-id="@itemPrice.Id"
+                asp-route-manufacturerId="@itemPrice.ManufacturerId"
+            >
+                <p>Server: @itemPrice.Manufacturer.Server.Name</p>
+                <p>
+                    Manufacturer: 
+                    @string.Join(
+                        ", ", 
+                        itemPrice.Manufacturer.Server.GameAccounts.Select(a => a.Name)
+                    )
+                </p>
+                @{
+                    if (Model.Query.orderByCraftPrice) {
+                        <p>
+                            Total Price: @itemPrice.TotalPrice
+                            <b>Craft Price: @itemPrice.Price</b> 
+                        </p>
+                    } else {
+                        <p>
+                            <b>Total Price: @itemPrice.TotalPrice</b> 
+                            Craft Price: @itemPrice.Price
+                        </p>
+                    }
+                }
+            </a>
+        </div>
+    }
 </section>
