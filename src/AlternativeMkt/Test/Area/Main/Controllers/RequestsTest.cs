@@ -10,25 +10,25 @@ public class RequestsTest: RequestUtils
     [Fact]
     public void Open_Request()
     {
-        var id = Guid.NewGuid();
-        var itemPrice = new CraftItemsPrice() {Id = id};
-        var priceList = new List<CraftItemsPrice>() { itemPrice };
+        var item = new CraftItem() { Id = 1 };
+        var price = new CraftItemsPrice() {Id = Guid.NewGuid(), ItemId = item.Id, Item = item};
 
         var mockDb = new MktDbContextBuilder()
-            .WithItemsPrices(priceList)
+            .WithItems(new List<CraftItem>() {item})
+            .WithItemsPrices(new List<CraftItemsPrice>() {price})
             .Build();
             
         var controller = GetController(
             mockDb.Object,
             new Mock<IAuthService>().Object
         );
-        var result = controller.Open(id) as ViewResult;
+        var result = controller.Open(price.Id) as ViewResult;
         Assert.NotNull(result);
         Assert.Equal("Open", result.ViewName);
 
         var model = (CraftItemsPrice?) result.Model;
         Assert.NotNull(model);
-        Assert.Equal(itemPrice, model);
+        Assert.Equal(price, model);
     }
 
     [Fact]
