@@ -36,7 +36,7 @@ public class SearchController : BaseController {
         var result = _priceService.Search(query);
         return View(new SearchItemPrices() {
             Item = item,
-            Prices = result.Data,
+            Prices = result,
             Query = query
         });
     }

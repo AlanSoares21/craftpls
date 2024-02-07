@@ -2,6 +2,12 @@
 @using AlternativeMkt.Db
 @model SearchItemPrices
 
+@{
+    double currentPage = (Model.Query.start + 1) / Model.Query.count + 1;
+    int next =  Model.Query.start + Model.Query.count;
+    int previous =  Model.Query.start - Model.Query.count;
+}
+
 <section class="row mb-4">
     <div class="col-2">
         @{
@@ -36,7 +42,7 @@
     </div>
 </section>
 <section class="row">
-    @foreach (var itemPrice in Model.Prices)
+    @foreach (CraftItemsPrice itemPrice in Model.Prices.Data)
     {
         <div class="col mb-2">
             <a
@@ -70,4 +76,62 @@
             </a>
         </div>
     }
+</section>
+<section class="row justify-content-center">
+    <div class="col-auto">
+        <ul class="pagination">
+            @if (previous < 0) {
+                <li class="page-item disabled">
+                    <a class="page-link">Previous</a>
+                </li>
+            } else {
+                <li class="page-item">
+                    <a 
+                        class="page-link" 
+                        asp-route-itemId="@Model.Item.Id" 
+                        asp-route-orderByCraftPrice=@(Model.Query.orderByCraftPrice ? "on" : "off")
+                        asp-route-serverId="@(Model.Query.serverId is null ? -1 : Model.Query.serverId)"
+                        asp-route-start=@previous
+                    >
+                        Previous
+                    </a>
+                </li>
+            }
+            
+            <li class="page-item">
+                <a 
+                    class="page-link" 
+                    asp-route-itemId="@Model.Item.Id" 
+                    asp-route-orderByCraftPrice=@(Model.Query.orderByCraftPrice ? "on" : "off")
+                    asp-route-serverId="@(Model.Query.serverId is null ? -1 : Model.Query.serverId)"
+                    asp-route-start=@Model.Query.start 
+                >
+                    @currentPage
+                </a>
+            </li>
+            
+            @if (next >= Model.Prices.Total) {
+                <li class="page-item disabled">
+                    <a class="page-link">Next</a>
+                </li>
+            } else {
+                <li class="page-item">
+                    <a 
+                        class="page-link" 
+                        asp-route-itemId="@Model.Item.Id" 
+                        asp-route-orderByCraftPrice=@(Model.Query.orderByCraftPrice ? "on" : "off")
+                        asp-route-serverId="@(Model.Query.serverId is null ? -1 : Model.Query.serverId)"
+                        asp-route-start=@next
+                    >
+                        Next
+                    </a>
+                </li>
+            }
+        </ul>
+    </div>
+</section>
+<section class="row justify-content-center">
+    <div class="col-auto">
+        @Model.Prices.Total crafters found for "@Model.Item.Name".
+    </div>
 </section>
