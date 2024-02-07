@@ -1,15 +1,18 @@
-import React, { useCallback, useEffect, useState } from "react"
+import React, { useCallback, useContext, useEffect, useState } from "react"
 import Pagination from "./Pagination"
 import { listItemResources, listItems, listPrices } from "./api";
 import { ICraftResource, IFilterItems, IItem, IItemPrice, IListItemsParams } from "./interfaces";
 import { Image, Stack, Table } from "react-bootstrap";
 import { getAssetUrl } from "./utils";
+import { CommomDataContext } from "./CommomDataContext";
 
 interface ISelectItemProps {
     itemSelected(item: IItem): void;
 }
 
 const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
+    const commomData = useContext(CommomDataContext);
+
     const [items, setItems] = useState<IItem[]>([]);
 
     const [total, setTotal] = useState(1);
@@ -99,6 +102,27 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                             setFilter(p => ({...p, minLevel: undefined}))
                     }}
                 />
+            </div>
+            <div className="col">
+                <label className="form-label" htmlFor="selectCategory">Category</label>
+                <select 
+                    id="selectCategory"
+                    className="form-select" 
+                    onChange={ev => {
+                        const id = parseInt(ev.currentTarget.value)
+                        if (id > 0)
+                            setFilter(p => ({...p, categoryId: id}))
+                        else
+                            setFilter(p => ({...p, categoryId: undefined}))
+                    }}
+                >
+                    <option value={-1}>Any</option>
+                    {
+                        commomData.static.categories.map(c => (
+                            <option key={c.id} value={c.id}>{c.name}</option>
+                        ))
+                    }
+                </select>
             </div>
         </div>
         <div className="row mb-1">

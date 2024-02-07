@@ -4,6 +4,7 @@ import {
     IListItemsParams, 
     IListPriceParams, 
     IStandardList,
+    IStaticData,
     IUpdateItemPrice 
 } from './interfaces';
 
@@ -64,4 +65,9 @@ export function checkPriceResources(priceId: string) {
                 return {message: `Unkowed error on checking resources. Status: ${error.status}`} as IApiError
             return error.response.data
         });
+}
+
+export function getStaticData() {
+    return api.get<IStaticData>(`${url}/Static/data`, {headers: authHeaders})
+        .then(r => r.data);
 }
