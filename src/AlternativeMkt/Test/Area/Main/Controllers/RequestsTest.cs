@@ -237,7 +237,7 @@ public class RequestsTest: RequestUtils
     }
 
     [Fact]
-    public async Task After_Cancel_Request_Redirect_To_Show_Action() {
+    public async Task After_Cancel_Request_Redirect_To_List_Action() {
         User requester = new() {
             Id = Guid.NewGuid()
         };
@@ -261,6 +261,6 @@ public class RequestsTest: RequestUtils
         var result = await controller
             .Cancel(request.Id) as RedirectToActionResult;
         Assert.NotNull(result);
-        Assert.Equal("Show", result.ActionName);
+        Assert.Equal("List", result.ActionName);
     }
 }
