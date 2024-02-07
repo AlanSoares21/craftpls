@@ -296,6 +296,18 @@ public class PriceService : IPriceService
             ) && (
                 query.resourcesOf == null
                 || p.Item.ResourceFor.Where(r => r.ItemId == query.resourcesOf).Count() > 0 
+            )
+            
+            && (query.itemName == null ||
+                p.Item.Name != null 
+                && 
+                EF.Functions.ILike(
+                    p.Item.Name,
+                    $"%{query.itemName}%"
+                )
+            ) 
+            && (query.itemCategory == null ||
+                p.Item.CategoryId != null && p.Item.CategoryId == query.itemCategory
             );
     }
 
