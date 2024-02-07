@@ -1,10 +1,11 @@
-import React, { useCallback, useEffect, useState } from "react";
+import React, { useCallback, useContext, useEffect, useState } from "react";
 import * as api from './api';
-import { IItemPrice, IStandardPaginationParams } from "./interfaces";
+import { IItemPrice, IListPriceParams, IStandardPaginationParams } from "./interfaces";
 import Pagination from "./Pagination";
 import UpdatePriceModal from "./UpdatePriceModal";
 import CheckResourcesModal from "./CheckResourcesModal";
 import { Badge } from "react-bootstrap";
+import { CommomDataContext } from "./CommomDataContext";
 
 const updatePriceModalId = "updatePriceModal";
 
@@ -15,6 +16,8 @@ export interface IListPricesProps {
 const ListPrices: React.FC<IListPricesProps> = ({
     manufacturer
 }) => {
+    const commomData = useContext(CommomDataContext)
+
     const [pricesToEdit, setPricesToEdit] = useState<{
         [id: string]: IItemPrice
     }>({})
@@ -36,10 +39,10 @@ const ListPrices: React.FC<IListPricesProps> = ({
     const [searchingForPrices, setSearchingForPrices] = useState(false);
     const [data, setData] = useState<IItemPrice[]>([]);
     
-    const [pagination, setPagination] = useState<IStandardPaginationParams>({count: 10, start: 0});
+    const [pagination, setPagination] = useState<IListPriceParams>({count: 10, start: 0});
     const [totalItems, setTotal] = useState(0);
 
-    const searchPrices = useCallback((p: IStandardPaginationParams) => {
+    const searchPrices = useCallback((p: IListPriceParams) => {
         if (!manufacturer)
             return
         setSearchingForPrices(true)
@@ -66,8 +69,44 @@ const ListPrices: React.FC<IListPricesProps> = ({
             errorMessage !== undefined &&
             <p>{errorMessage}</p>
         }
-        <div className="row justify-content-start mb-1">
-            <div className="col-md-1 col-sm-2">
+        <div className="row mb-1">
+            <div className="col-auto">
+                <label htmlFor="slcCategoryForList">Category</label>
+                <select 
+                    id="slcCategoryForList" 
+                    className="form-select"
+                    onChange={ev => {
+                        const id = parseInt(ev.currentTarget.value)
+                        if (id > 0)
+                            setPagination(p => ({...p, itemCategory: id}))
+                        else
+                            setPagination(p => ({...p, itemCategory: undefined}))
+                    }}
+                >
+                    <option value={-1}>Any</option>
+                    {
+                        commomData.static.categories.map(c => (
+                            <option key={c.id} value={c.id}>{c.name}</option>
+                        ))
+                    }
+                </select>
+            </div>
+            <div className="col-md-6 col-sm-auto">
+                <label htmlFor="txtNameForList">Name</label>
+                <input 
+                    id="txtNameForList" 
+                    className="form-control" 
+                    type="text" 
+                    onChange={ev => {
+                        const value = ev.currentTarget.value.trim()
+                        if (value)
+                            setPagination(p => ({...p, itemName: value}))
+                        else
+                            setPagination(p => ({...p, itemName: undefined}))
+                    }}
+                />
+            </div>
+            <div className="col-auto pt-4">
                 <button 
                     className="btn btn-primary" 
                     type='button'
@@ -76,14 +115,14 @@ const ListPrices: React.FC<IListPricesProps> = ({
                     Refresh
                 </button>
             </div>
-            <div className="col-1">
+            <div className="col-auto pt-4">
                 <button 
                     className="btn btn-secondary" 
                     type='button'
                     data-bs-toggle="modal" 
                     data-bs-target={"#" + updatePriceModalId}
                 >
-                    Edit
+                    Edit Selected Items
                 </button>
             </div>
         </div>

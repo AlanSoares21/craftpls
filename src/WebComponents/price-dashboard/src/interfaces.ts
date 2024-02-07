@@ -7,6 +7,8 @@ export interface IStandardPaginationParams {
 export interface IListPriceParams extends IStandardPaginationParams {
     itemId?: number
     resourcesOf?: number
+    itemName?: string;
+    itemCategory?: number;
 }
 
 export interface IStandardList<T> {
