@@ -3,18 +3,20 @@ import { Container} from 'react-bootstrap'
 import SelectItem from './SelectItem';
 import { IItem } from './interfaces';
 import ListResources from './ListResources';
+import { CommomDataProvider } from './CommomDataContext';
 
 
 function App() {
     const [item, setItem] = useState<IItem>();
 
-    return <Container> {
+    return <CommomDataProvider>
+        <Container> {
             item === undefined ?
                 <SelectItem itemSelected={setItem} />
             :
                 <ListResources item={item} close={() => setItem(undefined)} />
-        }
-    </Container>;
+        } </Container>
+    </CommomDataProvider>;
 }
 
 export default App

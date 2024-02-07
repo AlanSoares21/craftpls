@@ -1,4 +1,4 @@
-import { IAddCraftResource, IApiError, ICraftResource, IItem, IListItemsParams, IStandardList, IUpdateCraftResource } from "./interfaces";
+import { IAddCraftResource, IApiError, ICraftResource, IItem, IListItemsParams, IStandardList, IStaticData, IUpdateCraftResource } from "./interfaces";
 import { isApiError } from "./typeCheck";
 
 const baseUrl = import.meta.env.VITE_ApiUrl;
@@ -100,6 +100,18 @@ export async function updateItemResource(
     .then(async r => {
         if (r.status === 204)
             return true;
+        return handleError(r);
+    });
+}
+
+export async function getStaticData() {
+    return fetch(
+        `${baseUrl}/Static/data`, 
+        { headers: defaultHeaders }
+    )
+    .then(async r => {
+        if (r.status === 200)
+            return JSON.parse(await r.text()) as IStaticData;
         return handleError(r);
     });
 }

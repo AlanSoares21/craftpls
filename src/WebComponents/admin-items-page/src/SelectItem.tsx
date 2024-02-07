@@ -35,12 +35,12 @@ const SelectItem : React.FC<ISelectItemProps> = ({
     }, [total, setTotal]);
 
     const handleFilter = useCallback<IFilterItemsProps['onFilter']>(
-        (name, minLevel, maxLevel) => {
+        (filter) => {
             setSearchParams(p => {
                 p.start = 0;
-                return {...p, name, minLevel, maxLevel};
+                return {...p, ...filter};
             });
-            searchItems({...searchParams, name, minLevel, maxLevel})
+            searchItems({...searchParams, ...filter})
         },
         [setSearchParams, searchItems]
     );

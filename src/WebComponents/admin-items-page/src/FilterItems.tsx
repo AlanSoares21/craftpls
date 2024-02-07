@@ -1,18 +1,21 @@
-import { useState } from "react";
+import { useContext, useState } from "react";
 import { Button, Form, Stack } from "react-bootstrap";
 import { handleNumericInput } from "./utils";
+import { IFilterItems } from "./interfaces";
+import { CommomDataContext } from "./CommomDataContext";
 
 export interface IFilterItemsProps {
-    onFilter(searchTerm?: string, min?: number, max?: number): void
+    onFilter(filter: IFilterItems): void
 }
 
 const FilterItems : React.FC<IFilterItemsProps> = ({
     onFilter
 }) => {
-
+    const commomData = useContext(CommomDataContext);
     const [name, setName] = useState<string>();
     const [maxLevel, setMaxLevel] = useState<number>();
     const [minLevel, setMinLevel] = useState<number>();
+    const [categoryId, setCategoryId] = useState<number>();
 
     return (
         <form>
@@ -44,10 +47,30 @@ const FilterItems : React.FC<IFilterItemsProps> = ({
                         onChange={handleNumericInput(setMinLevel)}
                     />
                 </div>
+                <div>
+                    <Form.Label htmlFor="selectCategory">Category</Form.Label>
+                    <Form.Select 
+                        id="selectCategory"
+                        onChange={ev => {
+                            const id = parseInt(ev.currentTarget.value);
+                            if (id > 0)
+                                setCategoryId(id)
+                            else
+                                setCategoryId(undefined);
+                        }}
+                    >
+                        <option value={-1}>Any</option>
+                        {
+                            commomData.static.categories.map(c => (
+                                <option key={c.id} value={c.id}>{c.name}</option>
+                            ))
+                        }
+                    </Form.Select>
+                </div>
             </Stack>
             <Button 
                 variant="primary" 
-                onClick={() => onFilter(name, minLevel, maxLevel)}
+                onClick={() => onFilter({name, minLevel, maxLevel, categoryId})}
             >
                 Filter items
             </Button>

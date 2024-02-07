@@ -9,6 +9,7 @@ export interface IFilterItems {
     level?: number;
     maxLevel?: number;
     minLevel?: number;
+    categoryId?: number;
 }
 
 export interface IListItemsParams extends IStandardPaginationParams, IFilterItems {
@@ -62,4 +63,11 @@ export interface IAddCraftResource {
     itemId: IItem['id']
     resourceId: IItem['id']
     amount: number
+}
+
+export interface IStaticData {
+    categories: {
+        id: number
+        name: string
+    }[]
 }
