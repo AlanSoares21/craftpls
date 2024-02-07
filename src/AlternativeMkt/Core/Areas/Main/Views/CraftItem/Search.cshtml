@@ -1,6 +1,7 @@
 @inject IConfiguration config
+@inject IViewLocalizer text
 @using AlternativeMkt.Db
-@using AlternativeMkt.Api.Models;
+@using AlternativeMkt.Api.Models
 
 @model StandardList<CraftItem>
 
@@ -8,15 +9,44 @@
     ListItemsParams? query = (ListItemsParams?)ViewData["CraftItemQuery"];
     if (query is null)
         query = new ListItemsParams();
+    ViewData["Title"] = "Search " + query.name;
     double currentPage = (query.start + 1) / query.count + 1;
     int next =  query.start + query.count;
     int previous =  query.start - query.count;
 }
 
 <section class="container">
+    <form class="row mb-3">
+        <div class="col-auto">
+            <label for="name" class="form-label">@text["ItemNameLabel"]</label>
+            <input class="form-control" name="name" type="text" value="@query.name" />
+        </div>
+        <div class="col-auto">
+            @{
+                if (query.categoryId == null) {
+                    <vc:category-selection name="categoryId" hasoptionany="y" />
+                } else {
+                    <vc:category-selection name="categoryId" hasoptionany="y" selected="@query.categoryId.Value" />
+                }
+            }
+        </div>
+        <div class="col-auto">
+            <label for="minLevel" class="form-label">@text["MinLevelLabel"]</label>
+            <input class="form-control" name="minLevel" type="numeric" value="@query.minLevel" />
+        </div>
+        <div class="col-auto">
+            <label for="maxLevel" class="form-label">@text["MaxLevelLabel"]</label>
+            <input class="form-control" name="maxLevel" type="numeric" value="@query.maxLevel" />
+        </div>
+        <div class="col-auto pt-4">
+            <input class="btn btn-success" type="submit" value=@text["btnSearch"] />
+        </div>
+    </form>
+    <!---
     <div class="row mb-2">
         <vc:search-bar value=@query.name />
     </div>
+    -->
     <div class="row">
         @foreach (CraftItem item in Model.Data)
         {
@@ -89,7 +119,7 @@
         </div>
         <div class="w-100"></div>
         <div class="col-4">
-            @Model.Total items found for "@query.name".
+            @Model.Total @text["XItemsFoundForItemName"] "@query.name".
         </div>
     </nav>
 </section>

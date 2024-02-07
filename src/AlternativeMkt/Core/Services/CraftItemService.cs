@@ -40,6 +40,7 @@ public class CraftItemService : ICraftItemService
                 $"%{query.name}%"
             )
         ) 
+        && (query.categoryId == null || i.CategoryId == query.categoryId)
         &&
         (
             query.level == null && 

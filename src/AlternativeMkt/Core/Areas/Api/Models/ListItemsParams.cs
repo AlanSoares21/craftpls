@@ -6,4 +6,5 @@ public class ListItemsParams: StandardPaginationParams
     public int? level { get; set; }
     public int? maxLevel { get; set; }
     public int? minLevel { get; set; }
+    public int? categoryId { get; set; }
 }
