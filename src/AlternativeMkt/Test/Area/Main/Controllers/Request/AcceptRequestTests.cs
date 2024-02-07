@@ -115,15 +115,15 @@ public class AcceptRequestTests : RequestUtils
             .WithRequests(mockRequests)
             .Build();
         var mockDate = new Mock<IDateTools>();
-        var cancelledDate = DateTime.Now;
-        mockDate.Setup(d => d.UtcNow()).Returns(cancelledDate);
+        var acceptedDate = DateTime.Now;
+        mockDate.Setup(d => d.UtcNow()).Returns(acceptedDate);
         var controller = GetController(
             dbMock.Object, 
             AuthServiceWithUser(user), 
             mockDate.Object
         );
         await controller.Accept(request.Id);
-        Assert.Equal(cancelledDate, request.Cancelled);
+        Assert.Equal(acceptedDate, request.Accepted);
         mockRequests.Verify(r => r.Update(request), 
             Times.Once()
         );
