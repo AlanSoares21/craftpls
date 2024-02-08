@@ -492,7 +492,7 @@
             "id": 15050,
             "level": 19,
             "icon": 2596,
-            "name": "Aventail of Deep Lord",
+            "name": "Deep Lord's Aventail",
             "itemType": 5,
             "color": 3
         },
@@ -836,7 +836,7 @@
             "id": 18592,
             "level": 20,
             "icon": 1307,
-            "name": "Heaume of Deep Lord",
+            "name": "Deep Lord's Heaume",
             "itemType": 5,
             "color": 3
         },
@@ -916,7 +916,7 @@
             "id": 20414,
             "level": 6,
             "icon": 3779,
-            "name": "Fur hat of the Borean Warlock",
+            "name": "Fur Hat of the Borean Warlock",
             "itemType": 5,
             "color": 3
         },
@@ -924,7 +924,7 @@
             "id": 20420,
             "level": 10,
             "icon": 3779,
-            "name": "Veil Guard's Fur hat",
+            "name": "Veil Guard's Fur Hat",
             "itemType": 5,
             "color": 3
         },
@@ -932,7 +932,7 @@
             "id": 20432,
             "level": 12,
             "icon": 3779,
-            "name": "Fur hat of the Snow Prisoner",
+            "name": "Fur Hat of the Snow Prisoner",
             "itemType": 5,
             "color": 3
         },
@@ -940,7 +940,7 @@
             "id": 20438,
             "level": 14,
             "icon": 3779,
-            "name": "Fur hat of the Northern Oracle",
+            "name": "Northern Oracle's Fur Hat",
             "itemType": 5,
             "color": 3
         },
@@ -948,7 +948,7 @@
             "id": 20450,
             "level": 16,
             "icon": 3779,
-            "name": "Fur hat of the Polar Hierophant",
+            "name": "Polar Hierophant's Fur Hat",
             "itemType": 5,
             "color": 3
         },
@@ -956,7 +956,7 @@
             "id": 20456,
             "level": 18,
             "icon": 3779,
-            "name": "Fur Hat of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Fur Hat",
             "itemType": 5,
             "color": 3
         },
@@ -964,7 +964,7 @@
             "id": 20462,
             "level": 20,
             "icon": 3779,
-            "name": "Fur Hat of the Ice Recluse",
+            "name": "Ice Recluse's Fur Hat",
             "itemType": 5,
             "color": 3
         },
@@ -972,7 +972,7 @@
             "id": 20468,
             "level": 22,
             "icon": 3779,
-            "name": "Fur hat of the Faceless Heir",
+            "name": "Faceless Heir's Fur Hat",
             "itemType": 5,
             "color": 3
         },
@@ -980,7 +980,7 @@
             "id": 20480,
             "level": 24,
             "icon": 3779,
-            "name": "Fur Hat of the Storm Tamer",
+            "name": "Storm Tamer's Fur Hat",
             "itemType": 5,
             "color": 3
         },
@@ -988,7 +988,7 @@
             "id": 20492,
             "level": 26,
             "icon": 3779,
-            "name": "Fur Hat of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Fur Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1276,7 +1276,7 @@
             "id": 23533,
             "level": 27,
             "icon": 1307,
-            "name": "Camail of the Engineer Defender",
+            "name": "Engineer Defender's Camail",
             "itemType": 5,
             "color": 3
         },
@@ -1452,7 +1452,7 @@
             "id": 24436,
             "level": 28,
             "icon": 3779,
-            "name": "Fur Hat of the Arctic Ruler",
+            "name": "Arctic Ruler's Fur Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1460,7 +1460,7 @@
             "id": 24462,
             "level": 10,
             "icon": 4633,
-            "name": "Ragnar's Omnipotent Heaume",
+            "name": "Ragnar's Almigthy Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1476,7 +1476,7 @@
             "id": 24614,
             "level": 12,
             "icon": 4633,
-            "name": "Frosty Fang's Omnipotent Heaume",
+            "name": "Frosty Fang's Almigthy Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1484,7 +1484,7 @@
             "id": 24615,
             "level": 14,
             "icon": 4633,
-            "name": "Mastodon's Omnipotent Heaume",
+            "name": "Mastodon's Almigthy Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1492,7 +1492,7 @@
             "id": 24616,
             "level": 16,
             "icon": 4633,
-            "name": "Taron's Omnipotent Heaume",
+            "name": "Taron's Almigthy Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1500,7 +1500,7 @@
             "id": 24617,
             "level": 18,
             "icon": 4633,
-            "name": "Kerula's Omnipotent Heaume",
+            "name": "Kerula's Almigthy Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1508,7 +1508,7 @@
             "id": 24618,
             "level": 20,
             "icon": 4633,
-            "name": "Gimir's Omnipotent Heaume",
+            "name": "Gimir's Almigthy Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1516,7 +1516,7 @@
             "id": 24619,
             "level": 22,
             "icon": 4633,
-            "name": "Flavius's Omnipotent Heaume",
+            "name": "Flavius's Almigthy Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1524,7 +1524,7 @@
             "id": 24620,
             "level": 24,
             "icon": 4633,
-            "name": "Ruberius's Omnipotent Heaume",
+            "name": "Ruberius's Almigthy Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1532,7 +1532,7 @@
             "id": 24621,
             "level": 26,
             "icon": 4633,
-            "name": "Mortis's Omnipotent Heaume",
+            "name": "Mortis's Almigthy Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1540,7 +1540,7 @@
             "id": 24622,
             "level": 28,
             "icon": 4633,
-            "name": "Snow General's Omnipotent Heaume",
+            "name": "Snow General's Almigthy Heaume",
             "itemType": 5,
             "color": 4
         },
@@ -1756,7 +1756,7 @@
             "id": 27991,
             "level": 30,
             "icon": 3779,
-            "name": "Fur Hat of the Patron of Frost",
+            "name": "Frost Patron's Fur Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1764,7 +1764,7 @@
             "id": 27995,
             "level": 30,
             "icon": 3779,
-            "name": "Fur Hood of the Patron of Frost",
+            "name": "Frost Patron's Fur Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1772,7 +1772,7 @@
             "id": 28063,
             "level": 14,
             "icon": 3779,
-            "name": "Fur Hood of the Northern Oracle",
+            "name": "Northern Oracle's Fur Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1780,7 +1780,7 @@
             "id": 28067,
             "level": 16,
             "icon": 3779,
-            "name": "Fur Hood of the Polar Hierophant",
+            "name": "Polar Hierophant's Fur Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1788,7 +1788,7 @@
             "id": 28071,
             "level": 18,
             "icon": 3779,
-            "name": "Fur Hood of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Fur Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1796,7 +1796,7 @@
             "id": 28075,
             "level": 20,
             "icon": 3779,
-            "name": "Fur Hood of the Ice Recluse",
+            "name": "Ice Recluse's Fur Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1804,7 +1804,7 @@
             "id": 28079,
             "level": 22,
             "icon": 3779,
-            "name": "Fur Hood of the Faceless Heir",
+            "name": "Faceless Heir's Fur Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1812,7 +1812,7 @@
             "id": 28083,
             "level": 24,
             "icon": 3779,
-            "name": "Fur Hood of the Storm Tamer",
+            "name": "Storm Tamer's Fur Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1820,7 +1820,7 @@
             "id": 28087,
             "level": 26,
             "icon": 3779,
-            "name": "Fur Hood of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Fur Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1828,7 +1828,7 @@
             "id": 28091,
             "level": 28,
             "icon": 3779,
-            "name": "Fur Hood of the Arctic Ruler",
+            "name": "Arctic Ruler's Fur Hood",
             "itemType": 5,
             "color": 3
         },

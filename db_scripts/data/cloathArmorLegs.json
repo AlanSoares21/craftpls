@@ -540,7 +540,7 @@
             "id": 15028,
             "level": 20,
             "icon": 1686,
-            "name": "High Shoes of Deep Lord",
+            "name": "Deep Lord's High Shoes",
             "itemType": 8,
             "color": 3
         },
@@ -700,7 +700,7 @@
             "id": 18333,
             "level": 14,
             "icon": 3492,
-            "name": "Ugg Boots of the Northern Oracle",
+            "name": "Northern Oracle's Ugg Boots",
             "itemType": 8,
             "color": 3
         },
@@ -708,7 +708,7 @@
             "id": 18339,
             "level": 18,
             "icon": 3492,
-            "name": "Ugg Boots of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Ugg Boots",
             "itemType": 8,
             "color": 3
         },
@@ -716,7 +716,7 @@
             "id": 18347,
             "level": 20,
             "icon": 3492,
-            "name": "Ugg Boots of the Ice Recluse",
+            "name": "Ice Recluse's Ugg Boots",
             "itemType": 8,
             "color": 3
         },
@@ -724,7 +724,7 @@
             "id": 18353,
             "level": 22,
             "icon": 3492,
-            "name": "Ugg Boots of the Faceless Heir",
+            "name": "Faceless Heir's Ugg Boots",
             "itemType": 8,
             "color": 3
         },
@@ -940,7 +940,7 @@
             "id": 20439,
             "level": 16,
             "icon": 3492,
-            "name": "Ugg Boots of the Polar Hierophant",
+            "name": "Polar Hierophant's Ugg Boots",
             "itemType": 8,
             "color": 3
         },
@@ -948,7 +948,7 @@
             "id": 20469,
             "level": 24,
             "icon": 3492,
-            "name": "Uggs Boots of the Storm Tamer",
+            "name": "Storm Tamer's Uggs Boots",
             "itemType": 8,
             "color": 3
         },
@@ -956,7 +956,7 @@
             "id": 20481,
             "level": 26,
             "icon": 3492,
-            "name": "Ugg Boots of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Ugg Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1500,7 +1500,7 @@
             "id": 24431,
             "level": 28,
             "icon": 3492,
-            "name": "Ugg Boots of the Arctic Ruler",
+            "name": "Arctic Ruler's Ugg Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1812,7 +1812,7 @@
             "id": 27982,
             "level": 30,
             "icon": 3492,
-            "name": "Felt Boots of the Patron of Frost",
+            "name": "Frost Patron's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1820,7 +1820,7 @@
             "id": 28002,
             "level": 14,
             "icon": 3492,
-            "name": "Felt Boots of the Northern Oracle",
+            "name": "Northern Oracle's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1828,7 +1828,7 @@
             "id": 28006,
             "level": 16,
             "icon": 3492,
-            "name": "Felt Boots of the Polar Hierophant",
+            "name": "Polar Hierophant's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1836,7 +1836,7 @@
             "id": 28010,
             "level": 18,
             "icon": 3492,
-            "name": "Felt Boots of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1844,7 +1844,7 @@
             "id": 28014,
             "level": 20,
             "icon": 3492,
-            "name": "Felt Boots of the Ice Recluse",
+            "name": "Ice Recluse's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1852,7 +1852,7 @@
             "id": 28018,
             "level": 22,
             "icon": 3492,
-            "name": "Felt Boots of the Faceless Heir",
+            "name": "Faceless Heir's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1860,7 +1860,7 @@
             "id": 28022,
             "level": 24,
             "icon": 3492,
-            "name": "Felt Boots of the Storm Tamer",
+            "name": "Storm Tamer's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1868,7 +1868,7 @@
             "id": 28026,
             "level": 26,
             "icon": 3492,
-            "name": "Felt Boots of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1876,7 +1876,7 @@
             "id": 28030,
             "level": 28,
             "icon": 3492,
-            "name": "Felt Boots of the Arctic Ruler",
+            "name": "Arctic Ruler's Felt Boots",
             "itemType": 8,
             "color": 3
         },

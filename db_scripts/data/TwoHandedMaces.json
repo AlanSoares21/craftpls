@@ -268,7 +268,7 @@
             "id": 16192,
             "level": 20,
             "icon": 3122,
-            "name": "Maul of the Snow Lady",
+            "name": "Snow Lady's Maul",
             "itemType": 0,
             "color": 3
         },
@@ -356,7 +356,7 @@
             "id": 17163,
             "level": 20,
             "icon": 1085,
-            "name": "Morgenstern of Deep Lord",
+            "name": "Deep Lord's Morgenstern",
             "itemType": 0,
             "color": 3
         },
@@ -612,7 +612,7 @@
             "id": 20028,
             "level": 20,
             "icon": 3076,
-            "name": "Morgenstern of Damned Heir",
+            "name": "Damned Heir's Morgenstern",
             "itemType": 0,
             "color": 3
         },
@@ -692,7 +692,7 @@
             "id": 20331,
             "level": 20,
             "icon": 3122,
-            "name": "Warhammer of the Snow Lady",
+            "name": "Snow Lady's Warhammer",
             "itemType": 0,
             "color": 3
         },
@@ -1524,7 +1524,7 @@
             "id": 29887,
             "level": 20,
             "icon": 1085,
-            "name": "Maul of Deep Lord",
+            "name": "Deep Lord's Maul",
             "itemType": 0,
             "color": 3
         },
@@ -1820,7 +1820,7 @@
             "id": 30262,
             "level": 20,
             "icon": 3076,
-            "name": "Warhammer of Damned Heir",
+            "name": "Damned Heir's Warhammer",
             "itemType": 0,
             "color": 3
         },
@@ -1916,7 +1916,7 @@
             "id": 31041,
             "level": 20,
             "icon": 3122,
-            "name": "Morgenstern of the Snow Lady",
+            "name": "Snow Lady's Morgenstern",
             "itemType": 0,
             "color": 3
         },

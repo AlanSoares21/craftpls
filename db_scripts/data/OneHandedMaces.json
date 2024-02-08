@@ -364,7 +364,7 @@
             "id": 16189,
             "level": 20,
             "icon": 3125,
-            "name": "Mace of the Snow Lady",
+            "name": "Snow Lady's Mace",
             "itemType": 0,
             "color": 3
         },
@@ -460,7 +460,7 @@
             "id": 17159,
             "level": 20,
             "icon": 1115,
-            "name": "Mace of Deep Lord",
+            "name": "Deep Lord's Mace",
             "itemType": 0,
             "color": 3
         },
@@ -676,7 +676,7 @@
             "id": 20025,
             "level": 20,
             "icon": 3078,
-            "name": "Club of Damned Heir",
+            "name": "Damned Heir's Club",
             "itemType": 0,
             "color": 3
         },
@@ -1036,7 +1036,7 @@
             "id": 21300,
             "level": 20,
             "icon": 1115,
-            "name": "Magic Mace of Deep Lord",
+            "name": "Deep Lord's Magic Mace",
             "itemType": 0,
             "color": 3
         },
@@ -1540,7 +1540,7 @@
             "id": 22477,
             "level": 20,
             "icon": 3125,
-            "name": "Magic Mace of the Snow Lady",
+            "name": "Snow Lady's Magic Mace",
             "itemType": 0,
             "color": 3
         },
@@ -1940,7 +1940,7 @@
             "id": 24119,
             "level": 20,
             "icon": 3078,
-            "name": "Magic Club of Damned Heir",
+            "name": "Damned Heir's Magic Club",
             "itemType": 0,
             "color": 3
         },
@@ -2732,7 +2732,7 @@
             "id": 30261,
             "level": 20,
             "icon": 3078,
-            "name": "Mace of Damned Heir",
+            "name": "Damned Heir's Mace",
             "itemType": 0,
             "color": 3
         },
@@ -2828,7 +2828,7 @@
             "id": 31040,
             "level": 20,
             "icon": 3125,
-            "name": "Club of the Snow Lady",
+            "name": "Snow Lady's Club",
             "itemType": 0,
             "color": 3
         },

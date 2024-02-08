@@ -316,7 +316,7 @@
             "id": 14491,
             "level": 20,
             "icon": 1370,
-            "name": "Arbalest of Deep Lord",
+            "name": "Deep Lord's Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -468,7 +468,7 @@
             "id": 16195,
             "level": 20,
             "icon": 3121,
-            "name": "Arbalest of the Snow Lady",
+            "name": "Snow Lady's Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -724,7 +724,7 @@
             "id": 20031,
             "level": 20,
             "icon": 3075,
-            "name": "Arbalest of Damned Heir",
+            "name": "Damned Heir's Arbalest",
             "itemType": 1,
             "color": 3
         },
@@ -804,7 +804,7 @@
             "id": 20334,
             "level": 20,
             "icon": 3121,
-            "name": "Arcuballista of the Snow Lady",
+            "name": "Snow Lady's Arcuballista",
             "itemType": 1,
             "color": 3
         },

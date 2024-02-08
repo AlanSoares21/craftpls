@@ -972,7 +972,7 @@
             "id": 15038,
             "level": 19,
             "icon": 2578,
-            "name": "Cap of Deep Lord",
+            "name": "Deep Lord's Cap",
             "itemType": 5,
             "color": 3
         },
@@ -1308,7 +1308,7 @@
             "id": 18515,
             "level": 20,
             "icon": 2578,
-            "name": "Helm of Deep Lord",
+            "name": "Deep Lord's Helm",
             "itemType": 5,
             "color": 3
         },
@@ -1396,7 +1396,7 @@
             "id": 20419,
             "level": 10,
             "icon": 3781,
-            "name": "Veil Guard's Wool hat",
+            "name": "Veil Guard's Wool Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1404,7 +1404,7 @@
             "id": 20431,
             "level": 12,
             "icon": 3781,
-            "name": "Wool hat of the Snow Prisoner",
+            "name": "Wool Hat of the Snow Prisoner",
             "itemType": 5,
             "color": 3
         },
@@ -1412,7 +1412,7 @@
             "id": 20437,
             "level": 14,
             "icon": 3781,
-            "name": "Wool hat of the Northern Oracle",
+            "name": "Northern Oracle's Wool Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1420,7 +1420,7 @@
             "id": 20449,
             "level": 16,
             "icon": 3781,
-            "name": "Wool hat of the Polar Hierophant",
+            "name": "Polar Hierophant's Wool Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1428,7 +1428,7 @@
             "id": 20455,
             "level": 18,
             "icon": 3781,
-            "name": "Wool Hat of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Wool Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1436,7 +1436,7 @@
             "id": 20461,
             "level": 20,
             "icon": 3781,
-            "name": "Wool Hat of the Ice Recluse",
+            "name": "Ice Recluse's Wool Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1444,7 +1444,7 @@
             "id": 20467,
             "level": 22,
             "icon": 3781,
-            "name": "Wool hat of the Faceless Heir",
+            "name": "Faceless Heir's Wool Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1452,7 +1452,7 @@
             "id": 20479,
             "level": 24,
             "icon": 3781,
-            "name": "Wool Hat of the Storm Tamer",
+            "name": "Storm Tamer's Wool Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1460,7 +1460,7 @@
             "id": 20491,
             "level": 26,
             "icon": 3781,
-            "name": "Wool Hat of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Wool Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1924,7 +1924,7 @@
             "id": 24432,
             "level": 28,
             "icon": 3781,
-            "name": "Woolen Hat of the Arctic Ruler",
+            "name": "Arctic Ruler's Wool Hat",
             "itemType": 5,
             "color": 3
         },
@@ -2228,7 +2228,7 @@
             "id": 27983,
             "level": 30,
             "icon": 3781,
-            "name": "Woolen Hat of the Patron of Frost",
+            "name": "Frost Patron's Wool Hat",
             "itemType": 5,
             "color": 3
         },
@@ -2236,7 +2236,7 @@
             "id": 27987,
             "level": 30,
             "icon": 3781,
-            "name": "Woolen Hood of the Patron of Frost",
+            "name": "Frost Patron's Woolen Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2244,7 +2244,7 @@
             "id": 28031,
             "level": 14,
             "icon": 3781,
-            "name": "Woolen Hood of the Northern Oracle",
+            "name": "Northern Oracle's Woolen Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2252,7 +2252,7 @@
             "id": 28035,
             "level": 16,
             "icon": 3781,
-            "name": "Woolen Hood of the Polar Hierophant",
+            "name": "Polar Hierophant's Woolen Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2260,7 +2260,7 @@
             "id": 28039,
             "level": 18,
             "icon": 3781,
-            "name": "Woolen Hood of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Woolen Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2268,7 +2268,7 @@
             "id": 28043,
             "level": 20,
             "icon": 3781,
-            "name": "Woolen Hood of the Ice Recluse",
+            "name": "Ice Recluse's Woolen Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2276,7 +2276,7 @@
             "id": 28047,
             "level": 22,
             "icon": 3781,
-            "name": "Woolen Hood of the Faceless Heir",
+            "name": "Faceless Heir's Woolen Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2284,7 +2284,7 @@
             "id": 28051,
             "level": 24,
             "icon": 3781,
-            "name": "Woolen Hood of the Storm Tamer",
+            "name": "Storm Tamer's Woolen Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2292,7 +2292,7 @@
             "id": 28055,
             "level": 26,
             "icon": 3781,
-            "name": "Woolen Hood of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Woolen Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2300,7 +2300,7 @@
             "id": 28059,
             "level": 28,
             "icon": 3781,
-            "name": "Woolen Hood of the Arctic Ruler",
+            "name": "Arctic Ruler's Woolen Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2652,7 +2652,7 @@
             "id": 33877,
             "level": 32,
             "icon": 3781,
-            "name": "Storm Lord\u2019s Woolen Hat",
+            "name": "Storm Lord\u2019s Wool Hat",
             "itemType": 5,
             "color": 3
         },

@@ -1268,7 +1268,7 @@
             "id": 14354,
             "level": 20,
             "icon": 2629,
-            "name": "Cane of Deep Lord",
+            "name": "Deep Lord's Cane",
             "itemType": 1,
             "color": 3
         },
@@ -1540,7 +1540,7 @@
             "id": 16196,
             "level": 20,
             "icon": 3128,
-            "name": "Staff of the Snow Lady",
+            "name": "Snow Lady's Staff",
             "itemType": 1,
             "color": 3
         },
@@ -1548,7 +1548,7 @@
             "id": 16197,
             "level": 20,
             "icon": 3129,
-            "name": "Stick of the Snow Lady",
+            "name": "Snow Lady's Stick",
             "itemType": 1,
             "color": 3
         },
@@ -1660,7 +1660,7 @@
             "id": 17270,
             "level": 20,
             "icon": 2629,
-            "name": "Staff of Deep Lord",
+            "name": "Deep Lord's Staff",
             "itemType": 1,
             "color": 3
         },
@@ -2060,7 +2060,7 @@
             "id": 20032,
             "level": 20,
             "icon": 3081,
-            "name": "Staff of Damned Heir",
+            "name": "Damned Heir's Staff",
             "itemType": 1,
             "color": 3
         },
@@ -2068,7 +2068,7 @@
             "id": 20033,
             "level": 20,
             "icon": 3081,
-            "name": "Scepter of Damned Heir",
+            "name": "Damned Heir's Scepter",
             "itemType": 1,
             "color": 3
         },
@@ -2244,7 +2244,7 @@
             "id": 20335,
             "level": 20,
             "icon": 3129,
-            "name": "Baton of the Snow Lady",
+            "name": "Snow Lady's Baton",
             "itemType": 1,
             "color": 3
         },
@@ -3308,7 +3308,7 @@
             "id": 24121,
             "level": 20,
             "icon": 3081,
-            "name": "Baton of Damned Heir",
+            "name": "Damned Heir's Baton",
             "itemType": 1,
             "color": 3
         },
@@ -4212,7 +4212,7 @@
             "id": 27929,
             "level": 20,
             "icon": 3129,
-            "name": "Scepter of the Snow Lady",
+            "name": "Snow Lady's Scepter",
             "itemType": 1,
             "color": 3
         },

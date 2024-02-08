@@ -241,10 +241,10 @@
             "color": 3
         },
         {
-            "id": 36175,
-            "level": 18,
+            "id": 36193,
+            "level": 28,
             "icon": 6554,
-            "name": "Demonic Ring of Deadly Game",
+            "name": "Mystic Signet of Crazy King",
             "itemType": 10,
             "color": 3
         },
@@ -265,6 +265,14 @@
             "color": 3
         },
         {
+            "id": 36175,
+            "level": 18,
+            "icon": 6554,
+            "name": "Demonic Ring of Deadly Game",
+            "itemType": 10,
+            "color": 3
+        },
+        {
             "id": 36184,
             "level": 10,
             "icon": 6554,
@@ -273,18 +281,10 @@
             "color": 3
         },
         {
-            "id": 36193,
-            "level": 28,
-            "icon": 6554,
-            "name": "Mystic Signet of Crazy King",
-            "itemType": 10,
-            "color": 3
-        },
-        {
             "id": 36202,
             "level": 20,
             "icon": 6554,
-            "name": "Demonic Signet of Damned Heir",
+            "name": "Damned Heir's Demonic Signet",
             "itemType": 10,
             "color": 3
         },
@@ -348,7 +348,7 @@
             "id": 36189,
             "level": 20,
             "icon": 6554,
-            "name": "Mystic Signet of Damned Heir",
+            "name": "Damned Heir's Mystic Signet",
             "itemType": 10,
             "color": 3
         },
@@ -444,7 +444,7 @@
             "id": 36162,
             "level": 20,
             "icon": 6554,
-            "name": "Mystic Ring of Damned Heir",
+            "name": "Damned Heir's Mystic Ring",
             "itemType": 10,
             "color": 3
         },
@@ -460,7 +460,7 @@
             "id": 36176,
             "level": 20,
             "icon": 6554,
-            "name": "Demonic Ring of Damned Heir",
+            "name": "Damned Heir's Demonic Ring",
             "itemType": 10,
             "color": 3
         },
@@ -535,14 +535,6 @@
             "name": "Demonic Circle of Blind Outlaw",
             "itemType": 10,
             "color": 3
-        },
-        {
-            "id": 2204,
-            "level": 15,
-            "icon": 1166,
-            "name": "Decorated Sigil",
-            "itemType": 10,
-            "color": 1
         },
         {
             "id": 2328,
@@ -785,20 +777,12 @@
             "color": 3
         },
         {
-            "id": 2048,
-            "level": 12,
-            "icon": 1157,
-            "name": "High-standard Ring",
+            "id": 2204,
+            "level": 15,
+            "icon": 1166,
+            "name": "Decorated Sigil",
             "itemType": 10,
-            "color": 2
-        },
-        {
-            "id": 2114,
-            "level": 13,
-            "icon": 1148,
-            "name": "Expensive Sigil",
-            "itemType": 10,
-            "color": 3
+            "color": 1
         },
         {
             "id": 2115,
@@ -815,6 +799,14 @@
             "name": "Graceful Ring",
             "itemType": 10,
             "color": 3
+        },
+        {
+            "id": 2152,
+            "level": 14,
+            "icon": 1178,
+            "name": "Nifty Ring",
+            "itemType": 10,
+            "color": 0
         },
         {
             "id": 6422,
@@ -1073,12 +1065,20 @@
             "color": 3
         },
         {
-            "id": 2152,
-            "level": 14,
-            "icon": 1178,
-            "name": "Nifty Ring",
+            "id": 2048,
+            "level": 12,
+            "icon": 1157,
+            "name": "High-standard Ring",
             "itemType": 10,
-            "color": 0
+            "color": 2
+        },
+        {
+            "id": 2114,
+            "level": 13,
+            "icon": 1148,
+            "name": "Expensive Sigil",
+            "itemType": 10,
+            "color": 3
         },
         {
             "id": 2153,
@@ -1097,22 +1097,6 @@
             "color": 3
         },
         {
-            "id": 992,
-            "level": 9,
-            "icon": 1154,
-            "name": "Ring of Follower",
-            "itemType": 10,
-            "color": 2
-        },
-        {
-            "id": 1044,
-            "level": 9,
-            "icon": 1178,
-            "name": "Ring of Toughness",
-            "itemType": 10,
-            "color": 3
-        },
-        {
             "id": 1604,
             "level": 9,
             "icon": 1154,
@@ -1121,20 +1105,12 @@
             "color": 2
         },
         {
-            "id": 2155,
-            "level": 15,
-            "icon": 1166,
-            "name": "Good-looking Ring",
+            "id": 2044,
+            "level": 12,
+            "icon": 1154,
+            "name": "Mighty Signet",
             "itemType": 10,
-            "color": 0
-        },
-        {
-            "id": 2202,
-            "level": 13,
-            "icon": 1157,
-            "name": "Decorated Signet",
-            "itemType": 10,
-            "color": 1
+            "color": 2
         },
         {
             "id": 2205,
@@ -1385,12 +1361,20 @@
             "color": 3
         },
         {
-            "id": 2044,
-            "level": 12,
+            "id": 992,
+            "level": 9,
             "icon": 1154,
-            "name": "Mighty Signet",
+            "name": "Ring of Follower",
             "itemType": 10,
             "color": 2
+        },
+        {
+            "id": 1044,
+            "level": 9,
+            "icon": 1178,
+            "name": "Ring of Toughness",
+            "itemType": 10,
+            "color": 3
         },
         {
             "id": 2049,
@@ -1409,20 +1393,20 @@
             "color": 3
         },
         {
-            "id": 2045,
-            "level": 12,
-            "icon": 1148,
-            "name": "Mighty Ring",
+            "id": 2155,
+            "level": 15,
+            "icon": 1166,
+            "name": "Good-looking Ring",
             "itemType": 10,
-            "color": 2
+            "color": 0
         },
         {
-            "id": 2046,
-            "level": 12,
-            "icon": 1187,
-            "name": "Mighty Sigil",
+            "id": 2202,
+            "level": 13,
+            "icon": 1157,
+            "name": "Decorated Signet",
             "itemType": 10,
-            "color": 2
+            "color": 1
         },
         {
             "id": 2050,
@@ -1433,12 +1417,12 @@
             "color": 2
         },
         {
-            "id": 2279,
-            "level": 15,
-            "icon": 1169,
-            "name": "Elegant Signet",
+            "id": 2117,
+            "level": 13,
+            "icon": 1154,
+            "name": "Qualitative Signet",
             "itemType": 10,
-            "color": 2
+            "color": 3
         },
         {
             "id": 2280,
@@ -1721,12 +1705,20 @@
             "color": 2
         },
         {
-            "id": 2117,
-            "level": 13,
-            "icon": 1154,
-            "name": "Qualitative Signet",
+            "id": 2045,
+            "level": 12,
+            "icon": 1148,
+            "name": "Mighty Ring",
             "itemType": 10,
-            "color": 3
+            "color": 2
+        },
+        {
+            "id": 2046,
+            "level": 12,
+            "icon": 1187,
+            "name": "Mighty Sigil",
+            "itemType": 10,
+            "color": 2
         },
         {
             "id": 2154,
@@ -1737,20 +1729,12 @@
             "color": 0
         },
         {
-            "id": 2047,
-            "level": 12,
-            "icon": 1154,
-            "name": "High-Standard Signet",
+            "id": 2279,
+            "level": 15,
+            "icon": 1169,
+            "name": "Elegant Signet",
             "itemType": 10,
             "color": 2
-        },
-        {
-            "id": 2113,
-            "level": 13,
-            "icon": 1145,
-            "name": "Expensive Signet",
-            "itemType": 10,
-            "color": 3
         },
         {
             "id": 2118,
@@ -1769,12 +1753,12 @@
             "color": 0
         },
         {
-            "id": 2742,
-            "level": 12,
-            "icon": 1142,
-            "name": "Excellent Sigil",
+            "id": 2203,
+            "level": 15,
+            "icon": 1184,
+            "name": "Decorated Ring",
             "itemType": 10,
-            "color": 2
+            "color": 1
         },
         {
             "id": 5802,
@@ -2001,12 +1985,20 @@
             "color": 3
         },
         {
-            "id": 2203,
-            "level": 15,
-            "icon": 1184,
-            "name": "Decorated Ring",
+            "id": 2047,
+            "level": 12,
+            "icon": 1154,
+            "name": "High-Standard Signet",
             "itemType": 10,
-            "color": 1
+            "color": 2
+        },
+        {
+            "id": 2113,
+            "level": 13,
+            "icon": 1145,
+            "name": "Expensive Signet",
+            "itemType": 10,
+            "color": 3
         },
         {
             "id": 2281,
@@ -2033,20 +2025,12 @@
             "color": 3
         },
         {
-            "id": 16489,
-            "level": 20,
-            "icon": 1181,
-            "name": "Circle of Azure Sky",
+            "id": 2742,
+            "level": 12,
+            "icon": 1142,
+            "name": "Excellent Sigil",
             "itemType": 10,
             "color": 2
-        },
-        {
-            "id": 16502,
-            "level": 16,
-            "icon": 1151,
-            "name": "Daedal Onyx Ring",
-            "itemType": 10,
-            "color": 3
         },
         {
             "id": 16506,
@@ -2305,14 +2289,6 @@
             "color": 3
         },
         {
-            "id": 16479,
-            "level": 16,
-            "icon": 1157,
-            "name": "Plain Onyx Sigil",
-            "itemType": 10,
-            "color": 2
-        },
-        {
             "id": 16484,
             "level": 18,
             "icon": 1166,
@@ -2321,18 +2297,26 @@
             "color": 2
         },
         {
-            "id": 16481,
-            "level": 16,
-            "icon": 1157,
-            "name": "Plain Onyx Circle",
+            "id": 16489,
+            "level": 20,
+            "icon": 1181,
+            "name": "Circle of Azure Sky",
             "itemType": 10,
             "color": 2
         },
         {
-            "id": 16486,
-            "level": 20,
-            "icon": 1181,
-            "name": "Ring of Azure Sky",
+            "id": 16502,
+            "level": 16,
+            "icon": 1151,
+            "name": "Daedal Onyx Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16479,
+            "level": 16,
+            "icon": 1157,
+            "name": "Plain Onyx Sigil",
             "itemType": 10,
             "color": 2
         },
@@ -2349,6 +2333,14 @@
             "level": 12,
             "icon": 3206,
             "name": "Radiant Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16501,
+            "level": 14,
+            "icon": 3205,
+            "name": "Storm Sigil",
             "itemType": 10,
             "color": 3
         },
@@ -2617,28 +2609,20 @@
             "color": 2
         },
         {
-            "id": 16501,
-            "level": 14,
-            "icon": 3205,
-            "name": "Storm Sigil",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 16500,
-            "level": 14,
-            "icon": 3206,
-            "name": "Storm Ring",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 16505,
+            "id": 16481,
             "level": 16,
-            "icon": 3205,
-            "name": "High-Quality Onyx Sigil",
+            "icon": 1157,
+            "name": "Plain Onyx Circle",
             "itemType": 10,
-            "color": 3
+            "color": 2
+        },
+        {
+            "id": 16486,
+            "level": 20,
+            "icon": 1181,
+            "name": "Ring of Azure Sky",
+            "itemType": 10,
+            "color": 2
         },
         {
             "id": 16510,
@@ -2905,14 +2889,6 @@
             "color": 3
         },
         {
-            "id": 16475,
-            "level": 14,
-            "icon": 1154,
-            "name": "Hazy Sigil",
-            "itemType": 10,
-            "color": 2
-        },
-        {
             "id": 16485,
             "level": 18,
             "icon": 1166,
@@ -2921,20 +2897,28 @@
             "color": 2
         },
         {
-            "id": 16503,
-            "level": 16,
-            "icon": 1151,
-            "name": "Daedal Onyx Sigil",
+            "id": 16500,
+            "level": 14,
+            "icon": 3206,
+            "name": "Storm Ring",
             "itemType": 10,
             "color": 3
         },
         {
-            "id": 16508,
-            "level": 18,
-            "icon": 3206,
-            "name": "Ring of Invincibility",
+            "id": 16505,
+            "level": 16,
+            "icon": 3205,
+            "name": "High-Quality Onyx Sigil",
             "itemType": 10,
             "color": 3
+        },
+        {
+            "id": 16475,
+            "level": 14,
+            "icon": 1154,
+            "name": "Hazy Sigil",
+            "itemType": 10,
+            "color": 2
         },
         {
             "id": 16513,
@@ -2943,14 +2927,6 @@
             "name": "Sigil of Fiery Skies",
             "itemType": 10,
             "color": 3
-        },
-        {
-            "id": 17433,
-            "level": 22,
-            "icon": 1157,
-            "name": "Circle of Captivating Illusions",
-            "itemType": 10,
-            "color": 2
         },
         {
             "id": 17994,
@@ -3209,28 +3185,28 @@
             "color": 3
         },
         {
-            "id": 16504,
+            "id": 16503,
             "level": 16,
-            "icon": 3206,
-            "name": "High-Quality Onyx Ring",
+            "icon": 1151,
+            "name": "Daedal Onyx Sigil",
             "itemType": 10,
             "color": 3
         },
         {
-            "id": 16509,
+            "id": 16508,
             "level": 18,
-            "icon": 3205,
-            "name": "Sigil of Invincibility",
+            "icon": 3206,
+            "name": "Ring of Invincibility",
             "itemType": 10,
             "color": 3
         },
         {
-            "id": 19252,
-            "level": 23,
+            "id": 17433,
+            "level": 22,
             "icon": 1157,
-            "name": "Ring of the Sacred Tree",
+            "name": "Circle of Captivating Illusions",
             "itemType": 10,
-            "color": 3
+            "color": 2
         },
         {
             "id": 19257,
@@ -3497,6 +3473,22 @@
             "color": 3
         },
         {
+            "id": 16504,
+            "level": 16,
+            "icon": 3206,
+            "name": "High-Quality Onyx Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 16509,
+            "level": 18,
+            "icon": 3205,
+            "name": "Sigil of Invincibility",
+            "itemType": 10,
+            "color": 3
+        },
+        {
             "id": 17434,
             "level": 22,
             "icon": 1187,
@@ -3521,6 +3513,14 @@
             "color": 2
         },
         {
+            "id": 19252,
+            "level": 23,
+            "icon": 1157,
+            "name": "Ring of the Sacred Tree",
+            "itemType": 10,
+            "color": 3
+        },
+        {
             "id": 27147,
             "level": 30,
             "icon": 3055,
@@ -3537,18 +3537,10 @@
             "color": 3
         },
         {
-            "id": 29640,
+            "id": 27935,
             "level": 30,
-            "icon": 3655,
-            "name": "Contender's Ring",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 29789,
-            "level": 7,
-            "icon": 1148,
-            "name": "Recruit's Signet",
+            "icon": 3141,
+            "name": "Aquilon's Almighty Ring",
             "itemType": 10,
             "color": 3
         },
@@ -3809,14 +3801,6 @@
             "color": 3
         },
         {
-            "id": 27935,
-            "level": 30,
-            "icon": 3141,
-            "name": "Aquilon's Almighty Ring",
-            "itemType": 10,
-            "color": 3
-        },
-        {
             "id": 28955,
             "level": 30,
             "icon": 1157,
@@ -3833,18 +3817,18 @@
             "color": 3
         },
         {
-            "id": 26418,
-            "level": 28,
-            "icon": 3181,
-            "name": "Ring of Greatness",
+            "id": 29640,
+            "level": 30,
+            "icon": 3655,
+            "name": "Contender's Ring",
             "itemType": 10,
             "color": 3
         },
         {
-            "id": 26425,
-            "level": 28,
-            "icon": 3655,
-            "name": "Contender's Ring",
+            "id": 29789,
+            "level": 7,
+            "icon": 1148,
+            "name": "Recruit's Signet",
             "itemType": 10,
             "color": 3
         },
@@ -3861,14 +3845,6 @@
             "level": 30,
             "icon": 3055,
             "name": "Almighty Circle of Eternity",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 29630,
-            "level": 30,
-            "icon": 3181,
-            "name": "Ring of Greatness",
             "itemType": 10,
             "color": 3
         },
@@ -4129,10 +4105,18 @@
             "color": 3
         },
         {
-            "id": 26409,
-            "level": 31,
-            "icon": 4962,
-            "name": "Ring of Admiral",
+            "id": 26418,
+            "level": 28,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26425,
+            "level": 28,
+            "icon": 3655,
+            "name": "Contender's Ring",
             "itemType": 10,
             "color": 3
         },
@@ -4153,10 +4137,18 @@
             "color": 3
         },
         {
-            "id": 26410,
+            "id": 29630,
+            "level": 30,
+            "icon": 3181,
+            "name": "Ring of Greatness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 26409,
             "level": 31,
             "icon": 4962,
-            "name": "Sigil of Admiral",
+            "name": "Ring of Admiral",
             "itemType": 10,
             "color": 3
         },
@@ -4165,14 +4157,6 @@
             "level": 30,
             "icon": 3055,
             "name": "Almighty Signet of Eternity",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 29792,
-            "level": 11,
-            "icon": 1151,
-            "name": "Hireling's Ring",
             "itemType": 10,
             "color": 3
         },
@@ -4449,6 +4433,14 @@
             "color": 3
         },
         {
+            "id": 26410,
+            "level": 31,
+            "icon": 4962,
+            "name": "Sigil of Admiral",
+            "itemType": 10,
+            "color": 3
+        },
+        {
             "id": 29553,
             "level": 30,
             "icon": 4466,
@@ -4465,6 +4457,14 @@
             "color": 3
         },
         {
+            "id": 29792,
+            "level": 11,
+            "icon": 1151,
+            "name": "Hireling's Ring",
+            "itemType": 10,
+            "color": 3
+        },
+        {
             "id": 28964,
             "level": 30,
             "icon": 1187,
@@ -4473,10 +4473,10 @@
             "color": 3
         },
         {
-            "id": 30275,
-            "level": 6,
-            "icon": 3055,
-            "name": "Mysterious Signet of Nightfall",
+            "id": 28966,
+            "level": 30,
+            "icon": 3206,
+            "name": "Ring of Epiphany",
             "itemType": 10,
             "color": 3
         },
@@ -4724,7 +4724,7 @@
             "id": 36215,
             "level": 20,
             "icon": 6554,
-            "name": "Mystic Sigil of Damned Heir",
+            "name": "Damned Heir's Mystic Sigil",
             "itemType": 10,
             "color": 3
         },
@@ -4733,14 +4733,6 @@
             "level": 30,
             "icon": 3055,
             "name": "Mighty Sigil of Eternity",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 28966,
-            "level": 30,
-            "icon": 3206,
-            "name": "Ring of Epiphany",
             "itemType": 10,
             "color": 3
         },
@@ -4761,10 +4753,10 @@
             "color": 3
         },
         {
-            "id": 27153,
-            "level": 30,
+            "id": 30275,
+            "level": 6,
             "icon": 3055,
-            "name": "Mighty Circle of Eternity",
+            "name": "Mysterious Signet of Nightfall",
             "itemType": 10,
             "color": 3
         },
@@ -4785,18 +4777,18 @@
             "color": 2
         },
         {
-            "id": 31066,
-            "level": 6,
-            "icon": 5539,
-            "name": "Iceman's Ferocious Circle",
+            "id": 29790,
+            "level": 7,
+            "icon": 1178,
+            "name": "Recruit's Sigil",
             "itemType": 10,
             "color": 3
         },
         {
-            "id": 31071,
-            "level": 12,
-            "icon": 5539,
-            "name": "Frosty Fang's Ferocious Ring",
+            "id": 29795,
+            "level": 11,
+            "icon": 1145,
+            "name": "Hireling's Circle",
             "itemType": 10,
             "color": 3
         },
@@ -5057,34 +5049,26 @@
             "color": 3
         },
         {
-            "id": 29790,
-            "level": 7,
-            "icon": 1178,
-            "name": "Recruit's Sigil",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 29795,
-            "level": 11,
-            "icon": 1145,
-            "name": "Hireling's Circle",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 31872,
-            "level": 20,
-            "icon": 5700,
-            "name": "Magic Sigil of Justice",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 31877,
+            "id": 27153,
             "level": 30,
-            "icon": 5700,
-            "name": "Magic Sigil of Fortitude",
+            "icon": 3055,
+            "name": "Mighty Circle of Eternity",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31066,
+            "level": 6,
+            "icon": 5539,
+            "name": "Iceman's Ferocious Circle",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31071,
+            "level": 12,
+            "icon": 5539,
+            "name": "Frosty Fang's Ferocious Ring",
             "itemType": 10,
             "color": 3
         },
@@ -5377,26 +5361,26 @@
             "color": 3
         },
         {
+            "id": 31872,
+            "level": 20,
+            "icon": 5700,
+            "name": "Magic Sigil of Justice",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31877,
+            "level": 30,
+            "icon": 5700,
+            "name": "Magic Sigil of Fortitude",
+            "itemType": 10,
+            "color": 3
+        },
+        {
             "id": 31867,
             "level": 10,
             "icon": 5700,
             "name": "Magic Sigil of Boldness",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 31868,
-            "level": 12,
-            "icon": 5700,
-            "name": "Magic Sigil of Devotion",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 31873,
-            "level": 22,
-            "icon": 5700,
-            "name": "Magic Sigil of Honor",
             "itemType": 10,
             "color": 3
         },
@@ -5413,6 +5397,14 @@
             "level": 18,
             "icon": 5700,
             "name": "Magic Circle of Nobleness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31888,
+            "level": 28,
+            "icon": 5700,
+            "name": "Magic Circle of Courage",
             "itemType": 10,
             "color": 3
         },
@@ -5628,7 +5620,7 @@
             "id": 36241,
             "level": 20,
             "icon": 6554,
-            "name": "Mystic Circle of Damned Heir",
+            "name": "Damned Heir's Mystic Circle",
             "itemType": 10,
             "color": 3
         },
@@ -5657,34 +5649,26 @@
             "color": 3
         },
         {
+            "id": 31868,
+            "level": 12,
+            "icon": 5700,
+            "name": "Magic Sigil of Devotion",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31873,
+            "level": 22,
+            "icon": 5700,
+            "name": "Magic Sigil of Honor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
             "id": 31863,
             "level": 26,
             "icon": 5700,
             "name": "Magic Signet of Fearlessness",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 31888,
-            "level": 28,
-            "icon": 5700,
-            "name": "Magic Circle of Courage",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 31875,
-            "level": 26,
-            "icon": 5700,
-            "name": "Magic Sigil of Fearlessness",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 31880,
-            "level": 12,
-            "icon": 5700,
-            "name": "Magic Circle of Devotion",
             "itemType": 10,
             "color": 3
         },
@@ -5937,14 +5921,6 @@
             "color": 3
         },
         {
-            "id": 31860,
-            "level": 20,
-            "icon": 5700,
-            "name": "Magic Signet of Justice",
-            "itemType": 10,
-            "color": 3
-        },
-        {
             "id": 31870,
             "level": 16,
             "icon": 5700,
@@ -5953,18 +5929,26 @@
             "color": 3
         },
         {
-            "id": 31884,
-            "level": 20,
+            "id": 31875,
+            "level": 26,
             "icon": 5700,
-            "name": "Magic Circle of Justice",
+            "name": "Magic Sigil of Fearlessness",
             "itemType": 10,
             "color": 3
         },
         {
-            "id": 31886,
-            "level": 24,
+            "id": 31880,
+            "level": 12,
             "icon": 5700,
-            "name": "Magic Circle of Valor",
+            "name": "Magic Circle of Devotion",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31860,
+            "level": 20,
+            "icon": 5700,
+            "name": "Magic Signet of Justice",
             "itemType": 10,
             "color": 3
         },
@@ -6140,7 +6124,7 @@
             "id": 36254,
             "level": 20,
             "icon": 6554,
-            "name": "Demonic Circle of Damned Heir",
+            "name": "Damned Heir's Demonic Circle",
             "itemType": 10,
             "color": 3
         },
@@ -6153,26 +6137,26 @@
             "color": 3
         },
         {
+            "id": 31884,
+            "level": 20,
+            "icon": 5700,
+            "name": "Magic Circle of Justice",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 31886,
+            "level": 24,
+            "icon": 5700,
+            "name": "Magic Circle of Valor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
             "id": 31881,
             "level": 14,
             "icon": 5700,
             "name": "Magic Circle of Bravery",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 32257,
-            "level": 24,
-            "icon": 4466,
-            "name": "Ancient Signet of Golden Age",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 32262,
-            "level": 20,
-            "icon": 4466,
-            "name": "Ancient Sigil of Glorious Days",
             "itemType": 10,
             "color": 3
         },
@@ -6193,6 +6177,30 @@
             "color": 3
         },
         {
+            "id": 34748,
+            "level": 30,
+            "icon": 5700,
+            "name": "Bewitching Circle of Fortitude",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32257,
+            "level": 24,
+            "icon": 4466,
+            "name": "Ancient Signet of Golden Age",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 32262,
+            "level": 20,
+            "icon": 4466,
+            "name": "Ancient Sigil of Glorious Days",
+            "itemType": 10,
+            "color": 3
+        },
+        {
             "id": 34697,
             "level": 22,
             "icon": 5700,
@@ -6205,14 +6213,6 @@
             "level": 28,
             "icon": 5700,
             "name": "Bewitching Signet of Courage",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 34748,
-            "level": 30,
-            "icon": 5700,
-            "name": "Bewitching Circle of Fortitude",
             "itemType": 10,
             "color": 3
         },
@@ -6241,6 +6241,14 @@
             "color": 3
         },
         {
+            "id": 34711,
+            "level": 24,
+            "icon": 5700,
+            "name": "Bewitching Sigil of Valor",
+            "itemType": 10,
+            "color": 3
+        },
+        {
             "id": 34724,
             "level": 26,
             "icon": 5700,
@@ -6265,10 +6273,26 @@
             "color": 3
         },
         {
-            "id": 34711,
-            "level": 24,
+            "id": 34722,
+            "level": 26,
             "icon": 5700,
-            "name": "Bewitching Sigil of Valor",
+            "name": "Bewitching Signet of Fearlessness",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34735,
+            "level": 28,
+            "icon": 5700,
+            "name": "Bewitching Sigil of Courage",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 34698,
+            "level": 22,
+            "icon": 5700,
+            "name": "Bewitching Signet of Honor",
             "itemType": 10,
             "color": 3
         },
@@ -6285,30 +6309,6 @@
             "level": 26,
             "icon": 5700,
             "name": "Bewitching Ring of Fearlessness",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 34722,
-            "level": 26,
-            "icon": 5700,
-            "name": "Bewitching Signet of Fearlessness",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 34698,
-            "level": 22,
-            "icon": 5700,
-            "name": "Bewitching Signet of Honor",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 34735,
-            "level": 28,
-            "icon": 5700,
-            "name": "Bewitching Sigil of Courage",
             "itemType": 10,
             "color": 3
         },
@@ -6337,20 +6337,20 @@
             "color": 1
         },
         {
-            "id": 16470,
-            "level": 12,
-            "icon": 1142,
-            "name": "Dark Ring",
-            "itemType": 10,
-            "color": 2
-        },
-        {
             "id": 31852,
             "level": 28,
             "icon": 5700,
             "name": "Magic Ring of Courage",
             "itemType": 10,
             "color": 3
+        },
+        {
+            "id": 16470,
+            "level": 12,
+            "icon": 1142,
+            "name": "Dark Ring",
+            "itemType": 10,
+            "color": 2
         },
         {
             "id": 25437,
@@ -6977,18 +6977,18 @@
             "color": 3
         },
         {
-            "id": 35193,
-            "level": 20,
-            "icon": 4466,
-            "name": "Sacred Ring of the Glorious Times",
-            "itemType": 10,
-            "color": 3
-        },
-        {
             "id": 35201,
             "level": 22,
             "icon": 4466,
             "name": "Sacred Sigil of the Magical Era",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35193,
+            "level": 20,
+            "icon": 4466,
+            "name": "Sacred Ring of the Glorious Times",
             "itemType": 10,
             "color": 3
         },
@@ -7089,18 +7089,18 @@
             "color": 3
         },
         {
-            "id": 35162,
-            "level": 32,
-            "icon": 4466,
-            "name": "Ring of the Monumental Milestone",
-            "itemType": 10,
-            "color": 3
-        },
-        {
             "id": 35166,
             "level": 32,
             "icon": 4466,
             "name": "Ancient Signet of the Monumental Milestone",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 35162,
+            "level": 32,
+            "icon": 4466,
+            "name": "Ring of the Monumental Milestone",
             "itemType": 10,
             "color": 3
         },
@@ -7225,14 +7225,6 @@
             "color": 3
         },
         {
-            "id": 36717,
-            "level": 10,
-            "icon": 5539,
-            "name": "Ragnar's Storm Signet",
-            "itemType": 10,
-            "color": 3
-        },
-        {
             "id": 36727,
             "level": 30,
             "icon": 5539,
@@ -7245,6 +7237,14 @@
             "level": 24,
             "icon": 5539,
             "name": "Ruberius's Storm Circle",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 36717,
+            "level": 10,
+            "icon": 5539,
+            "name": "Ragnar's Storm Signet",
             "itemType": 10,
             "color": 3
         },
@@ -7329,22 +7329,6 @@
             "color": 3
         },
         {
-            "id": 33773,
-            "level": 5,
-            "icon": 3141,
-            "name": "Aquilon's Lesser Sigil",
-            "itemType": 10,
-            "color": 3
-        },
-        {
-            "id": 33774,
-            "level": 10,
-            "icon": 3141,
-            "name": "Aquilon's Sigil",
-            "itemType": 10,
-            "color": 3
-        },
-        {
             "id": 33775,
             "level": 15,
             "icon": 3141,
@@ -7372,7 +7356,23 @@
             "id": 33772,
             "level": 30,
             "icon": 2682,
-            "name": "Ice Queen's Almighty Sigil",
+            "name": "Ice Queen's Omnipotent Sigil",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33773,
+            "level": 5,
+            "icon": 3141,
+            "name": "Aquilon's Lesser Sigil",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 33774,
+            "level": 10,
+            "icon": 3141,
+            "name": "Aquilon's Sigil",
             "itemType": 10,
             "color": 3
         },
@@ -7412,7 +7412,7 @@
             "id": 33778,
             "level": 30,
             "icon": 3141,
-            "name": "Aquilon's Almighty Sigil",
+            "name": "Aquilon's Omnipotent Sigil",
             "itemType": 10,
             "color": 3
         },
@@ -7425,18 +7425,18 @@
             "color": 2
         },
         {
-            "id": 25436,
-            "level": 28,
-            "icon": 4466,
-            "name": "Ring of Legendary Period",
-            "itemType": 10,
-            "color": 3
-        },
-        {
             "id": 26357,
             "level": 29,
             "icon": 1157,
             "name": "Circle of Sea Tramps Defenders",
+            "itemType": 10,
+            "color": 3
+        },
+        {
+            "id": 25436,
+            "level": 28,
+            "icon": 4466,
+            "name": "Ring of Legendary Period",
             "itemType": 10,
             "color": 3
         },
@@ -7516,7 +7516,7 @@
             "id": 36228,
             "level": 20,
             "icon": 6554,
-            "name": "Demonic Sigil of Damned Heir",
+            "name": "Damned Heir's Demonic Sigil",
             "itemType": 10,
             "color": 3
         },

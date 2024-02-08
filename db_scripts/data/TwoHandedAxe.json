@@ -260,7 +260,7 @@
             "id": 15167,
             "level": 20,
             "icon": 1034,
-            "name": "Labrys of Deep Lord",
+            "name": "Deep Lord's Labrys",
             "itemType": 0,
             "color": 3
         },
@@ -388,7 +388,7 @@
             "id": 16191,
             "level": 20,
             "icon": 3119,
-            "name": "Waraxe of the Snow Lady",
+            "name": "Snow Lady's Waraxe",
             "itemType": 0,
             "color": 3
         },
@@ -684,7 +684,7 @@
             "id": 20027,
             "level": 20,
             "icon": 3073,
-            "name": "Labrys of Damned Heir",
+            "name": "Damned Heir's Labrys",
             "itemType": 0,
             "color": 3
         },

@@ -412,7 +412,7 @@
             "id": 15053,
             "level": 20,
             "icon": 1684,
-            "name": "Treads of Deep Lord",
+            "name": "Deep Lord's Treads",
             "itemType": 8,
             "color": 3
         },
@@ -572,7 +572,7 @@
             "id": 18334,
             "level": 14,
             "icon": 3491,
-            "name": "Valenki of the Northern Oracle",
+            "name": "Northern Oracle's Valenki",
             "itemType": 8,
             "color": 3
         },
@@ -580,7 +580,7 @@
             "id": 18340,
             "level": 18,
             "icon": 3491,
-            "name": "Valenki of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Valenki",
             "itemType": 8,
             "color": 3
         },
@@ -588,7 +588,7 @@
             "id": 18348,
             "level": 20,
             "icon": 3491,
-            "name": "Valenki of the Ice Recluse",
+            "name": "Ice Recluse's Valenki",
             "itemType": 8,
             "color": 3
         },
@@ -596,7 +596,7 @@
             "id": 18354,
             "level": 22,
             "icon": 3491,
-            "name": "Valenki of the Faceless Heir",
+            "name": "Faceless Heir's Valenki",
             "itemType": 8,
             "color": 3
         },
@@ -812,7 +812,7 @@
             "id": 20441,
             "level": 16,
             "icon": 3491,
-            "name": "Valenki of the Polar Hierophant",
+            "name": "Polar Hierophant's Valenki",
             "itemType": 8,
             "color": 3
         },
@@ -820,7 +820,7 @@
             "id": 20471,
             "level": 24,
             "icon": 3491,
-            "name": "Valenki of the Storm Tamer",
+            "name": "Storm Tamer's Valenki",
             "itemType": 8,
             "color": 3
         },
@@ -828,7 +828,7 @@
             "id": 20483,
             "level": 26,
             "icon": 3491,
-            "name": "Valenki of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Valenki",
             "itemType": 8,
             "color": 3
         },
@@ -1116,7 +1116,7 @@
             "id": 23536,
             "level": 27,
             "icon": 1679,
-            "name": "Sabatons of the Engineer Defender",
+            "name": "Engineer Defender's Sabatons",
             "itemType": 8,
             "color": 3
         },
@@ -1372,7 +1372,7 @@
             "id": 24439,
             "level": 28,
             "icon": 3491,
-            "name": "Valenki of the Arctic Ruler",
+            "name": "Arctic Ruler's Valenki",
             "itemType": 8,
             "color": 3
         },
@@ -1676,7 +1676,7 @@
             "id": 27994,
             "level": 30,
             "icon": 3491,
-            "name": "Valenki of the Patron of Frost",
+            "name": "Frost Patron's Valenki",
             "itemType": 8,
             "color": 3
         },
@@ -1684,7 +1684,7 @@
             "id": 27998,
             "level": 30,
             "icon": 3491,
-            "name": "Soft Felt Boots of the Patron of Frost",
+            "name": "Frost Patron's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1692,7 +1692,7 @@
             "id": 28066,
             "level": 14,
             "icon": 3491,
-            "name": "Soft Felt Boots of the Northern Oracle",
+            "name": "Northern Oracle's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1700,7 +1700,7 @@
             "id": 28070,
             "level": 16,
             "icon": 3491,
-            "name": "Soft Felt Boots of the Polar Hierophant",
+            "name": "Polar Hierophant's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1708,7 +1708,7 @@
             "id": 28074,
             "level": 18,
             "icon": 3491,
-            "name": "Soft Felt Boots of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1716,7 +1716,7 @@
             "id": 28078,
             "level": 20,
             "icon": 3491,
-            "name": "Soft Felt Boots of the Ice Recluse",
+            "name": "Ice Recluse's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1724,7 +1724,7 @@
             "id": 28082,
             "level": 22,
             "icon": 3491,
-            "name": "Soft Felt Boots of the Faceless Heir",
+            "name": "Faceless Heir's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1732,7 +1732,7 @@
             "id": 28086,
             "level": 24,
             "icon": 3491,
-            "name": "Soft Felt Boots of the Storm Tamer",
+            "name": "Storm Tamer's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1740,7 +1740,7 @@
             "id": 28090,
             "level": 26,
             "icon": 3491,
-            "name": "Soft Felt Boots of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1748,7 +1748,7 @@
             "id": 28094,
             "level": 28,
             "icon": 3491,
-            "name": "Soft Felt Boots of the Arctic Ruler",
+            "name": "Arctic Ruler's Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -2108,7 +2108,7 @@
             "id": 33892,
             "level": 32,
             "icon": 3491,
-            "name": "Storm Lord\u2019s Soft Felt Boots",
+            "name": "Storm Lord\u2019s Felt Boots",
             "itemType": 8,
             "color": 3
         },
@@ -2116,7 +2116,7 @@
             "id": 33912,
             "level": 32,
             "icon": 4622,
-            "name": "Titan's Omnipotent Jackboots",
+            "name": "Titan's Almighty Jackboots",
             "itemType": 8,
             "color": 4
         },

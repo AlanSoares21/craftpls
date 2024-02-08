@@ -412,7 +412,7 @@
             "id": 15051,
             "level": 19,
             "icon": 1497,
-            "name": "Gauntlets of Deep Lord",
+            "name": "Deep Lord's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -572,7 +572,7 @@
             "id": 18331,
             "level": 14,
             "icon": 3496,
-            "name": "Mittens of the Northern Oracle",
+            "name": "Northern Oracle's Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -580,7 +580,7 @@
             "id": 18337,
             "level": 18,
             "icon": 3496,
-            "name": "Mittens of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -588,7 +588,7 @@
             "id": 18344,
             "level": 20,
             "icon": 3496,
-            "name": "Mittens of the Ice Recluse",
+            "name": "Ice Recluse's Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -596,7 +596,7 @@
             "id": 18351,
             "level": 22,
             "icon": 3496,
-            "name": "Mittens of the Faceless Heir",
+            "name": "Faceless Heir's Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -740,7 +740,7 @@
             "id": 18593,
             "level": 20,
             "icon": 1497,
-            "name": "Vambraces of Deep Lord",
+            "name": "Deep Lord's Vambraces",
             "itemType": 7,
             "color": 3
         },
@@ -812,7 +812,7 @@
             "id": 20444,
             "level": 16,
             "icon": 3496,
-            "name": "Mittens of the Polar Hierophant",
+            "name": "Polar Hierophant's Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -820,7 +820,7 @@
             "id": 20474,
             "level": 24,
             "icon": 3496,
-            "name": "Mittens of the Storm Tamer",
+            "name": "Storm Tamer's Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -828,7 +828,7 @@
             "id": 20486,
             "level": 26,
             "icon": 3496,
-            "name": "Mittens of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1116,7 +1116,7 @@
             "id": 23535,
             "level": 27,
             "icon": 1500,
-            "name": "Gauntlets of the Engineer Defender",
+            "name": "Engineer Defender's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1244,7 +1244,7 @@
             "id": 24438,
             "level": 28,
             "icon": 3496,
-            "name": "Mittens of the Arctic Ruler",
+            "name": "Arctic Ruler's Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1660,7 +1660,7 @@
             "id": 27993,
             "level": 30,
             "icon": 3496,
-            "name": "Mittens of the Patron of Frost",
+            "name": "Frost Patron's Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1668,7 +1668,7 @@
             "id": 27997,
             "level": 30,
             "icon": 3496,
-            "name": "Warm Gauntlets of the Patron of Frost",
+            "name": "Frost Patron's Warm Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1676,7 +1676,7 @@
             "id": 28065,
             "level": 14,
             "icon": 3496,
-            "name": "Warm Gauntlets of the Northern Oracle",
+            "name": "Northern Oracle's Warm Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1684,7 +1684,7 @@
             "id": 28069,
             "level": 16,
             "icon": 3496,
-            "name": "Warm Gauntlets of the Polar Hierophant",
+            "name": "Polar Hierophant's Warm Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1692,7 +1692,7 @@
             "id": 28073,
             "level": 18,
             "icon": 3496,
-            "name": "Warm Gauntlets of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Warm Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1700,7 +1700,7 @@
             "id": 28077,
             "level": 20,
             "icon": 3496,
-            "name": "Warm Gauntlets of the Ice Recluse",
+            "name": "Ice Recluse's Warm Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1708,7 +1708,7 @@
             "id": 28081,
             "level": 22,
             "icon": 3496,
-            "name": "Warm Gauntlets of the Faceless Heir",
+            "name": "Faceless Heir's Warm Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1716,7 +1716,7 @@
             "id": 28085,
             "level": 24,
             "icon": 3496,
-            "name": "Warm Gauntlets of the Storm Tamer",
+            "name": "Storm Tamer's Warm Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1724,7 +1724,7 @@
             "id": 28089,
             "level": 26,
             "icon": 3496,
-            "name": "Warm Gauntlets of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Warm Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1732,7 +1732,7 @@
             "id": 28093,
             "level": 28,
             "icon": 3496,
-            "name": "Warm Gauntlets of the Arctic Ruler",
+            "name": "Arctic Ruler's Warm Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -2116,7 +2116,7 @@
             "id": 33911,
             "level": 32,
             "icon": 4627,
-            "name": "Titan's Omnipotent Vambraces",
+            "name": "Titan's Almighty Vambraces",
             "itemType": 7,
             "color": 4
         },

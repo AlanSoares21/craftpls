@@ -532,7 +532,7 @@
             "id": 15041,
             "level": 20,
             "icon": 1722,
-            "name": "High Boots of Deep Lord",
+            "name": "Deep Lord's High Boots",
             "itemType": 8,
             "color": 3
         },
@@ -684,7 +684,7 @@
             "id": 18332,
             "level": 14,
             "icon": 3493,
-            "name": "Fur Boots of the Northern Oracle",
+            "name": "Northern Oracle's Fur Boots",
             "itemType": 8,
             "color": 3
         },
@@ -692,7 +692,7 @@
             "id": 18338,
             "level": 18,
             "icon": 3493,
-            "name": "Fur Boots of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Fur Boots",
             "itemType": 8,
             "color": 3
         },
@@ -700,7 +700,7 @@
             "id": 18346,
             "level": 20,
             "icon": 3493,
-            "name": "Fur Boots of the Ice Recluse",
+            "name": "Ice Recluse's Fur Boots",
             "itemType": 8,
             "color": 3
         },
@@ -708,7 +708,7 @@
             "id": 18352,
             "level": 22,
             "icon": 3493,
-            "name": "Fur Boots of the Faceless Heir",
+            "name": "Faceless Heir's Fur Boots",
             "itemType": 8,
             "color": 3
         },
@@ -916,7 +916,7 @@
             "id": 20422,
             "level": 12,
             "icon": 3493,
-            "name": "Fur boots of the Snow Prisoner",
+            "name": "Fur Boots of the Snow Prisoner",
             "itemType": 8,
             "color": 3
         },
@@ -924,7 +924,7 @@
             "id": 20440,
             "level": 16,
             "icon": 3493,
-            "name": "Fur boots of the Polar Hierophant",
+            "name": "Polar Hierophant's Fur Boots",
             "itemType": 8,
             "color": 3
         },
@@ -932,7 +932,7 @@
             "id": 20470,
             "level": 24,
             "icon": 3493,
-            "name": "Fur Boots of the Storm Tamer",
+            "name": "Storm Tamer's Fur Boots",
             "itemType": 8,
             "color": 3
         },
@@ -940,7 +940,7 @@
             "id": 20482,
             "level": 26,
             "icon": 3493,
-            "name": "Fur Boots of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Fur Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1484,7 +1484,7 @@
             "id": 24435,
             "level": 28,
             "icon": 3493,
-            "name": "Fur Boots of the Arctic Ruler",
+            "name": "Arctic Ruler's Fur Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1788,7 +1788,7 @@
             "id": 27986,
             "level": 30,
             "icon": 3493,
-            "name": "Fur Boots of the Patron of Frost",
+            "name": "Frost Patron's Fur Boots",
             "itemType": 8,
             "color": 3
         },
@@ -1796,7 +1796,7 @@
             "id": 27990,
             "level": 30,
             "icon": 3493,
-            "name": "Nutukas of the Patron of Frost",
+            "name": "Frost Patron's Nutukas",
             "itemType": 8,
             "color": 3
         },
@@ -1804,7 +1804,7 @@
             "id": 28034,
             "level": 14,
             "icon": 3493,
-            "name": "Nutukas of the Northern Oracle",
+            "name": "Northern Oracle's Nutukas",
             "itemType": 8,
             "color": 3
         },
@@ -1812,7 +1812,7 @@
             "id": 28038,
             "level": 16,
             "icon": 3493,
-            "name": "Nutukas of the Polar Hierophant",
+            "name": "Polar Hierophant's Nutukas",
             "itemType": 8,
             "color": 3
         },
@@ -1820,7 +1820,7 @@
             "id": 28042,
             "level": 18,
             "icon": 3493,
-            "name": "Nutukas of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Nutukas",
             "itemType": 8,
             "color": 3
         },
@@ -1828,7 +1828,7 @@
             "id": 28046,
             "level": 20,
             "icon": 3493,
-            "name": "Nutukas of the Ice Recluse",
+            "name": "Ice Recluse's Nutukas",
             "itemType": 8,
             "color": 3
         },
@@ -1836,7 +1836,7 @@
             "id": 28050,
             "level": 22,
             "icon": 3493,
-            "name": "Nutukas of the Faceless Heir",
+            "name": "Faceless Heir's Nutukas",
             "itemType": 8,
             "color": 3
         },
@@ -1844,7 +1844,7 @@
             "id": 28054,
             "level": 24,
             "icon": 3493,
-            "name": "Nutukas of the Storm Tamer",
+            "name": "Storm Tamer's Nutukas",
             "itemType": 8,
             "color": 3
         },
@@ -1852,7 +1852,7 @@
             "id": 28058,
             "level": 26,
             "icon": 3493,
-            "name": "Nutukas of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Nutukas",
             "itemType": 8,
             "color": 3
         },
@@ -1860,7 +1860,7 @@
             "id": 28062,
             "level": 28,
             "icon": 3493,
-            "name": "Nutukas of the Arctic Ruler",
+            "name": "Arctic Ruler's Nutukas",
             "itemType": 8,
             "color": 3
         },

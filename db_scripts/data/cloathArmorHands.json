@@ -724,7 +724,7 @@
             "id": 15026,
             "level": 19,
             "icon": 1438,
-            "name": "Bracers of Deep Lord",
+            "name": "Deep Lord's Bracers",
             "itemType": 7,
             "color": 3
         },
@@ -884,7 +884,7 @@
             "id": 18330,
             "level": 14,
             "icon": 3494,
-            "name": "Mitts of the Northern Oracle",
+            "name": "Northern Oracle's Mitts",
             "itemType": 7,
             "color": 3
         },
@@ -892,7 +892,7 @@
             "id": 18336,
             "level": 18,
             "icon": 3494,
-            "name": "Mitts of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Mitts",
             "itemType": 7,
             "color": 3
         },
@@ -900,7 +900,7 @@
             "id": 18343,
             "level": 20,
             "icon": 3494,
-            "name": "Mitts of the Ice Recluse",
+            "name": "Ice Recluse's Mitts",
             "itemType": 7,
             "color": 3
         },
@@ -908,7 +908,7 @@
             "id": 18350,
             "level": 22,
             "icon": 3494,
-            "name": "Mitts of the Faceless Heir",
+            "name": "Faceless Heir's Mitts",
             "itemType": 7,
             "color": 3
         },
@@ -1060,7 +1060,7 @@
             "id": 18437,
             "level": 20,
             "icon": 1450,
-            "name": "Gloves of Deep Lord",
+            "name": "Deep Lord's Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1124,7 +1124,7 @@
             "id": 20424,
             "level": 12,
             "icon": 3494,
-            "name": "Wrist warmers of the Snow Prisoner",
+            "name": "Mitts of the Snow Prisoner",
             "itemType": 7,
             "color": 3
         },
@@ -1132,7 +1132,7 @@
             "id": 20442,
             "level": 16,
             "icon": 3494,
-            "name": "Wrist warmers of the Polar Hierophant",
+            "name": "Polar Hierophant's Mitts",
             "itemType": 7,
             "color": 3
         },
@@ -1140,7 +1140,7 @@
             "id": 20472,
             "level": 24,
             "icon": 3494,
-            "name": "Wrist Warmers of the Storm Tamer",
+            "name": "Storm Tamer's Mitts",
             "itemType": 7,
             "color": 3
         },
@@ -1148,7 +1148,7 @@
             "id": 20484,
             "level": 26,
             "icon": 3494,
-            "name": "Wrist Warmers of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Mitts",
             "itemType": 7,
             "color": 3
         },
@@ -1564,7 +1564,7 @@
             "id": 24430,
             "level": 28,
             "icon": 3494,
-            "name": "Wrist Warmers of the Arctic Ruler",
+            "name": "Arctic Ruler's Mitts",
             "itemType": 7,
             "color": 3
         },
@@ -1980,7 +1980,7 @@
             "id": 27976,
             "level": 30,
             "icon": 3494,
-            "name": "Wrist Warmers of the Patron of Frost",
+            "name": "Frost Patron's Mitts",
             "itemType": 7,
             "color": 3
         },
@@ -1988,7 +1988,7 @@
             "id": 27981,
             "level": 30,
             "icon": 3494,
-            "name": "Woolen Mittens of the Patron of Frost",
+            "name": "Frost Patron's Woolen Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -1996,7 +1996,7 @@
             "id": 28001,
             "level": 14,
             "icon": 3494,
-            "name": "Woolen Mittens of the Northern Oracle",
+            "name": "Northern Oracle's Woolen Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -2004,7 +2004,7 @@
             "id": 28005,
             "level": 16,
             "icon": 3494,
-            "name": "Woolen Mittens of the Polar Hierophant",
+            "name": "Polar Hierophant's Woolen Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -2012,7 +2012,7 @@
             "id": 28009,
             "level": 18,
             "icon": 3494,
-            "name": "Woolen Mittens of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Woolen Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -2020,7 +2020,7 @@
             "id": 28013,
             "level": 20,
             "icon": 3494,
-            "name": "Woolen Mittens of the Ice Recluse",
+            "name": "Ice Recluse's Woolen Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -2028,7 +2028,7 @@
             "id": 28017,
             "level": 22,
             "icon": 3494,
-            "name": "Woolen Mittens of the Faceless Heir",
+            "name": "Faceless Heir's Woolen Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -2036,7 +2036,7 @@
             "id": 28021,
             "level": 24,
             "icon": 3494,
-            "name": "Woolen Mittens of the Storm Tamer",
+            "name": "Storm Tamer's Woolen Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -2044,7 +2044,7 @@
             "id": 28025,
             "level": 26,
             "icon": 3494,
-            "name": "Woolen Mittens of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Woolen Mittens",
             "itemType": 7,
             "color": 3
         },
@@ -2052,7 +2052,7 @@
             "id": 28029,
             "level": 28,
             "icon": 3494,
-            "name": "Woolen Mittens of the Arctic Ruler",
+            "name": "Arctic Ruler's Woolen Mittens",
             "itemType": 7,
             "color": 3
         },

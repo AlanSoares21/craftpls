@@ -1004,7 +1004,7 @@
             "id": 15025,
             "level": 19,
             "icon": 1313,
-            "name": "Hood of Deep Lord",
+            "name": "Deep Lord's Hood",
             "itemType": 5,
             "color": 3
         },
@@ -1348,7 +1348,7 @@
             "id": 18436,
             "level": 20,
             "icon": 1313,
-            "name": "Cowl of Deep Lord",
+            "name": "Deep Lord's Cowl",
             "itemType": 5,
             "color": 3
         },
@@ -1436,7 +1436,7 @@
             "id": 20418,
             "level": 10,
             "icon": 3777,
-            "name": "Veil Guard's Feather hat",
+            "name": "Veil Guard's Feather Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1444,7 +1444,7 @@
             "id": 20430,
             "level": 12,
             "icon": 3777,
-            "name": "Feather hat of the Snow Prisoner",
+            "name": "Feather Hat of the Snow Prisoner",
             "itemType": 5,
             "color": 3
         },
@@ -1452,7 +1452,7 @@
             "id": 20436,
             "level": 14,
             "icon": 3777,
-            "name": "Feather hat of the Northern Oracle",
+            "name": "Northern Oracle's Feather Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1460,7 +1460,7 @@
             "id": 20448,
             "level": 16,
             "icon": 3777,
-            "name": "Feather hat of the Polar Hierophant",
+            "name": "Polar Hierophant's Feather Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1468,7 +1468,7 @@
             "id": 20454,
             "level": 18,
             "icon": 3777,
-            "name": "Feather Hat of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Feather Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1476,7 +1476,7 @@
             "id": 20460,
             "level": 20,
             "icon": 3777,
-            "name": "Feather Hat of the Ice Recluse",
+            "name": "Ice Recluse's Feather Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1484,7 +1484,7 @@
             "id": 20466,
             "level": 22,
             "icon": 3777,
-            "name": "Feather hat of the Faceless Heir",
+            "name": "Faceless Heir's Feather Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1492,7 +1492,7 @@
             "id": 20478,
             "level": 24,
             "icon": 3777,
-            "name": "Feather hat of the Storm Tamer",
+            "name": "Storm Tamer's Feather Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1500,7 +1500,7 @@
             "id": 20490,
             "level": 26,
             "icon": 3777,
-            "name": "Feather Hat of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Feather Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1964,7 +1964,7 @@
             "id": 24428,
             "level": 28,
             "icon": 3777,
-            "name": "Down Hat of the Arctic Ruler",
+            "name": "Arctic Ruler's Down Hat",
             "itemType": 5,
             "color": 3
         },
@@ -1972,7 +1972,7 @@
             "id": 24446,
             "level": 10,
             "icon": 4629,
-            "name": "Ragnar's Almighty Hood",
+            "name": "Ragnar's Omnipotent Hood",
             "itemType": 5,
             "color": 4
         },
@@ -1988,7 +1988,7 @@
             "id": 24470,
             "level": 12,
             "icon": 4629,
-            "name": "Frosty Fang's Almighty Hood",
+            "name": "Frosty Fang's Omnipotent Hood",
             "itemType": 5,
             "color": 4
         },
@@ -1996,7 +1996,7 @@
             "id": 24471,
             "level": 14,
             "icon": 4629,
-            "name": "Mastodon's Almighty Hood",
+            "name": "Mastodon's Omnipotent Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2004,7 +2004,7 @@
             "id": 24472,
             "level": 16,
             "icon": 4629,
-            "name": "Taron's Almighty Hood",
+            "name": "Taron's Omnipotent Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2012,7 +2012,7 @@
             "id": 24473,
             "level": 18,
             "icon": 4629,
-            "name": "Kerula's Almighty Hood",
+            "name": "Kerula's Omnipotent Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2020,7 +2020,7 @@
             "id": 24474,
             "level": 20,
             "icon": 4629,
-            "name": "Gimir's Almighty Hood",
+            "name": "Gimir's Omnipotent Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2028,7 +2028,7 @@
             "id": 24475,
             "level": 22,
             "icon": 4629,
-            "name": "Flavius's Almighty Hood",
+            "name": "Flavius's Omnipotent Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2036,7 +2036,7 @@
             "id": 24476,
             "level": 24,
             "icon": 4629,
-            "name": "Ruberius's Almighty Hood",
+            "name": "Ruberius's Omnipotent Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2044,7 +2044,7 @@
             "id": 24477,
             "level": 26,
             "icon": 4629,
-            "name": "Mortis's Almighty Hood",
+            "name": "Mortis's Omnipotent Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2052,7 +2052,7 @@
             "id": 24478,
             "level": 28,
             "icon": 4629,
-            "name": "Snow General's Almighty Hood",
+            "name": "Snow General's Omnipotent Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2268,7 +2268,7 @@
             "id": 27974,
             "level": 30,
             "icon": 3777,
-            "name": "Feather Hat of the Patron of Frost",
+            "name": "Frost Patron's Feather Hat",
             "itemType": 5,
             "color": 3
         },
@@ -2276,7 +2276,7 @@
             "id": 27979,
             "level": 30,
             "icon": 3777,
-            "name": "Down Hood of the Patron of Frost",
+            "name": "Frost Patron's Down Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2284,7 +2284,7 @@
             "id": 27999,
             "level": 14,
             "icon": 3777,
-            "name": "Down Hood of the Northern Oracle",
+            "name": "Northern Oracle's Down Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2292,7 +2292,7 @@
             "id": 28003,
             "level": 16,
             "icon": 3777,
-            "name": "Down Hood of the Polar Hierophant",
+            "name": "Polar Hierophant's Down Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2300,7 +2300,7 @@
             "id": 28007,
             "level": 18,
             "icon": 3777,
-            "name": "Down Hood of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Down Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2308,7 +2308,7 @@
             "id": 28011,
             "level": 20,
             "icon": 3777,
-            "name": "Down Hood of the Ice Recluse",
+            "name": "Ice Recluse's Down Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2316,7 +2316,7 @@
             "id": 28015,
             "level": 22,
             "icon": 3777,
-            "name": "Down Hood of the Faceless Heir",
+            "name": "Faceless Heir's Down Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2324,7 +2324,7 @@
             "id": 28019,
             "level": 24,
             "icon": 3777,
-            "name": "Down Hood of the Storm Tamer",
+            "name": "Storm Tamer's Down Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2332,7 +2332,7 @@
             "id": 28023,
             "level": 26,
             "icon": 3777,
-            "name": "Down Hood of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Down Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2340,7 +2340,7 @@
             "id": 28027,
             "level": 28,
             "icon": 3777,
-            "name": "Down Hood of the Arctic Ruler",
+            "name": "Arctic Ruler's Down Hood",
             "itemType": 5,
             "color": 3
         },
@@ -2348,7 +2348,7 @@
             "id": 28107,
             "level": 30,
             "icon": 4629,
-            "name": "Chernobog's Almighty Hood",
+            "name": "Chernobog's Omnipotent Hood",
             "itemType": 5,
             "color": 4
         },
@@ -2708,7 +2708,7 @@
             "id": 33893,
             "level": 32,
             "icon": 4629,
-            "name": "Titan's Almighty Hood",
+            "name": "Titan's Omnipotent Hood",
             "itemType": 5,
             "color": 4
         },

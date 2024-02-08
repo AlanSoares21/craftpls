@@ -356,7 +356,7 @@
             "id": 14925,
             "level": 20,
             "icon": 1202,
-            "name": "Shield of Deep Lord",
+            "name": "Deep Lord's Shield",
             "itemType": 3,
             "color": 3
         },
@@ -532,7 +532,7 @@
             "id": 16198,
             "level": 20,
             "icon": 3126,
-            "name": "Combat Shield of the Snow Lady",
+            "name": "Snow Lady's Combat Shield",
             "itemType": 3,
             "color": 3
         },
@@ -852,7 +852,7 @@
             "id": 20034,
             "level": 20,
             "icon": 3079,
-            "name": "Shield of Damned Heir",
+            "name": "Damned Heir's Shield",
             "itemType": 3,
             "color": 3
         },
@@ -956,7 +956,7 @@
             "id": 20336,
             "level": 20,
             "icon": 3126,
-            "name": "Attack Shield of the Snow Lady",
+            "name": "Snow Lady's Attack Shield",
             "itemType": 3,
             "color": 3
         },

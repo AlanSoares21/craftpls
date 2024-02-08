@@ -468,7 +468,7 @@
             "id": 15039,
             "level": 19,
             "icon": 1506,
-            "name": "Wristguards of Deep Lord",
+            "name": "Deep Lord's Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -620,7 +620,7 @@
             "id": 18329,
             "level": 14,
             "icon": 3495,
-            "name": "Gauntlets of the Northern Oracle",
+            "name": "Northern Oracle's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -628,7 +628,7 @@
             "id": 18335,
             "level": 18,
             "icon": 3495,
-            "name": "Gauntlets of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -636,7 +636,7 @@
             "id": 18341,
             "level": 20,
             "icon": 3495,
-            "name": "Gauntlets of the Ice Recluse",
+            "name": "Ice Recluse's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -644,7 +644,7 @@
             "id": 18349,
             "level": 22,
             "icon": 3495,
-            "name": "Gauntlets of the Faceless Heir",
+            "name": "Faceless Heir's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -804,7 +804,7 @@
             "id": 18516,
             "level": 20,
             "icon": 1476,
-            "name": "Wristguards of Deep Lord",
+            "name": "Deep Lord's Wristguards",
             "itemType": 7,
             "color": 3
         },
@@ -876,7 +876,7 @@
             "id": 20443,
             "level": 16,
             "icon": 3495,
-            "name": "Gauntlets of the Polar Hierophant",
+            "name": "Polar Hierophant's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -884,7 +884,7 @@
             "id": 20473,
             "level": 24,
             "icon": 3495,
-            "name": "Gauntlets of the Storm Tamer",
+            "name": "Storm Tamer's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -892,7 +892,7 @@
             "id": 20485,
             "level": 26,
             "icon": 3495,
-            "name": "Gauntlets of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1308,7 +1308,7 @@
             "id": 24434,
             "level": 28,
             "icon": 3495,
-            "name": "Gauntlets of the Arctic Ruler",
+            "name": "Arctic Ruler's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1724,7 +1724,7 @@
             "id": 27985,
             "level": 30,
             "icon": 3495,
-            "name": "Gauntlets of the Patron of Frost",
+            "name": "Frost Patron's Gauntlets",
             "itemType": 7,
             "color": 3
         },
@@ -1732,7 +1732,7 @@
             "id": 27989,
             "level": 30,
             "icon": 3495,
-            "name": "Knitted Gloves of the Patron of Frost",
+            "name": "Frost Patron's Knitted Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1740,7 +1740,7 @@
             "id": 28033,
             "level": 14,
             "icon": 3495,
-            "name": "Knitted Gloves of the Northern Oracle",
+            "name": "Northern Oracle's Knitted Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1748,7 +1748,7 @@
             "id": 28037,
             "level": 16,
             "icon": 3495,
-            "name": "Knitted Gloves of the Polar Hierophant",
+            "name": "Polar Hierophant's Knitted Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1756,7 +1756,7 @@
             "id": 28041,
             "level": 18,
             "icon": 3495,
-            "name": "Knitted Gloves of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Knitted Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1764,7 +1764,7 @@
             "id": 28045,
             "level": 20,
             "icon": 3495,
-            "name": "Knitted Gloves of the Ice Recluse",
+            "name": "Ice Recluse's Knitted Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1772,7 +1772,7 @@
             "id": 28049,
             "level": 22,
             "icon": 3495,
-            "name": "Knitted Gloves of the Faceless Heir",
+            "name": "Faceless Heir's Knitted Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1780,7 +1780,7 @@
             "id": 28053,
             "level": 24,
             "icon": 3495,
-            "name": "Knitted Gloves of the Storm Tamer",
+            "name": "Storm Tamer's Knitted Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1788,7 +1788,7 @@
             "id": 28057,
             "level": 26,
             "icon": 3495,
-            "name": "Knitted Gloves of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Knitted Gloves",
             "itemType": 7,
             "color": 3
         },
@@ -1796,7 +1796,7 @@
             "id": 28061,
             "level": 28,
             "icon": 3495,
-            "name": "Knitted Gloves of the Arctic Ruler",
+            "name": "Arctic Ruler's Knitted Gloves",
             "itemType": 7,
             "color": 3
         },

@@ -364,7 +364,7 @@
             "id": 16227,
             "level": 20,
             "icon": 3111,
-            "name": "Belt of the Snow Lady",
+            "name": "Snow Lady's Belt",
             "itemType": 6,
             "color": 3
         },
@@ -540,7 +540,7 @@
             "id": 20398,
             "level": 20,
             "icon": 3111,
-            "name": "Gurt of the Snow Lady",
+            "name": "Snow Lady's Gurt",
             "itemType": 6,
             "color": 3
         },
@@ -732,7 +732,7 @@
             "id": 23699,
             "level": 20,
             "icon": 980,
-            "name": "Gurt of Deep Lord",
+            "name": "Deep Lord's Gurt",
             "itemType": 6,
             "color": 3
         },
@@ -1052,7 +1052,7 @@
             "id": 31231,
             "level": 20,
             "icon": 3111,
-            "name": "Glacial Belt of the Snow Lady",
+            "name": "Snow Lady's Glacial Belt",
             "itemType": 6,
             "color": 3
         },
@@ -1060,7 +1060,7 @@
             "id": 31232,
             "level": 20,
             "icon": 3111,
-            "name": "Glacial Gurt of the Snow Lady",
+            "name": "Snow Lady's Glacial Gurt",
             "itemType": 6,
             "color": 3
         },
@@ -1212,7 +1212,7 @@
             "id": 33830,
             "level": 20,
             "icon": 3111,
-            "name": "Cold Belt of the Snow Lady",
+            "name": "Snow Lady's Cold Belt",
             "itemType": 6,
             "color": 3
         },

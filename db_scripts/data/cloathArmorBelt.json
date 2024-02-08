@@ -548,7 +548,7 @@
             "id": 16229,
             "level": 20,
             "icon": 3113,
-            "name": "Baldric of the Snow Lady",
+            "name": "Snow Lady's Baldric",
             "itemType": 6,
             "color": 3
         },
@@ -716,7 +716,7 @@
             "id": 20397,
             "level": 20,
             "icon": 3113,
-            "name": "Sash of the Snow Lady",
+            "name": "Snow Lady's Sash",
             "itemType": 6,
             "color": 3
         },
@@ -908,7 +908,7 @@
             "id": 23672,
             "level": 20,
             "icon": 971,
-            "name": "Sash of Deep Lord",
+            "name": "Deep Lord's Sash",
             "itemType": 6,
             "color": 3
         },
@@ -1228,7 +1228,7 @@
             "id": 31213,
             "level": 20,
             "icon": 3113,
-            "name": "Icy Baldric of the Snow Lady",
+            "name": "Snow Lady's Icy Baldric",
             "itemType": 6,
             "color": 3
         },
@@ -1236,7 +1236,7 @@
             "id": 31214,
             "level": 20,
             "icon": 3113,
-            "name": "Glacial Sash of the Snow Lady",
+            "name": "Snow Lady's Glacial Sash",
             "itemType": 6,
             "color": 3
         },
@@ -1388,7 +1388,7 @@
             "id": 33821,
             "level": 20,
             "icon": 3113,
-            "name": "Cold Baldric of the Snow Lady",
+            "name": "Snow Lady's Cold Baldric",
             "itemType": 6,
             "color": 3
         },

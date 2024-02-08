@@ -1228,7 +1228,7 @@
             "id": 15027,
             "level": 20,
             "icon": 1545,
-            "name": "Smock of Deep Lord",
+            "name": "Deep Lord's Smock",
             "itemType": 2,
             "color": 3
         },
@@ -1580,7 +1580,7 @@
             "id": 20409,
             "level": 6,
             "icon": 3776,
-            "name": "Fur coat of the Borean Warlock",
+            "name": "Fur \u0421oat of the Borean Warlock",
             "itemType": 2,
             "color": 3
         },
@@ -1588,7 +1588,7 @@
             "id": 20415,
             "level": 10,
             "icon": 3776,
-            "name": "Veil Guard's Fur coat",
+            "name": "Veil Guard's Fur \u0421oat",
             "itemType": 2,
             "color": 3
         },
@@ -1596,7 +1596,7 @@
             "id": 20427,
             "level": 12,
             "icon": 3776,
-            "name": "Fur coat of the Snow Prisoner",
+            "name": "Fur Coat of the Snow Prisoner",
             "itemType": 2,
             "color": 3
         },
@@ -1604,7 +1604,7 @@
             "id": 20433,
             "level": 14,
             "icon": 3776,
-            "name": "Fur coat of the Northern Oracle",
+            "name": "Northern Oracle's Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -1612,7 +1612,7 @@
             "id": 20445,
             "level": 16,
             "icon": 3776,
-            "name": "Fur coat of the Polar Hierophant",
+            "name": "Polar Hierophant's Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -1620,7 +1620,7 @@
             "id": 20451,
             "level": 18,
             "icon": 3776,
-            "name": "Fur Coat of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -1628,7 +1628,7 @@
             "id": 20457,
             "level": 20,
             "icon": 3776,
-            "name": "Fur Coat of the Ice Recluse",
+            "name": "Ice Recluse's Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -1636,7 +1636,7 @@
             "id": 20463,
             "level": 22,
             "icon": 3776,
-            "name": "Fur coat of the Faceless Heir",
+            "name": "Faceless Heir's Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -1644,7 +1644,7 @@
             "id": 20475,
             "level": 24,
             "icon": 3776,
-            "name": "Fur Coat of the Storm Tamer",
+            "name": "Storm Tamer's Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -1652,7 +1652,7 @@
             "id": 20487,
             "level": 26,
             "icon": 3776,
-            "name": "Fur Coat of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -2068,7 +2068,7 @@
             "id": 24429,
             "level": 28,
             "icon": 3776,
-            "name": "Fur Coat of the Arctic Ruler",
+            "name": "Arctic Ruler's Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -2484,7 +2484,7 @@
             "id": 27975,
             "level": 30,
             "icon": 3776,
-            "name": "Fur Coat of the Patron of Frost",
+            "name": "Frost Patron's Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -2492,7 +2492,7 @@
             "id": 27980,
             "level": 30,
             "icon": 3776,
-            "name": "Luxury Fur Coat of the Patron of Frost",
+            "name": "Frost Patron's Luxury Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -2500,7 +2500,7 @@
             "id": 28000,
             "level": 14,
             "icon": 3776,
-            "name": "Luxury Fur Coat of the Northern Oracle",
+            "name": "Northern Oracle's Luxury Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -2508,7 +2508,7 @@
             "id": 28004,
             "level": 16,
             "icon": 3776,
-            "name": "Luxury Fur Coat of the Polar Hierophant",
+            "name": "Polar Hierophant's Luxury Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -2516,7 +2516,7 @@
             "id": 28008,
             "level": 18,
             "icon": 3776,
-            "name": "Luxury Fur Coat of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Luxury Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -2524,7 +2524,7 @@
             "id": 28012,
             "level": 20,
             "icon": 3776,
-            "name": "Luxury Fur Coat of the Ice Recluse",
+            "name": "Ice Recluse's Luxury Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -2532,7 +2532,7 @@
             "id": 28016,
             "level": 22,
             "icon": 3776,
-            "name": "Luxury Fur Coat of the Faceless Heir",
+            "name": "Faceless Heir's Luxury Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -2540,7 +2540,7 @@
             "id": 28020,
             "level": 24,
             "icon": 3776,
-            "name": "Luxury Fur Coat of the Storm Tamer",
+            "name": "Storm Tamer's Luxury Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -2548,7 +2548,7 @@
             "id": 28024,
             "level": 26,
             "icon": 3776,
-            "name": "Luxury Fur Coat of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Luxury Fur Coat",
             "itemType": 2,
             "color": 3
         },
@@ -2556,7 +2556,7 @@
             "id": 28028,
             "level": 28,
             "icon": 3776,
-            "name": "Luxury Fur Coat of the Arctic Ruler",
+            "name": "Arctic Ruler's Luxury Fur Coat",
             "itemType": 2,
             "color": 3
         },

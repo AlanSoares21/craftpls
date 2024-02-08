@@ -268,7 +268,7 @@
             "id": 14456,
             "level": 20,
             "icon": 1028,
-            "name": "Waraxe of Deep Lord",
+            "name": "Deep Lord's Waraxe",
             "itemType": 0,
             "color": 3
         },
@@ -436,7 +436,7 @@
             "id": 16188,
             "level": 20,
             "icon": 3118,
-            "name": "Battleaxe of the Snow Lady",
+            "name": "Snow Lady's Battleaxe",
             "itemType": 0,
             "color": 3
         },
@@ -724,7 +724,7 @@
             "id": 20024,
             "level": 20,
             "icon": 3072,
-            "name": "Battleaxe of Damned Heir",
+            "name": "Damned Heir's Battleaxe",
             "itemType": 0,
             "color": 3
         },

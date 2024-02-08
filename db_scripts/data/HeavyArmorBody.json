@@ -492,7 +492,7 @@
             "id": 15052,
             "level": 20,
             "icon": 1274,
-            "name": "Cuirass of Deep Lord",
+            "name": "Deep Lord's Cuirass",
             "itemType": 2,
             "color": 3
         },
@@ -868,7 +868,7 @@
             "id": 20435,
             "level": 14,
             "icon": 3778,
-            "name": "Sheepskin of the Northern Oracle",
+            "name": "Northern Oracle's Sheepskin",
             "itemType": 2,
             "color": 3
         },
@@ -876,7 +876,7 @@
             "id": 20447,
             "level": 16,
             "icon": 3778,
-            "name": "Sheepskin of the Polar Hierophant",
+            "name": "Polar Hierophant's Sheepskin",
             "itemType": 2,
             "color": 3
         },
@@ -884,7 +884,7 @@
             "id": 20453,
             "level": 18,
             "icon": 3778,
-            "name": "Sheepskin of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Sheepskin",
             "itemType": 2,
             "color": 3
         },
@@ -892,7 +892,7 @@
             "id": 20459,
             "level": 20,
             "icon": 3778,
-            "name": "Sheepskin of the Ice Recluse",
+            "name": "Ice Recluse's Sheepskin",
             "itemType": 2,
             "color": 3
         },
@@ -900,7 +900,7 @@
             "id": 20465,
             "level": 22,
             "icon": 3778,
-            "name": "Sheepskin of the Faceless Heir",
+            "name": "Faceless Heir's Sheepskin",
             "itemType": 2,
             "color": 3
         },
@@ -908,7 +908,7 @@
             "id": 20477,
             "level": 24,
             "icon": 3778,
-            "name": "Sheepskin of the Storm Tamer",
+            "name": "Storm Tamer's Sheepskin",
             "itemType": 2,
             "color": 3
         },
@@ -916,7 +916,7 @@
             "id": 20489,
             "level": 26,
             "icon": 3778,
-            "name": "Sheepskin of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Sheepskin",
             "itemType": 2,
             "color": 3
         },
@@ -1204,7 +1204,7 @@
             "id": 23534,
             "level": 27,
             "icon": 1277,
-            "name": "Armor of the Engineer Defender",
+            "name": "Engineer Defender's Armor",
             "itemType": 2,
             "color": 3
         },
@@ -1332,7 +1332,7 @@
             "id": 24437,
             "level": 28,
             "icon": 3778,
-            "name": "Sheepskin of the Arctic Ruler",
+            "name": "Arctic Ruler's Sheepskin",
             "itemType": 2,
             "color": 3
         },
@@ -1340,7 +1340,7 @@
             "id": 24463,
             "level": 10,
             "icon": 4632,
-            "name": "Ragnar's Omnipotent Hauberk",
+            "name": "Ragnar's Almigthy Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1356,7 +1356,7 @@
             "id": 24623,
             "level": 12,
             "icon": 4632,
-            "name": "Frosty Fang's Omnipotent Hauberk",
+            "name": "Frosty Fang's Almigthy Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1364,7 +1364,7 @@
             "id": 24624,
             "level": 14,
             "icon": 4632,
-            "name": "Mastodon's Omnipotent Hauberk",
+            "name": "Mastodon's Almigthy Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1372,7 +1372,7 @@
             "id": 24625,
             "level": 16,
             "icon": 4632,
-            "name": "Taron's Omnipotent Hauberk",
+            "name": "Taron's Almigthy Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1380,7 +1380,7 @@
             "id": 24626,
             "level": 18,
             "icon": 4632,
-            "name": "Kerula's Omnipotent Hauberk",
+            "name": "Kerula's Almigthy Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1388,7 +1388,7 @@
             "id": 24627,
             "level": 20,
             "icon": 4632,
-            "name": "Gimir's Omnipotent Hauberk",
+            "name": "Gimir's Almigthy Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1396,7 +1396,7 @@
             "id": 24628,
             "level": 22,
             "icon": 4632,
-            "name": "Flavius's Omnipotent Hauberk",
+            "name": "Flavius's Almigthy Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1404,7 +1404,7 @@
             "id": 24629,
             "level": 24,
             "icon": 4632,
-            "name": "Ruberius's Omnipotent Hauberk",
+            "name": "Ruberius's Almigthy Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1412,7 +1412,7 @@
             "id": 24630,
             "level": 26,
             "icon": 4632,
-            "name": "Mortis's Omnipotent Hauberk",
+            "name": "Mortis's Almigthy Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1420,7 +1420,7 @@
             "id": 24631,
             "level": 28,
             "icon": 4632,
-            "name": "Snow General's Omnipotent Hauberk",
+            "name": "Snow General's Almigthy Hauberk",
             "itemType": 2,
             "color": 4
         },
@@ -1748,7 +1748,7 @@
             "id": 27992,
             "level": 30,
             "icon": 3778,
-            "name": "Sheepskin of the Patron of Frost",
+            "name": "Frost Patron's Sheepskin",
             "itemType": 2,
             "color": 3
         },
@@ -1756,7 +1756,7 @@
             "id": 27996,
             "level": 30,
             "icon": 3778,
-            "name": "Bekishe of the Patron of Frost",
+            "name": "Frost Patron's Bekishe",
             "itemType": 2,
             "color": 3
         },
@@ -1764,7 +1764,7 @@
             "id": 28064,
             "level": 14,
             "icon": 3778,
-            "name": "Bekishe of the Northern Oracle",
+            "name": "Northern Oracle's Bekishe",
             "itemType": 2,
             "color": 3
         },
@@ -1772,7 +1772,7 @@
             "id": 28068,
             "level": 16,
             "icon": 3778,
-            "name": "Bekishe of the Polar Hierophant",
+            "name": "Polar Hierophant's Bekishe",
             "itemType": 2,
             "color": 3
         },
@@ -1780,7 +1780,7 @@
             "id": 28072,
             "level": 18,
             "icon": 3778,
-            "name": "Bekishe of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Bekishe",
             "itemType": 2,
             "color": 3
         },
@@ -1788,7 +1788,7 @@
             "id": 28076,
             "level": 20,
             "icon": 3778,
-            "name": "Bekishe of the Ice Recluse",
+            "name": "Ice Recluse's Bekishe",
             "itemType": 2,
             "color": 3
         },
@@ -1796,7 +1796,7 @@
             "id": 28080,
             "level": 22,
             "icon": 3778,
-            "name": "Bekishe of the Faceless Heir",
+            "name": "Faceless Heir's Bekishe",
             "itemType": 2,
             "color": 3
         },
@@ -1804,7 +1804,7 @@
             "id": 28084,
             "level": 24,
             "icon": 3778,
-            "name": "Bekishe of the Storm Tamer",
+            "name": "Storm Tamer's Bekishe",
             "itemType": 2,
             "color": 3
         },
@@ -1812,7 +1812,7 @@
             "id": 28088,
             "level": 26,
             "icon": 3778,
-            "name": "Bekishe of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Bekishe",
             "itemType": 2,
             "color": 3
         },
@@ -1820,7 +1820,7 @@
             "id": 28092,
             "level": 28,
             "icon": 3778,
-            "name": "Bekishe of the Arctic Ruler",
+            "name": "Arctic Ruler's Bekishe",
             "itemType": 2,
             "color": 3
         },

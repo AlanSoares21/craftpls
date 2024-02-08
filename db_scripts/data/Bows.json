@@ -308,7 +308,7 @@
             "id": 14490,
             "level": 20,
             "icon": 1064,
-            "name": "Bow of Deep Lord",
+            "name": "Deep Lord's Bow",
             "itemType": 1,
             "color": 3
         },
@@ -476,7 +476,7 @@
             "id": 16194,
             "level": 20,
             "icon": 3120,
-            "name": "Bow of the Snow Lady",
+            "name": "Snow Lady's Bow",
             "itemType": 1,
             "color": 3
         },
@@ -732,7 +732,7 @@
             "id": 20030,
             "level": 20,
             "icon": 3074,
-            "name": "Bow of Damned Heir",
+            "name": "Damned Heir's Bow",
             "itemType": 1,
             "color": 3
         },
@@ -812,7 +812,7 @@
             "id": 20333,
             "level": 20,
             "icon": 3120,
-            "name": "Battle Bow of the Snow Lady",
+            "name": "Snow Lady's Battle Bow",
             "itemType": 1,
             "color": 3
         },
@@ -1324,7 +1324,7 @@
             "id": 24120,
             "level": 20,
             "icon": 3074,
-            "name": "Striking Bow of Damned Heir",
+            "name": "Damned Heir's Striking Bow",
             "itemType": 1,
             "color": 3
         },

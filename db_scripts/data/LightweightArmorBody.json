@@ -812,7 +812,7 @@
             "id": 15040,
             "level": 20,
             "icon": 2569,
-            "name": "Doublet of Deep Lord",
+            "name": "Deep Lord's Doublet",
             "itemType": 2,
             "color": 3
         },
@@ -1180,7 +1180,7 @@
             "id": 20434,
             "level": 14,
             "icon": 3780,
-            "name": "Caftan of the Northern Oracle",
+            "name": "Northern Oracle's Caftan",
             "itemType": 2,
             "color": 3
         },
@@ -1188,7 +1188,7 @@
             "id": 20446,
             "level": 16,
             "icon": 3780,
-            "name": "Caftan of the Polar Hierophant",
+            "name": "Polar Hierophant's Caftan",
             "itemType": 2,
             "color": 3
         },
@@ -1196,7 +1196,7 @@
             "id": 20452,
             "level": 18,
             "icon": 3780,
-            "name": "Caftan of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Caftan",
             "itemType": 2,
             "color": 3
         },
@@ -1204,7 +1204,7 @@
             "id": 20458,
             "level": 20,
             "icon": 3780,
-            "name": "Caftan of the Ice Recluse",
+            "name": "Ice Recluse's Caftan",
             "itemType": 2,
             "color": 3
         },
@@ -1212,7 +1212,7 @@
             "id": 20464,
             "level": 22,
             "icon": 3780,
-            "name": "Caftan of the Faceless Heir",
+            "name": "Faceless Heir's Caftan",
             "itemType": 2,
             "color": 3
         },
@@ -1220,7 +1220,7 @@
             "id": 20476,
             "level": 24,
             "icon": 3780,
-            "name": "Caftan of the Storm Tamer",
+            "name": "Storm Tamer's Caftan",
             "itemType": 2,
             "color": 3
         },
@@ -1228,7 +1228,7 @@
             "id": 20488,
             "level": 26,
             "icon": 3780,
-            "name": "Caftan of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Caftan",
             "itemType": 2,
             "color": 3
         },
@@ -1644,7 +1644,7 @@
             "id": 24433,
             "level": 28,
             "icon": 3780,
-            "name": "Caftan of the Arctic Ruler",
+            "name": "Arctic Ruler's Caftan",
             "itemType": 2,
             "color": 3
         },
@@ -2060,7 +2060,7 @@
             "id": 27984,
             "level": 30,
             "icon": 3780,
-            "name": "Caftan of the Patron of Frost",
+            "name": "Frost Patron's Caftan",
             "itemType": 2,
             "color": 3
         },
@@ -2068,7 +2068,7 @@
             "id": 27988,
             "level": 30,
             "icon": 3780,
-            "name": "Shroud of the Patron of Frost",
+            "name": "Frost Patron's Shroud",
             "itemType": 2,
             "color": 3
         },
@@ -2076,7 +2076,7 @@
             "id": 28032,
             "level": 14,
             "icon": 3780,
-            "name": "Shroud of the Northern Oracle",
+            "name": "Northern Oracle's Shroud",
             "itemType": 2,
             "color": 3
         },
@@ -2084,7 +2084,7 @@
             "id": 28036,
             "level": 16,
             "icon": 3780,
-            "name": "Shroud of the Polar Hierophant",
+            "name": "Polar Hierophant's Shroud",
             "itemType": 2,
             "color": 3
         },
@@ -2092,7 +2092,7 @@
             "id": 28040,
             "level": 18,
             "icon": 3780,
-            "name": "Shroud of the Vortex Spellweaver",
+            "name": "Vortex Spellweaver's Shroud",
             "itemType": 2,
             "color": 3
         },
@@ -2100,7 +2100,7 @@
             "id": 28044,
             "level": 20,
             "icon": 3780,
-            "name": "Shroud of the Ice Recluse",
+            "name": "Ice Recluse's Shroud",
             "itemType": 2,
             "color": 3
         },
@@ -2108,7 +2108,7 @@
             "id": 28048,
             "level": 22,
             "icon": 3780,
-            "name": "Shroud of the Faceless Heir",
+            "name": "Faceless Heir's Shroud",
             "itemType": 2,
             "color": 3
         },
@@ -2116,7 +2116,7 @@
             "id": 28052,
             "level": 24,
             "icon": 3780,
-            "name": "Shroud of the Storm Tamer",
+            "name": "Storm Tamer's Shroud",
             "itemType": 2,
             "color": 3
         },
@@ -2124,7 +2124,7 @@
             "id": 28056,
             "level": 26,
             "icon": 3780,
-            "name": "Shroud of the Whitefaced Demiurge",
+            "name": "Whitefaced Demiurge's Shroud",
             "itemType": 2,
             "color": 3
         },
@@ -2132,7 +2132,7 @@
             "id": 28060,
             "level": 28,
             "icon": 3780,
-            "name": "Shroud of the Arctic Ruler",
+            "name": "Arctic Ruler's Shroud",
             "itemType": 2,
             "color": 3
         },

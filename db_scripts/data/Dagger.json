@@ -428,7 +428,7 @@
             "id": 16186,
             "level": 20,
             "icon": 3123,
-            "name": "Kris of the Snow Lady",
+            "name": "Snow Lady's Kris",
             "itemType": 0,
             "color": 3
         },
@@ -508,7 +508,7 @@
             "id": 17143,
             "level": 20,
             "icon": 1106,
-            "name": "Dirk of Deep Lord",
+            "name": "Deep Lord's Dirk",
             "itemType": 0,
             "color": 3
         },
@@ -724,7 +724,7 @@
             "id": 20022,
             "level": 20,
             "icon": 3077,
-            "name": "Dagger of Damned Heir",
+            "name": "Damned Heir's Dagger",
             "itemType": 0,
             "color": 3
         },
@@ -1548,7 +1548,7 @@
             "id": 31039,
             "level": 20,
             "icon": 3123,
-            "name": "Dagger of the Snow Lady",
+            "name": "Snow Lady's Dagger",
             "itemType": 0,
             "color": 3
         },

@@ -364,7 +364,7 @@
             "id": 16193,
             "level": 20,
             "icon": 3127,
-            "name": "Spear of the Snow Lady",
+            "name": "Snow Lady's Spear",
             "itemType": 0,
             "color": 3
         },
@@ -468,7 +468,7 @@
             "id": 17167,
             "level": 20,
             "icon": 1211,
-            "name": "Spear of Deep Lord",
+            "name": "Deep Lord's Spear",
             "itemType": 0,
             "color": 3
         },
@@ -684,7 +684,7 @@
             "id": 20029,
             "level": 20,
             "icon": 3080,
-            "name": "Spear of Damned Heir",
+            "name": "Damned Heir's Spear",
             "itemType": 0,
             "color": 3
         },
@@ -764,7 +764,7 @@
             "id": 20332,
             "level": 20,
             "icon": 3127,
-            "name": "Guisarme of the Snow Lady",
+            "name": "Snow Lady's Guisarme",
             "itemType": 0,
             "color": 3
         },
@@ -1588,7 +1588,7 @@
             "id": 30263,
             "level": 20,
             "icon": 3080,
-            "name": "Glaive of Damned Heir",
+            "name": "Damned Heir's Glaive",
             "itemType": 0,
             "color": 3
         },
