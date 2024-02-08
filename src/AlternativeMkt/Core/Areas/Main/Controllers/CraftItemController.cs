@@ -20,6 +20,8 @@ public class CraftItemController: BaseController
     }
     public async Task<IActionResult> Search(
         [FromQuery] ListItemsParams query) {
+        if (query.categoryId < 1)
+            query.categoryId = null;
         ViewData["CraftItemQuery"] = query;
         return View(
             _craftItemService.SearchItems(query)
