@@ -1,6 +1,6 @@
 import React, { useCallback, useContext, useEffect, useState } from "react";
 import * as api from './api';
-import { IItemPrice, IListPriceParams, IStandardPaginationParams } from "./interfaces";
+import { IItemPrice, IListPriceParams } from "./interfaces";
 import Pagination from "./Pagination";
 import UpdatePriceModal from "./UpdatePriceModal";
 import CheckResourcesModal from "./CheckResourcesModal";
