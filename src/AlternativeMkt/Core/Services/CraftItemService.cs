@@ -9,9 +9,23 @@ namespace AlternativeMkt.Services;
 public class CraftItemService : ICraftItemService
 {
     MktDbContext _db;
-    public CraftItemService(MktDbContext db) {
+    ILogger<CraftItemService> _logger;
+    public CraftItemService(MktDbContext db, ILogger<CraftItemService> logger) {
         _db = db;
+        _logger = logger;
     }
+
+    public async Task<bool> Delete(int itemId)
+    {
+        var item = _db.CraftItems.SingleOrDefault(i => i.Id == itemId);
+        if (item is null)
+            throw new ServiceException($"Item {itemId} not found");
+        _logger.LogInformation("Deleting item {name}({id})", item.Name, item.Id);
+        _db.CraftItems.Remove(item);
+        int rowsAffected = await _db.SaveChangesAsync();
+        return rowsAffected == 1;
+    }
+
     public StandardList<CraftItem> SearchItems(ListItemsParams query)
     {
         StandardList<CraftItem> list = new() {

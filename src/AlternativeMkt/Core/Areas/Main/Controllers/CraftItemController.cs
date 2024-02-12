@@ -10,15 +10,12 @@ namespace AlternativeMkt.Main.Controllers;
 
 public class CraftItemController: BaseController
 {
-    MktDbContext _db;
     ICraftItemService _craftItemService;
     public CraftItemController(
-        MktDbContext db,
         ICraftItemService craftItemService) {
-        _db = db;
         _craftItemService = craftItemService;
     }
-    public async Task<IActionResult> Search(
+    public IActionResult Search(
         [FromQuery] ListItemsParams query) {
         if (query.categoryId < 1)
             query.categoryId = null;
