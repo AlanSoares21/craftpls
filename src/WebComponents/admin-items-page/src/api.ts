@@ -115,3 +115,20 @@ export async function getStaticData() {
         return handleError(r);
     });
 }
+
+export async function deleteItems(
+    id: ICraftResource['id']
+) {
+    return fetch(
+        `${baseUrl}/Items/${id}`, 
+        { 
+            headers: defaultHeaders, 
+            method: 'DELETE'
+        }
+    )
+    .then(async r => {
+        if (r.status === 204)
+            return true;
+        return handleError(r);
+    });
+}

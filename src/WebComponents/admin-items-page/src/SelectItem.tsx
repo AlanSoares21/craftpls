@@ -1,8 +1,8 @@
 import React, { useCallback, useState } from 'react'
-import { Image, Container, Row, Stack, Table, Button } from 'react-bootstrap'
+import { Image, Container, Row, Stack, Table, Button, Col } from 'react-bootstrap'
 import { IItem, IListItemsParams  } from "./interfaces"
 import StandardPagination from './StandardPagination';
-import { listItems } from './api';
+import { deleteItems, listItems } from './api';
 import { isApiError } from './typeCheck';
 import FilterItems, { IFilterItemsProps } from './FilterItems'
 import { getAssetUrl } from './utils';
@@ -33,6 +33,18 @@ const SelectItem : React.FC<ISelectItemProps> = ({
             setItems(r.data)
         });
     }, [total, setTotal]);
+
+    const handleDeleteItem = useCallback((itemId: number) => {
+        deleteItems(itemId)
+        .then(r => {
+            if (isApiError(r))
+                alert(`Error on ${r.message}`);
+            if (r)
+                searchItems(searchParams);
+            else
+                alert(`Unknowed error on delete item ${itemId}`)
+        })
+    }, [searchItems, searchParams]);
 
     const handleFilter = useCallback<IFilterItemsProps['onFilter']>(
         (filter) => {
@@ -70,7 +82,24 @@ const SelectItem : React.FC<ISelectItemProps> = ({
                                     </td>
                                     <td>{i.name}</td>
                                     <td>{i.level}</td>
-                                    <td><Button variant='success' onClick={() => itemSelected(i)}>Select</Button></td>
+                                    <td className='row'>
+                                        <Col>
+                                            <Button 
+                                                variant='success mr-2' 
+                                                onClick={() => itemSelected(i)}
+                                            >
+                                                Select
+                                            </Button>
+                                        </Col>
+                                        <Col>
+                                            <Button 
+                                                variant='danger' 
+                                                onClick={() => handleDeleteItem(i.id)}
+                                            >
+                                                Delete
+                                            </Button>
+                                        </Col>
+                                    </td>
                                 </tr>)
                             )}
                         </tbody>
