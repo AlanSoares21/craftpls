@@ -67,6 +67,13 @@ public class ItemsController: BaseApiController
             _logger.LogError("Fail on delete item {id}", itemId);
             return BadRequest(new ApiError($"Fail on delete this item {itemId}"));
         }
+        catch (ServiceException ex) {
+            _logger.LogError("Service error on delete item {id}: {message}", itemId, ex.Message);
+            return StatusCode(
+                (int)HttpStatusCode.BadRequest, 
+                new ApiError(ex.Message)
+            );
+        }
         catch (Exception ex) {
             _logger.LogError("Unknowed error: {message}\n {stack}",
                 ex.Message,

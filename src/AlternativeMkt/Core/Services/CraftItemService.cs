@@ -17,9 +17,15 @@ public class CraftItemService : ICraftItemService
 
     public async Task<bool> Delete(int itemId)
     {
-        var item = _db.CraftItems.SingleOrDefault(i => i.Id == itemId);
+        var item = _db.CraftItems
+            .Include(i => i.ResourceFor)
+            .SingleOrDefault(i => i.Id == itemId);
         if (item is null)
             throw new ServiceException($"Item {itemId} not found");
+        if (item.ResourceFor.Count > 0) {
+            _logger.LogError("Can not delete item {id} because it is resource for {amount} items", item.Id, item.ResourceFor.Count);
+            throw new ServiceException($"Item {itemId} is resource for other items.");
+        }
         _logger.LogInformation("Deleting item {name}({id})", item.Name, item.Id);
         _db.CraftItems.Remove(item);
         int rowsAffected = await _db.SaveChangesAsync();
