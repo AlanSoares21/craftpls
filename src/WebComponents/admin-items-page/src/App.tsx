@@ -12,7 +12,7 @@ function App() {
     return <CommomDataProvider>
         <Container> {
             item === undefined ?
-                <SelectItem itemSelected={setItem} />
+                <SelectItem itemSelected={setItem} allowDelete />
             :
                 <ListResources item={item} close={() => setItem(undefined)} />
         } </Container>

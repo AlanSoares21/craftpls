@@ -1,5 +1,5 @@
 import React, { useCallback, useState } from 'react'
-import { Image, Container, Row, Stack, Table, Button, Col } from 'react-bootstrap'
+import { Image, Container, Row, Stack, Table, Button, Col, Form } from 'react-bootstrap'
 import { IItem, IListItemsParams  } from "./interfaces"
 import StandardPagination from './StandardPagination';
 import { deleteItems, listItems } from './api';
@@ -9,10 +9,11 @@ import { getAssetUrl } from './utils';
 
 export interface ISelectItemProps {
     itemSelected(item: IItem): any
+    allowDelete?: boolean
 }
 
 const SelectItem : React.FC<ISelectItemProps> = ({
-    itemSelected
+    itemSelected, allowDelete
 }) => {
     const [items, setItems] = useState<IItem[]>([]);
     const [total, setTotal] = useState(1);
@@ -20,6 +21,8 @@ const SelectItem : React.FC<ISelectItemProps> = ({
         start: 0,
         count: 10
     });
+
+    const [showDeleteButton, setShowDeleteButton] = useState(false);
 
     const searchItems = useCallback((p: IListItemsParams) => {
         listItems(p)
@@ -59,8 +62,18 @@ const SelectItem : React.FC<ISelectItemProps> = ({
 
     return (
         <Container>
-            <Stack gap={3}>
+            <Stack gap={3}> 
                 <FilterItems onFilter={handleFilter} />
+                {
+                    allowDelete &&
+                    <Form.Check 
+                        id='chkShowDeleteBtn'
+                        type='switch'
+                        checked={showDeleteButton}
+                        onChange={() => setShowDeleteButton(v => !v)}
+                        label='show delete option'
+                    />
+                }
                 <Row>
                     <Table>
                         <thead>
@@ -91,14 +104,17 @@ const SelectItem : React.FC<ISelectItemProps> = ({
                                                 Select
                                             </Button>
                                         </Col>
-                                        <Col>
-                                            <Button 
-                                                variant='danger' 
-                                                onClick={() => handleDeleteItem(i.id)}
-                                            >
-                                                Delete
-                                            </Button>
-                                        </Col>
+                                        {
+                                            showDeleteButton &&
+                                            <Col>
+                                                <Button 
+                                                    variant='danger' 
+                                                    onClick={() => handleDeleteItem(i.id)}
+                                                >
+                                                    Delete
+                                                </Button>
+                                            </Col>
+                                        }
                                     </td>
                                 </tr>)
                             )}
