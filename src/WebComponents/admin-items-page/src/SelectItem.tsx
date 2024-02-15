@@ -1,6 +1,6 @@
-import React, { useCallback, useState } from 'react'
+import React, { useCallback, useEffect, useState } from 'react'
 import { Image, Container, Row, Stack, Table, Button, Col, Form } from 'react-bootstrap'
-import { IItem, IListItemsParams  } from "./interfaces"
+import { IFilterItems, IItem, IListItemsParams  } from "./interfaces"
 import StandardPagination from './StandardPagination';
 import { deleteItems, listItems } from './api';
 import { isApiError } from './typeCheck';
@@ -10,10 +10,12 @@ import { getAssetUrl } from './utils';
 export interface ISelectItemProps {
     itemSelected(item: IItem): any
     allowDelete?: boolean
+    onFilterChange?: (filter: IFilterItems) => void
+    filterData?: IFilterItems
 }
 
 const SelectItem : React.FC<ISelectItemProps> = ({
-    itemSelected, allowDelete
+    itemSelected, allowDelete, onFilterChange, filterData
 }) => {
     const [items, setItems] = useState<IItem[]>([]);
     const [total, setTotal] = useState(1);
@@ -55,15 +57,25 @@ const SelectItem : React.FC<ISelectItemProps> = ({
                 p.start = 0;
                 return {...p, ...filter};
             });
-            searchItems({...searchParams, ...filter})
+            const newFilterData = {...searchParams, ...filter}
+            searchItems(newFilterData)
+            if (onFilterChange !== undefined)
+                onFilterChange(newFilterData)
         },
-        [setSearchParams, searchItems]
+        [setSearchParams, searchItems, onFilterChange]
     );
+
+    useEffect(() => {
+        if (filterData !== undefined) {
+            setSearchParams(s => ({...s, ...filterData}))
+            searchItems({...searchParams, ...filterData})
+        }
+    }, []);
 
     return (
         <Container>
             <Stack gap={3}> 
-                <FilterItems onFilter={handleFilter} />
+                <FilterItems onFilter={handleFilter} defaultValues={filterData} />
                 {
                     allowDelete &&
                     <Form.Check 
