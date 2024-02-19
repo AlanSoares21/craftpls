@@ -37,6 +37,7 @@ public partial class MktDbContext : DbContext
 
     public virtual DbSet<User> Users { get; set; } = null!;
     public virtual DbSet<Server> Servers { get; set; } = null!;
+    public virtual DbSet<ResourceProvided> ResourcesProvided { get; set; } = null!;
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
         string? connstring = _configuration.GetConnectionString("MainDb");
@@ -367,6 +368,32 @@ public partial class MktDbContext : DbContext
                 .HasForeignKey(d => d.RoleId)
                 .OnDelete(DeleteBehavior.Cascade)
                 .HasConstraintName("users_roles_rolesid_fkey");
+        });
+
+        modelBuilder.Entity<ResourceProvided>(entity => {
+            entity.ToTable("resources_provided");
+            entity.HasKey(e => e.Id).HasName("resource_provided_key");
+
+            entity.Property(e => e.RequestId)
+                .HasColumnName("requestid");
+            
+            entity.Property(e => e.ResourceId)
+                .HasColumnName("resourceid");
+
+            entity.HasIndex(
+                nameof(ResourceProvided.RequestId),
+                nameof(ResourceProvided.ResourceId)
+            ).IsUnique();
+
+            entity.HasOne(rp => rp.Request).WithMany(r => r.ResourcesProvided)
+                .HasForeignKey(r => r.RequestId)
+                .OnDelete(DeleteBehavior.Cascade)
+                .HasConstraintName("resources_provided_requestid_fkey");
+            
+            entity.HasOne(rp => rp.Resource).WithMany(r => r.ProvidedIn)
+                .HasForeignKey(rp => rp.ResourceId)
+                .OnDelete(DeleteBehavior.Restrict)
+                .HasConstraintName("resources_provided_resourceid_fkey");
         });
 
         OnModelCreatingPartial(modelBuilder);

@@ -63,12 +63,14 @@ public class RequestController: BaseController
         return View("Open", price);
     }
     
-    public async Task<IActionResult> New([Bind("PriceId")] NewRequest requestData) {
+    public async Task<IActionResult> New([Bind("PriceId,ProvidedResources")] NewRequest requestData) {
         // pegar dados do usuario
         var user = _auth.GetUser(User.Claims);
         // verificar se o item price tem um registro no db
         var price = _db.CraftItemsPrices
             .Include(p => p.Item)
+                .ThenInclude(i => i.Resources)
+            .Include(p => p.Manufacturer)
             .Where(p => 
                 p.Id == requestData.PriceId
                 && p.DeletedAt == null
@@ -82,12 +84,54 @@ public class RequestController: BaseController
             );
             return View("Error", "Price not found");
         }
-        if (price.ManufacturerId == user.Id) {
+        if (price.Manufacturer.Userid == user.Id) {
             _logger.LogError("User {user} tried request item to him self, priceId: {id}",
                 user.Id,
                 requestData.PriceId
             );
             return View("Error", "You can not request items to your self");
+        }
+        int requestPrice = price.TotalPrice;
+        if (requestData.ProvidedResources.Count > 0) {
+            CraftResource[] providedResources = price.Item.Resources
+                .Where(r => requestData.ProvidedResources.Contains(r.Id))
+                .ToArray();
+            if (providedResources.Length != requestData.ProvidedResources.Count) {
+                _logger.LogError("User {user} tried request item {item} but one of follow resources {resources} are not in the item resources list.",
+                    user.Id,
+                    price.ItemId,
+                    string.Join(',', requestData.ProvidedResources)
+                );
+                return View("Error", "Some of the resources provided are not in the resources list.");
+            }
+            _logger.LogTrace("Sum prices of {count} craft resources provided", 
+                providedResources.Length
+            );
+            int? sum = _db.CraftItemsPrices
+                .Include(p => p.Item)
+                    .ThenInclude(i => i.ResourceFor
+                        .Where(r => r.ItemId == price.ItemId)
+                    )
+                .Where(p =>
+                    p.ManufacturerId == price.ManufacturerId
+                    && p.DeletedAt == null
+                    && providedResources.Select(rp => rp.ResourceId).Contains(p.ItemId)
+                ).Sum(p => p.TotalPrice * p.Item.ResourceFor.First().Amount);
+            if (sum is null) {
+                _logger.LogError("User {user} tried to request price {price} but the sum of the resources provided prices was null. Resources provided {resources}",
+                    user.Id,
+                    price.Id,
+                    string.Join(',', requestData.ProvidedResources)
+                );
+                return View("Error", "We had a problem when checking the price of the resources provided. Try again later");
+            }
+            _logger.LogInformation("User {user} is requesting price {price}. The sum of the resources provided prices is {value}. Resources provided {resources}",
+                user.Id,
+                price.Id,
+                sum,
+                string.Join(',', requestData.ProvidedResources)
+            );
+            requestPrice -= sum.Value;
         }
         _logger.LogInformation("User {user} is requesting item with price {price}",
             user.Id,
@@ -95,9 +139,16 @@ public class RequestController: BaseController
         );
         Request request = new() {
             ItemId = price.ItemId,
-            Price = price.TotalPrice,
+            Price = requestPrice,
             RequesterId = user.Id,
-            ManufacturerId = price.ManufacturerId
+            ManufacturerId = price.ManufacturerId,
+            ResourcesProvided = price.Item.Resources
+                .Where(r => requestData.ProvidedResources.Any(id => id == r.Id ))
+                .Select(r => new ResourceProvided() {
+                    Resource = r,
+                    ResourceId = r.Id
+                })
+                .ToList()
         };
         await _db.Requests.AddAsync(request);
         await _db.SaveChangesAsync();

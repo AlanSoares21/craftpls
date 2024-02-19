@@ -1,6 +1,10 @@
 @inject ServerConfig config
 @model CraftItemsPrice
 
+@{
+    ViewData["Title"] = "Request " + Model.Item.Name;
+}
+
 <div class="row bg-tertiary">
     @if (Model.Item.Asset != null) {
         <div class="col-2">
@@ -29,12 +33,13 @@
             </div>
         </div>
     </div>
-    <div class="w-100"></div>
-    <div class="col-6">
+<div/>
+<form asp-action="New" method="post" class="row">
+    <div class="col-12">
         <table class="table">
             <thead>
                 <tr>
-                    <th colspan="5">Craft Resources</th>
+                    <th colspan="6" class="text-center">Craft Resources</th>
                 </tr>
                 <tr>
                     <th>Icon</th>
@@ -42,6 +47,7 @@
                     <th>Level</th>
                     <th>Price</th>
                     <th>Amount</th>
+                    <th>You will provide this items?</th>
                 </tr>
             </thead>
             <tbody>
@@ -66,6 +72,9 @@
                             }
                         </td>
                         <td>@craftResource.Amount</td>
+                        <td>
+                            <input type="checkbox" value="@craftResource.Id" name="ProvidedResources" />
+                        </td>
                     </tr>
                 }
             </tbody>
@@ -77,12 +86,10 @@
     </div>
     <div class="col-4">
         @if (User.Identity is not null && User.Identity.IsAuthenticated) {
-            <form asp-action="New" method="post">
-                <input name="PriceId" value=@Model.Id class="visually-hidden" />
-                <input type="submit" class="btn btn-success" value="Request" />
-            </form>
+            <input type="hidden" name="PriceId" value="@Model.Id" />
+            <input type="submit" class="btn btn-success" value="Request" />
         } else {
             <input type="submit" class="btn btn-success" value="Create an account to request a craft" disabled="true" />
         }
     </div>
-</div>
+</form>

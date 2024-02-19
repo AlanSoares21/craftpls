@@ -15,4 +15,5 @@ public partial class CraftResource
     public int ItemId { get; set; }
 
     public virtual CraftItem Item { get; set; } = null!;
+    public List<ResourceProvided> ProvidedIn { get; set; } = new();
 }

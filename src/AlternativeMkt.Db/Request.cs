@@ -36,4 +36,5 @@ public partial class Request
     public virtual Manufacturer Manufacturer { get; set; } = null!;
 
     public virtual User Requester { get; set; } = null!;
+    public List<ResourceProvided> ResourcesProvided { get; set; } = null!;
 }
