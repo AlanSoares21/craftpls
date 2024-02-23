@@ -24,6 +24,8 @@ public class SearchController : BaseController {
     public IActionResult Manufacturers(int itemId, int serverId = -1, string? orderByCraftPrice = null) 
     {
         CraftItem item = _dbContext.CraftItems
+            .Include(i => i.Attributes)
+                .ThenInclude(a => a.Attribute)
             .Include("Asset")
             .Where(i => i.Id == itemId)
             .Single();

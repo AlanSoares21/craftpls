@@ -34,6 +34,8 @@ public class RequestController: BaseController
         var price = _db.CraftItemsPrices
             .Include(p => p.Item)
                 .ThenInclude(i => i.Asset)
+            .Include(p => p.Item.Attributes)
+                .ThenInclude(a => a.Attribute)
             .Include(p => p.Manufacturer)
                 .ThenInclude(m => m.Server)
                     .ThenInclude(s => s.GameAccounts

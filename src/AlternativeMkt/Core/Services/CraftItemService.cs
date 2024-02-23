@@ -39,6 +39,8 @@ public class CraftItemService : ICraftItemService
         };
         list.Data = _db.CraftItems
             .Include(i => i.Asset)
+            .Include(i => i.Attributes)
+                .ThenInclude(a => a.Attribute)
             .Where(FiltreItems(query))
             .OrderBy(i => i.Id)
             .Skip(query.start)

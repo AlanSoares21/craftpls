@@ -20,6 +20,13 @@
     <div class="col-6">
         <h5 class="card-title">@Model.Item.Name</h5>
         Level: @Model.Item.Level
+        <div>
+            @foreach(var itemAttribute in Model.Item.Attributes) {
+                <span class="badge bg-warning">
+                    @itemAttribute.Attribute.Name - @itemAttribute.Value
+                </span>
+            }
+        </div>
     </div>
     <div class="col-auto">
         <form method="get" asp-action="Manufacturers" asp-route-itemId=@Model.Item.Id>

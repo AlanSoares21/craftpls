@@ -58,6 +58,13 @@
                     <div class="card-body">
                         <h5 class="card-title">@item.Name</h5>
                         <p class="card-text">Level: @item.Level</p>
+                        <div class="mb-2">
+                            @foreach(var itemAttribute in item.Attributes) {
+                                <span class="badge bg-warning">
+                                    @itemAttribute.Attribute.Name - @itemAttribute.Value
+                                </span>
+                            }
+                        </div>
                         <a 
                             class="btn btn-primary" 
                             asp-controller="Search" 
