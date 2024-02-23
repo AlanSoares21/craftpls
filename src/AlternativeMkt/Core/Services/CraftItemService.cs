@@ -62,6 +62,7 @@ public class CraftItemService : ICraftItemService
                 $"%{query.name}%"
             )
         ) 
+        && (!query.onlyListItemsWithResources || i.Resources.Count > 0)
         && (query.categoryId == null || i.CategoryId == query.categoryId)
         &&
         (

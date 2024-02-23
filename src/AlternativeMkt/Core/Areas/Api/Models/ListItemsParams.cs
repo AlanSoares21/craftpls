@@ -7,4 +7,5 @@ public class ListItemsParams: StandardPaginationParams
     public int? maxLevel { get; set; }
     public int? minLevel { get; set; }
     public int? categoryId { get; set; }
+    public bool onlyListItemsWithResources { get; set; } = false;
 }

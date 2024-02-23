@@ -20,6 +20,7 @@ public class CraftItemController: BaseController
         if (query.categoryId < 1)
             query.categoryId = null;
         ViewData["CraftItemQuery"] = query;
+        query.onlyListItemsWithResources = true;
         return View(
             _craftItemService.SearchItems(query)
         );
