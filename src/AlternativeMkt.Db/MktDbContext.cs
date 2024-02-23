@@ -38,6 +38,8 @@ public partial class MktDbContext : DbContext
     public virtual DbSet<User> Users { get; set; } = null!;
     public virtual DbSet<Server> Servers { get; set; } = null!;
     public virtual DbSet<ResourceProvided> ResourcesProvided { get; set; } = null!;
+    public virtual DbSet<Attribute> Attributes { get; set; } = null!;
+    public virtual DbSet<CraftItemAttribute> CraftItemsAttributes { get; set; } = null!;
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
         string? connstring = _configuration.GetConnectionString("MainDb");
@@ -374,6 +376,8 @@ public partial class MktDbContext : DbContext
             entity.ToTable("resources_provided");
             entity.HasKey(e => e.Id).HasName("resource_provided_key");
 
+            entity.Property(e => e.Id).HasColumnName("id");
+
             entity.Property(e => e.RequestId)
                 .HasColumnName("requestid");
             
@@ -394,6 +398,42 @@ public partial class MktDbContext : DbContext
                 .HasForeignKey(rp => rp.ResourceId)
                 .OnDelete(DeleteBehavior.Restrict)
                 .HasConstraintName("resources_provided_resourceid_fkey");
+        });
+
+        modelBuilder.Entity<Attribute>(entity => {
+            entity.ToTable("attributes");
+            entity.HasKey(e => e.Id).HasName("attributes_key");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+
+            entity.Property(e => e.Name)
+                .HasColumnName("name");
+        });
+
+        modelBuilder.Entity<CraftItemAttribute>(entity => {
+            entity.ToTable("craft_items_attributes");
+            entity.HasKey(e => e.Id).HasName("craft_items_attributes_key");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+            
+            entity.Property(e => e.AttributeId)
+                .HasColumnName("attributeid");
+            
+            entity.Property(e => e.ItemId)
+                .HasColumnName("itemid");
+            
+            entity.Property(e => e.Value)
+                .HasColumnName("value");
+            
+            entity.HasOne(e => e.Attribute)
+                .WithMany(a => a.CraftItems)
+                .HasForeignKey(e => e.AttributeId)
+                .HasConstraintName("craft_items_attributes_attributeid_fkey");
+            
+            entity.HasOne(e => e.Item)
+                .WithMany(a => a.Attributes)
+                .HasForeignKey(e => e.ItemId)
+                .HasConstraintName("craft_items_attributes_itemid_fkey");
         });
 
         OnModelCreatingPartial(modelBuilder);

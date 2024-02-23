@@ -20,4 +20,5 @@ public partial class CraftItem
 
     public ICollection<Request> Requests { get; set; } = new List<Request>();
     public Asset? Asset { get; set; }
+    public List<CraftItemAttribute> Attributes { get; set; } = new();
 }
