@@ -1,0 +1,170 @@
+[
+    {
+        "bonus": 25,
+        "name": "Health Increase"
+    },
+    {
+        "bonus": 29,
+        "name": "Health Augmentation"
+    },
+    {
+        "bonus": 23,
+        "name": "Health Regeneration"
+    },
+    {
+        "bonus": 26,
+        "name": "Energy Increase"
+    },
+    {
+        "bonus": 24,
+        "name": "Energy Regeneration"
+    },
+    {
+        "bonus": 82,
+        "name": "Oxygem Consumption"
+    },
+    {
+        "bonus": 81,
+        "name": "Underwater Speed Increase"
+    },
+    {
+        "bonus": 9,
+        "name": "Magical Power"
+    },
+    {
+        "bonus": 14,
+        "name": "Magical Power (Percentage)"
+    },
+    {
+        "bonus": 8,
+        "name": "Physical Power"
+    },
+    {
+        "bonus": 13,
+        "name": "Physical Power (Percentage)"
+    },
+    {
+        "bonus": 17,
+        "name": "Critical Hit"
+    },
+    {
+        "bonus": 46,
+        "name": "Critical Hit (Doubled)"
+    },
+    {
+        "bonus": 101,
+        "name": "Critical Hit Strength"
+    },
+    {
+        "bonus": 16,
+        "name": "Accuracy"
+    },
+    {
+        "bonus": 47,
+        "name": "Accuracy (Doubled)"
+    },
+    {
+        "bonus": 19,
+        "name": "Attack speed"
+    },
+    {
+        "bonus": 20,
+        "name": "Penetration"
+    },
+    {
+        "bonus": 45,
+        "name": "Penetration (Doubled)"
+    },
+    {
+        "bonus": 39,
+        "name": "Skills Cooldown"
+    },
+    {
+        "bonus": 100,
+        "name": "Skills Cooldown (Doubled)"
+    },
+    {
+        "bonus": 33,
+        "name": "Stun"
+    },
+    {
+        "bonus": 32,
+        "name": "Rage"
+    },
+    {
+        "bonus": 4,
+        "name": "Ferocity"
+    },
+    {
+        "bonus": 77,
+        "name": "Attack strength"
+    },
+    {
+        "bonus": 68,
+        "name": "Attack strength"
+    },
+    {
+        "bonus": 80,
+        "name": "Depths Fury"
+    },
+    {
+        "bonus": 89,
+        "name": "Piercing Attack"
+    },
+    {
+        "bonus": 102,
+        "name": "Exhausting Heat"
+    },
+    {
+        "bonus": 103,
+        "name": "Subjugation"
+    },
+    {
+        "bonus": 106,
+        "name": "Skills Cooldown in The Sands"
+    },
+    {
+        "bonus": 1,
+        "name": "Physical Protection"
+    },
+    {
+        "bonus": 2,
+        "name": "Magical Protection"
+    },
+    {
+        "bonus": 15,
+        "name": "Dodge"
+    },
+    {
+        "bonus": 18,
+        "name": "Resilience"
+    },
+    {
+        "bonus": 21,
+        "name": "Parry"
+    },
+    {
+        "bonus": 22,
+        "name": "Block"
+    },
+    {
+        "bonus": 37,
+        "name": "Steal Health"
+    },
+    {
+        "bonus": 12,
+        "name": "Damage Reflection"
+    },
+    {
+        "bonus": 5,
+        "name": "Solidity"
+    },
+    {
+        "bonus": 61,
+        "name": "Resistance"
+    },
+    {
+        "name": "Base Skill - 79",
+        "bonus": 79
+    }
+]
