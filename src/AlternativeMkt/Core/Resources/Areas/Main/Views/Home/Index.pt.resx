@@ -118,7 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="WelcomeMessage" xml:space="preserve">
-    <value>Olá, bem vindo ao Alternative Market</value>
+    <value>Olá, bem vindo ao CraftPls</value>
+    <comment/>
+  </data>
+  <data name="RecentAddedPrices" xml:space="preserve">
+    <value>Preços adicionados recentemente</value>
+    <comment/>
+  </data>
+  <data name="CraftPriceLabel" xml:space="preserve">
+    <value>Preço pelo craft</value>
+    <comment/>
+  </data>
+  <data name="TotalPriceLabel" xml:space="preserve">
+    <value>Preço total</value>
     <comment/>
   </data>
 </root>

@@ -1,12 +1,28 @@
 @inject IViewLocalizer text
 
+@{
+    bool? hideLabel = ((bool?)ViewData["HideSearchLabel"]);
+}
+
 <div class="col-auto">
     <form class="row" method="get" asp-controller="CraftItem" asp-action="Search" >
-        <div class="col-sm">
-            <label class="form-label">@text["SearchBarPlaceholder"]</label>
-        </div>
-        <div class="col-auto">
-            <input class="form-control" name="name" type="text" value="@ViewData["CraftItemSearched"]" />
-        </div>
+        @if (hideLabel.HasValue && hideLabel.Value) {
+            <div class="col-auto">
+                <input 
+                    class="form-control" 
+                    name="name" 
+                    type="text" 
+                    value="@ViewData["CraftItemSearched"]" 
+                    placeholder="@text["SearchBarPlaceholder"]"
+                />
+            </div>
+        } else {
+            <div class="col-sm">
+                <label class="form-label">@text["SearchBarPlaceholder"]</label>
+            </div>
+            <div class="col-auto">
+                <input class="form-control" name="name" type="text" value="@ViewData["CraftItemSearched"]" />
+            </div>
+        }
     </form>
 </div>

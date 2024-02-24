@@ -262,6 +262,8 @@ public class PriceService : IPriceService
         var sqlQuery = _db.CraftItemsPrices
             .Include(p => p.Item)
                 .ThenInclude(i => i.Asset)
+            .Include(p => p.Item.Attributes)
+                .ThenInclude(a => a.Attribute)
             .Include(p => p.Manufacturer)
                 .ThenInclude(m => m.Server)
             .Include(p => p.Manufacturer)
@@ -269,7 +271,9 @@ public class PriceService : IPriceService
             .Where(FilterPrices(query))
             .Skip(query.start)
             .Take(query.count);
-        if (query.orderByCraftPrice)
+        if (query.orderByCreateDate)
+            sqlQuery = sqlQuery.OrderBy(p => p.CreatedAt);
+        else if (query.orderByCraftPrice)
             sqlQuery = sqlQuery.OrderBy(p => p.Price);
         else
             sqlQuery = sqlQuery.OrderBy(p => p.TotalPrice);

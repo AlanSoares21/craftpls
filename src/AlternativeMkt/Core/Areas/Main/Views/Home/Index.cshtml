@@ -1,14 +1,65 @@
 ﻿@inject IViewLocalizer text
+@inject ServerConfig config
+@using AlternativeMkt.Api.Models
+@model StandardList<CraftItemsPrice>
 
 @{
-    ViewData["Title"] = "Home Page";
+    Model.Data.Reverse();
 }
 
 <div class="text-center">
-    <h1 class="display-4">@text["WelcomeMessage"]</h1>
+    <h1 class="display-6">@text["WelcomeMessage"]</h1>
+    <div>
+        @text["RecentAddedPrices"]
+    </div>
     <div class="row justify-content-center">
-        <div class="col-4">
-            <vc:search-bar></vc:search-bar>
-        </div>
+        @foreach(var price in Model.Data) {
+            <div 
+                class="col mb-2" 
+                style="max-width: 14rem; min-width: 14rem;"
+            >
+                <div class="card">
+                    @if (price.Item.Asset is not null) {
+                        <img 
+                            src="@config.AssetsUrl/@price.Item.Asset.Endpoint" 
+                            class="card-img-top"
+                        />
+                    }
+                    <div class="card-header" style="min-height: 1rem;">
+                        @price.Item.Name
+                        Level: @price.Item.Level
+                        <div>
+                            @foreach(var itemAttribute in price.Item.Attributes) {
+                                <span class="badge bg-warning">
+                                    @itemAttribute.Attribute.Name -
+                                    @itemAttribute.Value
+                                </span>
+                            }
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        @price.Manufacturer.Server.Name
+                        <div>
+                        @foreach(var account in price.Manufacturer.User.GameAccounts) {
+                            <span class="badge bg-info">@account.Name</span>
+                        }
+                        </div>
+                        <div>@text["CraftPriceLabel"]: @price.Price</div>
+                        <div>@text["TotalPriceLabel"]: @price.TotalPrice</div>
+                    </div>
+                    <div class="card-footer" style="padding: 0px;">
+                        <a
+                            class="btn btn-primary w-100 rounded-0"
+                            asp-controller="Request"
+                            asp-action="Open" 
+                            asp-route-id="@price.Id"
+                            asp-route-manufacturerId="@price.ManufacturerId"
+                        >
+                            Open
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
     </div>
 </div>

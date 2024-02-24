@@ -32,4 +32,5 @@ public class ServerConfig
     public string? PriceDashboardJs => _configuration["PriceDashboardJs"];
     public string? AdminItemsPageJs => _configuration["AdminItemsPageJs"];
     public string? AssetsUrl => _configuration["AssetsUrl"];
+    public string? GameName => _configuration["GameName"];
 }
