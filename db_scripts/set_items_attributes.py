@@ -166,7 +166,7 @@ try:
             if bonusName == None:
                 bonusName = str(wsDbitemData['setBonus' + str(x) + 'Name']) + ' - ' + str(bonus)
                 attributesToBonus.append({'name': bonusName, 'bonus': bonus})
-
+            bonusName = "Set - " + bonusName
             att = findAttribute(dbAttributes, bonusName)
             if att == None:
                 att = addAttribute(cursor, bonusName)
