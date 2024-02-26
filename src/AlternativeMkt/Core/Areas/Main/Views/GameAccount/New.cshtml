@@ -1,7 +1,14 @@
 @inject IViewLocalizer text
+@model GameAccountNewData
 
 @{
     ViewData["Title"] = "Add Game Account";
+}
+
+<h2 class="display-6">@text["AddGameAccountTitle"]</h2>
+
+@if (Model.DisplayInfoText) {
+    <p>@text["InfoForNewUsers"]</p>
 }
 
 <form asp-controller="GameAccount" asp-action="Register">
@@ -12,5 +19,5 @@
         <label for="txtName" class="form-label">@text["TxtAccountNameLabel"]</label>
         <input id="txtName" name="name" type="text" maxlength="12" class="form-control"/>
     </div>
-    <input type="submit" class="btn btn-primary" value=@text["BtnSubmitText"] />
+    <input type="submit" class="btn btn-primary" value="@text["BtnSubmitText"]" />
 </form>

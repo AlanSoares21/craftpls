@@ -1,4 +1,5 @@
 
+using System.Globalization;
 using System.Reflection.Metadata;
 using System.Text.Json;
 using AlternativeMkt.Auth;
@@ -97,13 +98,17 @@ public class AccountController: BaseController
         if (user is null) {
             await CreateNewUser(email);
             user = await _db.Users.SingleAsync(u => u.Email == email);
-            redirectTo = Url.Action("Profile") + "";
+            redirectTo = $"/main/{CultureInfo.CurrentCulture.Name}/GameAccount/New?newAccount=y";
         }
+        await CreateSessionTokens(user);
+        return Redirect(redirectTo);
+    }
+
+    async Task CreateSessionTokens(User user) {
         string refreshToken = _auth.CreateRefreshToken();
         await _auth.StoreRefreshToken(user.Id, refreshToken);
         string accessToken = _auth.CreateAccessToken(user, out DateTime expiresIn);
         SetUserCookies(accessToken, refreshToken, expiresIn);
-        return Redirect(redirectTo);
     }
 
     async Task CreateNewUser(string email) {
@@ -111,6 +116,7 @@ public class AccountController: BaseController
             Email = email
         });
         await _db.SaveChangesAsync();
+        _logger.LogInformation("New account created. email: {email}", email);
     }
 
     void SetUserCookies(string access_token, string refreshToken, DateTime accessTokenExpiresIn) {

@@ -23,8 +23,10 @@ public class GameAccountController: BaseController
         _logger = logger;
         _auth = auth;
     }
-    public IActionResult New() {
-        return View();
+    public IActionResult New(char newAccount = 'n') {
+        return View(new GameAccountNewData() {
+            DisplayInfoText = newAccount == 'y'
+        });
     }
 
     [HttpPost]

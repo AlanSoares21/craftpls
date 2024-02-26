@@ -125,4 +125,12 @@
     <value>Add Account</value>
     <comment/>
   </data>
+  <data name="InfoForNewUsers" xml:space="preserve">
+    <value>Provide your account name and server, this will allow other users to contact you in game.</value>
+    <comment/>
+  </data>
+  <data name="AddGameAccountTitle" xml:space="preserve">
+    <value>Add game account</value>
+    <comment/>
+  </data>
 </root>
