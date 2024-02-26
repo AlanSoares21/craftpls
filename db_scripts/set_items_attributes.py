@@ -36,6 +36,7 @@ def getItemData(wsDbItemId: int):
         itemCacheFileName = itemsCachePath + "/" + str(wsDbItemId) + ".json"
         if wsDbItemId in itemsInCache:
             return readJson(itemCacheFileName)
+        print("Requesting wsdb data for item " + str(wsDbItemId))
         data = rt.get(wsDbUrl + '/item/en/' + str(wsDbItemId)).json()
         with open(itemCacheFileName, 'w') as file:
             file.truncate()
@@ -112,7 +113,7 @@ try:
         if craftItem == None:
             amountItemsNotFoundInDb += 1
             continue
-        amountItemsNotFoundInWsDbInARow = 0
+        
         if craftItem['level'] == None:
             continue
         
@@ -130,8 +131,9 @@ try:
                 print("Five items not found in ws db, check the internet connection and try later")
                 break
             continue
+        amountItemsNotFoundInWsDbInARow = 0
         bonusAdded = 0
-        for x in range(1,4):
+        for x in range(1,5):
             if wsDbitemData['bonus' + str(x)] == None:
                 continue
             bonus = int(wsDbitemData['bonus' + str(x)])
