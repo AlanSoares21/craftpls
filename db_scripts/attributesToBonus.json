@@ -166,5 +166,17 @@
     {
         "name": "Base Skill - 79",
         "bonus": 79
+    },
+    {
+        "name": "Block - 48",
+        "bonus": 48
+    },
+    {
+        "name": "Underwater \u0421ounterstand - 84",
+        "bonus": 84
+    },
+    {
+        "name": "Underwater Solidity - 99",
+        "bonus": 99
     }
 ]
