@@ -32,7 +32,19 @@ public class ItemsController: BaseApiController
 
     [HttpGet]
     public IActionResult ListItems([FromQuery] ListItemsParams query) {
-        return Ok(_craftItemService.SearchItems(query));
+        try {
+            var result = _craftItemService.SearchItems(query);
+            return Ok(result);
+        } catch(Exception ex) {
+            _logger.LogCritical("Unknown error on listing items. Error: {message} \n {stack}",
+                ex.Message,
+                ex.StackTrace
+            );
+            return StatusCode(
+                (int)HttpStatusCode.InternalServerError, 
+                new ApiError("Unknown Error on listing items. try again later")
+            );
+        }
     }
 
     [HttpGet("{itemId}/resources")]
