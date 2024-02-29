@@ -27,7 +27,16 @@
                 <div>
                     @foreach (var accounts in Model.Manufacturer.Server.GameAccounts)
                     {
-                        <span class="badge bg-info">@accounts.Name</span>
+                        <a
+                            class="btn px-0 py-0"
+                            asp-controller="Manufacturer"
+                            asp-action="Show" 
+                            asp-route-id="@Model.Manufacturer.Id"
+                        >
+                            <span class="badge bg-info">
+                                @accounts.Name
+                            </span>
+                        </a>
                     }
                 </div>
             </div>

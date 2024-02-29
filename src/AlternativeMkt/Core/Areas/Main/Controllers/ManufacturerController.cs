@@ -5,6 +5,7 @@ using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
 using AlternativeMkt.Models;
+using AlternativeMkt.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -18,15 +19,18 @@ public class ManufacturerController: BaseController
     ILogger<ManufacturerController> _logger;
     MktDbContext _db;
     IAuthService _auth;
+    IPriceService _priceService;
 
     public ManufacturerController(
         ILogger<ManufacturerController> logger,
         MktDbContext db,
-        IAuthService auth
+        IAuthService auth,
+        IPriceService priceService
     ) {
         _logger = logger;
         _db = db;
         _auth = auth;
+        _priceService = priceService;
     }
     public async Task<IActionResult> Index(Guid? id = null) {
         var user = _auth.GetUser(User.Claims);
@@ -48,6 +52,38 @@ public class ManufacturerController: BaseController
             return View("Error", $"Manufacturer not found, try select one already registered");
         }
         return View(manufacturer);
+    }
+
+    [AllowAnonymous]
+    public async Task<IActionResult> Show(
+        Guid id, 
+        [FromQuery] ListPricesParams query
+    ) {
+        Manufacturer? manufacturer = await _db.Manufacturers
+            .Include(m => m.Server)
+                .ThenInclude(s => s.GameAccounts
+                    .Where(a =>  
+                        a.Server.Manufacturers
+                        .Where(m => m.Userid == a.UserId)
+                            .Count() > 0
+                    )
+                )
+            .Where(m => 
+                m.Id == id
+                && m.DeletedAt == null
+                && !m.Hide
+            )
+            .SingleOrDefaultAsync();
+        if (manufacturer is null) {
+            _logger.LogInformation("Manufacturer {m} not found in db", id);
+            return View("Error", $"Manufacturer not found");
+        }
+        query.manufacturerId = manufacturer.Id;
+        var result = _priceService.Search(query);
+        return View(new ManufacturerShowData() {
+            Manufacturer = manufacturer,
+            Prices = result
+        });
     }
 
     public IActionResult New() => View();
