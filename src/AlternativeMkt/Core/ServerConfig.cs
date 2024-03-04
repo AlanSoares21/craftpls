@@ -33,4 +33,5 @@ public class ServerConfig
     public string? AdminItemsPageJs => _configuration["AdminItemsPageJs"];
     public string? AssetsUrl => _configuration["AssetsUrl"];
     public string? GameName => _configuration["GameName"];
+    public string? AboutThisInstance => _configuration["About:Instance"];
 }

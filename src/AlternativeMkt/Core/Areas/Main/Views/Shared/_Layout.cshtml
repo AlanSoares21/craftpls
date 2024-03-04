@@ -69,7 +69,38 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2024 - CraftPls
+            <div class="row">
+                <div class="col">
+                    &copy; 2024 - CraftPls
+                </div>
+                <div class="col">
+                    <a 
+                        class="text-decoration-none"
+                        asp-controller="Home" 
+                        asp-action="About"
+                    >
+                        About
+                    </a>
+                </div>
+                <div class="col">
+                    <a 
+                        class="text-decoration-none"
+                        asp-controller="Home" 
+                        asp-action="Tou"
+                    >
+                        Terms of Use
+                    </a>
+                </div>
+                <div class="col">
+                    <a 
+                        class="text-decoration-none"
+                        asp-controller="Home" 
+                        asp-action="Privacy"
+                    >
+                        Privacy
+                    </a>
+                </div>
+            </div>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
