@@ -59,6 +59,8 @@ public class ManufacturerController: BaseController
         Guid id, 
         [FromQuery] ListPricesParams query
     ) {
+        if (query.count > 10 || query.count < 1)
+            query.count = 10;
         Manufacturer? manufacturer = await _db.Manufacturers
             .Include(m => m.Server)
                 .ThenInclude(s => s.GameAccounts
@@ -79,10 +81,13 @@ public class ManufacturerController: BaseController
             return View("Error", $"Manufacturer not found");
         }
         query.manufacturerId = manufacturer.Id;
+        query.onlyListItemsWithResources = true;
+        query.orderByCreatedDate = true;
         var result = _priceService.Search(query);
         return View(new ManufacturerShowData() {
             Manufacturer = manufacturer,
-            Prices = result
+            Prices = result,
+            Query = query
         });
     }
 

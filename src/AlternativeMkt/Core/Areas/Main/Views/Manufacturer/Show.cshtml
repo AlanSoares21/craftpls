@@ -2,6 +2,16 @@
 @inject IViewLocalizer text
 @model ManufacturerShowData
 
+@{
+    int current = Model.Query.start / Model.Query.count + 1;
+    int next = Model.Query.start + Model.Query.count;
+    int previous = Model.Query.start - Model.Query.count;
+    if (current == 1 && previous < 0)
+        previous = 0;
+    int last = (Model.Prices.Total - Model.Prices.Count) + Model.Prices.Total % Model.Prices.Count;
+    Model.Prices.Data.Reverse();
+}
+
 <section class="row text-center mb-2">
     <h1 class="col-12 display-5">@Model.Manufacturer.User.Name</h1>
     <h2 class="col-12 display-7">@Model.Manufacturer.Server.Name</h2>
@@ -51,6 +61,58 @@
     }
 </section>
 
-<section>
-    Pagination
+<section class="row justify-content-center">
+    <nav class="col-auto">
+        <ul class="pagination">
+            <li class="page-item">
+                <a asp-route-start="0" class="page-link">
+                    First
+                </a>
+            </li>
+            @if (current != 1) {
+                <li class="page-item">
+                        <a class="page-link" asp-route-start=@previous>
+                            Previous
+                        </a>
+                </li>
+            } else {
+                <li class="page-item disabled">
+                    <a class="page-link">
+                        Previous
+                    </a>
+                </li>
+            }
+            <li class="page-item active">
+                <a class="page-link" asp-route-start=@Model.Query.start>
+                    @current
+                </a>
+            </li>
+            @if (next < Model.Prices.Total) {
+                <li class="page-item">
+                    <a class="page-link" asp-route-start=@next>
+                        Next
+                    </a>
+                </li>
+            } else {
+                <li class="page-item disabled">
+                    <a class="page-link">
+                        Next
+                    </a>
+                </li>
+            }
+            @if (last > 0 && Model.Prices.Total > Model.Prices.Count) {
+                <li class="page-item">
+                    <a class="page-link" asp-route-start=@last>
+                        Last
+                    </a>
+                </li>
+            } else {
+                <li class="page-item disabled">
+                    <a class="page-link">
+                        Last
+                    </a>
+                </li>
+            }
+        </ul>
+    </nav>
 </section>
