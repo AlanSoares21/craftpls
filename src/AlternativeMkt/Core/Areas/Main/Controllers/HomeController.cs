@@ -30,7 +30,8 @@ public class HomeController : BaseController
         StandardList<Db.CraftItemsPrice>? result;
         if (latestPricesJson is null) {
             result = _priceService.Search(new ListPricesParams() {
-                orderByCreateDate = true,
+                orderByCreatedDate = true,
+                onlyListItemsWithResources = true,
                 count = 10
             });
             await _cache.SetStringAsync(

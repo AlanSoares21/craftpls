@@ -271,7 +271,7 @@ public class PriceService : IPriceService
             .Where(FilterPrices(query))
             .Skip(query.start)
             .Take(query.count);
-        if (query.orderByCreateDate)
+        if (query.orderByCreatedDate)
             sqlQuery = sqlQuery.OrderBy(p => p.CreatedAt);
         else if (query.orderByCraftPrice)
             sqlQuery = sqlQuery.OrderBy(p => p.Price);
@@ -297,11 +297,12 @@ public class PriceService : IPriceService
             && (
                 query.itemId == null 
                 || p.ItemId == query.itemId
-            ) && (
+            ) 
+            && (
                 query.resourcesOf == null
                 || p.Item.ResourceFor.Where(r => r.ItemId == query.resourcesOf).Count() > 0 
             )
-            
+            && (!query.onlyListItemsWithResources || p.Item.Resources.Count() > 0)
             && (query.itemName == null ||
                 p.Item.Name != null 
                 && 

@@ -12,5 +12,6 @@ public class ListPricesParams : StandardPaginationParams
     public int? resourcesOf { get; set; }
     public byte? serverId { get; set; }
     public bool orderByCraftPrice { get; set; } = false;
-    public bool orderByCreateDate { get; set; } = false;
+    public bool orderByCreatedDate { get; set; } = false;
+    public bool onlyListItemsWithResources { get; set; } = false;
 }
