@@ -60,7 +60,7 @@ const ListResources: React.FC<IListResourcesProps> = ({
                         <h2>{item.name}</h2>
                     </Col>
                     <Col xs={1}>
-                        <Badge bg='danger' onClick={close}>X</Badge>
+                        <Button variant="secondary" onClick={close}>Back</Button>
                     </Col>
                 </Row>
                 Level: {item.level}
