@@ -54,7 +54,7 @@ export const CommomDataProvider: React.FC<PropsWithChildren> = ({children}) => {
             if (isApiError(r)) {
                 alert("Error on request static data. Message: " + r.message)
             } else {
-                setStaticData( v=> ({...v, static: r}))
+                setStaticData(r)
             }
         });
     }, [])
