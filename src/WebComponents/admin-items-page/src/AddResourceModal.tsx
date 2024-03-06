@@ -17,7 +17,7 @@ export interface IAddResourceModalProps {
 const AddResourceModal: React.FC<IAddResourceModalProps> = ({
     open, onClose, item, onSuccess
 }) => {
-    const {lastResourcesAdded, addResourceInCache} = useContext(CommomDataContext);
+    const {lastResourcesAdded, addResourceInCache, getResourceAmountInCache} = useContext(CommomDataContext);
     
     const [errorMesage, setError] = useState("");
     const [resourceSelected, setResource] = useState<IItem>()
@@ -34,7 +34,7 @@ const AddResourceModal: React.FC<IAddResourceModalProps> = ({
             return;
         }
         console.log("add resource in modal");
-        addResourceInCache(resourceSelected);
+        addResourceInCache(resourceSelected, amount);
         addItemResource({
             itemId: item.id,
             resourceId: resourceSelected.id,
@@ -97,13 +97,21 @@ const AddResourceModal: React.FC<IAddResourceModalProps> = ({
             {
                 (resourceSelected === undefined && lastResourcesAdded.length > 0) &&
                 <Row>{
-                    lastResourcesAdded.map(i => (<Col className="mb-1" key={i.id}><Button onClick={() => setResource(i)} variant="success">
-                        {
-                            i.asset !== null &&
-                            <Image src={getAssetUrl(i.asset)} />
-                        }
-                        {i.name} - {i.level}
-                    </Button></Col>))
+                    lastResourcesAdded.map(i => (<Col className="mb-1" key={i.id}>
+                        <Button 
+                            onClick={() => {
+                                setAmount(getResourceAmountInCache(i.id))
+                                setResource(i)
+                            }} 
+                            variant="success"
+                        >
+                            {
+                                i.asset !== null &&
+                                <Image src={getAssetUrl(i.asset)} />
+                            }
+                            {i.name} - {i.level}
+                        </Button>
+                    </Col>))
                 }</Row>
             }
             <Form>
