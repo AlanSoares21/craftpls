@@ -63,56 +63,11 @@
 
 <section class="row justify-content-center">
     <nav class="col-auto">
-        <ul class="pagination">
-            <li class="page-item">
-                <a asp-route-start="0" class="page-link">
-                    First
-                </a>
-            </li>
-            @if (current != 1) {
-                <li class="page-item">
-                        <a class="page-link" asp-route-start=@previous>
-                            Previous
-                        </a>
-                </li>
-            } else {
-                <li class="page-item disabled">
-                    <a class="page-link">
-                        Previous
-                    </a>
-                </li>
-            }
-            <li class="page-item active">
-                <a class="page-link" asp-route-start=@Model.Query.start>
-                    @current
-                </a>
-            </li>
-            @if (next < Model.Prices.Total) {
-                <li class="page-item">
-                    <a class="page-link" asp-route-start=@next>
-                        Next
-                    </a>
-                </li>
-            } else {
-                <li class="page-item disabled">
-                    <a class="page-link">
-                        Next
-                    </a>
-                </li>
-            }
-            @if (last > 0 && Model.Prices.Total > Model.Prices.Count) {
-                <li class="page-item">
-                    <a class="page-link" asp-route-start=@last>
-                        Last
-                    </a>
-                </li>
-            } else {
-                <li class="page-item disabled">
-                    <a class="page-link">
-                        Last
-                    </a>
-                </li>
-            }
-        </ul>
+        @await Component.InvokeAsync("Pagination", new {
+            start = Model.Query.start,
+            count = Model.Query.count,
+            total = Model.Prices.Total,
+            query = new Dictionary<string, string>()
+        })
     </nav>
 </section>
