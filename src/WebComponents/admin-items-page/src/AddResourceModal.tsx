@@ -1,10 +1,11 @@
-import React, { useCallback, useState } from "react";
-import { Button, Col, Modal, Row, Image, Badge, Stack, Form } from "react-bootstrap";
+import React, { useCallback, useContext, useState } from "react";
+import { Button, Col, Modal, Row, Image, Stack, Form } from "react-bootstrap";
 import { IItem } from "./interfaces";
 import SelectItem from "./SelectItem";
 import { getAssetUrl, handleNumericInput } from "./utils";
 import { addItemResource } from "./api";
 import { isApiError } from "./typeCheck";
+import { CommomDataContext } from "./CommomDataContext";
 
 export interface IAddResourceModalProps {
     item: IItem
@@ -16,6 +17,8 @@ export interface IAddResourceModalProps {
 const AddResourceModal: React.FC<IAddResourceModalProps> = ({
     open, onClose, item, onSuccess
 }) => {
+    const {lastResourcesAdded, addResourceInCache} = useContext(CommomDataContext);
+    
     const [errorMesage, setError] = useState("");
     const [resourceSelected, setResource] = useState<IItem>()
 
@@ -30,6 +33,8 @@ const AddResourceModal: React.FC<IAddResourceModalProps> = ({
             setError("The amount should be greater than one");
             return;
         }
+        console.log("add resource in modal");
+        addResourceInCache(resourceSelected);
         addItemResource({
             itemId: item.id,
             resourceId: resourceSelected.id,
@@ -44,7 +49,7 @@ const AddResourceModal: React.FC<IAddResourceModalProps> = ({
             setAmount(1);
             onSuccess();
         })
-    }, [item, resourceSelected, setResource, amount, setAmount, onSuccess, setError]);
+    }, [item, resourceSelected, setResource, amount, setAmount, onSuccess, setError, addResourceInCache]);
 
     return (<Modal show={open} onHide={onClose} size="lg">
         <Modal.Header closeButton>
@@ -78,7 +83,7 @@ const AddResourceModal: React.FC<IAddResourceModalProps> = ({
                                         <h5>{resourceSelected.name}</h5>
                                     </Col>
                                     <Col xs={1}>
-                                        <Badge bg='warning' onClick={() => setResource(undefined)}>X</Badge>
+                                        <Button variant='warning' onClick={() => setResource(undefined)}>X</Button>
                                     </Col>
                                 </Row>
                                 <div>
@@ -89,6 +94,18 @@ const AddResourceModal: React.FC<IAddResourceModalProps> = ({
                     </> 
             }
             </Row>
+            {
+                (resourceSelected === undefined && lastResourcesAdded.length > 0) &&
+                <Row>{
+                    lastResourcesAdded.map(i => (<Col className="mb-1" key={i.id}><Button onClick={() => setResource(i)} variant="success">
+                        {
+                            i.asset !== null &&
+                            <Image src={getAssetUrl(i.asset)} />
+                        }
+                        {i.name} - {i.level}
+                    </Button></Col>))
+                }</Row>
+            }
             <Form>
                 <Form.Label htmlFor="txtAmount">Amount</Form.Label>
                 <Form.Control 

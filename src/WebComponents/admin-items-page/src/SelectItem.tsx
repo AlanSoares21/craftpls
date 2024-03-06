@@ -133,15 +133,18 @@ const SelectItem : React.FC<ISelectItemProps> = ({
                         </tbody>
                     </Table>
                 </Row>
-                <StandardPagination 
-                    total={total} 
-                    count={searchParams.count} 
-                    start={searchParams.start} 
-                    goTo={(index: number) => {
-                        setSearchParams(p => ({...p, start: index}))
-                        searchItems({...searchParams, start: index})
-                    }}
-                />
+                {
+                    items.length > 0 &&
+                    <StandardPagination 
+                        total={total} 
+                        count={searchParams.count} 
+                        start={searchParams.start} 
+                        goTo={(index: number) => {
+                            setSearchParams(p => ({...p, start: index}))
+                            searchItems({...searchParams, start: index})
+                        }}
+                    />
+                }
             </Stack>
         </Container>
     )
