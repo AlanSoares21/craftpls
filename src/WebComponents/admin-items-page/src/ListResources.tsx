@@ -1,4 +1,4 @@
-import { Badge, Button, Col, Container, Image, Row, Table } from "react-bootstrap";
+import { Button, Col, Container, Image, Row, Table } from "react-bootstrap";
 import { ICraftResource, IItem } from "./interfaces";
 import { getAssetUrl } from "./utils";
 import { useCallback, useEffect, useState } from "react";
