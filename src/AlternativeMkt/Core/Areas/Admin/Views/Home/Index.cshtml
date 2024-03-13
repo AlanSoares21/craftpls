@@ -1,3 +1,73 @@
-<section>
-    Hey! bem vindo admin
-</section>
+@using AlternativeMkt.Admin.Models
+@model ListAccountsRequestData
+
+@{
+    ViewData["Title"] = "Manufacturer Requests";
+    string? timeZoneId = ""; 
+    if (!Context.Request.Cookies.TryGetValue("UserTimezoneId", out timeZoneId)) {
+        timeZoneId = "UTC";
+    }
+    TimeZoneInfo userTz = TimeZoneInfo.FindSystemTimeZoneById(timeZoneId);
+    string datePattern = "yyyy/MM/dd HH:mm";
+}
+
+<h3 class="display-6">This accounts requested access</h3>
+<ul class="list-group mb-2">
+    @foreach (CreateUserAccountRequest request in Model.Requests.Data) {
+        <li class="list-group-item">
+            <div class="row">
+                <div class="col">
+                    @request.Email
+                </div>
+                <div class="col">
+                    Requested at
+                    @TimeZoneInfo.ConvertTimeFromUtc(request.CreatedAt, userTz).ToString(datePattern)
+                </div>
+                @if (request.AcceptedAt.HasValue) {
+                    <div class="col">
+                        Accepted at @TimeZoneInfo.ConvertTimeFromUtc(request.AcceptedAt.Value, userTz).ToString(datePattern)
+                    </div>
+                } else {
+                    <div class="col">
+                        <form
+                            method="post"
+                            asp-controller="User"
+                            asp-action="RegisterAccount"
+                        >
+                            <input type="hidden" name="email" value="@request.Email" />
+                            <input type="submit" class="btn btn-success" value="Accept this user" />
+                        </form>
+                    </div>
+                }
+                
+            </div>
+        </li>
+    }
+</ul>
+@{
+    Dictionary<string, string> paginationParams = Model.Query.GetType()
+        .GetProperties(System.Reflection.BindingFlags.Instance | System.Reflection.BindingFlags.Public)
+        .ToDictionary(p => p.Name, p => {
+            var propValue = p.GetValue(Model.Query, null);
+            if (propValue is null)
+                return "";
+            string? value = propValue.ToString();
+            if (string.IsNullOrEmpty(value))
+                return "";
+            return value;
+        });
+}
+<nav class="row justify-content-center">
+    <div class="col-4"> 
+        @await Component.InvokeAsync("Pagination", new {
+            start = Model.Query.start,
+            count = Model.Query.count,
+            total = Model.Requests.Total,
+            query = paginationParams
+        })
+    </div>
+    <div class="w-100"></div>
+    <div class="col-4">
+        @Model.Requests.Total requests.
+    </div>
+</nav>

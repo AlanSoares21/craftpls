@@ -1,0 +1,73 @@
+@model PaginationData
+
+<ul class="pagination">
+    <li class="page-item">
+        <a 
+            asp-all-route-data=@Model.RouteParams
+            asp-route-start="0" 
+            class="page-link"
+        >
+            First
+        </a>
+    </li>
+    @if (Model.CurrentPage != 1) {
+        <li class="page-item">
+                <a 
+                    asp-all-route-data=@Model.RouteParams
+                    asp-route-start=@Model.PreviousIndex
+                    class="page-link" 
+                >
+                    Previous
+                </a>
+        </li>
+    } else {
+        <li class="page-item disabled">
+            <a class="page-link">
+                Previous
+            </a>
+        </li>
+    }
+    <li class="page-item active">
+        <a 
+            asp-all-route-data=@Model.RouteParams
+            asp-route-start=@Model.CurrentIndex
+            class="page-link" 
+        >
+            @Model.CurrentPage
+        </a>
+    </li>
+    @if (Model.NextIndex < Model.Total) {
+        <li class="page-item">
+            <a 
+                asp-all-route-data=@Model.RouteParams            
+                asp-route-start=@Model.NextIndex
+                class="page-link" 
+            >
+                Next
+            </a>
+        </li>
+    } else {
+        <li class="page-item disabled">
+            <a class="page-link">
+                Next
+            </a>
+        </li>
+    }
+    @if (Model.LastValidIndex > 0 && Model.Total > Model.Count) {
+        <li class="page-item">
+            <a 
+                asp-all-route-data=@Model.RouteParams
+                asp-route-start=@Model.LastValidIndex
+                class="page-link" 
+            >
+                Last
+            </a>
+        </li>
+    } else {
+        <li class="page-item disabled">
+            <a class="page-link">
+                Last
+            </a>
+        </li>
+    }
+</ul>

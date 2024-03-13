@@ -40,6 +40,7 @@ public partial class MktDbContext : DbContext
     public virtual DbSet<ResourceProvided> ResourcesProvided { get; set; } = null!;
     public virtual DbSet<Attribute> Attributes { get; set; } = null!;
     public virtual DbSet<CraftItemAttribute> CraftItemsAttributes { get; set; } = null!;
+    public virtual DbSet<CreateUserAccountRequest> CreateUserAccountRequests { get; set; } = null!;
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
         string? connstring = _configuration.GetConnectionString("MainDb");
@@ -434,6 +435,22 @@ public partial class MktDbContext : DbContext
                 .WithMany(a => a.Attributes)
                 .HasForeignKey(e => e.ItemId)
                 .HasConstraintName("craft_items_attributes_itemid_fkey");
+        });
+
+        modelBuilder.Entity<CreateUserAccountRequest>(entity => {
+            entity.ToTable("create_user_account_requests");
+            entity.HasKey(e => e.Email).HasName("users_create_account_request_key");
+
+            entity.Property(e => e.Email).HasColumnName("email");
+
+            entity.Property(e => e.CreatedAt)
+                .HasDefaultValueSql("CURRENT_TIMESTAMP")
+                .HasColumnType("timestamp without time zone")
+                .HasColumnName("createdat");
+
+            entity.Property(e => e.AcceptedAt)
+                .HasColumnType("timestamp without time zone")
+                .HasColumnName("acceptedat");
         });
 
         OnModelCreatingPartial(modelBuilder);

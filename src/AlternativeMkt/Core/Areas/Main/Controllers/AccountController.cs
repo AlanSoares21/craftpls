@@ -2,6 +2,7 @@
 using System.Globalization;
 using System.Reflection.Metadata;
 using System.Text.Json;
+using AlternativeMkt.Admin.Models;
 using AlternativeMkt.Auth;
 using AlternativeMkt.Db;
 using AlternativeMkt.Main.Models;
@@ -33,6 +34,49 @@ public class AccountController: BaseController
         _db = db;
         _auth = auth;
     }
+
+    public IActionResult CreateAccount() {
+        return View("CreateAccount");
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> RegisterRequest([Bind("email")] RegisterAccountData data ) {
+        var requestsCount = _db.CreateUserAccountRequests.Count();
+        if (requestsCount >= 200) {
+            _logger.LogError("Access Requests at limit({count}). user tried to request access for {email}",
+                requestsCount,
+                data.email
+            );
+            ViewData["ErrorMessage"] = "We are not accepting access request right now, try again later.";
+            return View("Error");
+        }
+        var user = _db.Users.Where(u => u.Email == data.email).SingleOrDefault();
+        if (user is not null) {
+            _logger.LogError("Tryed to request access to {email}, but a user with this email is already registered {id}",
+                data.email,
+                user.Id
+            );
+            ViewData["ErrorMessage"] = "A user with this email is already registered";
+            return View("Error");
+        }
+        var request = _db.CreateUserAccountRequests
+            .Where(r => r.Email == data.email)
+            .SingleOrDefault();
+        if (request is not null) {
+            _logger.LogError("Tryed to request access to {email}, but a request for this email is already registered",
+                data.email
+            );
+            ViewData["ErrorMessage"] = "A request with this email is already registered";
+            return View("Error");
+        }
+        request = new CreateUserAccountRequest() {
+            Email = data.email
+        };
+        _db.CreateUserAccountRequests.Add(request);
+        await _db.SaveChangesAsync();
+        return View("RequestRegistered", request.Email);
+    }
+
     public IActionResult OAuth() {
         const string googleUrl = "https://accounts.google.com/o/oauth2/v2/auth";
         string url = $"{googleUrl}{GetGoogleOAuthQuery()}";
@@ -46,11 +90,13 @@ public class AccountController: BaseController
         string? clientOrigin = _config["ClientOrigin"];
         if (clientOrigin is null)
             throw new Exception("Fail to get client origin");
-        QueryBuilder builder = new();
-        builder.Add("client_id", googleClientId);
-        builder.Add("redirect_uri", $"{clientOrigin}{Url.Action("Login")}");
-        builder.Add("response_type", "token");
-        builder.Add("scope", "https://www.googleapis.com/auth/userinfo.email");
+        QueryBuilder builder = new()
+        {
+            { "client_id", googleClientId },
+            { "redirect_uri", $"{clientOrigin}{Url.Action("Login")}" },
+            { "response_type", "token" },
+            { "scope", "https://www.googleapis.com/auth/userinfo.email" }
+        };
         return builder.ToString();
     }
 

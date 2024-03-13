@@ -38,7 +38,7 @@ docker run \
 -v dotnet-packages-cache:$PackagesPath \
 -v dotnet-tools-cache:$ToolsPath \
 -e "ConnectionStrings:MainDb"="User ID=$DbUser;Password=$DbPassword;Host=$DbHost;Port=$DbPort;Database=$DbName" \
-mcr.microsoft.com/dotnet/sdk:7.0 << EOF   
+mcr.microsoft.com/dotnet/sdk:8.0 << EOF   
 pwd
 env
 cd code
