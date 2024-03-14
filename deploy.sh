@@ -118,6 +118,6 @@ if [ -n "$AltMktContainerId" ]; then
 fi
 
 echo "running site container"
-docker run -dp 4000:80 --name $AltMktContainerName --network $DockerNetwork --hostname $AltMktHost --env-file .env.production $AltMktImg 
+docker run -dp 4000:8080 --name $AltMktContainerName --network $DockerNetwork --hostname $AltMktHost --env-file .env.production $AltMktImg 
 ifErrorExit $? "Error on running the site container"
 echo "site deployed"
