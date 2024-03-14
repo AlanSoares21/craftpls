@@ -41,6 +41,11 @@ public class AccountController: BaseController
 
     [HttpPost]
     public async Task<IActionResult> RegisterRequest([Bind("email")] RegisterAccountData data ) {
+        if (!data.email.EndsWith("@gmail.com")) {
+            _logger.LogError("Email {email} is not a gmail account", data.email);
+            ViewData["ErrorMessage"] = "You should provide a gmail address.";
+            return View("Error");
+        }
         var requestsCount = _db.CreateUserAccountRequests.Count();
         if (requestsCount >= 200) {
             _logger.LogError("Access Requests at limit({count}). user tried to request access for {email}",
