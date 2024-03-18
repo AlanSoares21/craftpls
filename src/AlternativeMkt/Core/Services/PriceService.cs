@@ -311,7 +311,9 @@ public class PriceService : IPriceService
                     $"%{query.itemName}%"
                 )
             ) 
-            && (query.itemCategory == null ||
+            && (query.itemMaxLevel == null || p.Item.Level <= query.itemMaxLevel)
+            && (query.itemMinLevel == null || p.Item.Level >= query.itemMinLevel)
+            && (query.itemCategory == null || query.itemCategory == -1 ||
                 p.Item.CategoryId != null && p.Item.CategoryId == query.itemCategory
             );
     }

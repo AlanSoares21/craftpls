@@ -9,6 +9,8 @@ public class ListPricesParams : StandardPaginationParams
     public int? itemId { get; set; }
     public string? itemName { get; set; }
     public int? itemCategory { get; set; }
+    public int? itemMaxLevel { get; set; }
+    public int? itemMinLevel { get; set; }
     public int? resourcesOf { get; set; }
     public byte? serverId { get; set; }
     public bool orderByCraftPrice { get; set; } = false;

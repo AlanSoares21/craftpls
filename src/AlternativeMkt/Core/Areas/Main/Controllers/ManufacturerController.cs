@@ -70,6 +70,7 @@ public class ManufacturerController: BaseController
                             .Count() > 0
                     )
                 )
+            .Include(m => m.User)
             .Where(m => 
                 m.Id == id
                 && m.DeletedAt == null
@@ -80,6 +81,11 @@ public class ManufacturerController: BaseController
             _logger.LogInformation("Manufacturer {m} not found in db", id);
             return View("Error", $"Manufacturer not found");
         }
+        _logger.LogInformation("Max level: {max} - Min level: {min} - Category: {c}", 
+            query.itemMaxLevel,
+            query.itemMinLevel,
+            query.itemCategory
+        );
         query.manufacturerId = manufacturer.Id;
         query.onlyListItemsWithResources = true;
         query.orderByCreatedDate = true;

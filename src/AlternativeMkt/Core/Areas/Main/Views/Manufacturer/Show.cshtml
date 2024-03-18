@@ -8,18 +8,49 @@
     int previous = Model.Query.start - Model.Query.count;
     if (current == 1 && previous < 0)
         previous = 0;
-    int last = (Model.Prices.Total - Model.Prices.Count) + Model.Prices.Total % Model.Prices.Count;
+    int last = (Model.Prices.Total - Model.Query.count) + Model.Prices.Total % Model.Query.count;
     Model.Prices.Data.Reverse();
 }
 
 <section class="row text-center mb-2">
-    <h1 class="col-12 display-5">@Model.Manufacturer.User.Name</h1>
+    @if (!string.IsNullOrEmpty(Model.Manufacturer.User.Name)) {
+        <h1 class="col-12 display-5">@Model.Manufacturer.User.Name</h1>
+    }
     <h2 class="col-12 display-7">@Model.Manufacturer.Server.Name</h2>
     <div>
         @foreach(var account in Model.Manufacturer.User.GameAccounts) {
             <span class="badge bg-info">@account.Name</span>
         }
     </div>
+</section>
+
+<section>
+     <form class="row mb-3">
+        <div class="col-auto">
+            <label for="itemName" class="form-label">@text["ItemNameLabel"]</label>
+            <input class="form-control" name="itemName" type="text" value="@Model.Query.itemName" />
+        </div>
+        <div class="col-auto">
+            @{
+                if (Model.Query.itemCategory == null) {
+                    <vc:category-selection name="itemCategory" hasoptionany="y" />
+                } else {
+                    <vc:category-selection name="itemCategory" hasoptionany="y" selected="@Model.Query.itemCategory.Value" />
+                }
+            }
+        </div>
+        <div class="col-auto">
+            <label for="itemMinLevel" class="form-label">@text["MinLevelLabel"]</label>
+            <input class="form-control" name="itemMinLevel" type="numeric" value="@Model.Query.itemMinLevel" />
+        </div>
+        <div class="col-auto">
+            <label for="itemMaxLevel" class="form-label">@text["MaxLevelLabel"]</label>
+            <input class="form-control" name="itemMaxLevel" type="numeric" value="@Model.Query.itemMaxLevel" />
+        </div>
+        <div class="col-auto pt-4">
+            <input class="btn btn-success" type="submit" value=@text["btnSearch"] />
+        </div>
+    </form>
 </section>
 
 <section class="row justify-content-center">
