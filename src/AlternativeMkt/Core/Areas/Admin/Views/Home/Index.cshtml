@@ -44,26 +44,13 @@
         </li>
     }
 </ul>
-@{
-    Dictionary<string, string> paginationParams = Model.Query.GetType()
-        .GetProperties(System.Reflection.BindingFlags.Instance | System.Reflection.BindingFlags.Public)
-        .ToDictionary(p => p.Name, p => {
-            var propValue = p.GetValue(Model.Query, null);
-            if (propValue is null)
-                return "";
-            string? value = propValue.ToString();
-            if (string.IsNullOrEmpty(value))
-                return "";
-            return value;
-        });
-}
 <nav class="row justify-content-center">
     <div class="col-4"> 
         @await Component.InvokeAsync("Pagination", new {
             start = Model.Query.start,
             count = Model.Query.count,
             total = Model.Requests.Total,
-            query = paginationParams
+            query = ServerUtils.GetQueryValues(Model.Query)
         })
     </div>
     <div class="w-100"></div>

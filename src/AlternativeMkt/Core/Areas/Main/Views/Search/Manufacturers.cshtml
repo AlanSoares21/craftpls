@@ -86,24 +86,11 @@
 </section>
 <section class="row justify-content-center">
     <div class="col-auto">
-        @{
-            Dictionary<string, string> paginationParams = Model.Query.GetType()
-                .GetProperties(System.Reflection.BindingFlags.Instance | System.Reflection.BindingFlags.Public)
-                .ToDictionary(p => p.Name, p => {
-                    var propValue = p.GetValue(Model.Query, null);
-                    if (propValue is null)
-                        return "";
-                    string? value = propValue.ToString();
-                    if (string.IsNullOrEmpty(value))
-                        return "";
-                    return value;
-                });
-        }
         @await Component.InvokeAsync("Pagination", new {
             start = Model.Query.start,
             count = Model.Query.count,
             total = Model.Prices.Total,
-            query = paginationParams
+            query = ServerUtils.GetQueryValues(Model.Query)
         })
     </div>
 </section>

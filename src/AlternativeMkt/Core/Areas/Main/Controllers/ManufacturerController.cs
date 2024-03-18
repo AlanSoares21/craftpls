@@ -61,6 +61,7 @@ public class ManufacturerController: BaseController
     ) {
         if (query.count > 10 || query.count < 1)
             query.count = 10;
+            query.count = 1;
         Manufacturer? manufacturer = await _db.Manufacturers
             .Include(m => m.Server)
                 .ThenInclude(s => s.GameAccounts

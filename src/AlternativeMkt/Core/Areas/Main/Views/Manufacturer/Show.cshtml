@@ -98,7 +98,7 @@
             start = Model.Query.start,
             count = Model.Query.count,
             total = Model.Prices.Total,
-            query = new Dictionary<string, string>()
+            query = ServerUtils.GetQueryValues(Model.Query)
         })
     </nav>
 </section>
