@@ -268,16 +268,17 @@ public class PriceService : IPriceService
                 .ThenInclude(m => m.Server)
             .Include(p => p.Manufacturer)
                 .ThenInclude(m => m.User)
-            .Where(FilterPrices(query))
-            .Skip(query.start)
-            .Take(query.count);
+            .Where(FilterPrices(query));
         if (query.orderByCreatedDate)
-            sqlQuery = sqlQuery.OrderBy(p => p.CreatedAt);
+            sqlQuery = sqlQuery.OrderByDescending(p => p.CreatedAt);
         else if (query.orderByCraftPrice)
             sqlQuery = sqlQuery.OrderBy(p => p.Price);
         else
             sqlQuery = sqlQuery.OrderBy(p => p.TotalPrice);
-        list.Data = sqlQuery.ToList();
+        list.Data = sqlQuery
+            .Skip(query.start)
+            .Take(query.count)
+            .ToList();
         list.Count = list.Data.Count;
         list.Total = _db.CraftItemsPrices
             .Where(FilterPrices(query))
