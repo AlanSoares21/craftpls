@@ -17,13 +17,16 @@ public abstract class BaseAdminController : Controller
     public override void OnActionExecuting(
         ActionExecutingContext context
     ) {
-        string? culture = context.RouteData.Values["culture"]?.ToString();
-        if (string.IsNullOrEmpty(culture))
-            culture = "en";
-        var cultureInfo = CultureInfo.GetCultureInfo(culture);
+        var cultureInfo = CultureInfo.GetCultureInfo(GetCulture());
         Thread.CurrentThread.CurrentCulture = cultureInfo;
         Thread.CurrentThread.CurrentUICulture = cultureInfo;
-        
         base.OnActionExecuting(context);
+    }
+
+    protected string GetCulture() {
+        string? culture = HttpContext.Request.Cookies["Culture"];
+        if (string.IsNullOrEmpty(culture))
+            return "en";
+        return culture;
     }
 }

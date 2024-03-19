@@ -22,7 +22,11 @@
                         />
                     }
                     <div class="card-header">
-                        @price.Item.Name
+                        @if (price.Item.DataByCulture.Count > 0) {
+                            @price.Item.DataByCulture.First().Name
+                        } else {
+                            @price.Item.Name
+                        }
                         Level: @price.Item.Level
                         <div>
                             @foreach(var itemAttribute in price.Item.Attributes) {

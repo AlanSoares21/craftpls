@@ -124,23 +124,21 @@ app.MapControllerRoute(
     pattern: "",
     defaults: new {
         area = "main",
-        culture = "en",
-        controller = "ChangeCulture",
-        action = "RedirectToLocalized"
+        controller = "Home",
+        action = "Index"
     }
 );
 
 app.MapAreaControllerRoute(
     name: "default",
     areaName: "main|admin",
-    pattern: "{area=main}/{culture}/{controller=Home}/{action=Index}/{id?}",
+    pattern: "{area=main}/{controller=Home}/{action=Index}/{id?}",
     defaults: new {
         area = "main",
-        culture = "en",
         controller = "Home",
         action = "Index"
     },
-    constraints: new { area = "main|admin", culture = "en|pt" }
+    constraints: new { area = "main|admin" }
 );
 
 app.Run();

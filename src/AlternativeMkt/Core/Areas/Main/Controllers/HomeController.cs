@@ -26,16 +26,19 @@ public class HomeController : BaseController
     }
 
     async Task<StandardList<Db.CraftItemsPrice>> GetLatestPrices() {
-        string? latestPricesJson = await _cache.GetStringAsync("LatestPrices");
+        string culture = GetCulture();
+        string cacheKey = "LatestPrices" + culture;
+        string? latestPricesJson = await _cache.GetStringAsync(cacheKey);
         StandardList<Db.CraftItemsPrice>? result;
         if (latestPricesJson is null) {
             result = _priceService.Search(new ListPricesParams() {
                 orderByCreatedDate = true,
                 onlyListItemsWithResources = true,
-                count = 10
+                count = 10,
+                culture = culture
             });
             await _cache.SetStringAsync(
-                "LatestPrices", 
+                cacheKey, 
                 JsonSerializer.Serialize(result, new JsonSerializerOptions() {
                     ReferenceHandler = ReferenceHandler.IgnoreCycles
                 }),

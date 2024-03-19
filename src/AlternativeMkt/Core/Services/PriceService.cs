@@ -262,6 +262,8 @@ public class PriceService : IPriceService
         var sqlQuery = _db.CraftItemsPrices
             .Include(p => p.Item)
                 .ThenInclude(i => i.Asset)
+            .Include(p => p.Item.DataByCulture
+                .Where(d => d.Culture == query.culture))
             .Include(p => p.Item.Attributes)
                 .ThenInclude(a => a.Attribute)
             .Include(p => p.Manufacturer)
@@ -305,11 +307,24 @@ public class PriceService : IPriceService
             )
             && (!query.onlyListItemsWithResources || p.Item.Resources.Count() > 0)
             && (query.itemName == null ||
-                p.Item.Name != null 
-                && 
-                EF.Functions.ILike(
-                    p.Item.Name,
-                    $"%{query.itemName}%"
+                (query.culture != null && query.culture != "en" && 
+                    p.Item.DataByCulture.Count > 1 
+                    &&
+                    p.Item.DataByCulture.First().Culture == query.culture
+                    &&
+                    EF.Functions.ILike(
+                        p.Item.DataByCulture.First().Name,
+                        $"%{query.itemName}%"
+                    )
+                )
+                ||
+                ((query.culture == null || query.culture == "en") &&
+                    p.Item.Name != null 
+                    && 
+                    EF.Functions.ILike(
+                        p.Item.Name,
+                        $"%{query.itemName}%"
+                    )
                 )
             ) 
             && (query.itemMaxLevel == null || p.Item.Level <= query.itemMaxLevel)

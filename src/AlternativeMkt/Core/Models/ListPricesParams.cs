@@ -16,4 +16,5 @@ public class ListPricesParams : StandardPaginationParams
     public bool orderByCraftPrice { get; set; } = false;
     public bool orderByCreatedDate { get; set; } = false;
     public bool onlyListItemsWithResources { get; set; } = false;
+    public string? culture { get; set; }
 }

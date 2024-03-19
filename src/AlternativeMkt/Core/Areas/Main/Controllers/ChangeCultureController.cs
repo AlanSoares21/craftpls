@@ -12,13 +12,10 @@ public class ChangeCultureController: BaseController
     }
     public IActionResult Index(string culture, string redirectTo="") {
         CultureInfo.CurrentCulture = new CultureInfo(culture);
+        Response.Cookies.Append("Culture", culture);
         _logger.LogInformation("Changing culture to {c}", culture);
         if (!string.IsNullOrEmpty(redirectTo))
             return Redirect(redirectTo);
         return Redirect("Home");
-    }
-
-    public IActionResult RedirectToLocalized() {
-        return RedirectPermanent("/main/en");
     }
 }

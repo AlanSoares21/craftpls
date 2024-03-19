@@ -149,7 +149,7 @@ public class AccountController: BaseController
         if (user is null) {
             await CreateNewUser(email);
             user = await _db.Users.SingleAsync(u => u.Email == email);
-            redirectTo = $"/main/{CultureInfo.CurrentCulture.Name}/GameAccount/New?newAccount=y";
+            redirectTo = $"/main/GameAccount/New?newAccount=y";
         }
         await CreateSessionTokens(user);
         return Redirect(redirectTo);
