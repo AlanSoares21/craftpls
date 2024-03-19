@@ -13,6 +13,7 @@ public partial class CraftItem
     public int? CategoryId { get; set; }
     public CraftCategory? Category { get; set; }
     public int? AssetId { get; set; }
+    public List<CraftItemDataByCulture> DataByCulture = new();
 
     public ICollection<CraftItemsPrice> Prices { get; set; } = new List<CraftItemsPrice>();
     public ICollection<CraftResource> Resources { get; set; } = new List<CraftResource>();

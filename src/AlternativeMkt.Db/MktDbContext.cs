@@ -89,6 +89,27 @@ public partial class MktDbContext : DbContext
                 .HasConstraintName("craft_items_craftcategoryid_fkey");
         });
 
+        modelBuilder.Entity<CraftItemDataByCulture>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("craft_items_data_by_culture_pkey");
+
+            entity.ToTable("craft_items_data_by_culture");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.ItemId).HasColumnName("itemid");
+            entity.Property(e => e.Name)
+                .HasMaxLength(100)
+                .HasColumnName("name");
+            entity.Property(e => e.Culture)
+                .HasMaxLength(10)
+                .HasColumnName("culture");
+
+            entity.HasOne(d => d.Item).WithMany(i => i.DataByCulture)
+                .HasForeignKey(d => d.ItemId)
+                .OnDelete(DeleteBehavior.Cascade)
+                .HasConstraintName("craft_items_data_by_culture_fkey");
+        });
+
         modelBuilder.Entity<CraftItemsPrice>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("craft_items_prices_pkey");
