@@ -129,4 +129,20 @@
     <value>Hide you account from searchs</value>
     <comment/>
   </data>
+  <data name="UpdateBtn" xml:space="preserve">
+    <value>Update</value>
+    <comment/>
+  </data>
+  <data name="PricesBtn" xml:space="preserve">
+    <value>Prices</value>
+    <comment/>
+  </data>
+  <data name="RequestsBtn" xml:space="preserve">
+    <value>Requests</value>
+    <comment/>
+  </data>
+  <data name="SwitchServerBtn" xml:space="preserve">
+    <value>SwitchServer</value>
+    <comment/>
+  </data>
 </root>

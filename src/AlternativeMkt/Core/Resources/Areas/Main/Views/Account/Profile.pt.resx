@@ -117,20 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="TxtAccountNameLabel" xml:space="preserve">
-    <value>Nome</value>
+  <data name="EditAccountNameBtn" xml:space="preserve">
+    <value>Editar nome</value>
     <comment/>
   </data>
-  <data name="BtnSubmitText" xml:space="preserve">
-    <value>Adicionar</value>
+  <data name="GameAccountsTxt" xml:space="preserve">
+    <value>Contas</value>
     <comment/>
   </data>
-  <data name="InfoForNewUsers" xml:space="preserve">
-    <value>Forneça o nome da sua conta e servidor, isso permitirá que outros usuários entrem em contato com você no jogo.</value>
+  <data name="AddGameAccountBtn" xml:space="preserve">
+    <value>Adcionar conta</value>
     <comment/>
   </data>
-  <data name="AddGameAccountTitle" xml:space="preserve">
-    <value>Adicionar conta</value>
+  <data name="CraftsmanDashboardBtn" xml:space="preserve">
+    <value>Painel do artesão</value>
+    <comment/>
+  </data>
+  <data name="RequestsBtn" xml:space="preserve">
+    <value>Encomendas</value>
+    <comment/>
+  </data>
+  <data name="AdminPageBtn" xml:space="preserve">
+    <value>Go to admin page</value>
     <comment/>
   </data>
 </root>

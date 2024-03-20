@@ -117,20 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="TxtAccountNameLabel" xml:space="preserve">
-    <value>Nome</value>
+  <data name="MaxRequestsOpenLabel" xml:space="preserve">
+    <value>Open requests limit</value>
     <comment/>
   </data>
-  <data name="BtnSubmitText" xml:space="preserve">
-    <value>Adicionar</value>
+  <data name="MaxRequestsAcceptedLabel" xml:space="preserve">
+    <value>Accepted request limit</value>
     <comment/>
   </data>
-  <data name="InfoForNewUsers" xml:space="preserve">
-    <value>Forneça o nome da sua conta e servidor, isso permitirá que outros usuários entrem em contato com você no jogo.</value>
-    <comment/>
-  </data>
-  <data name="AddGameAccountTitle" xml:space="preserve">
-    <value>Adicionar conta</value>
+  <data name="AddCraftsmanBtn" xml:space="preserve">
+    <value>Save</value>
     <comment/>
   </data>
 </root>

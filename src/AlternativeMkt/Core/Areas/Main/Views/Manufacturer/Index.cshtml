@@ -2,7 +2,7 @@
 @model Manufacturer
 
 @{
-    ViewData["Title"] = "Manufacturer";
+    ViewData["Title"] = "Craftsman";
 }
 <!-- Your data as manufacturer -->
 <form asp-action="Edit" asp-route-id="@Model.Id" class="row g-3 align-items-center">
@@ -20,14 +20,36 @@
         <label for="hide" class="form-check-label">@text["HideLabel"]</label>
     </div>  
     <div class="col mb-1">
-        <input type="submit" class="btn btn-success" value="Update">
+        <input 
+            type="submit" 
+            class="btn btn-success" 
+            value=@text["UpdateBtn"]
+        >
     </div>
 </form>
 
 
 <!-- Pages to handle prices and requests -->
 <section class="container mt-3">
-    <a asp-action="Prices" asp-route-id=@Model.Id class="btn btn-primary">Prices</a>
-    <a asp-action="Requests" asp-route-id=@Model.Id class="btn btn-primary">Requests</a>
-    <a asp-action="Index" asp-route-id="" class="btn btn-secondary">Switch server</a>
+    <a 
+        asp-action="Prices" 
+        asp-route-id=@Model.Id 
+        class="btn btn-primary"
+    >
+        @text["PricesBtn"]
+    </a>
+    <a 
+        asp-action="Requests" 
+        asp-route-id=@Model.Id 
+        class="btn btn-primary"
+    >
+        @text["RequestsBtn"]
+    </a>
+    <a 
+        asp-action="Index" 
+        asp-route-id="" 
+        class="btn btn-secondary"
+    >
+        @text["SwitchServerBtn"]
+    </a>
 </section>

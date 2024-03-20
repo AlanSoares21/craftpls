@@ -1,7 +1,8 @@
+@inject IViewLocalizer text
 @model List<Manufacturer>
 
 @{
-    ViewData["Title"] = "Select Manufacturer";
+    ViewData["Title"] = "Select craftsman server";
 }
 
 <section class="list-group mb-2">
@@ -12,4 +13,4 @@
         </a>
     }
 </section>
-<a asp-action="New" class="btn btn-primary">New Manufacturer</a>
+<a asp-action="New" class="btn btn-primary">@text["NewCraftsmanBtn"]</a>

@@ -129,4 +129,20 @@
     <value>Esconder conta nas buscas</value>
     <comment/>
   </data>
+  <data name="UpdateBtn" xml:space="preserve">
+    <value>Atualizar</value>
+    <comment/>
+  </data>
+  <data name="PricesBtn" xml:space="preserve">
+    <value>Preços</value>
+    <comment/>
+  </data>
+  <data name="RequestsBtn" xml:space="preserve">
+    <value>Encomendas</value>
+    <comment/>
+  </data>
+  <data name="SwitchServerBtn" xml:space="preserve">
+    <value>Alterar servidor</value>
+    <comment/>
+  </data>
 </root>
