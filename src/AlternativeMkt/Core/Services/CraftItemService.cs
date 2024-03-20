@@ -60,11 +60,9 @@ public class CraftItemService : ICraftItemService
             query.name == null || 
             (
                 query.culture != null && query.culture != "en" && 
-                i.DataByCulture.Count > 1 
+                i.DataByCulture.Count > 0
                 &&
                 i.DataByCulture.First().Culture == query.culture
-                &&
-                i.Name != null 
                 && 
                 EF.Functions.ILike(
                     i.DataByCulture.First().Name,
