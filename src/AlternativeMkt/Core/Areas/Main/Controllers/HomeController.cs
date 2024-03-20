@@ -6,7 +6,6 @@ using AlternativeMkt.Models;
 using AlternativeMkt.Api.Models;
 using Microsoft.Extensions.Caching.Distributed;
 using System.Text.Json;
-using System.Runtime.CompilerServices;
 using System.Text.Json.Serialization;
 
 namespace AlternativeMkt.Main.Controllers;
@@ -15,10 +14,14 @@ public class HomeController : BaseController
 {
     IPriceService _priceService;
     IDistributedCache _cache;
+    ILogger<HomeController> _logger;
     public HomeController(IPriceService priceService,
-        IDistributedCache cache) {
+        IDistributedCache cache,
+        ILogger<HomeController> logger
+    ) {
         _priceService = priceService;
         _cache = cache;
+        _logger = logger;
     }
     public async Task<IActionResult> Index()
     {
@@ -37,11 +40,20 @@ public class HomeController : BaseController
                 count = 10,
                 culture = culture
             });
+            string resultAsJson = JsonSerializer.Serialize(
+                result, 
+                new JsonSerializerOptions() {
+                    ReferenceHandler = ReferenceHandler.IgnoreCycles
+                }
+            );
+            _logger.LogInformation("Storing prices in the cache for culture {culture} with the key {key} - length: {l}", 
+                culture, 
+                cacheKey,
+                resultAsJson.Length
+            );
             await _cache.SetStringAsync(
                 cacheKey, 
-                JsonSerializer.Serialize(result, new JsonSerializerOptions() {
-                    ReferenceHandler = ReferenceHandler.IgnoreCycles
-                }),
+                resultAsJson,
                 new DistributedCacheEntryOptions() {
                     SlidingExpiration = TimeSpan.FromSeconds(60 * 3),
                     AbsoluteExpirationRelativeToNow = TimeSpan.FromSeconds(60 * 5)
