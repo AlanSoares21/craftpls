@@ -117,12 +117,24 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ChooseServerLabel" xml:space="preserve">
-    <value>Escolher servidor</value>
+  <data name="OrderByCraftPriceLabel" xml:space="preserve">
+    <value>Order by craft price</value>
     <comment/>
   </data>
-  <data name="AnyOptionText" xml:space="preserve">
-    <value>Todos</value>
+  <data name="FilterBtn" xml:space="preserve">
+    <value>Apply Filter</value>
+    <comment/>
+  </data>
+  <data name="XCraftersFoundForItemTxt" xml:space="preserve">
+    <value>craftsman found for</value>
+    <comment/>
+  </data>
+  <data name="TotalPriceTxt" xml:space="preserve">
+    <value>Total price</value>
+    <comment/>
+  </data>
+  <data name="CraftPriceTxt" xml:space="preserve">
+    <value>Craft price</value>
     <comment/>
   </data>
 </root>

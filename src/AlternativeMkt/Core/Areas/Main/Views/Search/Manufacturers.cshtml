@@ -1,4 +1,5 @@
 @inject ServerConfig config
+@inject IViewLocalizer text
 @using AlternativeMkt.Db
 @model SearchItemPrices
 
@@ -18,7 +19,11 @@
         
     </div>
     <div class="col-6">
-        <h5 class="card-title">@Model.Item.Name</h5>
+        @if (Model.Item.DataByCulture.Count > 0) {
+            <h5 class="card-title">@Model.Item.DataByCulture.First().Name</h5>
+        } else {
+            <h5 class="card-title">@Model.Item.Name</h5>
+        }
         Level: @Model.Item.Level
         <div>
             @foreach(var itemAttribute in Model.Item.Attributes) {
@@ -40,18 +45,33 @@
                 }
             </div>
             <div class="mb-1">
-                <input class="form-check-input" type="checkbox" name="orderByCraftPrice" id="orderByCraftPrice" checked="@Model.Query.orderByCraftPrice">
-                <label class="form-check-label" for="orderByCraftPrice">Order by craft price</label>
+                <input 
+                    class="form-check-input" 
+                    type="checkbox" 
+                    name="orderByCraftPrice" 
+                    id="orderByCraftPrice" 
+                    checked="@Model.Query.orderByCraftPrice"
+                >
+                <label 
+                    class="form-check-label" 
+                    for="orderByCraftPrice"
+                >
+                    @text["OrderByCraftPriceLabel"]
+                </label>
             </div>
-            <input class="form-control btn-success" type="submit" value="Apply" />
+            <input 
+                class="form-control btn-success" 
+                type="submit" 
+                value=@text["FilterBtn"]
+            />
             <input type="hidden" value="@Model.Item.Id" name="itemId" />
         </form>
     </div>
 </section>
-<section class="row">
-    @foreach (CraftItemsPrice itemPrice in Model.Prices.Data)
-    {
-        <div class="col mb-2">
+<section class="mb-2">
+    <ul class="list-group">
+        @foreach (CraftItemsPrice itemPrice in Model.Prices.Data)
+        {
             <a
                 class="list-group-item list-group-item-action"
                 asp-controller="Request"
@@ -59,30 +79,24 @@
                 asp-route-id="@itemPrice.Id"
                 asp-route-manufacturerId="@itemPrice.ManufacturerId"
             >
-                <p>Server: @itemPrice.Manufacturer.Server.Name</p>
-                <p>
-                    Manufacturer: 
-                    @string.Join(
-                        ", ", 
-                        itemPrice.Manufacturer.Server.GameAccounts.Select(a => a.Name)
-                    )
-                </p>
-                @{
-                    if (Model.Query.orderByCraftPrice) {
-                        <p>
-                            Total Price: @itemPrice.TotalPrice
-                            <b>Craft Price: @itemPrice.Price</b> 
-                        </p>
-                    } else {
-                        <p>
-                            <b>Total Price: @itemPrice.TotalPrice</b> 
-                            Craft Price: @itemPrice.Price
-                        </p>
-                    }
+                @if (Model.Query.orderByCraftPrice) {
+                    <div>
+                        <b>@text["CraftPriceTxt"]: @itemPrice.Price</b> 
+                        @text["TotalPriceTxt"]: @itemPrice.TotalPrice
+                    </div>
+                } else {
+                    <div>
+                        @text["CraftPriceTxt"]: @itemPrice.Price
+                        <b>@text["TotalPriceTxt"]: @itemPrice.TotalPrice</b> 
+                    </div>
                 }
+                @foreach(var account in itemPrice.Manufacturer.Server.GameAccounts) {
+                    <span class="badge bg-info">@account.Name</span>
+                }
+                @itemPrice.Manufacturer.Server.Name
             </a>
-        </div>
-    }
+        }
+    </ul>
 </section>
 <section class="row justify-content-center">
     <div class="col-auto">
@@ -96,6 +110,11 @@
 </section>
 <section class="row justify-content-center">
     <div class="col-auto">
-        @Model.Prices.Total crafters found for "@Model.Item.Name".
+        @{
+            string name = Model.Item.Name + "";
+            if (Model.Item.DataByCulture.Count > 0)
+                name = Model.Item.DataByCulture.First().Name;
+        }
+        @Model.Prices.Total @text["XCraftersFoundForItemTxt"] "@name"
     </div>
 </section>

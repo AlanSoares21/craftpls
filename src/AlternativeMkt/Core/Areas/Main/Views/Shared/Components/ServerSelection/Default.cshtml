@@ -5,7 +5,7 @@
 <select id="selectServer" name="@Model.Name" class="form-select">
     @{
         if (Model.HasOptionAny) {
-            <option value="-1" selected=@(Model.ServerId == -1)>Any</option>
+            <option value="-1" selected=@(Model.ServerId == -1)>@text["AnyOptionText"]</option>
         }
     }
 

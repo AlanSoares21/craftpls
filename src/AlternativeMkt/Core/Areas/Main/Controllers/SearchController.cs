@@ -33,6 +33,7 @@ public class SearchController : BaseController {
         query.itemId = item.Id;
         query.resourcesChanged = false;
         query.orderByCraftPrice = orderByCraftPrice == "on";
+        query.culture = GetCulture();
         if (serverId > 0 && serverId > byte.MinValue && serverId < byte.MaxValue)
             query.serverId = (byte)serverId;
         var result = _priceService.Search(query);
