@@ -89,6 +89,7 @@ public class ManufacturerController: BaseController
         query.manufacturerId = manufacturer.Id;
         query.onlyListItemsWithResources = true;
         query.orderByCreatedDate = true;
+        query.culture = GetCulture();
         var result = _priceService.Search(query);
         return View(new ManufacturerShowData() {
             Manufacturer = manufacturer,

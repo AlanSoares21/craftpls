@@ -60,7 +60,11 @@
                     <img src="@config.AssetsUrl/@price.Item.Asset.Endpoint" class="card-img-top"/>
                 }
                 <div class="card-header">
-                    @price.Item.Name
+                    @if (price.Item.DataByCulture.Count > 0) {
+                        <div>@price.Item.DataByCulture.First().Name</div>
+                    } else {
+                        <div>@price.Item.Name</div>
+                    }
                     Level: @price.Item.Level
                     <div>
                         @foreach(var itemAttribute in price.Item.Attributes) {

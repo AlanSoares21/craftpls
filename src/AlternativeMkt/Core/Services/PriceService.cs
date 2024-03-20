@@ -308,7 +308,7 @@ public class PriceService : IPriceService
             && (!query.onlyListItemsWithResources || p.Item.Resources.Count() > 0)
             && (query.itemName == null ||
                 (query.culture != null && query.culture != "en" && 
-                    p.Item.DataByCulture.Count > 1 
+                    p.Item.DataByCulture.Count > 0
                     &&
                     p.Item.DataByCulture.First().Culture == query.culture
                     &&
