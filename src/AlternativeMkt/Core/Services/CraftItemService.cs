@@ -41,6 +41,8 @@ public class CraftItemService : ICraftItemService
             .Include(i => i.Asset)
             .Include(i => i.Attributes)
                 .ThenInclude(a => a.Attribute)
+            .Include(i => i.DataByCulture
+                .Where(d => d.Culture == query.culture))
             .Where(FiltreItems(query))
             .OrderBy(i => i.Id)
             .Skip(query.start)
@@ -56,12 +58,28 @@ public class CraftItemService : ICraftItemService
         return i => 
         (
             query.name == null || 
-            i.Name != null && 
-            EF.Functions.ILike(
-                i.Name,
-                $"%{query.name}%"
+            (
+                query.culture != null && query.culture != "en" && 
+                i.DataByCulture.Count > 1 
+                &&
+                i.DataByCulture.First().Culture == query.culture
+                &&
+                i.Name != null 
+                && 
+                EF.Functions.ILike(
+                    i.DataByCulture.First().Name,
+                    $"%{query.name}%"
+                )
             )
-        ) 
+            ||
+            ((query.culture == null || query.culture == "en") && (
+                i.Name != null && 
+                EF.Functions.ILike(
+                    i.Name,
+                    $"%{query.name}%"
+                )
+            ))
+        )  
         && (!query.onlyListItemsWithResources || i.Resources.Count > 0)
         && (query.categoryId == null || i.CategoryId == query.categoryId)
         &&

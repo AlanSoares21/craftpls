@@ -21,6 +21,7 @@ public class CraftItemController: BaseController
             query.categoryId = null;
         ViewData["CraftItemQuery"] = query;
         query.onlyListItemsWithResources = true;
+        query.culture = GetCulture();
         return View(
             _craftItemService.SearchItems(query)
         );

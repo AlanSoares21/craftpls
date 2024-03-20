@@ -121,4 +121,8 @@
     <value>Category</value>
     <comment/>
   </data>
+  <data name="AnyOptionText" xml:space="preserve">
+    <value>Any</value>
+    <comment/>
+  </data>
 </root>

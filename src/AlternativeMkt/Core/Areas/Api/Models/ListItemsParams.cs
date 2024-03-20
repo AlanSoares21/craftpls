@@ -8,4 +8,5 @@ public class ListItemsParams: StandardPaginationParams
     public int? minLevel { get; set; }
     public int? categoryId { get; set; }
     public bool onlyListItemsWithResources { get; set; } = false;
+    public string? culture { get; set; }
 }

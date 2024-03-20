@@ -117,8 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="SearchBarPlaceholder" xml:space="preserve">
-    <value>Procurar item</value>
+  <data name="ChooseCategoryLabel" xml:space="preserve">
+    <value>Categoria</value>
+    <comment/>
+  </data>
+  <data name="AnyOptionText" xml:space="preserve">
+    <value>Todos</value>
     <comment/>
   </data>
 </root>

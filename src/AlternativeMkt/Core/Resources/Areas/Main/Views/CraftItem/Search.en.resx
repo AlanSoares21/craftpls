@@ -137,4 +137,8 @@
     <value>Search</value>
     <comment/>
   </data>
+  <data name="SearchPricesBtn" xml:space="preserve">
+    <value>Search prices</value>
+    <comment/>
+  </data>
 </root>

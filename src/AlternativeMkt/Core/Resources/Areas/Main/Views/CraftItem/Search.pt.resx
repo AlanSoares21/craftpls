@@ -117,8 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="SearchBarPlaceholder" xml:space="preserve">
-    <value>Procurar item</value>
+  <data name="ItemNameLabel" xml:space="preserve">
+    <value>Item</value>
+    <comment/>
+  </data>
+  <data name="MinLevelLabel" xml:space="preserve">
+    <value>Level mínimo</value>
+    <comment/>
+  </data>
+  <data name="MaxLevelLabel" xml:space="preserve">
+    <value>Level máximo</value>
+    <comment/>
+  </data>
+  <data name="XItemsFoundForItemName" xml:space="preserve">
+    <value>items encontrados para</value>
+    <comment/>
+  </data>
+  <data name="btnSearch" xml:space="preserve">
+    <value>Filtrar</value>
+    <comment/>
+  </data>
+  <data name="SearchPricesBtn" xml:space="preserve">
+    <value>Buscar preços</value>
     <comment/>
   </data>
 </root>
