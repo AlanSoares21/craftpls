@@ -34,6 +34,8 @@ public class RequestController: BaseController
         var price = _db.CraftItemsPrices
             .Include(p => p.Item)
                 .ThenInclude(i => i.Asset)
+            .Include(p => p.Item.DataByCulture
+                .Where(d => d.Culture == GetCulture()))
             .Include(p => p.Item.Attributes)
                 .ThenInclude(a => a.Attribute)
             .Include(p => p.Manufacturer)
@@ -59,6 +61,8 @@ public class RequestController: BaseController
                     && !p.ResourcesChanged
                 )
             )
+            .Include(r => r.Resource.DataByCulture
+                .Where(d => d.Culture == GetCulture()))
             .Where(r => r.ItemId == price.ItemId)
             .ToList();
         price.Item.Resources = resources;

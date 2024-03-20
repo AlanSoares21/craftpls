@@ -1,4 +1,5 @@
 @inject ServerConfig config
+@inject IViewLocalizer text
 @model CraftItemsPrice
 
 @{
@@ -12,7 +13,11 @@
         </div> 
     } 
     <div class="col-6">
-        <h2>@Model.Item.Name</h2>
+        @if (Model.Item.DataByCulture.Count > 0) {
+            <h2>@Model.Item.DataByCulture.First().Name</h2>
+        } else {
+            <h2>@Model.Item.Name</h2>
+        }
         <div class="row">
             <div class="col-8">
                 <div>
@@ -42,10 +47,10 @@
             </div>
             <div class="col-4">
                 <div>
-                    Craft price: @Model.Price
+                    @text["CraftPriceTxt"]: @Model.Price
                 </div>
                 <div>
-                    Total price: <b>@Model.TotalPrice</b>
+                    @text["TotalPriceTxt"]: <b>@Model.TotalPrice</b>
                 </div>
             </div>
         </div>
@@ -56,15 +61,15 @@
         <table class="table">
             <thead>
                 <tr>
-                    <th colspan="6" class="text-center">Craft Resources</th>
+                    <th colspan="6" class="text-center">@text["CraftResourcesTableName"]</th>
                 </tr>
                 <tr>
-                    <th>Icon</th>
-                    <th>Name</th>
+                    <th>@text["IconHeader"]</th>
+                    <th>@text["NameHeader"]</th>
                     <th>Level</th>
-                    <th>Price</th>
-                    <th>Amount</th>
-                    <th>You will provide this items?</th>
+                    <th>@text["PriceHeader"]</th>
+                    <th>@text["AmountHeader"]</th>
+                    <th>@text["ProvideCheckHeader"]</th>
                 </tr>
             </thead>
             <tbody>
@@ -74,12 +79,19 @@
                         <td>
                             @if (@craftResource.Resource.Asset != null) {
                                 <image 
+                                    style="max-height: 5rem; max-width: 5rem;"
                                     class="w-100 rounded" 
                                     src="@config.AssetsUrl/@craftResource.Resource.Asset.Endpoint" 
                                 />
                             }
                         </td>
-                        <td>@craftResource.Resource.Name</td>
+                        <td>
+                            @if (craftResource.Resource.DataByCulture.Count > 0) {
+                                @craftResource.Resource.DataByCulture.First().Name
+                            } else {
+                                @craftResource.Resource.Name
+                            }
+                        </td>
                         <td>@craftResource.Resource.Level</td>
                         <td>
                             @if (craftResource.Resource.Prices.Count > 0) {
@@ -104,9 +116,9 @@
     <div class="col-4">
         @if (User.Identity is not null && User.Identity.IsAuthenticated) {
             <input type="hidden" name="PriceId" value="@Model.Id" />
-            <input type="submit" class="btn btn-success" value="Request" />
+            <input type="submit" class="btn btn-success" value="@text["RequestBtn"]" />
         } else {
-            <input type="submit" class="btn btn-success" value="Create an account to request a craft" disabled="true" />
+            <input type="submit" class="btn btn-success" value="@text["CreateAccountBtnPlaceholder"]" disabled="true" />
         }
     </div>
 </form>
