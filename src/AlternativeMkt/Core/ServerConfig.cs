@@ -34,4 +34,5 @@ public class ServerConfig
     public string? AssetsUrl => _configuration["AssetsUrl"];
     public string? GameName => _configuration["GameName"];
     public string? AboutThisInstance => _configuration["About:Instance"];
+    public string? AboutThisInstanceShort => _configuration["About:InstanceShort"];
 }
