@@ -165,6 +165,15 @@ public class ItemsController: BaseApiController
             Level = data.level,
             Name = data.name
         };
+        if (data.NamesByCulture.Count > 0) {
+            foreach (string culture in data.NamesByCulture.Keys)
+            {
+                craftItem.DataByCulture.Add(new CraftItemDataByCulture() {
+                    Culture = culture,
+                    Name = data.NamesByCulture[culture]
+                });
+            }
+        }
         if (asset is not null) {
             craftItem.Asset = asset;
             craftItem.AssetId = asset.Id;

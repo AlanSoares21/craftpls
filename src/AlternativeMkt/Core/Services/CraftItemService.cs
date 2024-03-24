@@ -19,7 +19,8 @@ public class CraftItemService : ICraftItemService
     {
         await _db.CraftItems.AddAsync(item);
         int rowsAffected = await _db.SaveChangesAsync();
-        return rowsAffected == 1 + item.Attributes.Count;
+        return rowsAffected == 
+            1 + item.Attributes.Count + item.DataByCulture.Count;
     }
 
     public async Task<bool> Delete(int itemId)
