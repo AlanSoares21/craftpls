@@ -140,7 +140,7 @@ const AddNewItemModal: React.FC<IAddNewItemModalProps> = ({
                             </Form.Select>
                             <Form.Control
                                 onChange={ev => {
-                                    const value = parseInt(ev.currentTarget.value)
+                                    const value = parseFloat(ev.currentTarget.value)
                                     const atts = [...attributes]
                                     atts[i].value = value
                                     setAttributes(atts)
