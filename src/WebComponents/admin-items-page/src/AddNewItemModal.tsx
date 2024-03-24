@@ -3,7 +3,7 @@ import { Button, Form, Modal, Image, Stack } from "react-bootstrap";
 import { CommomDataContext } from "./CommomDataContext";
 import { getAssetUrl, handleNumericInput } from "./utils";
 import SelectAsset from "./SelectAsset";
-import { IAsset, IAttribute } from "./interfaces";
+import { IAsset, IAttribute, IItemToAdd } from "./interfaces";
 import { addItem } from "./api";
 import { isApiError } from "./typeCheck";
 
@@ -25,6 +25,8 @@ const AddNewItemModal: React.FC<IAddNewItemModalProps> = ({
         attribute: IAttribute
         value: number
     }[]>([])
+    const [names, setNames] = useState<{culture: string, value: string}[]>([])
+    const [cultureToAdd, setCultureToAdd] = useState<string>("pt")
 
     const handleAddItem = useCallback(() => {
         console.log(attributes)
@@ -36,7 +38,11 @@ const AddNewItemModal: React.FC<IAddNewItemModalProps> = ({
         addItem({name, level, categoryId, assetId: asset?.id, 
             attributes: attributes.map(a => 
                 ({attributeId: a.attribute.id, value: a.value})
-            )
+            ),
+            namesByCulture: names.reduce((prev, v) => {
+                prev[v.culture] = v.value
+                return prev
+            }, {} as IItemToAdd['namesByCulture'])
         }).then(r => {
             if (isApiError(r))
                 alert(`Error on add item ${name}. Message: ${r.message}`)
@@ -46,10 +52,11 @@ const AddNewItemModal: React.FC<IAddNewItemModalProps> = ({
                 setCategoryId(undefined)
                 setAsset(undefined)
                 setAttributes([])
+                setNames([])
                 onItemAdded()
             }
         })
-    }, [categoryId, level, name, asset, attributes, onItemAdded])    
+    }, [categoryId, level, name, asset, attributes, names, onItemAdded])    
 
     return (<Modal show={isOpen} onHide={close} size="lg">
         <Modal.Header>
@@ -62,6 +69,40 @@ const AddNewItemModal: React.FC<IAddNewItemModalProps> = ({
                     name='itemName' 
                     onChange={ev => setName(ev.currentTarget.value)}
                 />
+            </div>
+            <div className="mt-1 mb-1">
+                <Form.Label htmlFor="culture">Culture to add</Form.Label>
+                <Form.Control 
+                    name='culture' 
+                    value={cultureToAdd} 
+                    onChange={ev => setCultureToAdd(ev.currentTarget.value)}
+                />
+                <Button 
+                    className="mt-1"
+                    variant='success'
+                    onClick={() => {
+                        setNames([...names, {culture: cultureToAdd, value: "Name"}])
+                    }}
+                >
+                    Add culture
+                </Button>
+            </div>
+            <div className="mb-1">
+                {
+                    names.map((n, i) => (
+                        <div key={n.culture} className="mb-1">
+                            <Form.Label>Name in {n.culture}</Form.Label>
+                            <Form.Control 
+                                defaultValue={n.value} 
+                                onChange={ev => {
+                                    const newNames = [...names]
+                                    newNames[i].value = ev.currentTarget.value
+                                    setNames(newNames)
+                                }}
+                            />
+                        </div>
+                    ))
+                }
             </div>
             <div>
                 <Form.Label htmlFor='level'>Level</Form.Label>
@@ -172,6 +213,7 @@ const AddNewItemModal: React.FC<IAddNewItemModalProps> = ({
                     setCategoryId(undefined)
                     setAsset(undefined)
                     setAttributes([])
+                    setNames([])
                     close()
                 }}
             >

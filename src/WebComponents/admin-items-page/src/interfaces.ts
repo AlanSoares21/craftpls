@@ -62,6 +62,7 @@ export interface IItemToAdd {
         attributeId: number
         value: number
     }[]
+    namesByCulture: {[culture: string]: string}
 }
 
 export interface ICraftResource {
