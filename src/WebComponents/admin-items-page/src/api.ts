@@ -1,4 +1,4 @@
-import { IAddCraftResource, IApiError, ICraftResource, IItem, IListItemsParams, IStandardList, IStaticData, IUpdateCraftResource } from "./interfaces";
+import { IAddCraftResource, IApiError, IAsset, ICraftResource, IItem, IItemToAdd, IListAssetsParams, IListItemsParams, IStandardList, IStaticData, IUpdateCraftResource } from "./interfaces";
 import { isApiError } from "./typeCheck";
 
 const baseUrl = import.meta.env.VITE_ApiUrl;
@@ -129,6 +129,49 @@ export async function deleteItems(
     .then(async r => {
         if (r.status === 204)
             return true;
+        return handleError(r);
+    });
+}
+
+export async function addItem(item: IItemToAdd) {
+    return fetch(
+        `${baseUrl}/Items`, 
+        { 
+            headers: defaultHeaders, 
+            method: 'POST',
+            body: JSON.stringify(item)
+        }
+    )
+    .then(async r => {
+        if (r.status === 201)
+            return JSON.parse(await r.text()) as IItem;
+        return handleError(r);
+    });
+}
+
+export async function listAssets(p: IListAssetsParams) {
+    return fetch(
+            `${baseUrl}/Assets?${getQueryString(p)}`, 
+            { headers: defaultHeaders }
+        )
+        .then(async r => {
+            if (r.status === 200)
+                return JSON.parse(await r.text()) as IStandardList<IAsset>;
+            return handleError(r);
+        });
+}
+
+export async function getItem(itemId: number) {
+    return fetch(
+        `${baseUrl}/Items/${itemId}`, 
+        { 
+            headers: defaultHeaders, 
+            method: 'GET'
+        }
+    )
+    .then(async r => {
+        if (r.status === 200)
+            return JSON.parse(await r.text()) as IItem;
         return handleError(r);
     });
 }

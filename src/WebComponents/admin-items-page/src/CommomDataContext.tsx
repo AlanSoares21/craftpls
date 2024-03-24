@@ -15,12 +15,15 @@ export const CommomDataContext = React.createContext<ICommomDataContext>({
     getResourceAmountInCache: () => 1,
     lastResourcesAdded: [],
     static: {
-        categories: []
+        categories: [],
+        attributes: []
     }
 });
 
 export const CommomDataProvider: React.FC<PropsWithChildren> = ({children}) => {
-    const [staticData, setStaticData] = useState<ICommomDataContext['static']>({categories: []})
+    const [staticData, setStaticData] = useState<ICommomDataContext['static']>({
+        categories: [], attributes: []
+    })
     const [lastResourcesAdded, setLastResourcesAdded] = useState<IItem[]>([])
     const [resourcesAmount, setResourcesAmount] = 
         useState<{id: IItem['id'], amount: number}[]>([])

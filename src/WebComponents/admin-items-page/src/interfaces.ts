@@ -15,6 +15,12 @@ export interface IFilterItems {
 export interface IListItemsParams extends IStandardPaginationParams, IFilterItems {
 }
 
+export interface IListAssetsParams extends IStandardPaginationParams {
+    unusedAssets?: boolean
+    itemName?: string
+    endpoint?: string
+}
+
 export interface IStandardList<TData> {
     count: number
     start: number
@@ -38,6 +44,24 @@ export interface IItem {
     resourceFor: ICraftResource[]
     // requests: any[]
     asset: IAsset | null
+    attributes: IItemAttribute[]
+}
+
+export interface IItemAttribute {
+    id: number
+    value: number
+    attribute: IAttribute
+}
+
+export interface IItemToAdd {
+    name: string
+    categoryId?: number
+    level?: number
+    assetId?: number
+    attributes: {
+        attributeId: number
+        value: number
+    }[]
 }
 
 export interface ICraftResource {
@@ -65,9 +89,15 @@ export interface IAddCraftResource {
     amount: number
 }
 
+export interface IAttribute {
+    id: number
+    name: string
+}
+
 export interface IStaticData {
     categories: {
         id: number
         name: string
     }[]
+    attributes: IAttribute[]
 }

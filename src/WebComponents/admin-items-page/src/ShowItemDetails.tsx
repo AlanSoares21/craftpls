@@ -1,23 +1,26 @@
-import { Button, Col, Container, Image, Row, Table } from "react-bootstrap";
+import { Badge, Button, Col, Container, Image, Row, Table } from "react-bootstrap";
 import { ICraftResource, IItem } from "./interfaces";
 import { getAssetUrl } from "./utils";
-import { useCallback, useEffect, useState } from "react";
-import { deleteItemResource, listItemResources } from "./api";
+import { useCallback, useContext, useEffect, useState } from "react";
+import { deleteItemResource, getItem, listItemResources } from "./api";
 import { isApiError } from "./typeCheck";
 import AddResourceModal from "./AddResourceModal";
 import UpdateResourceModal from "./UpdateResourceModal";
+import { CommomDataContext } from "./CommomDataContext";
 
-export interface IListResourcesProps {
+export interface IShowItemDetailsProps {
     item: IItem
     close(): any
 }
 
-const ListResources: React.FC<IListResourcesProps> = ({
+const ShowItemDetails: React.FC<IShowItemDetailsProps> = ({
     item, close
 }) => {
+    const commomData = useContext(CommomDataContext)
     const [openAddModal, setOpenAddModal] = useState(false);
     const [resources, setResources] = useState<ICraftResource[]>([]);
     const [resourceToUpdate, setResourceToUpdate] = useState<ICraftResource>();
+    const [itemData, setItemData] = useState<IItem>();
 
     const searchResources = useCallback(() => {
         listItemResources(item.id)
@@ -44,6 +47,13 @@ const ListResources: React.FC<IListResourcesProps> = ({
 
     useEffect(() => {
         searchResources();
+        getItem(item.id)
+            .then(r => {
+                if (isApiError(r))
+                    alert(`Error on get item ${item.id}. Message: ${r.message}`)
+                else
+                    setItemData(itemData)
+            })
     }, []);
 
     return (<Container>
@@ -64,9 +74,21 @@ const ListResources: React.FC<IListResourcesProps> = ({
                     </Col>
                 </Row>
                 Level: {item.level}
+                <p>Category: {
+                    commomData.static.categories.find(c => c.id === item.categoryId)?.name
+                    ||
+                    "unknown"
+                }</p>
+                <p>Attributes: {
+                    item.attributes.map(a => (
+                        <Badge bg="warning">
+                            {a.attribute.name} - {a.value}
+                        </Badge>
+                    ))
+                }</p>
             </Col>
         </Row>
-        <Button variant="success" onClick={() => setOpenAddModal(true)}>Add</Button>
+        <Button variant="success" onClick={() => setOpenAddModal(true)}>Add Resource</Button>
         <Row>
             <Table>
                 <thead>
@@ -135,4 +157,4 @@ const ListResources: React.FC<IListResourcesProps> = ({
     </Container>);
 }
 
-export default ListResources;
+export default ShowItemDetails;
