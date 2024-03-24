@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AlternativeMkt.Admin.Controllers;
 
-public class ResourcesController : BaseAdminController
+public class ItemsController : BaseAdminController
 {   
     public IActionResult Index() => View();
 }
