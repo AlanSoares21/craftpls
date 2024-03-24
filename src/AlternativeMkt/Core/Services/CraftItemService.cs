@@ -15,6 +15,13 @@ public class CraftItemService : ICraftItemService
         _logger = logger;
     }
 
+    public async Task<bool> Add(CraftItem item)
+    {
+        await _db.CraftItems.AddAsync(item);
+        int rowsAffected = await _db.SaveChangesAsync();
+        return rowsAffected == 1 + item.Attributes.Count;
+    }
+
     public async Task<bool> Delete(int itemId)
     {
         var item = _db.CraftItems

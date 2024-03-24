@@ -23,7 +23,8 @@ public class StaticController: BaseApiController {
     public async Task<IActionResult> GetData() {
         try {
             return Ok(new StaticData() {
-                Categories = await GetCategories()
+                Categories = await GetCategories(),
+                Attributes = await GetAttributes()
             });
         } catch (Exception ex) {
             _logger.LogCritical("Unknowed error: {message} \n {stack}", ex.Message, ex.StackTrace);
@@ -52,6 +53,30 @@ public class StaticController: BaseApiController {
                 categories = deserializedData;
         }
         return categories;
+    }
+
+    async Task<List<Db.Attribute>> GetAttributes() {
+        var data = await _cache.GetStringAsync("ItemAttributes");
+        List<Db.Attribute> attributes;
+        if (string.IsNullOrEmpty(data)) {
+            attributes = _db.Attributes.ToList();
+            await _cache.SetStringAsync(
+                "ItemAttributes", 
+                JsonSerializer.Serialize(attributes), 
+                options: new DistributedCacheEntryOptions() {
+                    AbsoluteExpirationRelativeToNow = new TimeSpan(0, 30, 0),
+                    SlidingExpiration = new TimeSpan(0, 5, 0)
+                }
+            );
+        } else {
+            var deserializedData = JsonSerializer
+                .Deserialize<List<Db.Attribute>>(data);
+            if (deserializedData is null)
+                attributes = new();
+            else
+                attributes = deserializedData;
+        }
+        return attributes;
     }
     
 }

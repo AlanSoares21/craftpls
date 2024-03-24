@@ -9,4 +9,5 @@ public interface ICraftItemService
 {
     StandardList<CraftItem> SearchItems(ListItemsParams query);
     Task<bool> Delete(int itemId);
+    Task<bool> Add(CraftItem item);
 }

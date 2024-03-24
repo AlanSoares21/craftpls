@@ -41,6 +41,7 @@ public partial class MktDbContext : DbContext
     public virtual DbSet<Attribute> Attributes { get; set; } = null!;
     public virtual DbSet<CraftItemAttribute> CraftItemsAttributes { get; set; } = null!;
     public virtual DbSet<CreateUserAccountRequest> CreateUserAccountRequests { get; set; } = null!;
+    public virtual DbSet<Asset> Assets { get; set; } = null!;
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
         string? connstring = _configuration.GetConnectionString("MainDb");

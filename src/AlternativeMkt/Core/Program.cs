@@ -99,6 +99,7 @@ builder.Services
 
 var app = builder.Build();
 
+app.UseCors(CorsPolicyName);
 app.UseMiddleware<AuthMiddleware>();
 
 // Configure the HTTP request pipeline.
@@ -116,8 +117,6 @@ app.UseRouting();
 
 app.UseAuthorization();
 app.UseAuthentication();
-
-app.UseCors(CorsPolicyName);
 
 app.MapControllerRoute(
     name: "root",
