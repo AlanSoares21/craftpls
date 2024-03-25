@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /api/
+Disallow: /admin/
+Disallow: /main/Profile/
+Disallow: /main/Account/
+Disallow: /main/ChangeCulture/
+Allow: /main/
