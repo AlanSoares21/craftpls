@@ -111,14 +111,17 @@
     </div>
     <div class="w-100">
     </div>
-    <div class="col-8">
-    </div>
     <div class="col-4">
         @if (User.Identity is not null && User.Identity.IsAuthenticated) {
             <input type="hidden" name="PriceId" value="@Model.Id" />
             <input type="submit" class="btn btn-success" value="@text["RequestBtn"]" />
         } else {
-            <input type="submit" class="btn btn-success" value="@text["CreateAccountBtnPlaceholder"]" disabled="true" />
+            <input 
+                type="submit" 
+                class="btn btn-success" 
+                value="@text["CreateAccountBtnPlaceholder"]" 
+                disabled="true" 
+            />
         }
     </div>
 </form>
