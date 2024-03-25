@@ -126,58 +126,60 @@ const ListPrices: React.FC<IListPricesProps> = ({
                 </button>
             </div>
         </div>
-        {
-            searchingForPrices ?
-            <p>Searching items prices...</p>
-            :
-            (
-                data.length === 0 ?
-                <p>No items found</p>
+        <div style={{width: '100%', overflow: 'scroll'}}>
+            {
+                searchingForPrices ?
+                <p>Searching items prices...</p>
                 :
-                <table className="table">
-                    <thead>
-                        <tr>
-                            <th> </th>
-                            <th>Icon</th>
-                            <th>Name</th>
-                            <th>Level</th>
-                            <th>Total Price</th>
-                            <th>Craft Price</th>
-                            <th>Status</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                    {
-                        data.map(v => (<tr key={v.id}>
-                            <td>
-                                <input 
-                                    type="checkbox" 
-                                    onClick={() => addOrRemovePriceToEdit(v)} 
-                                    defaultChecked={pricesToEdit[v.id] !== undefined} 
-                                />
-                            </td>
-                            <td><img src={import.meta.env.VITE_AssetsUrl + '/' + v.item.asset?.endpoint} /></td>
-                            <td>{v.item.name}</td>
-                            <td>{v.item.level}</td>
-                            <td>{v.totalPrice}</td>
-                            <td>{v.price}</td>
-                            <td>
-                                {
-                                    v.resourcesChanged && 
-                                    <Badge 
-                                        bg='warning'
-                                        onClick={() => setPriceToCheckResource(v)}
-                                    >
-                                        Click to check resources
-                                    </Badge>
-                                }
-                            </td>
-                        </tr>))
-                    }
-                    </tbody>
-                </table>
-            )
-        }
+                (
+                    data.length === 0 ?
+                    <p>No items found</p>
+                    :
+                    <table className="table">
+                        <thead>
+                            <tr>
+                                <th> </th>
+                                <th>Icon</th>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Total Price</th>
+                                <th>Craft Price</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        {
+                            data.map(v => (<tr key={v.id}>
+                                <td>
+                                    <input 
+                                        type="checkbox" 
+                                        onClick={() => addOrRemovePriceToEdit(v)} 
+                                        defaultChecked={pricesToEdit[v.id] !== undefined} 
+                                    />
+                                </td>
+                                <td><img src={import.meta.env.VITE_AssetsUrl + '/' + v.item.asset?.endpoint} /></td>
+                                <td>{v.item.name}</td>
+                                <td>{v.item.level}</td>
+                                <td>{v.totalPrice}</td>
+                                <td>{v.price}</td>
+                                <td>
+                                    {
+                                        v.resourcesChanged && 
+                                        <Badge 
+                                            bg='warning'
+                                            onClick={() => setPriceToCheckResource(v)}
+                                        >
+                                            Click to check resources
+                                        </Badge>
+                                    }
+                                </td>
+                            </tr>))
+                        }
+                        </tbody>
+                    </table>
+                )
+            }
+        </div>
         <div className="row justify-content-center">
             <div className="col-1">
                 <Pagination 

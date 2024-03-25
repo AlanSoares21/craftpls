@@ -47,7 +47,7 @@ const NewPriceModal : React.FC<INewPriceModalProps> = ({
     }, [id, manufacturer, closePanel, item, price])
 
     return <div className="modal fade" id={id} tabIndex={-1} aria-hidden="true">
-        <div className="modal-dialog">
+        <div className="modal-dialog modal-lg">
             <div className="modal-content">
             
                 <div className="modal-header">

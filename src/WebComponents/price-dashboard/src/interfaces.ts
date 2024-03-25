@@ -24,6 +24,7 @@ export interface IFilterItems {
     maxLevel?: number;
     minLevel?: number;
     categoryId?: number;
+    onlyListItemsWithResources?: boolean;
 }
 
 export interface IListItemsParams extends IStandardPaginationParams, IFilterItems {

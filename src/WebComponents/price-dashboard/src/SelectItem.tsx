@@ -18,7 +18,8 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
     const [total, setTotal] = useState(1);
     const [pagination, setPagination] = useState<IListItemsParams>({
         count: 5,
-        start: 0
+        start: 0,
+        onlyListItemsWithResources: true
     });
     const [filterValues, setFilter] = useState<IFilterItems>({});
 
@@ -54,7 +55,7 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                 />
             </div>
         </div>
-        <div className="row mb-2">
+        <div className="row mb-1">
             <div className="col">
                 <label className="form-label" htmlFor="txtLevel">Level</label>
                 <input 
@@ -103,6 +104,25 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                     }}
                 />
             </div>
+            <div className="col-12 mt-1">
+                <input 
+                    id="chkOnlyListItemWithResources"
+                    type="checkbox" 
+                    className="form-check-input" 
+                    checked={pagination.onlyListItemsWithResources}
+                    onChange={() => {
+                        setPagination(p => ({...p, onlyListItemsWithResources: !p.onlyListItemsWithResources}))
+                    }}
+                />
+                <label 
+                    className="form-label" 
+                    htmlFor="chkOnlyListItemWithResources"
+                >
+                    only list items with resources
+                </label>
+            </div>
+        </div>
+        <div className="row mb-2">
             <div className="col">
                 <label className="form-label" htmlFor="selectCategory">Category</label>
                 <select 
