@@ -11,6 +11,8 @@ function updateTimeZone() {
 }
 
 function updateCulture() {
-    if (!document.cookie.includes('Culture'))
+    if (!document.cookie.includes('Culture')) {
         document.cookie = `Culture=${navigator.language.split('-')[0]};SameSite=none;Path=/`
+        location.href = location.href
+    }
 }
