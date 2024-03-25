@@ -1,7 +1,7 @@
 import React, { useCallback, useContext, useEffect, useState } from "react"
 import Pagination from "./Pagination"
 import { listItemResources, listItems, listPrices } from "./api";
-import { ICraftResource, IFilterItems, IItem, IItemPrice, IListItemsParams } from "./interfaces";
+import { ICraftResource, IItem, IItemPrice, IListItemsParams } from "./interfaces";
 import { Image, Stack, Table } from "react-bootstrap";
 import { getAssetUrl } from "./utils";
 import { CommomDataContext } from "./CommomDataContext";
@@ -16,12 +16,7 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
     const [items, setItems] = useState<IItem[]>([]);
 
     const [total, setTotal] = useState(1);
-    const [pagination, setPagination] = useState<IListItemsParams>({
-        count: 5,
-        start: 0,
-        onlyListItemsWithResources: true
-    });
-    const [filterValues, setFilter] = useState<IFilterItems>({});
+    const [pagination, setPagination] = useState<IListItemsParams>(commomData.newPricesListItemsParams);
 
     const searchItems = useCallback((p: IListItemsParams) => {
         listItems(p)
@@ -33,6 +28,7 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
     }, [total]);
 
     useEffect(() => {
+        console.log({commomData, pagination})
         searchItems(pagination);
     }, []);
 
@@ -46,11 +42,12 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                 <input 
                     type="text" 
                     className="form-control"
+                    defaultValue={pagination.name}
                     onChange={ev => {
                         if (ev.target.value)
-                            setFilter(p => ({...p, name: ev.target.value}))
+                            setPagination(p => ({...p, name: ev.target.value}))
                         else
-                            setFilter(p => ({...p, name: undefined}))
+                            setPagination(p => ({...p, name: undefined}))
                     }}
                 />
             </div>
@@ -63,12 +60,13 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                     type="number" 
                     className="form-control"
                     min={0} 
+                    defaultValue={pagination.level}
                     onChange={ev => {
                         let level = parseInt(ev.target.value)
                         if (Number.isInteger(level) && level > 0)
-                            setFilter(p => ({...p, level}))
+                            setPagination(p => ({...p, level}))
                         else
-                            setFilter(p => ({...p, level: undefined}))
+                            setPagination(p => ({...p, level: undefined}))
                     }}
                 />
             </div>
@@ -79,12 +77,13 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                     type="number" 
                     className="form-control" 
                     min={0}
+                    defaultValue={pagination.maxLevel}
                     onChange={ev => {
                         let maxLevel = parseInt(ev.target.value)
                         if (Number.isInteger(maxLevel) && maxLevel > 0)
-                            setFilter(p => ({...p, maxLevel}))
+                            setPagination(p => ({...p, maxLevel}))
                         else
-                            setFilter(p => ({...p, maxLevel: undefined}))
+                            setPagination(p => ({...p, maxLevel: undefined}))
                     }}
                 />
             </div>
@@ -94,13 +93,14 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                     id="txtMinLevel"
                     type="number" 
                     className="form-control" 
+                    defaultValue={pagination.minLevel}
                     min={0} 
                     onChange={ev => {
                         let minLevel = parseInt(ev.target.value)
                         if (Number.isInteger(minLevel) && minLevel > 0)
-                            setFilter(p => ({...p, minLevel}))
+                            setPagination(p => ({...p, minLevel}))
                         else
-                            setFilter(p => ({...p, minLevel: undefined}))
+                            setPagination(p => ({...p, minLevel: undefined}))
                     }}
                 />
             </div>
@@ -131,9 +131,9 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                     onChange={ev => {
                         const id = parseInt(ev.currentTarget.value)
                         if (id > 0)
-                            setFilter(p => ({...p, categoryId: id}))
+                            setPagination(p => ({...p, categoryId: id}))
                         else
-                            setFilter(p => ({...p, categoryId: undefined}))
+                            setPagination(p => ({...p, categoryId: undefined}))
                     }}
                 >
                     <option value={-1}>Any</option>
@@ -149,8 +149,8 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
             <button 
                 className="btn btn-primary"
                 onClick={() => {
-                    searchItems({...pagination, ...filterValues})
-                    setPagination({...pagination, ...filterValues})
+                    searchItems({...pagination})
+                    setPagination({...pagination})
                 }}
             >
                 Apply filter
@@ -170,7 +170,14 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                     <tbody>
                         {
                             items.map(item => (
-                                <tr key={item.id} onClick={() => itemSelected(item)}>
+                                <tr 
+                                    key={item.id} 
+                                    onClick={() => {
+                                        console.log("set new filter")
+                                        commomData.setNewPricesListItemsParams(pagination)
+                                        itemSelected(item)
+                                    }}
+                                >
                                     <td><img src={import.meta.env.VITE_AssetsUrl + '/' + item.asset?.endpoint} /></td>
                                     <td>{item.name}</td>
                                     <td>{item.level}</td>

@@ -63,7 +63,10 @@ const NewPriceModal : React.FC<INewPriceModalProps> = ({
                 <div className="modal-body">
                     <form onSubmit={ev => ev.preventDefault()}>
                         <div className="mb-1">
-                            <SelectItem manufacturer={manufacturer} itemSelected={setItem} />
+                            <SelectItem 
+                                manufacturer={manufacturer} 
+                                itemSelected={setItem}
+                            />
                         </div>
                         <div>
                             <label htmlFor="txtPrice" className="form-label">Craft price</label>
