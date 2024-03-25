@@ -110,7 +110,11 @@ const ListPrices: React.FC<IListPricesProps> = ({
                 <button 
                     className="btn btn-primary" 
                     type='button'
-                    onClick={() => searchPrices(pagination)}
+                    onClick={() => {
+                        const value = {...pagination, start: 0}
+                        setPagination(value)
+                        searchPrices(value)
+                    }}
                 >
                     Refresh
                 </button>
@@ -181,7 +185,7 @@ const ListPrices: React.FC<IListPricesProps> = ({
             }
         </div>
         <div className="row justify-content-center">
-            <div className="col-1">
+            <div className="col">
                 <Pagination 
                     {...pagination} 
                     total={totalItems} 
