@@ -18,16 +18,24 @@
         } else {
             <h2>@Model.Item.Name</h2>
         }
-        <div class="row">
-            <div class="col-8">
+        <div class="row row-cols-2">
+            <div class="col">
+                @foreach (var itemAttribute in Model.Item.Attributes)
+                {
+                    <span class="badge bg-warning text-wrap mb-1">
+                        @itemAttribute.Attribute.Name - @itemAttribute.Value
+                    </span>
+                }
+            </div>
+            <div class="col">
                 <div>
-                    @foreach (var itemAttribute in Model.Item.Attributes)
-                    {
-                        <span class="badge bg-warning">
-                            @itemAttribute.Attribute.Name - @itemAttribute.Value
-                        </span>
-                    }
+                    @text["CraftPriceTxt"]: <b>@Model.Price</b>
                 </div>
+                <div>
+                    @text["TotalPriceTxt"]: @Model.TotalPrice
+                </div>
+            </div>
+            <div class="col">
                 @Model.Manufacturer.Server.Name
                 <div>
                     @foreach (var accounts in Model.Manufacturer.Server.GameAccounts)
@@ -43,14 +51,6 @@
                             </span>
                         </a>
                     }
-                </div>
-            </div>
-            <div class="col-4">
-                <div>
-                    @text["CraftPriceTxt"]: <b>@Model.Price</b>
-                </div>
-                <div>
-                    @text["TotalPriceTxt"]: @Model.TotalPrice
                 </div>
             </div>
         </div>

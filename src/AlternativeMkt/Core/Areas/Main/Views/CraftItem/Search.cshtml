@@ -47,7 +47,7 @@
         <vc:search-bar value=@query.name />
     </div>
     -->
-    <div class="row">
+    <div class="row mb-2">
         @foreach (CraftItem item in Model.Data)
         {
             <div class="col mb-1">
@@ -64,7 +64,7 @@
                         <p class="card-text">Level: @item.Level</p>
                         <div class="mb-2">
                             @foreach(var itemAttribute in item.Attributes) {
-                                <span class="badge bg-warning">
+                                <span class="badge bg-warning text-wrap mb-1">
                                     @itemAttribute.Attribute.Name - @itemAttribute.Value
                                 </span>
                             }
@@ -83,8 +83,8 @@
             </div>
         }
     </div>
-    <nav class="row justify-content-center">
-        <div class="col-4"> 
+    <nav class="row justify-content-md-center">
+        <div class="col"> 
             @await Component.InvokeAsync("Pagination", new {
                 start = query.start,
                 count = query.count,
@@ -92,9 +92,10 @@
                 query = ServerUtils.GetQueryValues(query)
             })
         </div>
-        <div class="w-100"></div>
-        <div class="col-4">
+    </nav>
+    <div class="row">
+        <div class="col text-center">
             @Model.Total @text["XItemsFoundForItemName"] "@query.name".
         </div>
-    </nav>
+    </div>
 </section>
