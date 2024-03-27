@@ -1,0 +1,52 @@
+@model Settings
+
+<form
+    method="post"
+    asp-action="Update"
+>
+    <div class="mb-1">
+        <label 
+            for="txtAboutInstance" 
+            class="form-control-label"
+        >
+            About this instance
+        </label>
+        <textarea 
+            id="txtAboutInstance"
+            name="aboutInstance"
+            class="form-control" 
+            rows="10"
+        >@Model.AboutInstance</textarea>
+    </div>
+    <div class="mb-2">
+        <label 
+            for="txtAboutInstanceShort" 
+            class="form-control-label"
+        >
+            Short description about this instance
+        </label>
+        <textarea 
+            id="txtAboutInstanceShort"
+            name="aboutInstanceShort"
+            class="form-control" 
+            rows="1"
+        >@Model.AboutInstanceShort</textarea>
+    </div>
+    <div class="mb-2">
+        <label 
+            for="txtAboutCraftPls" 
+            class="form-control-label"
+        >
+            About CraftPls
+        </label>
+        <textarea 
+            id="txtAboutCraftPls"
+            name="aboutCraftPls"
+            class="form-control" 
+            rows="10"
+        >@Model.AboutCraftPls</textarea>
+    </div>
+    <div>
+        <input class="btn btn-success" value="Save" type="submit" />
+    </div>
+</form>

@@ -32,6 +32,7 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ICraftResourceService, CraftResourceService>();
 builder.Services.AddScoped<IPriceService, PriceService>();
 builder.Services.AddScoped<ICraftItemService, CraftItemService>();
+builder.Services.AddScoped<ISettingsService, SettingsService>();
 builder.Services.AddScoped<ServerConfig>();
 builder.Services.AddScoped<IDateTools, DateTools>();
 builder.Services.AddScoped<AuthMiddleware>();

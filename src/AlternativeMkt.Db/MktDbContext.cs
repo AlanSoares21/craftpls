@@ -42,6 +42,7 @@ public partial class MktDbContext : DbContext
     public virtual DbSet<CraftItemAttribute> CraftItemsAttributes { get; set; } = null!;
     public virtual DbSet<CreateUserAccountRequest> CreateUserAccountRequests { get; set; } = null!;
     public virtual DbSet<Asset> Assets { get; set; } = null!;
+    public virtual DbSet<Settings> Settings { get; set; } = null!;
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
         string? connstring = _configuration.GetConnectionString("MainDb");
@@ -473,6 +474,25 @@ public partial class MktDbContext : DbContext
             entity.Property(e => e.AcceptedAt)
                 .HasColumnType("timestamp without time zone")
                 .HasColumnName("acceptedat");
+        });
+
+        modelBuilder.Entity<Settings>(entity => {
+            entity.ToTable("settings");
+            entity.HasKey(e => e.Id)
+                .HasName("settings_key");
+
+            entity.Property(e => e.Id)
+                .HasColumnName("id");
+ 
+            entity.Property(e => e.AboutInstanceShort)
+                .HasColumnName("aboutinstanceshort")
+                .HasMaxLength(200);
+            
+            entity.Property(e => e.AboutInstance)
+                .HasColumnName("aboutinstance");
+            
+            entity.Property(e => e.AboutCraftPls)
+                .HasColumnName("aboutcraftpls");
         });
 
         OnModelCreatingPartial(modelBuilder);

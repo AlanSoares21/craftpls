@@ -1,4 +1,6 @@
 ﻿@using System.Globalization
+@using AlternativeMkt.Services
+@inject ISettingsService settingsService
 @inject ServerConfig config
 
 @{
@@ -99,7 +101,7 @@
                     </a>
                 </div>
                 <div class="col-12 text-wrap">
-                    @config.AboutThisInstanceShort
+                    @((await settingsService.GetSettings()).AboutInstanceShort)
                 </div>
             </div>
         </div>

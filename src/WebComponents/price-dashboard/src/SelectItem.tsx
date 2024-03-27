@@ -135,6 +135,7 @@ const SelectItem: React.FC<ISelectItemProps> = ({itemSelected}) => {
                         else
                             setPagination(p => ({...p, categoryId: undefined}))
                     }}
+                    defaultValue={pagination.categoryId}
                 >
                     <option value={-1}>Any</option>
                     {

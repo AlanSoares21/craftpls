@@ -1,4 +1,6 @@
-@inject ServerConfig config
+@using AlternativeMkt.Services
+@inject ISettingsService settingsService
+
 @{
     ViewData["Title"] = "About";
 }
@@ -9,16 +11,13 @@
         <li>
             <article>
                 <h2>Instance</h2>
-                @Html.Raw(config.AboutThisInstance)
+                @Html.Raw((await settingsService.GetSettings()).AboutInstance)
             </article>
         </li>
         <li>
             <article>
                 <h2>CraftPls</h2>
-                <p>Platform created to facilitate request craft items in MMOs.</p>
-                <p>If you want run an instance for a different game, contact the developer.</p>
-                <p>Do not run an instance if the game has a similar tool.</p>
-                <p>The platform is under development, suggestions are welcome.</p>
+                @Html.Raw((await settingsService.GetSettings()).AboutCraftPls)
             </article>
         </li>
     </ul>
